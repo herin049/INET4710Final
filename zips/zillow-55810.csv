@@ -1,0 +1,11 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2080203093,https://www.zillow.com/homedetails/4428-Woodgate-Rd-Duluth-MN-55810/2080203093_zpid/,4428 Woodgate Rd,55810,Duluth,MN,46.83302,-92.305557,425000.0,3.0,3.0,1720.0,2018,198198.0,SINGLE_FAMILY,FOR_SALE,30
+61568558,https://www.zillow.com/homedetails/11-3rd-St-Proctor-MN-55810/61568558_zpid/,11 3rd St,55810,Proctor,MN,46.745251,-92.217786,179900.0,1.0,3.0,1120.0,1926,6969.0,SINGLE_FAMILY,FOR_SALE,17
+61599692,https://www.zillow.com/homedetails/2670-Lindahl-Rd-Duluth-MN-55810/61599692_zpid/,2670 Lindahl Rd,55810,Duluth,MN,46.704057,-92.256214,1150000.0,7.0,4.0,6520.0,1990,1263240.0,SINGLE_FAMILY,FOR_SALE,44
+149939548,https://www.zillow.com/homedetails/28-Foxtail-Ave-Duluth-MN-55810/149939548_zpid/,28 Foxtail Ave,55810,Duluth,MN,46.7415,-92.211039,79900.0,2.0,3.0,1456.0,1993,-1.0,SINGLE_FAMILY,FOR_SALE,40
+149940104,https://www.zillow.com/homedetails/29-Holly-Ln-Duluth-MN-55810/149940104_zpid/,29 Holly Ln,55810,Duluth,MN,46.736873,-92.208299,38000.0,1.0,2.0,1120.0,2002,-1.0,SINGLE_FAMILY,FOR_SALE,7
+61599853,https://www.zillow.com/homedetails/5308-Stark-Rd-Duluth-MN-55810/61599853_zpid/,5308 Stark Rd,55810,Duluth,MN,46.749287,-92.239732,275000.0,2.0,3.0,2304.0,1966,20908.0,SINGLE_FAMILY,FOR_SALE,26
+61593729,https://www.zillow.com/homedetails/5119-Morris-Thomas-Rd-Hermantown-MN-55810/61593729_zpid/,5119 Morris Thomas Rd,55810,Hermantown,MN,46.779156,-92.219224,249999.0,1.0,3.0,1176.0,1972,79714.0,SINGLE_FAMILY,FOR_SALE,14
+61568680,https://www.zillow.com/homedetails/333-9th-St-Proctor-MN-55810/61568680_zpid/,333 9th St,55810,Proctor,MN,46.750828,-92.225625,251727.0,1.7,3.0,1232.0,1996,-1.0,SINGLE_FAMILY,PRE_FORECLOSURE,0
+61599611,https://www.zillow.com/homedetails/2829-Lindahl-Rd-Duluth-MN-55810/61599611_zpid/,2829 Lindahl Rd,55810,Duluth,MN,46.715836,-92.259694,244500.0,2.0,3.0,1672.0,1945,43560.0,SINGLE_FAMILY,FOR_SALE,29
+61599891,https://www.zillow.com/homedetails/510-Midway-Ave-Duluth-MN-55810/61599891_zpid/,510 Midway Ave,55810,Duluth,MN,46.74779,-92.23969,84900.0,1.0,1.0,565.0,1930,10018.0,SINGLE_FAMILY,FOR_SALE,17

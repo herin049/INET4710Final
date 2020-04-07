@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+88835865,https://www.zillow.com/homedetails/2841-369th-Ave-NE-Grandy-MN-55029/88835865_zpid/,2841 369th Ave NE,55029,Grandy,MN,45.638025,-93.198247,185000.0,1.0,4.0,1750.0,1910,21344.0,SINGLE_FAMILY,RECENTLY_SOLD,32
+88830999,https://www.zillow.com/homedetails/36819-Edison-St-NE-Grandy-MN-55029/88830999_zpid/,36819 Edison St NE,55029,Grandy,MN,45.636029,-93.195094,145000.0,2.0,2.0,921.0,1890,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+88838484,https://www.zillow.com/homedetails/36811-Edison-St-NE-Grandy-MN-55029/88838484_zpid/,36811 Edison St NE,55029,Grandy,MN,45.635831,-93.195171,57000.0,1.0,3.0,1268.0,1920,13939.0,SINGLE_FAMILY,RECENTLY_SOLD,5
+88843908,https://www.zillow.com/homedetails/2795-369th-Ave-NE-Grandy-MN-55029/88843908_zpid/,2795 369th Ave NE,55029,Grandy,MN,45.637956,-93.199874,115000.0,1.0,3.0,1040.0,1950,14810.0,SINGLE_FAMILY,SOLD,10
+88847686,https://www.zillow.com/homedetails/2875-368th-Ln-NE-Grandy-MN-55029/88847686_zpid/,2875 368th Ln NE,55029,Grandy,MN,45.637025,-93.196892,128000.0,1.75,4.0,1012.0,1970,37897.0,SINGLE_FAMILY,SOLD,0

@@ -1,0 +1,9 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+207023944,https://www.zillow.com/homedetails/304-Birch-St-St-Martin-MN-56376/207023944_zpid/,304 Birch St,56376,St Martin,MN,45.498486,-94.669752,190000.0,1.5,2.0,1430.0,1986,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+74896084,https://www.zillow.com/homedetails/267-River-St-St-Martin-MN-56376/74896084_zpid/,267 River St,56376,St Martin,MN,45.502151,-94.663668,175000.0,3.0,3.0,1123.0,1988,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,2
+74896067,https://www.zillow.com/homedetails/115-Maine-St-Saint-Martin-MN-56376/74896067_zpid/,115 Maine St,56376,Saint Martin,MN,45.499905,-94.665486,90000.0,1.0,3.0,1296.0,1900,1308.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+91509409,https://www.zillow.com/homedetails/126-Maine-St-Saint-Martin-MN-56376/91509409_zpid/,126 Maine St,56376,Saint Martin,MN,45.501011,-94.668144,135000.0,1.0,3.0,1151.0,1910,-1.0,SINGLE_FAMILY,SOLD,1
+74896094,https://www.zillow.com/homedetails/181-West-St-St-Martin-MN-56376/74896094_zpid/,181 West St,56376,St Martin,MN,45.50096,-94.670367,131500.0,2.0,3.0,1412.0,1928,10454.0,SINGLE_FAMILY,SOLD,0
+74896101,https://www.zillow.com/homedetails/312-Maple-Ave-St-Martin-MN-56376/74896101_zpid/,312 Maple Ave,56376,St Martin,MN,45.499825,-94.668777,110000.0,1.0,3.0,780.0,1940,-1.0,SINGLE_FAMILY,SOLD,0
+207023877,https://www.zillow.com/homedetails/265-River-St-St-Martin-MN-56376/207023877_zpid/,265 River St,56376,St Martin,MN,45.502221,-94.664086,160000.0,2.5,3.0,1546.0,1978,-1.0,SINGLE_FAMILY,SOLD,0
+74896113,https://www.zillow.com/homedetails/124-Maine-St-Saint-Martin-MN-56376/74896113_zpid/,124 Maine St,56376,Saint Martin,MN,45.500902,-94.667936,72000.0,1.0,3.0,1375.0,1905,-1.0,SINGLE_FAMILY,SOLD,0

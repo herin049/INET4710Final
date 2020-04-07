@@ -1,0 +1,12 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2099337303,https://www.zillow.com/homedetails/30693-211th-Ave-Le-Center-MN-56057/2099337303_zpid/,30693 211th Ave,56057,Le Center,MN,44.50674,-93.69126,390000.0,2.0,4.0,3300.0,1969,6924552.0,SINGLE_FAMILY,FOR_SALE,49
+106734322,https://www.zillow.com/homedetails/10-E-Washington-St-Le-Center-MN-56057/106734322_zpid/,10 E Washington St,56057,Le Center,MN,44.392267,-93.73127,144900.0,2.0,4.0,1688.0,1911,7405.0,SINGLE_FAMILY,FOR_SALE,18
+106731894,https://www.zillow.com/homedetails/274-S-Maple-Ave-Le-Center-MN-56057/106731894_zpid/,274 S Maple Ave,56057,Le Center,MN,44.386168,-93.738405,249900.0,3.0,3.0,2882.0,1936,47044.0,SINGLE_FAMILY,FOR_SALE,27
+113929635,https://www.zillow.com/homedetails/40114-Lake-Volney-Ln-Le-Center-MN-56057/113929635_zpid/,40114 Lake Volney Ln,56057,Le Center,MN,44.367625,-93.651176,299000.0,2.0,3.0,1739.0,1994,28749.0,SINGLE_FAMILY,FOR_SALE,23
+106731659,https://www.zillow.com/homedetails/462-E-Washington-St-Le-Center-MN-56057/106731659_zpid/,462 E Washington St,56057,Le Center,MN,44.391974,-93.72483,154800.0,2.0,3.0,1413.0,1930,15246.0,SINGLE_FAMILY,FOR_SALE,13
+106734114,https://www.zillow.com/homedetails/322-E-Tyrone-St-Le-Center-MN-56057/106734114_zpid/,322 E Tyrone St,56057,Le Center,MN,44.391063,-93.726765,129900.0,2.0,3.0,1283.0,1962,6534.0,SINGLE_FAMILY,FOR_SALE,27
+229446018,https://www.zillow.com/homedetails/410-Horizon-Dr-Le-Center-MN-56057/229446018_zpid/,410 Horizon Dr,56057,Le Center,MN,44.382437,-93.723517,229900.0,2.0,3.0,1451.0,2020,11325.0,SINGLE_FAMILY,FOR_SALE,20
+2081457204,https://www.zillow.com/homedetails/100-N-Maple-Ave-Le-Center-MN-56057/2081457204_zpid/,100 N Maple Ave,56057,Le Center,MN,44.391869,-93.739386,280000.0,1.0,2.0,1425.0,1996,592851.0,SINGLE_FAMILY,FOR_SALE,39
+106731851,https://www.zillow.com/homedetails/20-N-Maple-Ave-Le-Center-MN-56057/106731851_zpid/,20 N Maple Ave,56057,Le Center,MN,44.389848,-93.738138,140806.0,2.0,3.0,1053.0,1956,13503.0,SINGLE_FAMILY,PRE_FORECLOSURE,5
+106733940,https://www.zillow.com/homedetails/75-S-Montgomery-Ave-Le-Center-MN-56057/106733940_zpid/,75 S Montgomery Ave,56057,Le Center,MN,44.388438,-93.728632,93332.0,1.0,3.0,1809.0,1900,9147.0,SINGLE_FAMILY,PRE_FORECLOSURE,9
+106734198,https://www.zillow.com/homedetails/310-E-Woodridge-Dr-Le-Center-MN-56057/106734198_zpid/,310 E Woodridge Dr,56057,Le Center,MN,44.381549,-93.726905,205501.0,2.0,3.0,2415.0,1999,10454.0,SINGLE_FAMILY,PRE_FORECLOSURE,0

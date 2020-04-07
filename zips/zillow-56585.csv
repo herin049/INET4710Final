@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+89227487,https://www.zillow.com/homedetails/218-3rd-St-NW-Ulen-MN-56585/89227487_zpid/,218 3rd St NW,56585,Ulen,MN,47.081931,-96.261477,185000.0,2.0,4.0,1920.0,1999,13939.0,SINGLE_FAMILY,FOR_SALE,63
+89303897,https://www.zillow.com/homedetails/11-4th-St-NW-Ulen-MN-56585/89303897_zpid/,11 4th St NW,56585,Ulen,MN,47.079671,-96.264119,335000.0,4.0,5.0,3368.0,2017,28000.0,SINGLE_FAMILY,FOR_SALE,56
+89265783,https://www.zillow.com/homedetails/309-Cottage-Ave-W-Ulen-MN-56585/89265783_zpid/,309 Cottage Ave W,56585,Ulen,MN,47.076487,-96.263183,143302.0,1.0,3.0,1980.0,1972,25264.0,SINGLE_FAMILY,PRE_FORECLOSURE,9
+89256655,https://www.zillow.com/homedetails/408-Np-Ave-Ulen-MN-56585/89256655_zpid/,408 Np Ave,56585,Ulen,MN,47.078996,-96.252688,75000.0,2.0,4.0,1820.0,1905,10454.0,SINGLE_FAMILY,FOR_SALE,27
+106612657,https://www.zillow.com/homedetails/13683-390th-St-Ulen-MN-56585/106612657_zpid/,13683 390th St,56585,Ulen,MN,47.138421,-96.115871,229900.0,3.0,4.0,3648.0,1958,317116.0,SINGLE_FAMILY,FOR_SALE,56

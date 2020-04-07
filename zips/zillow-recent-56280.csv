@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+235807734,https://www.zillow.com/homedetails/215-S-Brook-Ave-Porter-MN-56280/235807734_zpid/,215 S Brook Ave,56280,Porter,MN,44.632692,-96.167213,44000.0,1.0,2.0,896.0,1950,10018.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106860887,https://www.zillow.com/homedetails/205-Sunrise-Ave-N-Porter-MN-56280/106860887_zpid/,205 Sunrise Ave N,56280,Porter,MN,44.635914,-96.16346,46500.0,1.0,2.0,1008.0,1937,30492.0,SINGLE_FAMILY,RECENTLY_SOLD,0

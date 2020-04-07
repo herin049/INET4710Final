@@ -1,0 +1,7 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+194686050,https://www.zillow.com/homedetails/29396-600th-Ave-Warroad-MN-56763/194686050_zpid/,29396 600th Ave,56763,Warroad,MN,48.820127,-95.307934,130000.0,2.0,3.0,2128.0,1960,217800.0,SINGLE_FAMILY,RECENTLY_SOLD,17
+194686053,https://www.zillow.com/homedetails/29637-600th-Ave-Warroad-MN-56763/194686053_zpid/,29637 600th Ave,56763,Warroad,MN,48.82366,-95.309983,205000.0,2.0,3.0,1344.0,1988,1742400.0,SINGLE_FAMILY,SOLD,20
+2091681652,https://www.zillow.com/homedetails/33221-593rd-Ave-Warroad-MN-56763/2091681652_zpid/,33221 593rd Ave,56763,Warroad,MN,48.83988,-95.294159,99000.0,1.0,3.0,1488.0,1979,33541.0,SINGLE_FAMILY,SOLD,7
+2097601464,https://www.zillow.com/homedetails/59891-345th-St-Warroad-MN-56763/2097601464_zpid/,59891 345th St,56763,Warroad,MN,48.8244,-95.3284,84800.0,1.0,3.0,960.0,1976,43560.0,SINGLE_FAMILY,SOLD,7
+2091460957,https://www.zillow.com/homedetails/60719-State-Highway-11-Warroad-MN-56763/2091460957_zpid/,60719 State Highway 11,56763,Warroad,MN,48.884028,-95.292858,116000.0,2.0,3.0,3840.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
+2106627783,https://www.zillow.com/homedetails/29318-600th-Ave-Warroad-MN-56763/2106627783_zpid/,29318 600th Ave,56763,Warroad,MN,48.81944,-95.308423,149000.0,2.0,3.0,1512.0,2007,217800.0,SINGLE_FAMILY,SOLD,17

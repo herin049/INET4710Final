@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+91487663,https://www.zillow.com/homedetails/2901-125th-St-NW-Oronoco-MN-55960/91487663_zpid/,2901 125th St NW,55960,Oronoco,MN,44.185808,-92.506015,664900.0,3.0,4.0,3988.0,2004,866408.0,SINGLE_FAMILY,FOR_SALE,40
+91486779,https://www.zillow.com/homedetails/345-2nd-Ave-SW-Oronoco-MN-55960/91486779_zpid/,345 2nd Ave SW,55960,Oronoco,MN,44.159691,-92.536722,339900.0,3.0,4.0,3480.0,1960,22215.0,SINGLE_FAMILY,FOR_SALE,34
+91487386,https://www.zillow.com/homedetails/499-White-Birch-Ct-NW-Oronoco-MN-55960/91487386_zpid/,499 White Birch Ct NW,55960,Oronoco,MN,44.135039,-92.47126,599900.0,3.0,4.0,2988.0,1983,439520.0,SINGLE_FAMILY,FOR_SALE,50
+91488160,https://www.zillow.com/homedetails/6543-75th-St-NW-Oronoco-MN-55960/91488160_zpid/,6543 75th St NW,55960,Oronoco,MN,44.108637,-92.570149,139000.0,1.0,3.0,1028.0,1910,12632.0,SINGLE_FAMILY,FOR_SALE,15
+91487712,https://www.zillow.com/homedetails/115-4th-St-NW-Oronoco-MN-55960/91487712_zpid/,115 4th St NW,55960,Oronoco,MN,44.168709,-92.536603,180000.0,2.0,4.0,2277.0,1900,36154.0,SINGLE_FAMILY,FOR_SALE,26

@@ -1,0 +1,20 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+110461670,https://www.zillow.com/homedetails/215-3rd-St-Pemberton-MN-56078/110461670_zpid/,215 3rd St,56078,Pemberton,MN,44.008358,-93.78565,35000.0,1.0,2.0,850.0,1945,3049.0,SINGLE_FAMILY,RECENTLY_SOLD,7
+110461601,https://www.zillow.com/homedetails/404-3rd-Ave-Pemberton-MN-56078/110461601_zpid/,404 3rd Ave,56078,Pemberton,MN,44.007334,-93.786634,123000.0,2.0,3.0,1824.0,1981,15246.0,SINGLE_FAMILY,RECENTLY_SOLD,20
+110461593,https://www.zillow.com/homedetails/401-Baer-Cir-Pemberton-MN-56078/110461593_zpid/,401 Baer Cir,56078,Pemberton,MN,44.007336,-93.788085,180000.0,2.0,3.0,2498.0,1999,16552.0,SINGLE_FAMILY,RECENTLY_SOLD,23
+110461596,https://www.zillow.com/homedetails/404-Baer-Cir-Pemberton-MN-56078/110461596_zpid/,404 Baer Cir,56078,Pemberton,MN,44.00648,-93.787919,152000.0,2.0,4.0,1612.0,1940,18295.0,SINGLE_FAMILY,RECENTLY_SOLD,1
+110461640,https://www.zillow.com/homedetails/400-Main-St-S-Pemberton-MN-56078/110461640_zpid/,400 Main St S,56078,Pemberton,MN,44.007336,-93.783852,124900.0,2.0,3.0,1276.0,1968,14810.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+110461606,https://www.zillow.com/homedetails/99-4th-St-Pemberton-MN-56078/110461606_zpid/,99 4th St,56078,Pemberton,MN,44.007273,-93.781541,126000.0,1.0,2.0,1862.0,1946,14810.0,SINGLE_FAMILY,RECENTLY_SOLD,25
+110461676,https://www.zillow.com/homedetails/320-Main-St-S-Pemberton-MN-56078/110461676_zpid/,320 Main St S,56078,Pemberton,MN,44.007781,-93.78385,137500.0,2.0,3.0,2352.0,1917,12632.0,SINGLE_FAMILY,RECENTLY_SOLD,20
+221689936,https://www.zillow.com/homedetails/121-2nd-Ave-Pemberton-MN-56078/221689936_zpid/,121 2nd Ave,56078,Pemberton,MN,44.009785,-93.784446,37000.0,2.0,3.0,1026.0,1998,13939.0,SINGLE_FAMILY,SOLD,1
+110461599,https://www.zillow.com/homedetails/407-Baer-Cir-Pemberton-MN-56078/110461599_zpid/,407 Baer Cir,56078,Pemberton,MN,44.007038,-93.787254,122500.0,2.0,3.0,2160.0,1940,16117.0,SINGLE_FAMILY,SOLD,16
+110461668,https://www.zillow.com/homedetails/135-2nd-St-Pemberton-MN-56078/110461668_zpid/,135 2nd St,56078,Pemberton,MN,44.009362,-93.783976,37500.0,1.0,2.0,1368.0,1925,5227.0,SINGLE_FAMILY,SOLD,18
+110461616,https://www.zillow.com/homedetails/428-2nd-Ave-Pemberton-MN-56078/110461616_zpid/,428 2nd Ave,56078,Pemberton,MN,44.005261,-93.785234,170000.0,2.0,3.0,1976.0,1979,15681.0,SINGLE_FAMILY,SOLD,25
+110461605,https://www.zillow.com/homedetails/430-3rd-Ave-Pemberton-MN-56078/110461605_zpid/,430 3rd Ave,56078,Pemberton,MN,44.005566,-93.786617,130000.0,1.0,4.0,2016.0,1982,15246.0,SINGLE_FAMILY,SOLD,9
+110461647,https://www.zillow.com/homedetails/415-Hoffman-Cir-Pemberton-MN-56078/110461647_zpid/,415 Hoffman Cir,56078,Pemberton,MN,44.005562,-93.787249,130000.0,2.0,4.0,2008.0,1940,15682.0,SINGLE_FAMILY,SOLD,23
+110461688,https://www.zillow.com/homedetails/96-4th-St-Pemberton-MN-56078/110461688_zpid/,96 4th St,56078,Pemberton,MN,44.007889,-93.780851,87000.0,1.0,3.0,1896.0,1910,65340.0,SINGLE_FAMILY,SOLD,19
+114990062,https://www.zillow.com/homedetails/31257-20th-St-Pemberton-MN-56078/114990062_zpid/,31257 20th St,56078,Pemberton,MN,44.000851,-93.727599,187000.0,2.0,4.0,3675.0,1912,185130.0,SINGLE_FAMILY,SOLD,24
+110461635,https://www.zillow.com/homedetails/407-2nd-Ave-Pemberton-MN-56078/110461635_zpid/,407 2nd Ave,56078,Pemberton,MN,44.006425,-93.784457,87036.0,2.0,4.0,2016.0,1977,15420.0,SINGLE_FAMILY,SOLD,0
+110461638,https://www.zillow.com/homedetails/417-2nd-Ave-Pemberton-MN-56078/110461638_zpid/,417 2nd Ave,56078,Pemberton,MN,44.005519,-93.78445,120000.0,2.0,3.0,1920.0,1978,15246.0,SINGLE_FAMILY,SOLD,17
+110461637,https://www.zillow.com/homedetails/413-2nd-Ave-Pemberton-MN-56078/110461637_zpid/,413 2nd Ave,56078,Pemberton,MN,44.00582,-93.784452,149000.0,1.0,3.0,2016.0,1978,15420.0,SINGLE_FAMILY,SOLD,0
+110461646,https://www.zillow.com/homedetails/413-Hoffman-Cir-Pemberton-MN-56078/110461646_zpid/,413 Hoffman Cir,56078,Pemberton,MN,44.005914,-93.787172,108000.0,1.0,3.0,1142.0,1940,17293.0,SINGLE_FAMILY,SOLD,0

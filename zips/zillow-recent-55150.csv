@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2085799601,https://www.zillow.com/homedetails/1366-D-St-Mendota-MN-55150/2085799601_zpid/,1366 D St,55150,Mendota,MN,44.884013,-93.161421,1012941.0,3.0,4.0,3000.0,2018,17424.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+1669857,https://www.zillow.com/homedetails/1329-Victoria-Curv-Mendota-MN-55150/1669857_zpid/,1329 Victoria Curv,55150,Mendota,MN,44.884323,-93.159669,355000.0,2.0,2.0,1747.0,1935,46914.0,SINGLE_FAMILY,RECENTLY_SOLD,3
+2085779508,https://www.zillow.com/homedetails/1367-Windy-Ridge-Mendota-MN-55150/2085779508_zpid/,1367 Windy Ridge,55150,Mendota,MN,44.884415,-93.163491,870000.0,3.0,4.0,3000.0,-1,-1.0,SINGLE_FAMILY,SOLD,0

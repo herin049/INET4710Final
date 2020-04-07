@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106746740,https://www.zillow.com/homedetails/216-Central-Ave-Lester-Prairie-MN-55354/106746740_zpid/,216 Central Ave,55354,Lester Prairie,MN,44.884782,-94.04485,214900.0,2.0,3.0,2086.0,1966,10018.0,SINGLE_FAMILY,FOR_SALE,32
+106746996,https://www.zillow.com/homedetails/2209-Blake-Ave-Lester-Prairie-MN-55354/106746996_zpid/,2209 Blake Ave,55354,Lester Prairie,MN,44.885221,-94.023928,249900.0,2.0,3.0,1560.0,2006,13000.0,SINGLE_FAMILY,FOR_SALE,24
+106747053,https://www.zillow.com/homedetails/1013-Prairie-Ridge-Ln-Lester-Prairie-MN-55354/106747053_zpid/,1013 Prairie Ridge Ln,55354,Lester Prairie,MN,44.875422,-94.034906,299000.0,4.0,5.0,3442.0,2007,10497.0,SINGLE_FAMILY,FOR_SALE,47
+2082209785,https://www.zillow.com/homedetails/1208-Prairie-Ridge-Ln-Lester-Prairie-MN-55354/2082209785_zpid/,1208 Prairie Ridge Ln,55354,Lester Prairie,MN,44.875929,-94.030551,279900.0,2.0,4.0,2485.0,2019,12850.0,SINGLE_FAMILY,FOR_SALE,0
+106746923,https://www.zillow.com/homedetails/242-Hi-Mae-Cir-Lester-Prairie-MN-55354/106746923_zpid/,242 Hi Mae Cir,55354,Lester Prairie,MN,44.888677,-94.039192,279900.0,3.0,4.0,3167.0,1974,16596.0,SINGLE_FAMILY,FOR_SALE,24

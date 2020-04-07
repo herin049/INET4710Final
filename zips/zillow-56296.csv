@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106849543,https://www.zillow.com/homedetails/1304-Elm-Ave-Wheaton-MN-56296/106849543_zpid/,1304 Elm Ave,56296,Wheaton,MN,45.809383,-96.502482,63000.0,2.0,3.0,1716.0,1955,12458.0,SINGLE_FAMILY,FOR_SALE,14
+106849260,https://www.zillow.com/homedetails/1212-2nd-Ave-S-Wheaton-MN-56296/106849260_zpid/,1212 2nd Ave S,56296,Wheaton,MN,45.803141,-96.501711,36700.0,1.0,3.0,1072.0,1898,6969.0,SINGLE_FAMILY,FOR_SALE,22
+106849870,https://www.zillow.com/homedetails/6214-660th-Ave-Wheaton-MN-56296/106849870_zpid/,6214 660th Ave,56296,Wheaton,MN,45.760665,-96.509471,137500.0,2.0,4.0,2240.0,1900,500504.0,SINGLE_FAMILY,FOR_SALE,26

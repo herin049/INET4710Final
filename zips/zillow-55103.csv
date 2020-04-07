@@ -1,0 +1,14 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2161820,https://www.zillow.com/homedetails/397-Thomas-Ave-Saint-Paul-MN-55103/2161820_zpid/,397 Thomas Ave,55103,Saint Paul,MN,44.959625,-93.116948,199900.0,2.0,3.0,1138.0,1885,5009.0,SINGLE_FAMILY,FOR_SALE,10
+2127233,https://www.zillow.com/homedetails/989-Jameson-St-Saint-Paul-MN-55103/2127233_zpid/,989 Jameson St,55103,Saint Paul,MN,44.970952,-93.132698,240000.0,2.0,3.0,1286.0,1961,4835.0,SINGLE_FAMILY,FOR_SALE,29
+2123602,https://www.zillow.com/homedetails/726-Western-Ave-N-Saint-Paul-MN-55103/2123602_zpid/,726 Western Ave N,55103,Saint Paul,MN,44.963116,-93.115729,139900.0,2.0,3.0,920.0,1915,5575.0,SINGLE_FAMILY,FOR_SALE,15
+2127912,https://www.zillow.com/homedetails/1035-Victoria-St-N-Saint-Paul-MN-55103/2127912_zpid/,1035 Victoria St N,55103,Saint Paul,MN,44.972208,-93.136771,275000.0,2.0,4.0,1850.0,1905,2962.0,MULTI_FAMILY,FOR_SALE,14
+2127672,https://www.zillow.com/homedetails/1014-Lexington-Pkwy-N-Saint-Paul-MN-55103/2127672_zpid/,1014 Lexington Pkwy N,55103,Saint Paul,MN,44.97175,-93.146157,154900.0,1.0,2.0,753.0,1924,2178.0,SINGLE_FAMILY,FOR_SALE,14
+2161625,https://www.zillow.com/homedetails/545-Virginia-St-Saint-Paul-MN-55103/2161625_zpid/,545 Virginia St,55103,Saint Paul,MN,44.957842,-93.11519,150000.0,1.0,3.0,1587.0,1904,7039.0,SINGLE_FAMILY,FOR_SALE,20
+2161912,https://www.zillow.com/homedetails/512-Blair-Ave-Saint-Paul-MN-55103/2161912_zpid/,512 Blair Ave,55103,Saint Paul,MN,44.960896,-93.121918,159000.0,1.0,2.0,944.0,1879,5009.0,SINGLE_FAMILY,FOR_SALE,15
+2127963,https://www.zillow.com/homedetails/933-Front-Ave-Saint-Paul-MN-55103/2127963_zpid/,Front Ave,55103,Saint Paul,MN,44.970434,-93.139637,175000.0,1.0,3.0,1147.0,1885,2700.0,SINGLE_FAMILY,FOR_SALE,22
+2161944,https://www.zillow.com/homedetails/593-Van-Buren-Ave-Saint-Paul-MN-55103/2161944_zpid/,593 Van Buren Ave,55103,Saint Paul,MN,44.962313,-93.125224,137471.0,1.5,1.0,739.0,1894,2478.0,SINGLE_FAMILY,PRE_FORECLOSURE,0
+2127944,https://www.zillow.com/homedetails/971-Colne-St-Saint-Paul-MN-55103/2127944_zpid/,971 Colne St,55103,Saint Paul,MN,44.970431,-93.138706,179900.0,1.0,2.0,1450.0,1916,4530.0,SINGLE_FAMILY,FOR_SALE,67
+2127612,https://www.zillow.com/homedetails/1084-Argyle-St-Saint-Paul-MN-55103/2127612_zpid/,1084 Argyle St,55103,Saint Paul,MN,44.973992,-93.142449,212924.0,1.0,2.0,936.0,1950,6098.0,SINGLE_FAMILY,PRE_FORECLOSURE,0
+2162014,https://www.zillow.com/homedetails/595-Thomas-Ave-Saint-Paul-MN-55103/2162014_zpid/,595 Thomas Ave,55103,Saint Paul,MN,44.959603,-93.125251,222169.0,2.0,4.0,1662.0,2004,4791.0,SINGLE_FAMILY,PRE_FORECLOSURE,5
+2161291,https://www.zillow.com/homedetails/714-Western-Ave-N-Saint-Paul-MN-55103/2161291_zpid/,714 Western Ave N,55103,Saint Paul,MN,44.962708,-93.115737,115165.0,1.0,3.0,1228.0,1910,5227.0,SINGLE_FAMILY,FORECLOSED,35

@@ -1,0 +1,2 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+117534165,https://www.zillow.com/homedetails/19898-780th-Ave-Ostrander-MN-55961/117534165_zpid/,19898 780th Ave,55961,Ostrander,MN,43.64417,-92.488729,143015.0,2.0,3.0,1024.0,1930,291852.0,SINGLE_FAMILY,FORECLOSED,2

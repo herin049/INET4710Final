@@ -1,0 +1,11 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+238973762,https://www.zillow.com/homedetails/8650-W-Highway-61-Schroeder-MN-55613/238973762_zpid/,8650 W Highway 61,55613,Schroeder,MN,47.508826,-90.95086,264500.0,2.0,3.0,1248.0,1987,87120.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+238973806,https://www.zillow.com/homedetails/1117-Cramer-Rd-Schroeder-MN-55613/238973806_zpid/,1117 Cramer Rd,55613,Schroeder,MN,47.530916,-91.001664,320000.0,2.0,3.0,2520.0,1996,740520.0,SINGLE_FAMILY,RECENTLY_SOLD,26
+238973883,https://www.zillow.com/homedetails/424-Cramer-Rd-Schroeder-MN-55613/238973883_zpid/,424 Cramer Rd,55613,Schroeder,MN,47.538359,-90.931934,165000.0,2.0,3.0,1472.0,1979,40946.0,SINGLE_FAMILY,RECENTLY_SOLD,11
+2085773951,https://www.zillow.com/homedetails/16-Cliff-Cove-Rd-Schroeder-MN-55613/2085773951_zpid/,16 Cliff Cove Rd,55613,Schroeder,MN,47.536073,-90.906401,215000.0,2.0,5.0,2196.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
+2085773674,https://www.zillow.com/homedetails/22-Beacon-Hill-Drive-Schroeder-MN-55613/2085773674_zpid/,22 Beacon Hill Drive,55613,Schroeder,MN,47.494691,-90.973057,360000.0,1.0,2.0,1038.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
+2088117674,https://www.zillow.com/homedetails/9140-W-Hwy-61-Schroeder-MN-55613/2088117674_zpid/,9140 W Hwy 61,55613,Schroeder,MN,47.483909,-90.991208,425000.0,2.0,3.0,1768.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
+2084909648,https://www.zillow.com/homedetails/24-40-Baraga-Cross-Rd-Schroeder-MN-55613/2084909648_zpid/,24 - 40 Baraga Cross Rd,55613,Schroeder,MN,47.544865,-90.891715,445000.0,2.0,3.0,1728.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
+123517183,https://www.zillow.com/homedetails/9256-W-Highway-61-Schroeder-MN-55613/123517183_zpid/,9256 W Highway 61,55613,Schroeder,MN,47.480412,-90.998202,382000.0,3.0,4.0,2536.0,1960,65340.0,SINGLE_FAMILY,SOLD,57
+125982358,https://www.zillow.com/homedetails/46-Fradenburg-Dr-Schroeder-MN-55613/125982358_zpid/,46 Fradenburg Dr,55613,Schroeder,MN,47.540969,-90.931686,221700.0,1.0,2.0,1742.0,2006,302742.0,SINGLE_FAMILY,SOLD,33
+238973894,https://www.zillow.com/homedetails/7974-W-Highway-61-Schroeder-MN-55613/238973894_zpid/,7974 W Highway 61,55613,Schroeder,MN,47.539284,-90.900724,570000.0,3.0,4.0,864.0,1995,243936.0,SINGLE_FAMILY,SOLD,0

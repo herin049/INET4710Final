@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+110928134,https://www.zillow.com/homedetails/3749-Grizzly-Ln-Barnum-MN-55707/110928134_zpid/,3749 Grizzly Ln,55707,Barnum,MN,46.501844,-92.669961,325900.0,1.0,2.0,2964.0,1994,187743.0,SINGLE_FAMILY,FOR_SALE,49
+2080906375,https://www.zillow.com/homedetails/3760-Bayview-Dr-Barnum-MN-55707/2080906375_zpid/,3760 Bayview Dr,55707,Barnum,MN,46.484007,-92.684234,475000.0,3.0,2.0,2025.0,1990,240015.0,SINGLE_FAMILY,FOR_SALE,36
+110932103,https://www.zillow.com/homedetails/3087-M-Anderson-Rd-Mahtowa-MN-55707/110932103_zpid/,3087 M Anderson Rd,55707,Mahtowa,MN,46.53933,-92.618562,499900.0,2.0,3.0,2560.0,1957,235659.0,SINGLE_FAMILY,FOR_SALE,45
+110927934,https://www.zillow.com/homedetails/3557-County-Road-143-Mahtowa-MN-55707/110927934_zpid/,3557 County Road 143,55707,Mahtowa,MN,46.615333,-92.669624,134900.0,2.0,2.0,1440.0,1898,871200.0,SINGLE_FAMILY,FOR_SALE,35
+225532938,https://www.zillow.com/homedetails/4403-Miller-Rd-Barnum-MN-55707/225532938_zpid/,4403 Miller Rd,55707,Barnum,MN,46.535701,-92.754164,349999.0,2.0,3.0,1768.0,1990,1742400.0,SINGLE_FAMILY,FOR_SALE,41

@@ -1,0 +1,9 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106718781,https://www.zillow.com/homedetails/619-4th-Ave-Madison-MN-56256/106718781_zpid/,619 4th Ave,56256,Madison,MN,45.014604,-96.19047,54900.0,2.0,2.0,896.0,1951,6969.0,SINGLE_FAMILY,FOR_SALE,21
+106718204,https://www.zillow.com/homedetails/712-3rd-Ave-Madison-MN-56256/106718204_zpid/,712 3rd Ave,56256,Madison,MN,45.01558,-96.188671,69000.0,2.0,3.0,1358.0,1910,6969.0,SINGLE_FAMILY,FOR_SALE,18
+106718263,https://www.zillow.com/homedetails/122-W-3rd-St-Madison-MN-56256/106718263_zpid/,122 W 3rd St,56256,Madison,MN,45.011281,-96.186449,34500.0,2.0,4.0,2397.0,1900,12588.0,SINGLE_FAMILY,FOR_SALE,13
+106718366,https://www.zillow.com/homedetails/516-1st-Ave-Madison-MN-56256/106718366_zpid/,516 1st Ave,56256,Madison,MN,45.013589,-96.185775,69500.0,3.0,4.0,1828.0,1890,-1.0,SINGLE_FAMILY,FOR_SALE,21
+106718610,https://www.zillow.com/homedetails/1016-2nd-Ave-Madison-MN-56256/106718610_zpid/,1016 2nd Ave,56256,Madison,MN,45.019173,-96.187308,259000.0,4.0,4.0,2576.0,1975,34412.0,SINGLE_FAMILY,FOR_SALE,23
+2084439597,https://www.zillow.com/homedetails/1789-201st-Ave-Madison-MN-56256/2084439597_zpid/,1789 201st Ave,56256,Madison,MN,44.921239,-96.247756,289900.0,3.0,4.0,3586.0,1980,435600.0,SINGLE_FAMILY,FOR_SALE,74
+106717123,https://www.zillow.com/homedetails/2081-Highway-75-Madison-MN-56256/106717123_zpid/,2081 Highway 75,56256,Madison,MN,44.963572,-96.196213,159500.0,2.0,3.0,2025.0,1957,174240.0,SINGLE_FAMILY,FOR_SALE,30
+106718648,https://www.zillow.com/homedetails/305-W-10th-St-Madison-MN-56256/106718648_zpid/,305 W 10th St,56256,Madison,MN,45.018733,-96.189095,89900.0,2.0,3.0,2324.0,1969,6969.0,SINGLE_FAMILY,FOR_SALE,29

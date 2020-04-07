@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+233006164,https://www.zillow.com/homedetails/9190-Highway-1-Northome-MN-56661/233006164_zpid/,9190 Highway 1,56661,Northome,MN,47.872059,-93.966913,157000.0,2.0,3.0,2010.0,1938,174240.0,SINGLE_FAMILY,FOR_SALE,22
+2084698731,https://www.zillow.com/homedetails/11991-Us-71-Hwy-Northome-MN-56661/2084698731_zpid/,11991 Us-71 Hwy,56661,Northome,MN,47.825967,-94.382619,168000.0,2.0,4.0,1824.0,1940,609840.0,SINGLE_FAMILY,FOR_SALE,19
+120637813,https://www.zillow.com/homedetails/59845-Dora-Lake-Rd-Northome-MN-56661/120637813_zpid/,59845 Dora Lake Rd,56661,Northome,MN,47.741863,-94.039742,81000.0,1.0,3.0,1142.0,1950,48351.0,SINGLE_FAMILY,FOR_SALE,11
+2083388114,https://www.zillow.com/homedetails/54538-County-31-Rd-Northome-MN-56661/2083388114_zpid/,54538 County 31 Rd,56661,Northome,MN,47.819335,-94.001238,247000.0,2.0,2.0,1848.0,2008,3484800.0,SINGLE_FAMILY,FOR_SALE,27
+120639737,https://www.zillow.com/homedetails/66902-Anderson-Addition-Rd-Northome-MN-56661/120639737_zpid/,66902 Anderson Addition Rd,56661,Northome,MN,47.818762,-94.262177,650000.0,4.0,3.0,4160.0,1991,76665.0,SINGLE_FAMILY,FOR_SALE,18

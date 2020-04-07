@@ -1,0 +1,9 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106644337,https://www.zillow.com/homedetails/201-1st-St-NE-Hayfield-MN-55940/106644337_zpid/,201 1st St NE,55940,Hayfield,MN,43.891146,-92.845213,162000.0,2.0,3.0,1764.0,1896,7927.0,SINGLE_FAMILY,FOR_SALE,30
+106644148,https://www.zillow.com/homedetails/605-3rd-St-NW-Hayfield-MN-55940/106644148_zpid/,605 3rd St NW,55940,Hayfield,MN,43.893234,-92.855909,250000.0,3.0,5.0,3903.0,1994,11674.0,SINGLE_FAMILY,FOR_SALE,15
+232993681,https://www.zillow.com/homedetails/25105-727th-St-Hayfield-MN-55940/232993681_zpid/,25105 727th St,55940,Hayfield,MN,43.900077,-92.736651,399900.0,3.0,4.0,3000.0,2015,73180.0,SINGLE_FAMILY,FOR_SALE,48
+106641180,https://www.zillow.com/homedetails/73061-185th-Ave-Hayfield-MN-55940/106641180_zpid/,73061 185th Ave,55940,Hayfield,MN,43.891419,-92.868749,319900.0,4.0,5.0,3072.0,1997,129808.0,SINGLE_FAMILY,FOR_SALE,42
+106642858,https://www.zillow.com/homedetails/71661-160th-Ave-Hayfield-MN-55940/106642858_zpid/,71661 160th Ave,55940,Hayfield,MN,43.912269,-92.925236,649900.0,4.0,4.0,4104.0,2007,217800.0,SINGLE_FAMILY,FOR_SALE,83
+97898674,https://www.zillow.com/homedetails/9850-80th-St-SW-Hayfield-MN-55940/97898674_zpid/,9850 80th St SW,55940,Hayfield,MN,43.904444,-92.635318,450000.0,2.0,3.0,1526.0,2012,1524600.0,SINGLE_FAMILY,FOR_SALE,42
+2082441055,https://www.zillow.com/homedetails/500-1st-Ave-SW-Hayfield-MN-55940/2082441055_zpid/,500 1st Ave SW,55940,Hayfield,MN,43.886089,-92.848943,239900.0,2.0,2.0,1296.0,2019,7753.0,TOWNHOUSE,FOR_SALE,16
+2082441549,https://www.zillow.com/homedetails/502-1st-Ave-SW-Hayfield-MN-55940/2082441549_zpid/,502 1st Ave SW,55940,Hayfield,MN,43.886069,-92.848943,239900.0,2.0,2.0,1296.0,2019,7753.0,TOWNHOUSE,FOR_SALE,17

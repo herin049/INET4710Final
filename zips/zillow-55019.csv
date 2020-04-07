@@ -1,0 +1,20 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+81628715,https://www.zillow.com/homedetails/573-Summit-Ave-Dundas-MN-55019/81628715_zpid/,573 Summit Ave,55019,Dundas,MN,44.42703,-93.176105,319900.0,3.0,4.0,1878.0,2008,32234.0,SINGLE_FAMILY,FOR_SALE,36
+81629222,https://www.zillow.com/homedetails/12-Hester-St-E-Dundas-MN-55019/81629222_zpid/,12 Hester St E,55019,Dundas,MN,44.430251,-93.203758,349900.0,2.0,3.0,1408.0,1964,94089.0,SINGLE_FAMILY,FOR_SALE,66
+2081045593,https://www.zillow.com/community/bridgewater-heights/2081045593_zpid/,"St. Croix Plan, Bridgewater Heights",55019,Dundas,MN,44.422761,-93.184016,374900.0,3.0,4.0,2164.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,6
+2081045598,https://www.zillow.com/community/bridgewater-heights/2081045598_zpid/,"Antiga Plan, Bridgewater Heights",55019,Dundas,MN,44.422761,-93.184016,375000.0,3.0,4.0,2530.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,3
+2081045597,https://www.zillow.com/community/bridgewater-heights/2081045597_zpid/,"Sunset 3-2 Plan, Bridgewater Heights",55019,Dundas,MN,44.422761,-93.184016,299900.0,2.0,3.0,1350.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,13
+81629155,https://www.zillow.com/homedetails/310-Archibald-Ln-Dundas-MN-55019/81629155_zpid/,310 Archibald Ln,55019,Dundas,MN,44.432328,-93.207693,169900.0,2.0,2.0,1440.0,1998,2613.0,TOWNHOUSE,FOR_SALE,31
+2081045595,https://www.zillow.com/community/bridgewater-heights/2081045595_zpid/,"Plan D Plan, Bridgewater Heights",55019,Dundas,MN,44.422761,-93.184016,375000.0,3.0,4.0,2290.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,6
+2081045592,https://www.zillow.com/community/bridgewater-heights/2081045592_zpid/,"Jamaica 2BR Plan, Bridgewater Heights",55019,Dundas,MN,44.422761,-93.184016,364900.0,2.0,2.0,1505.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,14
+2081045601,https://www.zillow.com/community/bridgewater-heights/2081045601_zpid/,"Key West Plan, Bridgewater Heights",55019,Dundas,MN,44.422761,-93.184016,429000.0,2.0,3.0,1822.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,8
+2081045596,https://www.zillow.com/community/bridgewater-heights/2081045596_zpid/,"Jamaica 3BR Plan, Bridgewater Heights",55019,Dundas,MN,44.422761,-93.184016,364900.0,2.0,3.0,1505.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,15
+2081045600,https://www.zillow.com/community/bridgewater-heights/2081045600_zpid/,"St. John Plan, Bridgewater Heights",55019,Dundas,MN,44.422761,-93.184016,324900.0,2.0,3.0,1394.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,17
+81628860,https://www.zillow.com/homedetails/1384-Bridgewater-Pkwy-Dundas-MN-55019/81628860_zpid/,1384 Bridgewater Pkwy,55019,Dundas,MN,44.423153,-93.183091,376950.0,1.0,2.0,1518.0,2020,13068.0,SINGLE_FAMILY,FOR_SALE,25
+81628813,https://www.zillow.com/homedetails/292-Tower-Ave-Dundas-MN-55019/81628813_zpid/,292 Tower Ave,55019,Dundas,MN,44.422268,-93.184311,374900.0,2.0,3.0,1505.0,2020,9850.0,SINGLE_FAMILY,FOR_SALE,16
+81628859,https://www.zillow.com/homedetails/1412-Bridgewater-Pkwy-Dundas-MN-55019/81628859_zpid/,1412 Bridgewater Pkwy,55019,Dundas,MN,44.423145,-93.182766,394900.0,3.0,4.0,2160.0,2020,13726.0,SINGLE_FAMILY,FOR_SALE,6
+81628989,https://www.zillow.com/homedetails/503-Miller-Ln-Dundas-MN-55019/81628989_zpid/,503 Miller Ln,55019,Dundas,MN,44.433453,-93.205379,299900.0,3.0,4.0,2278.0,2002,13809.0,SINGLE_FAMILY,FOR_SALE,59
+91504753,https://www.zillow.com/homedetails/11751-Dundas-Blvd-Dundas-MN-55019/91504753_zpid/,11751 Dundas Blvd,55019,Dundas,MN,44.416392,-93.213731,794234.0,1.5,4.0,3128.0,1990,2134440.0,SINGLE_FAMILY,FORECLOSED,0
+2083814395,https://www.zillow.com/homedetails/2XX-Bagley-Ave-Dundas-MN-55019/2083814395_zpid/,2XX Bagley Ave,55019,Dundas,MN,44.412309,-93.246942,507800.0,2.0,1.0,1350.0,2020,-1.0,CONDO,FOR_SALE,13
+2083814399,https://www.zillow.com/homedetails/3XX-Bagley-Ave-Dundas-MN-55019/2083814399_zpid/,3XX Bagley Ave,55019,Dundas,MN,44.412309,-93.246942,828300.0,3.0,2.0,2585.0,2020,-1.0,CONDO,FOR_SALE,13
+2083814398,https://www.zillow.com/homedetails/4XX-Bagley-Ave-Dundas-MN-55019/2083814398_zpid/,4XX Bagley Ave,55019,Dundas,MN,44.412309,-93.246942,349600.0,1.0,1.0,1015.0,2019,-1.0,CONDO,FOR_SALE,12

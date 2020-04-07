@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106850925,https://www.zillow.com/homedetails/346-Main-St-W-Aldrich-MN-56434/106850925_zpid/,346 Main St W,56434,Aldrich,MN,46.34577,-94.93992,148000.0,3.0,4.0,1495.0,1969,2526480.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106850493,https://www.zillow.com/homedetails/21252-Todd-Line-Rd-Aldrich-MN-56434/106850493_zpid/,21252 Todd Line Rd,56434,Aldrich,MN,46.369833,-94.921024,167500.0,2.0,2.0,1344.0,1987,498762.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106842237,https://www.zillow.com/homedetails/20856-464th-St-Aldrich-MN-56434/106842237_zpid/,20856 464th St,56434,Aldrich,MN,46.303787,-94.933644,142000.0,1.0,3.0,1008.0,2008,1568160.0,SINGLE_FAMILY,SOLD,22
+106850933,https://www.zillow.com/homedetails/250-Central-Ave-N-Aldrich-MN-56434/106850933_zpid/,250 Central Ave N,56434,Aldrich,MN,46.375857,-94.936575,149697.0,1.0,4.0,1224.0,1938,54450.0,SINGLE_FAMILY,SOLD,40

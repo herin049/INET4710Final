@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+115952861,https://www.zillow.com/homedetails/17349-E-Pine-Dr-NW-Angle-Inlet-MN-56711/115952861_zpid/,17349 E Pine Dr NW,56711,Angle Inlet,MN,49.343826,-95.062221,162224.0,2.0,2.0,1435.0,1978,17424.0,SINGLE_FAMILY,RECENTLY_SOLD,18
+2088806792,https://www.zillow.com/homedetails/17551-Inlet-7-Angle-Inlet-MN-56711/2088806792_zpid/,17551 Inlet #7,56711,Angle Inlet,MN,49.351689,-95.082188,79500.0,1.0,3.0,864.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
+2088806840,https://www.zillow.com/homedetails/17542-Inlet-5-Angle-Inlet-MN-56711/2088806840_zpid/,17542 Inlet #5,56711,Angle Inlet,MN,49.351558,-95.082416,69000.0,1.0,2.0,672.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
+106726325,https://www.zillow.com/homedetails/17636-Birch-Rd-Angle-Inlet-MN-56711/106726325_zpid/,17636 Birch Rd,56711,Angle Inlet,MN,49.3528,-95.086127,157500.0,3.0,3.0,2488.0,1980,40075.0,SINGLE_FAMILY,SOLD,14

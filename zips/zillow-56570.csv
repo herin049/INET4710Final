@@ -1,0 +1,7 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2080354053,https://www.zillow.com/homedetails/24141-County-Highway-48-Osage-MN-56570/2080354053_zpid/,24141 County Highway 48,56570,Osage,MN,46.92351,-95.246851,274900.0,2.0,3.0,1976.0,2001,111949.0,SINGLE_FAMILY,FOR_SALE,38
+106609600,https://www.zillow.com/homedetails/22298-County-Road-123-Osage-MN-56570/106609600_zpid/,22298 County Road 123,56570,Osage,MN,46.895523,-95.248386,223000.0,2.0,4.0,3232.0,1937,311454.0,SINGLE_FAMILY,FOR_SALE,29
+125026571,https://www.zillow.com/homedetails/24033-Pine-Ave-Osage-MN-56570/125026571_zpid/,24033 Pine Ave,56570,Osage,MN,46.920957,-95.256694,89900.0,1.0,3.0,1439.0,1915,13503.0,SINGLE_FAMILY,FOR_SALE,20
+106609416,https://www.zillow.com/homedetails/27500-County-Highway-48-Osage-MN-56570/106609416_zpid/,27500 County Highway 48,56570,Osage,MN,46.96458,-95.235034,464900.0,2.0,3.0,2868.0,2003,293158.0,SINGLE_FAMILY,FOR_SALE,22
+106609445,https://www.zillow.com/homedetails/53186-Shell-River-Trl-Osage-MN-56570/106609445_zpid/,53186 Shell River Trl,56570,Osage,MN,46.920806,-95.284074,147881.0,1.0,2.0,1120.0,2004,217800.0,SINGLE_FAMILY,PRE_FORECLOSURE,0
+106612253,https://www.zillow.com/homedetails/43463-218th-St-Osage-MN-56570/106612253_zpid/,43463 218th St,56570,Osage,MN,46.886505,-95.487279,184900.0,2.0,3.0,1456.0,2010,21780.0,SINGLE_FAMILY,FOR_SALE,22

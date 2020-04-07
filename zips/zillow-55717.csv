@@ -1,0 +1,2 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+61603146,https://www.zillow.com/homedetails/8253-S-Shore-Dr-Canyon-MN-55717/61603146_zpid/,8253 S Shore Dr,55717,Canyon,MN,47.091665,-92.547819,374900.0,3.0,3.0,2560.0,2001,24829.0,SINGLE_FAMILY,FOR_SALE,50

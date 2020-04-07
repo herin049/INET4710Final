@@ -1,0 +1,7 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+74848089,https://www.zillow.com/homedetails/205-1st-Ave-Goodhue-MN-55027/74848089_zpid/,205 1st Ave,55027,Goodhue,MN,44.399325,-92.624531,209000.0,2.0,4.0,2266.0,1949,7840.0,SINGLE_FAMILY,FOR_SALE,21
+74847904,https://www.zillow.com/homedetails/406-S-4th-St-Goodhue-MN-55027/74847904_zpid/,406 S 4th St,55027,Goodhue,MN,44.398486,-92.626315,249900.0,2.0,3.0,2616.0,1971,14984.0,SINGLE_FAMILY,FOR_SALE,23
+74847988,https://www.zillow.com/homedetails/312-Elm-Court-Dr-Goodhue-MN-55027/74847988_zpid/,312 Elm Court Dr,55027,Goodhue,MN,44.397703,-92.626453,237000.0,2.0,4.0,2030.0,1995,16988.0,SINGLE_FAMILY,FOR_SALE,19
+74848038,https://www.zillow.com/homedetails/902-Roberta-Cir-Goodhue-MN-55027/74848038_zpid/,902 Roberta Cir,55027,Goodhue,MN,44.402111,-92.63357,281900.0,4.0,5.0,2928.0,2002,16465.0,SINGLE_FAMILY,FOR_SALE,0
+74847946,https://www.zillow.com/homedetails/502-2nd-Ave-Goodhue-MN-55027/74847946_zpid/,502 2nd Ave,55027,Goodhue,MN,44.400606,-92.628105,149900.0,1.0,3.0,1271.0,1910,8276.0,SINGLE_FAMILY,FOR_SALE,13
+2083014788,https://www.zillow.com/homedetails/12030-335th-St-Goodhue-MN-55027/2083014788_zpid/,12030 335th St,55027,Goodhue,MN,44.464522,-92.790353,825000.0,1.0,3.0,1120.0,1963,5572631.0,SINGLE_FAMILY,FOR_SALE,57

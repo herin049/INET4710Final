@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2082100854,https://www.zillow.com/homedetails/1988-County-Road-8-Holyoke-MN-55749/2082100854_zpid/,1988 County Road 8,55749,Holyoke,MN,46.460856,-92.495512,110000.0,1.0,3.0,1500.0,2013,219978.0,SINGLE_FAMILY,FOR_SALE,27
+2084386080,https://www.zillow.com/homedetails/1459-Silver-Bluff-Rd-Holyoke-MN-55749/2084386080_zpid/,1459 Silver Bluff Rd,55749,Holyoke,MN,46.460718,-92.443512,345000.0,1.0,2.0,1344.0,1989,11325600.0,SINGLE_FAMILY,FOR_SALE,41

@@ -1,0 +1,7 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106717490,https://www.zillow.com/homedetails/3220-150th-St-Boyd-MN-56218/106717490_zpid/,3220 150th St,56218,Boyd,MN,44.877507,-95.995915,239990.0,2.0,5.0,3456.0,1967,260924.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106717818,https://www.zillow.com/homedetails/355-Park-St-Boyd-MN-56218/106717818_zpid/,355 Park St,56218,Boyd,MN,44.848993,-95.899063,56700.0,1.0,3.0,1900.0,1912,43560.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106717813,https://www.zillow.com/homedetails/217-Scandia-Ave-Boyd-MN-56218/106717813_zpid/,217 Scandia Ave,56218,Boyd,MN,44.850403,-95.901946,46500.0,1.0,4.0,2120.0,1901,16552.0,SINGLE_FAMILY,RECENTLY_SOLD,52
+113928112,https://www.zillow.com/homedetails/3925-160th-St-Boyd-MN-56218/113928112_zpid/,3925 160th St,56218,Boyd,MN,44.891604,-95.852452,157000.0,1.0,5.0,3668.0,1926,371566.0,SINGLE_FAMILY,SOLD,0
+106717525,https://www.zillow.com/homedetails/1208-375th-Ave-Boyd-MN-56218/106717525_zpid/,1208 375th Ave,56218,Boyd,MN,44.833449,-95.888921,20000.0,1.0,3.0,1920.0,1918,241758.0,SINGLE_FAMILY,SOLD,0
+106717802,https://www.zillow.com/homedetails/325-4th-St-Boyd-MN-56218/106717802_zpid/,325 4th St,56218,Boyd,MN,44.849177,-95.904843,12500.0,1.0,1.0,755.0,1915,-1.0,SINGLE_FAMILY,SOLD,0

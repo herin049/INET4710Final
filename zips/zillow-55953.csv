@@ -1,0 +1,7 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+126550385,https://www.zillow.com/homedetails/11045-525th-Ave-Lyle-MN-55953/126550385_zpid/,11045 525th Ave,55953,Lyle,MN,43.515207,-93.001487,164000.0,2.0,3.0,2464.0,1996,653400.0,SINGLE_FAMILY,FOR_SALE,20
+117533632,https://www.zillow.com/homedetails/506-3rd-St-Lyle-MN-55953/117533632_zpid/,506 3rd St,55953,Lyle,MN,43.506389,-92.941727,79000.0,2.0,3.0,1432.0,1902,11891.0,SINGLE_FAMILY,FOR_SALE,32
+117533650,https://www.zillow.com/homedetails/408-3rd-St-Lyle-MN-55953/117533650_zpid/,408 3rd St,55953,Lyle,MN,43.505339,-92.941725,64000.0,1.0,2.0,884.0,1950,9365.0,SINGLE_FAMILY,FOR_SALE,29
+117533677,https://www.zillow.com/homedetails/408-2nd-St-Lyle-MN-55953/117533677_zpid/,408 2nd St,55953,Lyle,MN,43.505331,-92.943384,14900.0,2.0,3.0,1456.0,1886,10193.0,SINGLE_FAMILY,FOR_SALE,11
+117531102,https://www.zillow.com/homedetails/57886-105th-St-Lyle-MN-55953/117531102_zpid/,57886 105th St,55953,Lyle,MN,43.508157,-92.891375,234900.0,2.0,4.0,2070.0,1940,422532.0,SINGLE_FAMILY,FOR_SALE,34
+117530932,https://www.zillow.com/homedetails/53942-110th-St-Lyle-MN-55953/117530932_zpid/,53942 110th St,55953,Lyle,MN,43.514906,-92.970606,89900.0,1.0,3.0,1481.0,1880,219978.0,SINGLE_FAMILY,FOR_SALE,20

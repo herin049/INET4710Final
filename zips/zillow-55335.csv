@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+299771149,https://www.zillow.com/homedetails/1427-1st-Ave-Gibbon-MN-55335/299771149_zpid/,1427 1st Ave,55335,Gibbon,MN,44.537314,-94.525789,119900.0,2.0,2.0,2081.0,1946,11761.0,SINGLE_FAMILY,FOR_SALE,38
+299770115,https://www.zillow.com/homedetails/31260-627th-Ave-Gibbon-MN-55335/299770115_zpid/,31260 627th Ave,55335,Gibbon,MN,44.494053,-94.525863,204900.0,3.0,6.0,2412.0,1941,56192.0,SINGLE_FAMILY,FOR_SALE,50
+299771109,https://www.zillow.com/homedetails/1236-1st-Ave-Gibbon-MN-55335/299771109_zpid/,1236 1st Ave,55335,Gibbon,MN,44.535162,-94.527056,49900.0,3.0,4.0,1431.0,1900,6969.0,SINGLE_FAMILY,FOR_SALE,21
+103956618,https://www.zillow.com/homedetails/847-Ash-Ave-Gibbon-MN-55335/103956618_zpid/,847 Ash Ave,55335,Gibbon,MN,44.530751,-94.527555,50000.0,1.0,3.0,1096.0,1929,6577.0,SINGLE_FAMILY,FOR_SALE,23

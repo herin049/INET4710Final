@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106841769,https://www.zillow.com/homedetails/1690-60th-St-SE-Kerkhoven-MN-56252/106841769_zpid/,1690 60th St SE,56252,Kerkhoven,MN,45.239293,-95.275931,49900.0,2.0,3.0,1130.0,1940,305355.0,SINGLE_FAMILY,FOR_SALE,3
+106841350,https://www.zillow.com/homedetails/404-N-13th-St-Kerkhoven-MN-56252/106841350_zpid/,404 N 13th St,56252,Kerkhoven,MN,45.195013,-95.318001,210000.0,2.0,5.0,3668.0,1978,12588.0,SINGLE_FAMILY,FOR_SALE,18
+106841302,https://www.zillow.com/homedetails/302-9th-St-N-Kerkhoven-MN-56252/106841302_zpid/,302 9th St N,56252,Kerkhoven,MN,45.191757,-95.314054,189000.0,2.0,3.0,2584.0,1990,8407.0,SINGLE_FAMILY,FOR_SALE,38
+106841366,https://www.zillow.com/homedetails/310-N-8th-St-Kerkhoven-MN-56252/106841366_zpid/,310 N 8th St,56252,Kerkhoven,MN,45.191225,-95.312832,109987.0,2.0,4.0,2279.0,1930,12632.0,SINGLE_FAMILY,FOR_SALE,60

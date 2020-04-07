@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+304784153,https://www.zillow.com/homedetails/13680-380th-St-Eagle-Bend-MN-56446/304784153_zpid/,13680 380th St,56446,Eagle Bend,MN,46.18659,-95.081428,230000.0,1.0,3.0,1495.0,1910,1878307.0,SINGLE_FAMILY,FOR_SALE,52
+106845457,https://www.zillow.com/homedetails/200-3rd-Ave-SW-Eagle-Bend-MN-56446/106845457_zpid/,200 3rd Ave SW,56446,Eagle Bend,MN,46.163636,-95.042095,114900.0,2.0,3.0,2256.0,1968,19602.0,SINGLE_FAMILY,FOR_SALE,37
+232494779,https://www.zillow.com/homedetails/36490-Ottertail-Line-Rd-Eagle-Bend-MN-56446/232494779_zpid/,36490 Ottertail Line Rd,56446,Eagle Bend,MN,46.16191,-95.141815,149900.0,2.0,3.0,2036.0,1950,314503.0,SINGLE_FAMILY,FOR_SALE,28

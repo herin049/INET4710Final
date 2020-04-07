@@ -1,0 +1,10 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106690343,https://www.zillow.com/homedetails/803-Douglas-St-Lakefield-MN-56150/106690343_zpid/,803 Douglas St,56150,Lakefield,MN,43.682997,-95.171556,179900.0,3.0,4.0,3158.0,1920,11238.0,SINGLE_FAMILY,FOR_SALE,19
+236344685,https://www.zillow.com/homedetails/72059-465th-Ave-Lakefield-MN-56150/236344685_zpid/,72059 465th Ave,56150,Lakefield,MN,43.531184,-95.144716,155000.0,1.0,3.0,2032.0,1948,273121.0,SINGLE_FAMILY,FOR_SALE,17
+106690634,https://www.zillow.com/homedetails/615-Chicago-St-Lakefield-MN-56150/106690634_zpid/,615 Chicago St,56150,Lakefield,MN,43.681095,-95.16935,89900.0,2.0,4.0,1530.0,1920,13982.0,SINGLE_FAMILY,FOR_SALE,15
+236344283,https://www.zillow.com/homedetails/46109-840th-St-Lakefield-MN-56150/236344283_zpid/,46109 840th St,56150,Lakefield,MN,43.702478,-95.152677,350000.0,3.0,4.0,4032.0,1996,653400.0,SINGLE_FAMILY,FOR_SALE,30
+106690533,https://www.zillow.com/homedetails/310-W-4th-Ave-Lakefield-MN-56150/106690533_zpid/,310 W 4th Ave,56150,Lakefield,MN,43.679912,-95.178403,112500.0,2.0,2.0,1360.0,1966,15289.0,SINGLE_FAMILY,FOR_SALE,12
+106690388,https://www.zillow.com/homedetails/704-Douglas-St-Lakefield-MN-56150/106690388_zpid/,704 Douglas St,56150,Lakefield,MN,43.681992,-95.170711,79900.0,2.0,4.0,2426.0,1908,15507.0,SINGLE_FAMILY,FOR_SALE,13
+106690847,https://www.zillow.com/homedetails/101-1st-Ave-S-Lakefield-MN-56150/106690847_zpid/,101 1st Ave S,56150,Lakefield,MN,43.673204,-95.174319,79900.0,1.0,5.0,1780.0,1920,12022.0,SINGLE_FAMILY,FOR_SALE,15
+106690542,https://www.zillow.com/homedetails/317-W-5th-Ave-Lakefield-MN-56150/106690542_zpid/,317 W 5th Ave,56150,Lakefield,MN,43.680535,-95.178184,72000.0,1.0,3.0,1104.0,1955,12632.0,SINGLE_FAMILY,FOR_SALE,11
+106690779,https://www.zillow.com/homedetails/707-4th-Ave-N-Lakefield-MN-56150/106690779_zpid/,707 4th Ave N,56150,Lakefield,MN,43.679812,-95.165685,84900.0,3.0,3.0,1160.0,1950,17728.0,SINGLE_FAMILY,FOR_SALE,18

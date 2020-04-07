@@ -1,0 +1,8 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+120634304,https://www.zillow.com/homedetails/55453-Cedar-Haven-Way-Max-MN-56659/120634304_zpid/,55453 Cedar Haven Way,56659,Max,MN,47.605364,-94.022236,140000.0,1.0,3.0,1168.0,1970,226511.0,SINGLE_FAMILY,RECENTLY_SOLD,16
+103944767,https://www.zillow.com/homedetails/55838-Pleasant-Cir-Max-MN-56659/103944767_zpid/,55838 Pleasant Cir,56659,Max,MN,47.614448,-94.028029,307000.0,4.0,3.0,1792.0,1992,50529.0,SINGLE_FAMILY,RECENTLY_SOLD,18
+120632945,https://www.zillow.com/homedetails/51318-Sioux-City-Rd-Max-MN-56659/120632945_zpid/,51318 Sioux City Rd,56659,Max,MN,47.617987,-94.032153,187000.0,1.0,0.0,1920.0,2006,413820.0,SINGLE_FAMILY,RECENTLY_SOLD,6
+2146400809,https://www.zillow.com/homedetails/53434-Smolik-Rd-Max-MN-56659/2146400809_zpid/,53434 Smolik Rd,56659,Max,MN,47.6942,-93.965,275000.0,4.0,4.0,2400.0,2004,216928.0,SINGLE_FAMILY,SOLD,0
+120635238,https://www.zillow.com/homedetails/55129-Eggar-Rd-Max-MN-56659/120635238_zpid/,55129 Eggar Rd,56659,Max,MN,47.641747,-94.012501,1023.0,2.0,2.0,1808.0,1978,226947.0,SINGLE_FAMILY,SOLD,17
+120635262,https://www.zillow.com/homedetails/57586-County-Road-4-Max-MN-56659/120635262_zpid/,57586 County Road 4,56659,Max,MN,47.630462,-94.070718,100000.0,1.0,2.0,1670.0,1968,1344261.0,SINGLE_FAMILY,SOLD,13
+103945662,https://www.zillow.com/homedetails/57665-County-Road-127-Max-MN-56659/103945662_zpid/,57665 County Road 127,56659,Max,MN,47.69638,-93.960643,557.0,2.0,3.0,1417.0,2004,1312462.0,SINGLE_FAMILY,SOLD,0

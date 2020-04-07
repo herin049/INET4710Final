@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2081767318,https://www.zillow.com/homedetails/2106-170th-St-Kennedy-MN-56733/2081767318_zpid/,2106 170th St,56733,Kennedy,MN,48.648445,-96.997344,141000.0,2.0,3.0,2140.0,1968,696960.0,SINGLE_FAMILY,FOR_SALE,14
+121736462,https://www.zillow.com/homedetails/405-W-4th-St-Kennedy-MN-56733/121736462_zpid/,405 W 4th St,56733,Kennedy,MN,48.642099,-96.913548,129900.0,2.0,3.0,2240.0,1967,14000.0,SINGLE_FAMILY,FOR_SALE,29

@@ -1,0 +1,8 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106713588,https://www.zillow.com/homedetails/6820-County-Road-31-Big-Falls-MN-56627/106713588_zpid/,6820 County Road 31,56627,Big Falls,MN,48.185245,-93.71444,7500.0,2.0,4.0,1332.0,1971,435600.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106714116,https://www.zillow.com/homedetails/402-Highway-71-Big-Falls-MN-56627/106714116_zpid/,402 Highway 71,56627,Big Falls,MN,48.193402,-93.799965,83000.0,1.0,2.0,1105.0,1940,130680.0,SINGLE_FAMILY,RECENTLY_SOLD,16
+106714093,https://www.zillow.com/homedetails/910-County-Road-30-Big-Falls-MN-56627/106714093_zpid/,910 County Road 30,56627,Big Falls,MN,48.191717,-93.815087,80000.0,1.0,2.0,1536.0,1968,143748.0,SINGLE_FAMILY,SOLD,18
+106714112,https://www.zillow.com/homedetails/511-Big-Fork-Ave-N-Big-Falls-MN-56627/106714112_zpid/,511 Big Fork Ave N,56627,Big Falls,MN,48.195129,-93.807114,48500.0,1.0,2.0,1080.0,1970,-1.0,SINGLE_FAMILY,SOLD,0
+106714060,https://www.zillow.com/homedetails/510-River-Rd-W-Big-Falls-MN-56627/106714060_zpid/,510 River Rd W,56627,Big Falls,MN,48.192411,-93.781169,230000.0,2.0,3.0,2302.0,2008,217800.0,SINGLE_FAMILY,SOLD,0
+106713642,https://www.zillow.com/homedetails/7335-County-Road-141-Big-Falls-MN-56627/106713642_zpid/,7335 County Road 141,56627,Big Falls,MN,48.188297,-93.770139,125000.0,3.0,4.0,2504.0,1980,248291.0,SINGLE_FAMILY,SOLD,0
+2086830634,https://www.zillow.com/homedetails/511-Big-Fork-Ave-Big-Falls-MN-56627/2086830634_zpid/,511 Big Fork Ave,56627,Big Falls,MN,48.194235,-93.807116,39000.0,1.0,2.0,1080.0,1965,47480.0,SINGLE_FAMILY,SOLD,16

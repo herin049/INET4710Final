@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+119759608,https://www.zillow.com/homedetails/604-5th-Ave-Wilmont-MN-56185/119759608_zpid/,604 5th Ave,56185,Wilmont,MN,43.762041,-95.82576,90000.0,2.0,2.0,2240.0,1966,10454.0,SINGLE_FAMILY,SOLD,25
+106791747,https://www.zillow.com/homedetails/501-5th-St-Wilmont-MN-56185/106791747_zpid/,501 5th St,56185,Wilmont,MN,43.763785,-95.8252,95000.0,3.0,3.0,2912.0,1963,20037.0,SINGLE_FAMILY,SOLD,20
+106791272,https://www.zillow.com/homedetails/505-4th-Ave-Wilmont-MN-56185/106791272_zpid/,505 4th Ave,56185,Wilmont,MN,43.762861,-95.827982,64000.0,1.0,2.0,1794.0,1937,7405.0,SINGLE_FAMILY,SOLD,16
+106791301,https://www.zillow.com/homedetails/508-3rd-Ave-Wilmont-MN-56185/106791301_zpid/,508 3rd Ave,56185,Wilmont,MN,43.762714,-95.828583,20000.0,1.0,4.0,2420.0,1910,6969.0,SINGLE_FAMILY,SOLD,25
+106791735,https://www.zillow.com/homedetails/405-5th-Ave-Wilmont-MN-56185/106791735_zpid/,405 5th Ave,56185,Wilmont,MN,43.763625,-95.826605,30000.0,2.0,5.0,3048.0,1902,13939.0,SINGLE_FAMILY,SOLD,0

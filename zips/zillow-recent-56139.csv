@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+115958058,https://www.zillow.com/homedetails/270-Superior-Ave-W-Holland-MN-56139/115958058_zpid/,270 Superior Ave W,56139,Holland,MN,44.088209,-96.189329,75000.0,2.0,2.0,1192.0,1964,14810.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+115958077,https://www.zillow.com/homedetails/421-Pacific-St-Holland-MN-56139/115958077_zpid/,421 Pacific St,56139,Holland,MN,44.093115,-96.186963,28000.0,1.0,2.0,960.0,1963,17750.0,SINGLE_FAMILY,RECENTLY_SOLD,1
+106797415,https://www.zillow.com/homedetails/321-Helen-St-Holland-MN-56139/106797415_zpid/,321 Helen St,56139,Holland,MN,44.088913,-96.188305,135000.0,2.0,3.0,1440.0,1961,12632.0,SINGLE_FAMILY,RECENTLY_SOLD,17
+106797535,https://www.zillow.com/homedetails/1646-140th-Ave-Holland-MN-56139/106797535_zpid/,1646 140th Ave,56139,Holland,MN,44.08736,-96.184152,19000.0,1.0,3.0,2278.0,2012,51400.0,SINGLE_FAMILY,SOLD,0

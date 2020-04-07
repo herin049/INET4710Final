@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106820215,https://www.zillow.com/homedetails/85926-380th-St-Bird-Island-MN-55310/106820215_zpid/,85926 380th St,55310,Bird Island,MN,44.832265,-94.914282,65000.0,1.0,4.0,1254.0,1900,275400.0,SINGLE_FAMILY,FOR_SALE,7
+106824370,https://www.zillow.com/homedetails/37331-County-Road-17-Bird-Island-MN-55310/106824370_zpid/,37331 County Road 17,55310,Bird Island,MN,44.727037,-94.929981,160000.0,1.0,4.0,1494.0,1915,304048.0,SINGLE_FAMILY,FOR_SALE,38

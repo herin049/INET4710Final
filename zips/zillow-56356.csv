@@ -1,0 +1,2 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+207004149,https://www.zillow.com/homedetails/550-Main-St-New-Munich-MN-56356/207004149_zpid/,550 Main St,56356,New Munich,MN,45.630733,-94.753337,149900.0,2.0,3.0,2260.0,1900,7622.0,SINGLE_FAMILY,FOR_SALE,14

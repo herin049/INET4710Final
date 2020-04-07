@@ -1,0 +1,32 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106637394,https://www.zillow.com/homedetails/33420-State-Highway-30-Westbrook-MN-56183/106637394_zpid/,33420 State Highway 30,56183,Westbrook,MN,44.036972,-95.412567,120000.0,2.0,3.0,1370.0,1940,123274.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106776161,https://www.zillow.com/homedetails/1605-300th-Ave-Westbrook-MN-56183/106776161_zpid/,1605 300th Ave,56183,Westbrook,MN,44.080581,-95.463539,176000.0,2.0,3.0,1152.0,1950,404672.0,SINGLE_FAMILY,RECENTLY_SOLD,10
+106638776,https://www.zillow.com/homedetails/840-Ash-Ave-Westbrook-MN-56183/106638776_zpid/,840 Ash Ave,56183,Westbrook,MN,44.04477,-95.435022,86000.0,2.0,3.0,1208.0,1958,14374.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106638577,https://www.zillow.com/homedetails/615-Bell-Ave-Westbrook-MN-56183/106638577_zpid/,615 Bell Ave,56183,Westbrook,MN,44.042347,-95.438444,49900.0,2.0,3.0,1500.0,1904,14374.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106638870,https://www.zillow.com/homedetails/1122-7th-St-Westbrook-MN-56183/106638870_zpid/,1122 7th St,56183,Westbrook,MN,44.043405,-95.440853,27300.0,2.0,2.0,1168.0,1970,9583.0,SINGLE_FAMILY,RECENTLY_SOLD,10
+106638847,https://www.zillow.com/homedetails/433-Bell-Ave-Westbrook-MN-56183/106638847_zpid/,433 Bell Ave,56183,Westbrook,MN,44.040539,-95.438429,52500.0,1.0,4.0,1674.0,1916,14374.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106638717,https://www.zillow.com/homedetails/623-Ash-Ave-Westbrook-MN-56183/106638717_zpid/,623 Ash Ave,56183,Westbrook,MN,44.04253,-95.43416,22000.0,2.0,3.0,1218.0,1912,10454.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106638804,https://www.zillow.com/homedetails/608-Elm-Ave-Westbrook-MN-56183/106638804_zpid/,608 Elm Ave,56183,Westbrook,MN,44.042326,-95.430781,84900.0,1.0,2.0,1616.0,1959,10454.0,SINGLE_FAMILY,SOLD,0
+106638768,https://www.zillow.com/homedetails/822-1st-Ave-Westbrook-MN-56183/106638768_zpid/,822 1st Ave,56183,Westbrook,MN,44.044531,-95.436466,29900.0,2.0,3.0,1590.0,1911,10454.0,SINGLE_FAMILY,SOLD,0
+124348909,https://www.zillow.com/homedetails/808-Adams-Ave-Westbrook-MN-56183/124348909_zpid/,808 Adams Ave,56183,Westbrook,MN,44.044357,-95.437856,73500.0,2.0,5.0,3600.0,1910,14374.0,SINGLE_FAMILY,SOLD,0
+106638757,https://www.zillow.com/homedetails/708-Adams-Ave-Westbrook-MN-56183/106638757_zpid/,708 Adams Ave,56183,Westbrook,MN,44.043288,-95.437848,21000.0,2.0,4.0,2360.0,1940,6969.0,SINGLE_FAMILY,SOLD,0
+106638809,https://www.zillow.com/homedetails/540-Elm-Ave-Westbrook-MN-56183/106638809_zpid/,540 Elm Ave,56183,Westbrook,MN,44.041694,-95.430773,48000.0,2.0,4.0,1926.0,1955,10454.0,SINGLE_FAMILY,SOLD,0
+106638648,https://www.zillow.com/homedetails/1249-7th-St-Westbrook-MN-56183/106638648_zpid/,1249 7th St,56183,Westbrook,MN,44.042812,-95.44232,41500.0,2.0,3.0,2160.0,1904,14374.0,SINGLE_FAMILY,SOLD,0
+106637393,https://www.zillow.com/homedetails/33042-State-Highway-30-Westbrook-MN-56183/106637393_zpid/,33042 State Highway 30,56183,Westbrook,MN,44.036751,-95.420072,80000.0,1.0,3.0,1312.0,1935,189921.0,SINGLE_FAMILY,SOLD,0
+106638771,https://www.zillow.com/homedetails/823-1st-Ave-Westbrook-MN-56183/106638771_zpid/,823 1st Ave,56183,Westbrook,MN,44.044599,-95.435622,55000.0,1.0,3.0,2500.0,1918,10454.0,SINGLE_FAMILY,SOLD,21
+106638852,https://www.zillow.com/homedetails/836-Bell-Ave-Westbrook-MN-56183/106638852_zpid/,836 Bell Ave,56183,Westbrook,MN,44.044697,-95.439255,77000.0,2.0,3.0,2313.0,1940,6969.0,SINGLE_FAMILY,SOLD,0
+106638718,https://www.zillow.com/homedetails/635-Ash-Ave-Westbrook-MN-56183/106638718_zpid/,635 Ash Ave,56183,Westbrook,MN,44.042701,-95.434161,67500.0,2.0,4.0,2400.0,1955,6969.0,SINGLE_FAMILY,SOLD,0
+106638567,https://www.zillow.com/homedetails/530-9-1-2-St-Westbrook-MN-56183/106638567_zpid/,530 9 1/2 St,56183,Westbrook,MN,44.045588,-95.432217,53500.0,2.0,4.0,2724.0,1940,16988.0,SINGLE_FAMILY,SOLD,0
+106638759,https://www.zillow.com/homedetails/722-Adams-Ave-Westbrook-MN-56183/106638759_zpid/,722 Adams Ave,56183,Westbrook,MN,44.043561,-95.43785,68000.0,1.0,3.0,1594.0,1950,6969.0,SINGLE_FAMILY,SOLD,0
+106638701,https://www.zillow.com/homedetails/638-6th-St-Westbrook-MN-56183/106638701_zpid/,638 6th St,56183,Westbrook,MN,44.042324,-95.434018,45000.0,2.0,2.0,2288.0,1937,10454.0,SINGLE_FAMILY,SOLD,0
+106638785,https://www.zillow.com/homedetails/824-Ash-Ave-Westbrook-MN-56183/106638785_zpid/,824 Ash Ave,56183,Westbrook,MN,44.044532,-95.43502,18000.0,2.0,3.0,1616.0,1941,10454.0,SINGLE_FAMILY,SOLD,0
+106638775,https://www.zillow.com/homedetails/854-Ash-Ave-Westbrook-MN-56183/106638775_zpid/,854 Ash Ave,56183,Westbrook,MN,44.044974,-95.435024,4000.0,1.0,3.0,1486.0,1940,7405.0,SINGLE_FAMILY,SOLD,2
+106638621,https://www.zillow.com/homedetails/330-9th-St-Westbrook-MN-56183/106638621_zpid/,330 9th St,56183,Westbrook,MN,44.04543,-95.429427,55000.0,2.0,3.0,2504.0,1978,11325.0,SINGLE_FAMILY,SOLD,0
+106637384,https://www.zillow.com/homedetails/26676-County-Road-6-Westbrook-MN-56183/106637384_zpid/,26676 County Road 6,56183,Westbrook,MN,44.099201,-95.380616,236500.0,2.0,3.0,3180.0,1914,247856.0,SINGLE_FAMILY,SOLD,0
+125027146,https://www.zillow.com/homedetails/2737-111th-St-Westbrook-MN-56183/125027146_zpid/,2737 111th St,56183,Westbrook,MN,44.006941,-95.517746,85000.0,1.0,5.0,2792.0,1923,199940.0,SINGLE_FAMILY,SOLD,0
+106638706,https://www.zillow.com/homedetails/504-Birch-Ave-Westbrook-MN-56183/106638706_zpid/,504 Birch Ave,56183,Westbrook,MN,44.041277,-95.433551,22500.0,1.0,4.0,1411.0,1900,10454.0,SINGLE_FAMILY,SOLD,0
+106638651,https://www.zillow.com/homedetails/646-Davis-Ave-Westbrook-MN-56183/106638651_zpid/,646 Davis Ave,56183,Westbrook,MN,44.04271,-95.441716,43500.0,1.0,2.0,1152.0,1955,10454.0,SINGLE_FAMILY,SOLD,0
+106638611,https://www.zillow.com/homedetails/218-1st-Ave-Westbrook-MN-56183/106638611_zpid/,218 1st Ave,56183,Westbrook,MN,44.038606,-95.43636,129400.0,2.0,3.0,2007.0,1955,17859.0,SINGLE_FAMILY,SOLD,0
+106638622,https://www.zillow.com/homedetails/1220-1st-Ave-Westbrook-MN-56183/106638622_zpid/,1220 1st Ave,56183,Westbrook,MN,44.048627,-95.436748,118000.0,2.0,3.0,2448.0,1985,12196.0,SINGLE_FAMILY,SOLD,0
+106638801,https://www.zillow.com/homedetails/636-Elm-Ave-Westbrook-MN-56183/106638801_zpid/,636 Elm Ave,56183,Westbrook,MN,44.042738,-95.430786,43500.0,1.0,2.0,936.0,1962,10454.0,SINGLE_FAMILY,SOLD,0
+106638592,https://www.zillow.com/homedetails/630-Elm-Ave-Westbrook-MN-56183/106638592_zpid/,630 Elm Ave,56183,Westbrook,MN,44.042532,-95.429992,69500.0,2.0,3.0,1760.0,1976,10454.0,SINGLE_FAMILY,SOLD,24

@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+61566403,https://www.zillow.com/homedetails/5713-Marble-Ave-Mountain-Iron-MN-55768/61566403_zpid/,5713 Marble Ave,55768,Mountain Iron,MN,47.530264,-92.621386,89900.0,2.0,3.0,1844.0,1910,6229.0,SINGLE_FAMILY,FOR_SALE,20
+61566694,https://www.zillow.com/homedetails/8733-Fairview-Ln-Mountain-Iron-MN-55768/61566694_zpid/,8733 Fairview Ln,55768,Mountain Iron,MN,47.512241,-92.610051,131366.0,1.5,4.0,760.0,1952,-1.0,SINGLE_FAMILY,PRE_FORECLOSURE,0
+61566417,https://www.zillow.com/homedetails/5688-Mineral-Ave-Mountain-Iron-MN-55768/61566417_zpid/,5688 Mineral Ave,55768,Mountain Iron,MN,47.528463,-92.61937,25000.0,1.0,3.0,1384.0,1920,6098.0,SINGLE_FAMILY,FOR_SALE,21
+61576368,https://www.zillow.com/homedetails/10101-Allavus-Rd-Mountain-Iron-MN-55768/61576368_zpid/,10101 Allavus Rd,55768,Mountain Iron,MN,47.43184,-92.753659,889500.0,3.0,3.0,5240.0,2003,1389564.0,SINGLE_FAMILY,FOR_SALE,22

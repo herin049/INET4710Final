@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+113933583,https://www.zillow.com/homedetails/21488-670th-Ave-Darwin-MN-55324/113933583_zpid/,21488 670th Ave,55324,Darwin,MN,45.059792,-94.417926,249000.0,2.0,2.0,280.0,2000,47480.0,MANUFACTURED,FOR_SALE,14
+106772907,https://www.zillow.com/homedetails/20602-665th-Ave-Darwin-MN-55324/106772907_zpid/,20602 665th Ave,55324,Darwin,MN,45.045577,-94.428218,112000.0,2.0,5.0,780.0,1917,252212.0,SINGLE_FAMILY,FOR_SALE,17
+106772298,https://www.zillow.com/homedetails/22772-Csah-14-Darwin-MN-55324/106772298_zpid/,22772 Csah 14,55324,Darwin,MN,45.077446,-94.40046,454900.0,3.0,3.0,2128.0,1979,47916.0,SINGLE_FAMILY,FOR_SALE,31
+233020711,https://www.zillow.com/homedetails/310-Rice-City-Cir-Darwin-MN-55324/233020711_zpid/,310 Rice City Cir,55324,Darwin,MN,45.102026,-94.400736,297000.0,2.0,2.0,1619.0,2018,152460.0,SINGLE_FAMILY,FOR_SALE,26
+106772945,https://www.zillow.com/homedetails/18932-Csah-9-Darwin-MN-55324/106772945_zpid/,18932 Csah 9,55324,Darwin,MN,45.022475,-94.438848,249500.0,2.0,6.0,2000.0,1976,304920.0,SINGLE_FAMILY,FOR_SALE,9

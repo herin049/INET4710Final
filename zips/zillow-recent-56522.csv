@@ -1,0 +1,10 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+97026935,https://www.zillow.com/homedetails/11998-150th-Ave-Campbell-MN-56522/97026935_zpid/,11998 150th Ave,56522,Campbell,MN,46.138627,-96.171947,235000.0,2.0,3.0,2154.0,1928,449539.0,SINGLE_FAMILY,RECENTLY_SOLD,78
+234018876,https://www.zillow.com/homedetails/214-New-York-Ave-Campbell-MN-56522/234018876_zpid/,214 New York Ave,56522,Campbell,MN,46.094821,-96.402487,88900.0,1.0,3.0,1456.0,1910,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,33
+234017180,https://www.zillow.com/homedetails/3386-395th-St-Campbell-MN-56522/234017180_zpid/,3386 395th St,56522,Campbell,MN,46.202434,-96.298162,194400.0,2.0,4.0,2534.0,1910,334976.0,SINGLE_FAMILY,RECENTLY_SOLD,27
+123025148,https://www.zillow.com/homedetails/4343-270th-Ave-Campbell-MN-56522/123025148_zpid/,4343 270th Ave,56522,Campbell,MN,46.128711,-96.409433,107500.0,3.0,5.0,2304.0,1900,541015.0,SINGLE_FAMILY,RECENTLY_SOLD,23
+123024958,https://www.zillow.com/homedetails/4611-240th-Ave-Campbell-MN-56522/123024958_zpid/,4611 240th Ave,56522,Campbell,MN,46.155326,-96.471855,83000.0,2.0,3.0,1896.0,1927,196020.0,SINGLE_FAMILY,RECENTLY_SOLD,19
+123025221,https://www.zillow.com/homedetails/4273-Us-Highway-75-Campbell-MN-56522/123025221_zpid/,4273 Us Highway 75,56522,Campbell,MN,46.156597,-96.49416,600000.0,3.0,5.0,2978.0,1998,375487.0,SINGLE_FAMILY,SOLD,48
+249938371,https://www.zillow.com/homedetails/332-3rd-St-Campbell-MN-56522/249938371_zpid/,332 3rd St,56522,Campbell,MN,46.095019,-96.404787,9000.0,1.0,3.0,2332.0,1960,-1.0,SINGLE_FAMILY,SOLD,17
+123025332,https://www.zillow.com/homedetails/4269-220th-Ave-Campbell-MN-56522/123025332_zpid/,4269 220th Ave,56522,Campbell,MN,46.156859,-96.513904,129900.0,2.0,3.0,1278.0,1900,240015.0,SINGLE_FAMILY,SOLD,4
+123024997,https://www.zillow.com/homedetails/4741-250th-Ave-Campbell-MN-56522/123024997_zpid/,4741 250th Ave,56522,Campbell,MN,46.088232,-96.453009,179900.0,3.0,4.0,1717.0,1965,430373.0,SINGLE_FAMILY,SOLD,38

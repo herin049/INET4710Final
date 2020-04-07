@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2080641761,https://www.zillow.com/homedetails/1827-County-Road-60-Balaton-MN-56115/2080641761_zpid/,1827 County Road 60,56115,Balaton,MN,44.282516,-95.932608,179900.0,1.0,2.0,1650.0,1980,174240.0,SINGLE_FAMILY,FOR_SALE,3
+106738957,https://www.zillow.com/homedetails/231-2nd-St-E-Balaton-MN-56115/106738957_zpid/,231 2nd St E,56115,Balaton,MN,44.235971,-95.869928,45000.0,1.0,2.0,936.0,1950,14350.0,SINGLE_FAMILY,FOR_SALE,10
+2080641761,https://www.zillow.com/homedetails/1827-County-Road-60-Balaton-MN-56115/2080641761_zpid/,1827 County Road 60,56115,Balaton,MN,44.282516,-95.932608,179900.0,1.0,2.0,1650.0,1980,174240.0,SINGLE_FAMILY,FOR_SALE,3
+106738957,https://www.zillow.com/homedetails/231-2nd-St-E-Balaton-MN-56115/106738957_zpid/,231 2nd St E,56115,Balaton,MN,44.235971,-95.869928,45000.0,1.0,2.0,936.0,1950,14350.0,SINGLE_FAMILY,FOR_SALE,10

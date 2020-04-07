@@ -1,0 +1,14 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+74848515,https://www.zillow.com/homedetails/99-Gunderson-Blvd-Kenyon-MN-55946/74848515_zpid/,99 Gunderson Blvd,55946,Kenyon,MN,44.271713,-92.996157,199900.0,2.0,5.0,2272.0,1908,41124.0,SINGLE_FAMILY,FOR_SALE,16
+74848545,https://www.zillow.com/homedetails/23-Slee-St-Kenyon-MN-55946/74848545_zpid/,23 Slee St,55946,Kenyon,MN,44.27455,-92.982145,139900.0,2.0,2.0,1220.0,1918,17500.0,SINGLE_FAMILY,FOR_SALE,9
+74848145,https://www.zillow.com/homedetails/1120-2nd-St-Kenyon-MN-55946/74848145_zpid/,1120 2nd St,55946,Kenyon,MN,44.272525,-92.977357,134900.0,2.0,2.0,1158.0,1908,20908.0,SINGLE_FAMILY,FOR_SALE,0
+2081251015,https://www.zillow.com/homedetails/45655-Highway-56-Blvd-Kenyon-MN-55946/2081251015_zpid/,45655 Highway 56 Blvd,55946,Kenyon,MN,44.288496,-92.98524,355500.0,2.0,2.0,1076.0,1974,871200.0,SINGLE_FAMILY,FOR_SALE,32
+74838689,https://www.zillow.com/homedetails/5766-County-12-Blvd-Kenyon-MN-55946/74838689_zpid/,5766 County 12 Blvd,55946,Kenyon,MN,44.268693,-92.924778,239900.0,2.0,4.0,2428.0,1939,74487.0,SINGLE_FAMILY,FOR_SALE,14
+2081888740,https://www.zillow.com/homedetails/136-Gunderson-Blvd-Kenyon-MN-55946/2081888740_zpid/,136 Gunderson Blvd,55946,Kenyon,MN,44.272437,-92.993618,134900.0,3.0,5.0,2531.0,1915,20821.0,MULTI_FAMILY,FOR_SALE,26
+74848342,https://www.zillow.com/homedetails/108-4th-St-Kenyon-MN-55946/74848342_zpid/,108 4th St,55946,Kenyon,MN,44.270333,-92.995034,138294.0,2.0,3.0,1310.0,1929,7000.0,SINGLE_FAMILY,PRE_FORECLOSURE,0
+2082697386,https://www.zillow.com/homedetails/6863-County-12-Blvd-Kenyon-MN-55946/2082697386_zpid/,6863 County 12 Blvd,55946,Kenyon,MN,44.27013,-92.89433,489000.0,3.0,4.0,2732.0,1896,786632.0,SINGLE_FAMILY,FOR_SALE,57
+81628602,https://www.zillow.com/homedetails/11761-E-240th-St-Kenyon-MN-55946/81628602_zpid/,11761 E 240th St,55946,Kenyon,MN,44.238766,-93.066301,359000.0,3.0,3.0,2268.0,1907,302170.0,SINGLE_FAMILY,FOR_SALE,38
+74839159,https://www.zillow.com/homedetails/8599-480th-St-Kenyon-MN-55946/74839159_zpid/,8599 480th St,55946,Kenyon,MN,44.255828,-92.859749,146018.0,1.0,3.0,1600.0,1850,435600.0,SINGLE_FAMILY,PRE_FORECLOSURE,35
+74848714,https://www.zillow.com/homedetails/513-Red-Wing-Ave-Kenyon-MN-55946/74848714_zpid/,513 Red Wing Ave,55946,Kenyon,MN,44.268216,-92.984952,124607.0,1.0,3.0,1300.0,1900,17424.0,SINGLE_FAMILY,FORECLOSED,1
+2087821332,https://www.zillow.com/homedetails/407-Fawn-Run-Kenyon-MN-55946/2087821332_zpid/,407 Fawn Run,55946,Kenyon,MN,44.278606,-92.988045,222900.0,2.0,2.0,1377.0,2018,1600.0,TOWNHOUSE,FOR_SALE,2
+2087824673,https://www.zillow.com/homedetails/405-Fawn-Run-Kenyon-MN-55946/2087824673_zpid/,405 Fawn Run,55946,Kenyon,MN,44.2787,-92.9879,212900.0,2.0,2.0,1233.0,2018,3200.0,TOWNHOUSE,FOR_SALE,14

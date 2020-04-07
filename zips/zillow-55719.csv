@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+61543079,https://www.zillow.com/homedetails/225-1st-St-SW-Chisholm-MN-55719/61543079_zpid/,225 1st St SW,55719,Chisholm,MN,47.488045,-92.883589,83026.0,1.0,3.0,931.0,1908,3125.0,SINGLE_FAMILY,PRE_FORECLOSURE,50
+306138481,https://www.zillow.com/homedetails/415-7th-St-SW-Chisholm-MN-55719/306138481_zpid/,415 7th St SW,55719,Chisholm,MN,47.483626,-92.885615,48269.0,2.2,3.0,672.0,1920,-1.0,SINGLE_FAMILY,FORECLOSED,0
+61544197,https://www.zillow.com/homedetails/19-6th-Ave-NE-Chisholm-MN-55719/61544197_zpid/,19 6th Ave NE,55719,Chisholm,MN,47.488844,-92.866046,139047.0,2.0,3.0,1372.0,1972,-1.0,SINGLE_FAMILY,PRE_FORECLOSURE,0

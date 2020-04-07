@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+120639163,https://www.zillow.com/homedetails/47504-E-Lake-Rd-Spring-Lake-MN-56680/120639163_zpid/,47504 E Lake Rd,56680,Spring Lake,MN,47.671158,-93.847407,430000.0,2.0,5.0,1938.0,1969,4787244.0,SINGLE_FAMILY,FOR_SALE,47
+2081900705,https://www.zillow.com/homedetails/47504-E-Lake-Rd-Lake-Jessie-Twp-MN-56680/2081900705_zpid/,47504 E Lake Rd,56680,Lake Jessie Twp,MN,47.671158,-93.847407,430000.0,2.0,5.0,1938.0,1969,4787244.0,SINGLE_FAMILY,FOR_SALE,47
+120640181,https://www.zillow.com/homedetails/53177-Little-Spring-Rd-Spring-Lake-MN-56680/120640181_zpid/,53177 Little Spring Rd,56680,Spring Lake,MN,47.6449,-93.869462,74900.0,1.0,2.0,857.0,1948,277041.0,SINGLE_FAMILY,FOR_SALE,11
+120636509,https://www.zillow.com/homedetails/52570-Ames-Rd-Spring-Lake-MN-56680/120636509_zpid/,52570 Ames Rd,56680,Spring Lake,MN,47.660489,-93.948343,450000.0,3.0,2.0,2200.0,2012,6141960.0,SINGLE_FAMILY,FOR_SALE,58

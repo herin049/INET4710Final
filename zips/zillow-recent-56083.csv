@@ -1,0 +1,10 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2082450611,https://www.zillow.com/homedetails/110-E-Orchard-St-Sanborn-MN-56083/2082450611_zpid/,110 E Orchard St,56083,Sanborn,MN,44.209685,-95.126081,85000.0,2.0,3.0,1532.0,1949,10802.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106819160,https://www.zillow.com/homedetails/350-Letford-St-Sanborn-MN-56083/106819160_zpid/,350 Letford St,56083,Sanborn,MN,44.211276,-95.131595,23500.0,3.0,3.0,1324.0,1900,6969.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106819235,https://www.zillow.com/homedetails/300-S-Main-St-Sanborn-MN-56083/106819235_zpid/,300 S Main St,56083,Sanborn,MN,44.207688,-95.128538,17000.0,2.0,4.0,1900.0,1890,9104.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106819165,https://www.zillow.com/homedetails/200-Letford-St-Sanborn-MN-56083/106819165_zpid/,200 Letford St,56083,Sanborn,MN,44.210725,-95.12956,36551.0,1.0,3.0,2037.0,1939,6969.0,SINGLE_FAMILY,SOLD,0
+106815063,https://www.zillow.com/homedetails/33583-120th-St-Sanborn-MN-56083/106815063_zpid/,33583 120th St,56083,Sanborn,MN,44.228312,-95.116343,85000.0,2.0,4.0,2544.0,1952,269636.0,SINGLE_FAMILY,SOLD,14
+2086813552,https://www.zillow.com/homedetails/400-East-Central-Street-Sanborn-MN-56083/2086813552_zpid/,400 East Central Street,56083,Sanborn,MN,44.209277,-95.12421,75900.0,2.0,3.0,2340.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
+106819170,https://www.zillow.com/homedetails/101-W-Mill-St-Sanborn-MN-56083/106819170_zpid/,101 W Mill St,56083,Sanborn,MN,44.211965,-95.132046,138700.0,1.0,3.0,2258.0,1910,435600.0,SINGLE_FAMILY,SOLD,0
+106819491,https://www.zillow.com/homedetails/200-E-Pabst-St-Sanborn-MN-56083/106819491_zpid/,200 E Pabst St,56083,Sanborn,MN,44.206422,-95.127012,63500.0,1.0,4.0,1912.0,1900,25264.0,SINGLE_FAMILY,SOLD,0
+106819944,https://www.zillow.com/homedetails/321-W-Winona-St-Sanborn-MN-56083/106819944_zpid/,321 W Winona St,56083,Sanborn,MN,44.208815,-95.131853,25000.0,1.0,2.0,1354.0,1906,6969.0,SINGLE_FAMILY,SOLD,0

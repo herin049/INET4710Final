@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+74868512,https://www.zillow.com/homedetails/15551-93rd-Ave-Kimball-MN-55353/74868512_zpid/,15551 93rd Ave,55353,Kimball,MN,45.349498,-94.304249,330000.0,2.0,4.0,2368.0,1974,435600.0,SINGLE_FAMILY,FOR_SALE,28
+2085264764,https://www.zillow.com/homedetails/33905-706th-Ave-Kimball-MN-55353/2085264764_zpid/,33905 706th Ave,55353,Kimball,MN,45.236641,-94.347925,344900.0,3.0,3.0,2732.0,2004,349786.0,SINGLE_FAMILY,FOR_SALE,25
+91506946,https://www.zillow.com/homedetails/840-Poplar-Dr-SE-Kimball-MN-55353/91506946_zpid/,840 Poplar Dr SE,55353,Kimball,MN,45.310585,-94.286429,189420.0,1.75,4.0,1572.0,2006,10803.0,SINGLE_FAMILY,PRE_FORECLOSURE,0
+207002790,https://www.zillow.com/homedetails/584-Elm-St-N-Kimball-MN-55353/207002790_zpid/,584 Elm St N,55353,Kimball,MN,45.32379,-94.302706,244900.0,1.0,2.0,1097.0,2020,20342.0,SINGLE_FAMILY,FOR_SALE,20

@@ -1,0 +1,2 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106627562,https://www.zillow.com/homedetails/24955-E-Ballpark-St-Essig-MN-56030/106627562_zpid/,24955 E Ballpark St,56030,Essig,MN,44.325541,-94.604341,100000.0,2.0,3.0,2756.0,1930,13939.0,SINGLE_FAMILY,SOLD,20

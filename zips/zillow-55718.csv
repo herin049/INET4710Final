@@ -1,0 +1,9 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+110935459,https://www.zillow.com/homedetails/1807-County-Road-61-Carlton-MN-55718/110935459_zpid/,1807 County Road 61,55718,Carlton,MN,46.639338,-92.512569,265000.0,2.0,3.0,1320.0,2002,444312.0,SINGLE_FAMILY,FOR_SALE,16
+2083589344,https://www.zillow.com/homedetails/1641-County-Road-5-Carlton-MN-55718/2083589344_zpid/,1641 County Road 5,55718,Carlton,MN,46.653252,-92.533435,299999.0,3.0,4.0,3451.0,1968,217800.0,SINGLE_FAMILY,FOR_SALE,34
+2080695581,https://www.zillow.com/homedetails/1920-County-Road-3-Carlton-MN-55718/2080695581_zpid/,1920 County Road 3,55718,Carlton,MN,46.633055,-92.427003,349000.0,4.0,4.0,2150.0,1920,266587.0,SINGLE_FAMILY,FOR_SALE,43
+110935376,https://www.zillow.com/homedetails/2019-W-Chub-Lake-Rd-Carlton-MN-55718/110935376_zpid/,2019 W Chub Lake Rd,55718,Carlton,MN,46.625375,-92.468129,324900.0,2.0,3.0,2154.0,2002,84942.0,SINGLE_FAMILY,FOR_SALE,40
+2081039528,https://www.zillow.com/homedetails/2338-Lakeside-Cir-Carlton-MN-55718/2081039528_zpid/,2338 Lakeside Cir,55718,Carlton,MN,46.604473,-92.455489,399500.0,3.0,3.0,2410.0,2019,169884.0,SINGLE_FAMILY,FOR_SALE,32
+124016295,https://www.zillow.com/homedetails/530-Lindberg-Dr-Carlton-MN-55718/124016295_zpid/,530 Lindberg Dr,55718,Carlton,MN,46.652864,-92.424423,101000.0,2.0,3.0,1056.0,1973,8276.0,SINGLE_FAMILY,FOR_SALE,24
+114130448,https://www.zillow.com/homedetails/333-Chestnut-Ave-Carlton-MN-55718/114130448_zpid/,333 Chestnut Ave,55718,Carlton,MN,46.664348,-92.423038,109900.0,1.0,2.0,864.0,1900,9583.0,SINGLE_FAMILY,FOR_SALE,14
+2123534465,https://www.zillow.com/homedetails/1637-County-Road-4-Carlton-MN-55718/2123534465_zpid/,1637 County Road 4,55718,Carlton,MN,46.591994,-92.462808,389900.0,2.0,5.0,1454.0,2012,111949.0,SINGLE_FAMILY,FOR_SALE,27

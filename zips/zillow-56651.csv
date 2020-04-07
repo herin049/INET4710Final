@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2080309694,https://www.zillow.com/homedetails/39532-Spruce-Grove-Rd-SE-Lengby-MN-56651/2080309694_zpid/,39532 Spruce Grove Rd SE,56651,Lengby,MN,47.50554,-95.639664,49900.0,1.0,1.0,408.0,2000,209523.0,SINGLE_FAMILY,FOR_SALE,10
+2080309925,https://www.zillow.com/homedetails/39496-Spruce-Grove-Rd-SE-Lengby-MN-56651/2080309925_zpid/,39496 Spruce Grove Rd SE,56651,Lengby,MN,47.507001,-95.632274,57900.0,1.0,1.0,408.0,2000,165963.0,SINGLE_FAMILY,FOR_SALE,13
+2083643715,https://www.zillow.com/homedetails/1266-289th-Ave-Lengby-MN-56651/2083643715_zpid/,1266 289th Ave,56651,Lengby,MN,47.458976,-95.659431,129900.0,3.0,0.0,2184.0,1956,44431.0,LOT,FOR_SALE,8

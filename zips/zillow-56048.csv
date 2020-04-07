@@ -1,0 +1,9 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+115011226,https://www.zillow.com/homedetails/107-Holly-Ln-Janesville-MN-56048/115011226_zpid/,107 Holly Ln,56048,Janesville,MN,44.110858,-93.706262,189900.0,2.0,3.0,1576.0,1981,10454.0,SINGLE_FAMILY,FOR_SALE,39
+114982330,https://www.zillow.com/homedetails/610-W-Allyn-St-Janesville-MN-56048/114982330_zpid/,610 W Allyn St,56048,Janesville,MN,44.120982,-93.715586,185000.0,2.0,3.0,2288.0,1968,11325.0,SINGLE_FAMILY,FOR_SALE,23
+115007592,https://www.zillow.com/homedetails/107-W-North-St-Janesville-MN-56048/115007592_zpid/,107 W North St,56048,Janesville,MN,44.12349,-93.708877,219500.0,2.0,3.0,1509.0,1960,30492.0,SINGLE_FAMILY,FOR_SALE,24
+115011197,https://www.zillow.com/homedetails/111-E-1st-St-Janesville-MN-56048/115011197_zpid/,111 E 1st St,56048,Janesville,MN,44.11601,-93.706335,75000.0,2.0,2.0,4019.0,1856,3920.0,SINGLE_FAMILY,FOR_SALE,14
+299782308,https://www.zillow.com/homedetails/539-Oakwood-Dr-Janesville-MN-56048/299782308_zpid/,539 Oakwood Dr,56048,Janesville,MN,44.125662,-93.703737,213900.0,2.0,3.0,1664.0,2019,21780.0,SINGLE_FAMILY,FOR_SALE,16
+115004028,https://www.zillow.com/homedetails/407-S-Teal-St-Janesville-MN-56048/115004028_zpid/,407 S Teal St,56048,Janesville,MN,44.112531,-93.704274,159900.0,2.0,3.0,1944.0,1978,10890.0,SINGLE_FAMILY,FOR_SALE,18
+114985773,https://www.zillow.com/homedetails/300-W-4th-St-Janesville-MN-56048/114985773_zpid/,300 W 4th St,56048,Janesville,MN,44.11962,-93.710723,151125.0,2.0,3.0,2186.0,1918,7735.0,SINGLE_FAMILY,PRE_FORECLOSURE,48
+2083922173,https://www.zillow.com/homedetails/514-Allyn-Cir-Janesville-MN-56048/2083922173_zpid/,514 Allyn Cir,56048,Janesville,MN,44.121396,-93.701235,225000.0,1.0,2.0,2096.0,2019,7840.0,SINGLE_FAMILY,FOR_SALE,8

@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106683875,https://www.zillow.com/homedetails/201-Iowa-Ave-S-Eitzen-MN-55931/106683875_zpid/,201 Iowa Ave S,55931,Eitzen,MN,43.506598,-91.463395,110000.0,2.0,3.0,1252.0,1890,12450.0,SINGLE_FAMILY,FOR_SALE,8
+106683977,https://www.zillow.com/homedetails/513-E-Main-St-Eitzen-MN-55931/106683977_zpid/,513 E Main St,55931,Eitzen,MN,43.50824,-91.454873,115000.0,1.0,2.0,1186.0,1974,16117.0,SINGLE_FAMILY,FOR_SALE,12
+106683870,https://www.zillow.com/homedetails/305-Townline-Rd-Eitzen-MN-55931/106683870_zpid/,305 Townline Rd,55931,Eitzen,MN,43.511125,-91.467193,129000.0,1.0,3.0,1596.0,1977,20908.0,SINGLE_FAMILY,FOR_SALE,20
+106687508,https://www.zillow.com/homedetails/3272-County-5-Eitzen-MN-55931/106687508_zpid/,3272 County 5,55931,Eitzen,MN,43.528041,-91.314641,350000.0,2.0,4.0,1872.0,2005,762300.0,SINGLE_FAMILY,FOR_SALE,22

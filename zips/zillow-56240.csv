@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106620248,https://www.zillow.com/homedetails/104-W-2nd-St-Graceville-MN-56240/106620248_zpid/,104 W 2nd St,56240,Graceville,MN,45.560232,-96.433533,315000.0,3.0,5.0,3660.0,2004,19906.0,SINGLE_FAMILY,FOR_SALE,39
+106619657,https://www.zillow.com/homedetails/28555-810th-Ave-Graceville-MN-56240/106619657_zpid/,28555 810th Ave,56240,Graceville,MN,45.492239,-96.598166,99500.0,1.0,3.0,2292.0,1890,895157.0,SINGLE_FAMILY,FOR_SALE,13

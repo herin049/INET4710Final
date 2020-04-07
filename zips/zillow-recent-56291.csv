@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2098851728,https://www.zillow.com/homedetails/2878-210th-Ave-Taunton-MN-56291/2098851728_zpid/,2878 210th Ave,56291,Taunton,MN,44.70304,-96.07948,170000.0,3.0,4.0,2736.0,2011,304920.0,SINGLE_FAMILY,RECENTLY_SOLD,21
+122616633,https://www.zillow.com/homedetails/2954-190th-Ave-Taunton-MN-56291/122616633_zpid/,2954 190th Ave,56291,Taunton,MN,44.676587,-96.061244,330000.0,2.0,4.0,2028.0,1977,6969600.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106744425,https://www.zillow.com/homedetails/205-N-Adams-St-Taunton-MN-56291/106744425_zpid/,205 N Adams St,56291,Taunton,MN,44.594018,-96.062533,63000.0,3.0,3.0,1770.0,1939,23958.0,SINGLE_FAMILY,SOLD,49
+106744862,https://www.zillow.com/homedetails/205-N-Lincoln-St-Taunton-MN-56291/106744862_zpid/,205 N Lincoln St,56291,Taunton,MN,44.595767,-96.06622,53500.0,2.0,2.0,1422.0,1900,13939.0,SINGLE_FAMILY,SOLD,0

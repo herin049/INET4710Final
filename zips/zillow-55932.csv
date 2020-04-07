@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2080580722,https://www.zillow.com/homedetails/20-Sunset-Blvd-SW-Elgin-MN-55932/2080580722_zpid/,20 Sunset Blvd SW,55932,Elgin,MN,44.129566,-92.26115,239900.0,1.0,2.0,1076.0,2020,18090.0,SINGLE_FAMILY,FOR_SALE,18
+98953410,https://www.zillow.com/homedetails/50524-286th-Ave-Elgin-MN-55932/98953410_zpid/,50524 286th Ave,55932,Elgin,MN,44.114188,-92.240828,279900.0,2.0,4.0,2448.0,1974,33976.0,SINGLE_FAMILY,FOR_SALE,26
+98950987,https://www.zillow.com/homedetails/204-1st-Ct-NE-Elgin-MN-55932/98950987_zpid/,204 1st Ct NE,55932,Elgin,MN,44.131081,-92.245893,224900.0,2.0,3.0,2082.0,2004,5227.0,SINGLE_FAMILY,FOR_SALE,26

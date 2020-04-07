@@ -1,0 +1,7 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+120642051,https://www.zillow.com/homedetails/31149-County-Road-40-Effie-MN-56639/120642051_zpid/,31149 County Road 40,56639,Effie,MN,47.873491,-93.512866,269000.0,1.0,3.0,900.0,2006,44866.0,SINGLE_FAMILY,FOR_SALE,17
+2081546198,https://www.zillow.com/homedetails/34922-Rice-Rapids-Rd-Effie-MN-56639/2081546198_zpid/,34922 Rice Rapids Rd,56639,Effie,MN,47.91304,-93.652709,89900.0,1.0,2.0,936.0,1985,239144.0,SINGLE_FAMILY,FOR_SALE,21
+2124593775,https://www.zillow.com/homedetails/67450-Busties-Lake-Access-Effie-MN-56639/2124593775_zpid/,67450 Busties Lake Access,56639,Effie,MN,47.864124,-93.496761,179900.0,2.0,3.0,1440.0,1960,265716.0,SINGLE_FAMILY,FOR_SALE,18
+112243927,https://www.zillow.com/homedetails/34260-State-Highway-1-Effie-MN-56639/112243927_zpid/,34260 State Highway 1,56639,Effie,MN,47.841963,-93.58649,149900.0,2.0,4.0,1590.0,1927,871200.0,SINGLE_FAMILY,FOR_SALE,18
+103947432,https://www.zillow.com/homedetails/32986-County-Road-42-Effie-MN-56639/103947432_zpid/,32986 County Road 42,56639,Effie,MN,47.820607,-93.551222,254500.0,1.0,2.0,1848.0,1940,4269751.0,SINGLE_FAMILY,FOR_SALE,18
+120642358,https://www.zillow.com/homedetails/32744-County-Road-42-Effie-MN-56639/120642358_zpid/,32744 County Road 42,56639,Effie,MN,47.81959,-93.548777,145000.0,2.0,3.0,1380.0,2005,720482.0,SINGLE_FAMILY,FOR_SALE,15

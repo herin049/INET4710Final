@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+116419860,https://www.zillow.com/homedetails/16658-Ironwood-Rd-NE-Oak-Park-MN-56357/116419860_zpid/,16658 Ironwood Rd NE,56357,Oak Park,MN,45.696879,-93.819689,26500.0,1.0,3.0,1792.0,1978,16247.0,SINGLE_FAMILY,FOR_SALE,11
+228734274,https://www.zillow.com/homedetails/8739-185th-Ave-NE-Oak-Park-MN-56357/228734274_zpid/,8739 185th Ave NE,56357,Oak Park,MN,45.695476,-93.784613,319900.0,3.0,4.0,2720.0,2006,871200.0,SINGLE_FAMILY,FOR_SALE,28
+228734344,https://www.zillow.com/homedetails/7852-155th-Ave-NE-Oak-Park-MN-56357/228734344_zpid/,7852 155th Ave NE,56357,Oak Park,MN,45.682474,-93.838722,379900.0,1.0,3.0,1040.0,1910,6534000.0,LOT,FOR_SALE,1
+96988533,https://www.zillow.com/homedetails/8858-165th-Ave-Oak-Park-MN-56357/96988533_zpid/,8858 165th Ave,56357,Oak Park,MN,45.675353,-93.747533,95000.0,2.0,2.0,1500.0,1980,653400.0,MANUFACTURED,FOR_SALE,15

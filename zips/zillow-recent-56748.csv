@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106814336,https://www.zillow.com/homedetails/145-Central-Ave-W-Plummer-MN-56748/106814336_zpid/,145 Central Ave W,56748,Plummer,MN,47.910883,-96.042251,89000.0,1.0,2.0,1042.0,1930,9583.0,SINGLE_FAMILY,SOLD,13
+106814307,https://www.zillow.com/homedetails/260-Central-Ave-W-Plummer-MN-56748/106814307_zpid/,260 Central Ave W,56748,Plummer,MN,47.911503,-96.044069,106000.0,2.0,4.0,2470.0,1920,9583.0,SINGLE_FAMILY,SOLD,36

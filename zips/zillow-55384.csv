@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+1868216,https://www.zillow.com/homedetails/4434-W-Arm-Rd-Spring-Park-MN-55384/1868216_zpid/,4434 W Arm Rd,55384,Spring Park,MN,44.937761,-93.636023,1389900.0,4.0,3.0,2456.0,1910,24829.0,SINGLE_FAMILY,FOR_SALE,53
+1854716,https://www.zillow.com/homedetails/3800-Sunset-Dr-Spring-Park-MN-55384/1854716_zpid/,3800 Sunset Dr,55384,Spring Park,MN,44.940989,-93.620022,800000.0,3.0,3.0,2419.0,1920,9060.0,SINGLE_FAMILY,FOR_SALE,34
+1868273,https://www.zillow.com/homedetails/4100-Spring-St-APT-409-Spring-Park-MN-55384/1868273_zpid/,4100 Spring St APT 409,55384,Spring Park,MN,44.935854,-93.626563,349999.0,2.0,1.0,1092.0,2005,4356.0,CONDO,FOR_SALE,28
+71822011,https://www.zillow.com/homedetails/4100-Spring-St-APT-412-Spring-Park-MN-55384/71822011_zpid/,4100 Spring St APT 412,55384,Spring Park,MN,44.935854,-93.626563,295000.0,1.0,1.0,954.0,2005,-1.0,CONDO,FOR_SALE,21

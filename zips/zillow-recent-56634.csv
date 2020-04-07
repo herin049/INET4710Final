@@ -1,0 +1,12 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106636965,https://www.zillow.com/homedetails/12140-450th-St-Clearbrook-MN-56634/106636965_zpid/,12140 450th St,56634,Clearbrook,MN,47.659576,-95.533631,205000.0,2.0,4.0,1766.0,1939,189050.0,SINGLE_FAMILY,RECENTLY_SOLD,20
+2083362007,https://www.zillow.com/homedetails/48688-169th-Ave-Clearbrook-MN-56634/2083362007_zpid/,48688 169th Ave,56634,Clearbrook,MN,47.711749,-95.425412,232000.0,2.0,4.0,2486.0,1920,566280.0,SINGLE_FAMILY,RECENTLY_SOLD,60
+106636308,https://www.zillow.com/homedetails/318-3rd-Ave-SE-Clearbrook-MN-56634/106636308_zpid/,318 3rd Ave SE,56634,Clearbrook,MN,47.691552,-95.423603,94000.0,4.0,4.0,2576.0,1930,17424.0,SINGLE_FAMILY,RECENTLY_SOLD,31
+115947929,https://www.zillow.com/homedetails/329-Oak-St-Clearbrook-MN-56634/115947929_zpid/,329 Oak St,56634,Clearbrook,MN,47.690674,-95.426703,49000.0,1.0,3.0,1508.0,1910,19602.0,SINGLE_FAMILY,RECENTLY_SOLD,20
+2082365676,https://www.zillow.com/homedetails/329-Oak-St-Se-Clearbrook-MN-56634/2082365676_zpid/,329 Oak St Se,56634,Clearbrook,MN,47.690698,-95.426661,49000.0,1.0,3.0,1508.0,-1,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+2084421928,https://www.zillow.com/homedetails/17014-460th-St-Clearbrook-MN-56634/2084421928_zpid/,17014 460th St,56634,Clearbrook,MN,47.674575,-95.428129,213000.0,3.0,5.0,2960.0,1918,784080.0,SINGLE_FAMILY,RECENTLY_SOLD,60
+2087493576,https://www.zillow.com/homedetails/16296-Lindberg-Lake-Rd-Clearbrook-MN-56634/2087493576_zpid/,16296 Lindberg Lake Rd,56634,Clearbrook,MN,47.648862,-95.442579,309000.0,4.0,4.0,2778.0,2005,-1.0,SINGLE_FAMILY,SOLD,1
+115947942,https://www.zillow.com/homedetails/12-Oak-St-Clearbrook-MN-56634/115947942_zpid/,12 Oak St,56634,Clearbrook,MN,47.694231,-95.425825,58500.0,2.0,3.0,1411.0,1910,13939.0,SINGLE_FAMILY,SOLD,10
+236110726,https://www.zillow.com/homedetails/17967-510th-St-Clearbrook-MN-56634/236110726_zpid/,17967 510th St,56634,Clearbrook,MN,47.742625,-95.407738,117900.0,2.0,3.0,2230.0,1938,2321748.0,SINGLE_FAMILY,SOLD,42
+106637048,https://www.zillow.com/homedetails/45739-Maplewood-Rd-Clearbrook-MN-56634/106637048_zpid/,45739 Maplewood Rd,56634,Clearbrook,MN,47.669556,-95.336616,155000.0,2.0,4.0,2740.0,1978,261360.0,SINGLE_FAMILY,SOLD,30
+2139156664,https://www.zillow.com/homedetails/107-Hazel-Ave-NW-Clearbrook-MN-56634/2139156664_zpid/,107 Hazel Ave NW,56634,Clearbrook,MN,47.698123,-95.430588,54000.0,1.0,3.0,1496.0,1946,-1.0,SINGLE_FAMILY,SOLD,1

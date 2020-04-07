@@ -1,0 +1,11 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+194685204,https://www.zillow.com/homedetails/31632-690th-Ave-Roosevelt-MN-56673/194685204_zpid/,31632 690th Ave,56673,Roosevelt,MN,48.854559,-95.112346,165000.0,3.0,5.0,2304.0,1988,326700.0,SINGLE_FAMILY,RECENTLY_SOLD,24
+2084091610,https://www.zillow.com/homedetails/28441-693rd-Ave-Roosevelt-MN-56673/2084091610_zpid/,28441 693rd Ave,56673,Roosevelt,MN,48.784,-95.1612,52000.0,2.0,3.0,1216.0,1988,69696.0,SINGLE_FAMILY,RECENTLY_SOLD,6
+194685276,https://www.zillow.com/homedetails/30186-690th-Ave-Roosevelt-MN-56673/194685276_zpid/,30186 690th Ave,56673,Roosevelt,MN,48.829682,-95.112193,191500.0,3.0,4.0,2424.0,1987,435600.0,SINGLE_FAMILY,SOLD,1
+2086223509,https://www.zillow.com/homedetails/6703-Townsite-Roosevelt-MN-56673/2086223509_zpid/,6703 Townsite,56673,Roosevelt,MN,48.956049,-95.067321,239900.0,1.0,2.0,996.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
+194685208,https://www.zillow.com/homedetails/31754-690th-Ave-Roosevelt-MN-56673/194685208_zpid/,31754 690th Ave,56673,Roosevelt,MN,48.85459,-95.109913,165000.0,3.0,4.0,2616.0,1950,435600.0,SINGLE_FAMILY,SOLD,20
+248613369,https://www.zillow.com/homedetails/9582-County-Road-8-NW-Roosevelt-MN-56673/248613369_zpid/,9582 County Road 8 NW,56673,Roosevelt,MN,48.843899,-95.078807,65800.0,1.0,1.0,864.0,1996,87120.0,SINGLE_FAMILY,SOLD,18
+2096503607,https://www.zillow.com/homedetails/67297-280th-St-Roosevelt-MN-56673/2096503607_zpid/,67297 280th St,56673,Roosevelt,MN,48.799829,-95.148759,22000.0,1.0,3.0,1116.0,1978,108900.0,SINGLE_FAMILY,SOLD,17
+2091369401,https://www.zillow.com/homedetails/29575-685th-Ave-Roosevelt-MN-56673/2091369401_zpid/,29575 685th Ave,56673,Roosevelt,MN,48.784,-95.1612,17000.0,1.0,3.0,1216.0,1978,261360.0,SINGLE_FAMILY,SOLD,8
+2097814902,https://www.zillow.com/homedetails/68379-340th-St-Roosevelt-MN-56673/2097814902_zpid/,68379 340th St,56673,Roosevelt,MN,48.886778,-95.128903,109000.0,2.0,2.0,2172.0,1975,93654.0,SINGLE_FAMILY,SOLD,16
+106725782,https://www.zillow.com/homedetails/4353-94th-Ave-NW-Roosevelt-MN-56673/106725782_zpid/,4353 94th Ave NW,56673,Roosevelt,MN,48.870528,-95.071182,105000.0,2.0,3.0,2860.0,1998,547984.0,SINGLE_FAMILY,SOLD,11

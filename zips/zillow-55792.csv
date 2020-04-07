@@ -1,0 +1,21 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+61551126,https://www.zillow.com/homedetails/502-11th-St-N-Virginia-MN-55792/61551126_zpid/,502 11th St N,55792,Virginia,MN,47.532256,-92.539749,99000.0,3.0,3.0,1080.0,1903,6098.0,SINGLE_FAMILY,FOR_SALE,19
+61551710,https://www.zillow.com/homedetails/201-1st-St-E-Virginia-MN-55792/61551710_zpid/,201 1st St E,55792,Virginia,MN,47.522554,-92.528827,64900.0,1.0,2.0,984.0,1940,6098.0,SINGLE_FAMILY,FOR_SALE,15
+61551100,https://www.zillow.com/homedetails/524-12th-St-N-Virginia-MN-55792/61551100_zpid/,524 12th St N,55792,Virginia,MN,47.533123,-92.541989,135000.0,1.0,3.0,1625.0,1902,6011.0,SINGLE_FAMILY,FOR_SALE,23
+61553010,https://www.zillow.com/homedetails/1404-N-9th-Ave-Virginia-MN-55792/61553010_zpid/,1404 N 9th Ave,55792,Virginia,MN,47.534783,-92.547347,129999.0,3.0,3.0,2130.0,1927,3920.0,SINGLE_FAMILY,FOR_SALE,27
+2080866305,https://www.zillow.com/homedetails/205-1-St-Est-Virginia-MN-55792/2080866305_zpid/,205 1 St Est,55792,Virginia,MN,47.594813,-92.493496,120000.0,2.0,2.0,792.0,1908,6011.0,SINGLE_FAMILY,FOR_SALE,1
+2081126032,https://www.zillow.com/homedetails/413-8-1-2-St-S-Virginia-MN-55792/2081126032_zpid/,413 8 1/2 St S,55792,Virginia,MN,47.515475,-92.537295,59900.0,2.0,2.0,1208.0,1945,3920.0,SINGLE_FAMILY,FOR_SALE,20
+61566277,https://www.zillow.com/homedetails/5472-Highway-7-Virginia-MN-55792/61566277_zpid/,5472 Highway 7,55792,Virginia,MN,47.514614,-92.570041,161928.0,2.0,3.0,1456.0,1925,-1.0,SINGLE_FAMILY,PRE_FORECLOSURE,1
+61567016,https://www.zillow.com/homedetails/5421-Bluebell-Ave-Virginia-MN-55792/61567016_zpid/,5421 Bluebell Ave,55792,Virginia,MN,47.511392,-92.566576,283900.0,3.0,3.0,2572.0,1997,12240.0,SINGLE_FAMILY,FOR_SALE,46
+61551263,https://www.zillow.com/homedetails/515-10th-St-S-Virginia-MN-55792/61551263_zpid/,515 10th St S,55792,Virginia,MN,47.514192,-92.540346,18270.0,1.0,3.0,934.0,1910,4356.0,SINGLE_FAMILY,FOR_SALE,15
+61551264,https://www.zillow.com/homedetails/513-10th-St-S-Virginia-MN-55792/61551264_zpid/,513 10th St S,55792,Virginia,MN,47.514194,-92.540194,64900.0,1.0,2.0,888.0,1912,4356.0,SINGLE_FAMILY,FOR_SALE,28
+61610615,https://www.zillow.com/homedetails/6864-Willow-Rd-Virginia-MN-55792/61610615_zpid/,6864 Willow Rd,55792,Virginia,MN,47.617291,-92.4406,156487.0,1.0,2.0,1040.0,2007,87120.0,SINGLE_FAMILY,FORECLOSED,0
+61553016,https://www.zillow.com/homedetails/810-14th-St-N-Virginia-MN-55792/61553016_zpid/,810 14th St N,55792,Virginia,MN,47.53488,-92.546344,97000.0,2.0,3.0,1344.0,1914,5967.0,SINGLE_FAMILY,FOR_SALE,28
+61550706,https://www.zillow.com/homedetails/120-5th-St-S-Virginia-MN-55792/61550706_zpid/,120 5th St S,55792,Virginia,MN,47.518512,-92.532238,38900.0,2.0,3.0,1600.0,1911,6098.0,SINGLE_FAMILY,FOR_SALE,13
+61553048,https://www.zillow.com/homedetails/408-S-10th-Ave-Virginia-MN-55792/61553048_zpid/,408 S 10th Ave,55792,Virginia,MN,47.519589,-92.548013,164900.0,2.0,3.0,2531.0,1955,-1.0,SINGLE_FAMILY,FOR_SALE,28
+61550849,https://www.zillow.com/homedetails/417-7th-St-S-Virginia-MN-55792/61550849_zpid/,417 7th St S,55792,Virginia,MN,47.517189,-92.537583,87604.0,1.5,3.0,1161.0,1910,4356.0,SINGLE_FAMILY,FORECLOSED,5
+61552907,https://www.zillow.com/homedetails/617-15th-St-N-Virginia-MN-55792/61552907_zpid/,617 15th St N,55792,Virginia,MN,47.536292,-92.543223,68900.0,2.0,2.0,826.0,1906,7840.0,SINGLE_FAMILY,FOR_SALE,31
+61603788,https://www.zillow.com/homedetails/6938-Highway-169-Virginia-MN-55792/61603788_zpid/,6938 Highway 169,55792,Virginia,MN,47.673797,-92.416133,675000.0,2.0,5.0,3325.0,1974,2176693.0,SINGLE_FAMILY,FOR_SALE,35
+61552963,https://www.zillow.com/homedetails/1410-N-7th-Ave-Virginia-MN-55792/61552963_zpid/,1410 N 7th Ave,55792,Virginia,MN,47.535886,-92.544117,34900.0,1.0,2.0,798.0,1919,30492.0,SINGLE_FAMILY,FOR_SALE,18
+2084227801,https://www.zillow.com/homedetails/315-8-1-2-St-S-Virginia-MN-55792/2084227801_zpid/,315 8 1/2 St S,55792,Virginia,MN,47.515464,-92.535641,45000.0,1.0,2.0,1078.0,1923,3441.0,SINGLE_FAMILY,FOR_SALE,23
+61550217,https://www.zillow.com/homedetails/224-4th-St-N-Virginia-MN-55792/61550217_zpid/,224 4th St N,55792,Virginia,MN,47.526549,-92.534313,90000.0,2.0,4.0,2250.0,1950,5662.0,SINGLE_FAMILY,FOR_SALE,15

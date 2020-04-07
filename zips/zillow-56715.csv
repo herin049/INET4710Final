@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106814040,https://www.zillow.com/homedetails/505-Minnesota-Ave-Brooks-MN-56715/106814040_zpid/,505 Minnesota Ave,56715,Brooks,MN,47.813902,-96.006435,86900.0,2.0,3.0,2400.0,-1,130680.0,SINGLE_FAMILY,FOR_SALE,7
+2082622645,https://www.zillow.com/homedetails/24767-300th-Ave-SE-Brooks-MN-56715/2082622645_zpid/,24767 300th Ave SE,56715,Brooks,MN,47.808531,-95.837556,169900.0,2.0,3.0,2352.0,1983,326700.0,SINGLE_FAMILY,FOR_SALE,1
+106814024,https://www.zillow.com/homedetails/802-Hill-River-Rd-Brooks-MN-56715/106814024_zpid/,802 Hill River Rd,56715,Brooks,MN,47.821587,-96.011373,275000.0,3.0,4.0,3528.0,1967,243936.0,SINGLE_FAMILY,FOR_SALE,38

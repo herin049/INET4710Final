@@ -1,0 +1,15 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+124717770,https://www.zillow.com/homedetails/525-4th-Ave-W-Keewatin-MN-55753/124717770_zpid/,525 4th Ave W,55753,Keewatin,MN,47.399376,-93.083315,100000.0,2.0,2.0,1158.0,1952,11000.0,SINGLE_FAMILY,RECENTLY_SOLD,39
+120636901,https://www.zillow.com/homedetails/211-Howard-Ave-E-Keewatin-MN-55753/120636901_zpid/,211 Howard Ave E,55753,Keewatin,MN,47.395041,-93.072465,86000.0,2.0,3.0,1152.0,1949,6098.0,SINGLE_FAMILY,RECENTLY_SOLD,1
+120642735,https://www.zillow.com/homedetails/120-2nd-Ave-W-Keewatin-MN-55753/120642735_zpid/,120 2nd Ave W,55753,Keewatin,MN,47.39821,-93.076849,114000.0,2.0,3.0,1440.0,1930,6098.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+2083622010,https://www.zillow.com/homedetails/122-2nd-Ave-W-Keewatin-MN-55753/2083622010_zpid/,122 2nd Ave W,55753,Keewatin,MN,47.397926,-93.075338,114000.0,2.0,3.0,1440.0,1930,6098.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+120638591,https://www.zillow.com/homedetails/502-W-3rd-Ave-Keewatin-MN-55753/120638591_zpid/,502 W 3rd Ave,55753,Keewatin,MN,47.39901,-93.082263,115000.0,3.0,3.0,1832.0,1911,14810.0,SINGLE_FAMILY,RECENTLY_SOLD,17
+120637570,https://www.zillow.com/homedetails/618-1st-Ave-W-Keewatin-MN-55753/120637570_zpid/,618 1st Ave W,55753,Keewatin,MN,47.397138,-93.084771,27000.0,2.0,2.0,840.0,1950,6098.0,SINGLE_FAMILY,RECENTLY_SOLD,9
+120640957,https://www.zillow.com/homedetails/500-2nd-Ave-W-Keewatin-MN-55753/120640957_zpid/,500 2nd Ave W,55753,Keewatin,MN,47.398102,-93.082122,28000.0,2.0,3.0,672.0,1950,6098.0,SINGLE_FAMILY,RECENTLY_SOLD,1
+120640659,https://www.zillow.com/homedetails/620-W-3rd-Ave-Keewatin-MN-55753/120640659_zpid/,620 W 3rd Ave,55753,Keewatin,MN,47.398954,-93.085052,76300.0,1.0,3.0,1472.0,1920,6098.0,SINGLE_FAMILY,SOLD,1
+120639616,https://www.zillow.com/homedetails/523-W-1st-Ave-Keewatin-MN-55753/120639616_zpid/,523 W 1st Ave,55753,Keewatin,MN,47.39669,-93.083121,65500.0,2.0,2.0,918.0,1950,6969.0,SINGLE_FAMILY,SOLD,0
+120641499,https://www.zillow.com/homedetails/216-W-3rd-Ave-Keewatin-MN-55753/120641499_zpid/,216 W 3rd Ave,55753,Keewatin,MN,47.399089,-93.078416,72500.0,2.0,4.0,1304.0,1945,3049.0,SINGLE_FAMILY,SOLD,18
+120638947,https://www.zillow.com/homedetails/410-S-Thomas-St-Keewatin-MN-55753/120638947_zpid/,410 S Thomas St,55753,Keewatin,MN,47.394158,-93.07105,8600.0,1.0,3.0,1230.0,1950,9583.0,SINGLE_FAMILY,SOLD,17
+120639613,https://www.zillow.com/homedetails/626-1st-Ave-W-Keewatin-MN-55753/120639613_zpid/,626 1st Ave W,55753,Keewatin,MN,47.39713,-93.08518,61500.0,2.0,3.0,1312.0,1945,6534.0,SINGLE_FAMILY,SOLD,11
+120639285,https://www.zillow.com/homedetails/305-Howard-Ave-W-Keewatin-MN-55753/120639285_zpid/,305 Howard Ave W,55753,Keewatin,MN,47.3949,-93.079536,11000.0,2.0,4.0,1328.0,1909,7840.0,SINGLE_FAMILY,SOLD,8
+2093540540,https://www.zillow.com/homedetails/410-North-6th-Street-Keewatin-MN-55753/2093540540_zpid/,410 North 6th Street,55753,Keewatin,MN,47.400123,-93.083159,30000.0,1.0,3.0,1200.0,-1,-1.0,SINGLE_FAMILY,SOLD,0

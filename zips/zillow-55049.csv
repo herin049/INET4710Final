@@ -1,0 +1,8 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106826713,https://www.zillow.com/homedetails/103-4th-St-SW-Medford-MN-55049/106826713_zpid/,103 4th St SW,55049,Medford,MN,44.172885,-93.252085,179900.0,2.0,4.0,1840.0,1969,11194.0,SINGLE_FAMILY,FOR_SALE,27
+113910130,https://www.zillow.com/homedetails/5888-N-Cedar-Ave-Medford-MN-55049/113910130_zpid/,5888 N Cedar Ave,55049,Medford,MN,44.157078,-93.22794,529000.0,4.0,5.0,3824.0,2010,174240.0,SINGLE_FAMILY,FOR_SALE,7
+2081055948,https://www.zillow.com/homedetails/4600-NW-66th-St-159-Medford-MN-55049/2081055948_zpid/,4600 NW 66th St #159,55049,Medford,MN,44.171492,-93.236441,65800.0,2.0,2.0,1568.0,2003,-1.0,MANUFACTURED,FOR_SALE,16
+106826602,https://www.zillow.com/homedetails/112-Sunrise-Dr-Medford-MN-55049/106826602_zpid/,112 Sunrise Dr,55049,Medford,MN,44.175718,-93.245309,129900.0,1.0,2.0,1315.0,1890,10890.0,SINGLE_FAMILY,FOR_SALE,28
+106826462,https://www.zillow.com/homedetails/211-1st-Ave-NE-Medford-MN-55049/106826462_zpid/,211 1st Ave NE,55049,Medford,MN,44.174432,-93.244857,105000.0,2.0,3.0,1568.0,1910,21750.0,SINGLE_FAMILY,FOR_SALE,11
+122378339,https://www.zillow.com/homedetails/5707-NW-42nd-Ave-Medford-MN-55049/122378339_zpid/,5707 NW 42nd Ave,55049,Medford,MN,44.155129,-93.286192,309000.0,2.0,4.0,1800.0,1917,147200.0,SINGLE_FAMILY,FOR_SALE,33
+225619706,https://www.zillow.com/homedetails/552-Forest-Ln-Medford-MN-55049/225619706_zpid/,552 Forest Ln,55049,Medford,MN,44.170329,-93.237663,369900.0,3.0,4.0,4152.0,2018,12632.0,SINGLE_FAMILY,FOR_SALE,36

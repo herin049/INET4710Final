@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106611756,https://www.zillow.com/homedetails/30530-300th-St-Callaway-MN-56521/106611756_zpid/,30530 300th St,56521,Callaway,MN,47.007974,-95.750714,273000.0,2.0,3.0,3280.0,1969,1742400.0,SINGLE_FAMILY,FOR_SALE,49
+106610432,https://www.zillow.com/homedetails/25392-260th-St-Callaway-MN-56521/106610432_zpid/,25392 260th St,56521,Callaway,MN,46.953041,-95.873803,239000.0,2.0,4.0,1296.0,1900,875556.0,SINGLE_FAMILY,FOR_SALE,51

@@ -1,0 +1,13 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+103941277,https://www.zillow.com/homedetails/65933-County-Road-533-Effie-MN-56639/103941277_zpid/,65933 County Road 533,56639,Effie,MN,47.836417,-93.356704,179500.0,2.0,2.0,1303.0,1986,110642.0,SINGLE_FAMILY,RECENTLY_SOLD,26
+120641456,https://www.zillow.com/homedetails/66302-Circle-Pine-Rd-Effie-MN-56639/120641456_zpid/,66302 Circle Pine Rd,56639,Effie,MN,47.840896,-93.368169,149000.0,1.0,1.0,991.0,1750,20908.0,SINGLE_FAMILY,RECENTLY_SOLD,18
+120643981,https://www.zillow.com/homedetails/65506-County-Road-533-Effie-MN-56639/120643981_zpid/,65506 County Road 533,56639,Effie,MN,47.8289,-93.360132,140000.0,1.0,2.0,1034.0,1982,50529.0,SINGLE_FAMILY,RECENTLY_SOLD,12
+120640446,https://www.zillow.com/homedetails/25388-County-Road-523-Effie-MN-56639/120640446_zpid/,25388 County Road 523,56639,Effie,MN,47.8534,-93.385662,175000.0,2.0,2.0,1520.0,2011,34848.0,SINGLE_FAMILY,RECENTLY_SOLD,14
+120642055,https://www.zillow.com/homedetails/34657-State-Highway-1-Effie-MN-56639/120642055_zpid/,34657 State Highway 1,56639,Effie,MN,47.838142,-93.587814,126500.0,2.0,3.0,1492.0,1936,5227200.0,SINGLE_FAMILY,RECENTLY_SOLD,17
+112243972,https://www.zillow.com/homedetails/35601-County-Road-40-Effie-MN-56639/112243972_zpid/,35601 County Road 40,56639,Effie,MN,47.881652,-93.609463,120000.0,1.0,3.0,1014.0,1946,1735865.0,SINGLE_FAMILY,SOLD,18
+120644599,https://www.zillow.com/homedetails/25070-Deer-Acres-Dr-Effie-MN-56639/120644599_zpid/,25070 Deer Acres Dr,56639,Effie,MN,47.851368,-93.38825,175000.0,1.0,2.0,1176.0,2006,114127.0,SINGLE_FAMILY,SOLD,41
+120642419,https://www.zillow.com/homedetails/24970-N-Deer-Lake-Rd-Effie-MN-56639/120642419_zpid/,24970 N Deer Lake Rd,56639,Effie,MN,47.844872,-93.379847,186000.0,1.0,2.0,1057.0,1980,52707.0,SINGLE_FAMILY,SOLD,9
+103947421,https://www.zillow.com/homedetails/66767-County-Road-230-Effie-MN-56639/103947421_zpid/,66767 County Road 230,56639,Effie,MN,47.853317,-93.487019,29500.0,2.0,3.0,1347.0,1958,823719.0,SINGLE_FAMILY,SOLD,18
+120643978,https://www.zillow.com/homedetails/66316-Circle-Pine-Rd-Effie-MN-56639/120643978_zpid/,66316 Circle Pine Rd,56639,Effie,MN,47.841128,-93.368387,130000.0,1.0,2.0,835.0,1958,26136.0,SINGLE_FAMILY,SOLD,18
+103941270,https://www.zillow.com/homedetails/15200-Latopp-Ct-Newstrand-MN-56639/103941270_zpid/,15200 Latopp Ct,56639,Newstrand,MN,47.842143,-93.367346,155000.0,1.0,3.0,2240.0,1940,354578.0,SINGLE_FAMILY,SOLD,18
+103941260,https://www.zillow.com/homedetails/24920-N-Deer-Lake-Rd-Effie-MN-56639/103941260_zpid/,24920 N Deer Lake Rd,56639,Effie,MN,47.847659,-93.380173,989.0,3.0,3.0,1732.0,2008,77972.0,SINGLE_FAMILY,SOLD,29

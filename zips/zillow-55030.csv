@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+91495292,https://www.zillow.com/homedetails/19131-Klondike-Loop-Grasston-MN-55030/91495292_zpid/,19131 Klondike Loop,55030,Grasston,MN,45.869486,-93.091325,245000.0,2.0,3.0,1244.0,1994,28052.0,SINGLE_FAMILY,FOR_SALE,24
+103954150,https://www.zillow.com/homedetails/18176-Auburn-Rd-Grasston-MN-55030/103954150_zpid/,18176 Auburn Rd,55030,Grasston,MN,45.863036,-93.112684,178669.0,2.0,3.0,1705.0,2004,326700.0,SINGLE_FAMILY,PRE_FORECLOSURE,4
+106693919,https://www.zillow.com/homedetails/210-Oak-St-Grasston-MN-55030/106693919_zpid/,210 Oak St,55030,Grasston,MN,45.793604,-93.148519,124000.0,2.0,3.0,1883.0,2002,17424.0,SINGLE_FAMILY,FOR_SALE,15

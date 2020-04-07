@@ -1,0 +1,7 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+92549314,https://www.zillow.com/homedetails/22229-County-Road-30-Crosby-MN-56441/92549314_zpid/,22229 County Road 30,56441,Crosby,MN,46.539589,-93.933334,238000.0,2.0,3.0,1920.0,1996,108900.0,SINGLE_FAMILY,FOR_SALE,12
+92525370,https://www.zillow.com/homedetails/225-4th-St-NE-Crosby-MN-56441/92525370_zpid/,225 4th St NE,56441,Crosby,MN,46.486364,-93.947196,79900.0,1.0,2.0,768.0,1960,6534.0,SINGLE_FAMILY,FOR_SALE,19
+92546330,https://www.zillow.com/homedetails/31575-State-Highway-6-Crosby-MN-56441/92546330_zpid/,31575 State Highway 6,56441,Crosby,MN,46.610214,-93.951089,169900.0,1.0,3.0,1386.0,1957,2156220.0,SINGLE_FAMILY,FOR_SALE,27
+92522304,https://www.zillow.com/homedetails/770-Lakeshore-Dr-Crosby-MN-56441/92522304_zpid/,770 Lakeshore Dr,56441,Crosby,MN,46.47634,-93.956537,292700.0,2.0,3.0,2116.0,1973,27007.0,SINGLE_FAMILY,FOR_SALE,28
+92529990,https://www.zillow.com/homedetails/18995-County-Road-30-Crosby-MN-56441/92529990_zpid/,18995 County Road 30,56441,Crosby,MN,46.53088,-93.998017,595000.0,5.0,6.0,7583.0,2006,871200.0,SINGLE_FAMILY,FOR_SALE,36
+92521974,https://www.zillow.com/homedetails/16496-Miller-Lake-Rd-Crosby-MN-56441/92521974_zpid/,16496 Miller Lake Rd,56441,Crosby,MN,46.517004,-94.054785,829900.0,3.0,3.0,4751.0,2001,619858.0,SINGLE_FAMILY,FOR_SALE,41

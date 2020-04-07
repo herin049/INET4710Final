@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+121498810,https://www.zillow.com/homedetails/275-1st-Ave-W-Burtrum-MN-56318/121498810_zpid/,275 1st Ave W,56318,Burtrum,MN,45.811521,-94.582447,279900.0,3.0,4.0,1680.0,2002,217800.0,SINGLE_FAMILY,FOR_SALE,29
+106848268,https://www.zillow.com/homedetails/29833-County-13-Burtrum-MN-56318/106848268_zpid/,29833 County 13,56318,Burtrum,MN,45.911275,-94.741266,245000.0,1.0,4.0,1549.0,1915,914760.0,SINGLE_FAMILY,FOR_SALE,33
+106848460,https://www.zillow.com/homedetails/17580-Dutchman-Dr-Burtrum-MN-56318/106848460_zpid/,17580 Dutchman Dr,56318,Burtrum,MN,45.886505,-94.692876,350000.0,3.0,4.0,4716.0,1995,81892.0,SINGLE_FAMILY,FOR_SALE,46
+2088175959,https://www.zillow.com/homedetails/31710-County-13-Burtrum-MN-56318/2088175959_zpid/,31710 County 13,56318,Burtrum,MN,45.87511,-94.726295,169900.0,1.0,1.0,1100.0,1953,6577.0,SINGLE_FAMILY,FOR_SALE,18

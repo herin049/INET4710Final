@@ -1,0 +1,13 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106736684,https://www.zillow.com/homedetails/1495-Terrace-Dr-Lake-Benton-MN-56149/106736684_zpid/,1495 Terrace Dr,56149,Lake Benton,MN,44.398269,-96.364836,170000.0,3.0,2.0,2600.0,1935,21780.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106738144,https://www.zillow.com/homedetails/2194-Benton-Cove-Dr-Lake-Benton-MN-56149/106738144_zpid/,2194 Benton Cove Dr,56149,Lake Benton,MN,44.297145,-96.221996,180000.0,1.0,3.0,2150.0,1941,30492.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106737366,https://www.zillow.com/homedetails/301-Fremont-St-S-Lake-Benton-MN-56149/106737366_zpid/,301 Fremont St S,56149,Lake Benton,MN,44.255882,-96.285241,60000.0,2.0,2.0,1088.0,1960,10890.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106737468,https://www.zillow.com/homedetails/108-Kent-St-S-Lake-Benton-MN-56149/106737468_zpid/,108 Kent St S,56149,Lake Benton,MN,44.260131,-96.297156,64000.0,2.0,3.0,1540.0,1954,29620.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+2088829816,https://www.zillow.com/homedetails/216-Grant-St-S-Lake-Benton-MN-56149/2088829816_zpid/,216 Grant St S,56149,Lake Benton,MN,44.257896,-96.288315,44320.0,1.0,4.0,1560.0,1960,13503.0,SINGLE_FAMILY,SOLD,0
+106737990,https://www.zillow.com/homedetails/2075-N-Shore-Dr-Lake-Benton-MN-56149/106737990_zpid/,2075 N Shore Dr,56149,Lake Benton,MN,44.299329,-96.248132,155000.0,2.0,3.0,1536.0,1981,18295.0,SINGLE_FAMILY,SOLD,0
+2126119575,https://www.zillow.com/homedetails/409-Fremont-St-S-Lake-Benton-MN-56149/2126119575_zpid/,409 Fremont St S,56149,Lake Benton,MN,44.255183,-96.285551,49000.0,2.0,2.0,1800.0,1976,-1.0,SINGLE_FAMILY,SOLD,11
+106738168,https://www.zillow.com/homedetails/2228-Bay-View-Dr-Lake-Benton-MN-56149/106738168_zpid/,2228 Bay View Dr,56149,Lake Benton,MN,44.294228,-96.217373,224900.0,2.0,2.0,1724.0,1974,23086.0,SINGLE_FAMILY,SOLD,0
+2091710759,https://www.zillow.com/homedetails/1865-130th-St-Lake-Benton-MN-56149/2091710759_zpid/,1865 130th St,56149,Lake Benton,MN,44.237832,-96.286884,160000.0,2.0,3.0,2053.0,1920,694346.0,SINGLE_FAMILY,SOLD,0
+2124454750,https://www.zillow.com/homedetails/2002-Don-Ja-Lei-Rd-Lake-Benton-MN-56149/2124454750_zpid/,2002 Don Ja Lei Rd,56149,Lake Benton,MN,44.30096,-96.24456,200934.0,1.0,2.0,1236.0,1977,22215.0,SINGLE_FAMILY,SOLD,0
+106737999,https://www.zillow.com/homedetails/2005-N-Shore-Dr-Lake-Benton-MN-56149/106737999_zpid/,2005 N Shore Dr,56149,Lake Benton,MN,44.300434,-96.257428,90000.0,1.0,3.0,960.0,1971,33105.0,SINGLE_FAMILY,SOLD,11
+106737388,https://www.zillow.com/homedetails/301-Valley-St-Lake-Benton-MN-56149/106737388_zpid/,301 Valley St,56149,Lake Benton,MN,44.258243,-96.282967,80000.0,2.0,4.0,1980.0,1965,9147.0,SINGLE_FAMILY,SOLD,10

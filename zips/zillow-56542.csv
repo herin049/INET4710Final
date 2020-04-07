@@ -1,0 +1,14 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+121498667,https://www.zillow.com/homedetails/220-Larson-Ave-N-Fosston-MN-56542/121498667_zpid/,220 Larson Ave N,56542,Fosston,MN,47.578705,-95.752321,57000.0,1.0,2.0,902.0,1952,6969.0,SINGLE_FAMILY,FOR_SALE,11
+106809268,https://www.zillow.com/homedetails/113-3rd-St-NE-Fosston-MN-56542/106809268_zpid/,113 3rd St NE,56542,Fosston,MN,47.577632,-95.748892,100000.0,2.0,2.0,963.0,1900,6011.0,SINGLE_FAMILY,FOR_SALE,2
+106809333,https://www.zillow.com/homedetails/817-2nd-St-NE-Fosston-MN-56542/106809333_zpid/,817 2nd St NE,56542,Fosston,MN,47.575573,-95.740625,61000.0,1.0,3.0,1052.0,1920,14810.0,SINGLE_FAMILY,FOR_SALE,17
+106799179,https://www.zillow.com/homedetails/38667-430th-St-SE-Fosston-MN-56542/106799179_zpid/,38667 430th St SE,56542,Fosston,MN,47.539433,-95.644845,615000.0,3.0,5.0,4618.0,2004,6969600.0,SINGLE_FAMILY,FOR_SALE,58
+226412616,https://www.zillow.com/homedetails/415-7th-St-NE-Fosston-MN-56542/226412616_zpid/,415 7th St NE,56542,Fosston,MN,47.581222,-95.746503,179900.0,2.0,3.0,2222.0,1971,15246.0,SINGLE_FAMILY,FOR_SALE,29
+106809695,https://www.zillow.com/homedetails/804-6th-St-NE-Fosston-MN-56542/106809695_zpid/,804 6th St NE,56542,Fosston,MN,47.579501,-95.7399,149900.0,3.0,3.0,1248.0,1964,9888.0,SINGLE_FAMILY,FOR_SALE,32
+106809473,https://www.zillow.com/homedetails/507-6th-St-NE-Fosston-MN-56542/106809473_zpid/,507 6th St NE,56542,Fosston,MN,47.580141,-95.745183,82500.0,2.0,4.0,1679.0,1930,10454.0,SINGLE_FAMILY,FOR_SALE,20
+115959142,https://www.zillow.com/homedetails/204-Inderlee-Ave-S-Fosston-MN-56542/115959142_zpid/,204 Inderlee Ave S,56542,Fosston,MN,47.574609,-95.751931,99900.0,3.0,4.0,2490.0,1920,10890.0,SINGLE_FAMILY,FOR_SALE,47
+106809274,https://www.zillow.com/homedetails/211-Hillestad-Ave-N-Fosston-MN-56542/106809274_zpid/,211 Hillestad Ave N,56542,Fosston,MN,47.576612,-95.747883,159900.0,3.0,4.0,1982.0,1940,7000.0,SINGLE_FAMILY,FOR_SALE,36
+106809330,https://www.zillow.com/homedetails/804-3rd-St-NE-Fosston-MN-56542/106809330_zpid/,804 3rd St NE,56542,Fosston,MN,47.57634,-95.74105,84500.0,2.0,4.0,1813.0,1890,9147.0,SINGLE_FAMILY,FOR_SALE,40
+106809521,https://www.zillow.com/homedetails/812-Foss-Ave-N-Fosston-MN-56542/106809521_zpid/,812 Foss Ave N,56542,Fosston,MN,47.582423,-95.745412,49000.0,1.0,1.0,1152.0,1965,6534.0,SINGLE_FAMILY,FOR_SALE,21
+106799300,https://www.zillow.com/homedetails/40926-370th-Ave-SE-Fosston-MN-56542/106799300_zpid/,40926 370th Ave SE,56542,Fosston,MN,47.572378,-95.681696,319000.0,3.0,4.0,2816.0,2009,436471.0,SINGLE_FAMILY,FOR_SALE,63
+106809472,https://www.zillow.com/homedetails/403-6th-St-NE-Fosston-MN-56542/106809472_zpid/,403 6th St NE,56542,Fosston,MN,47.580332,-95.74705,177500.0,3.0,4.0,2824.0,1899,24393.0,SINGLE_FAMILY,FOR_SALE,32

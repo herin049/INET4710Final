@@ -1,0 +1,9 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106854822,https://www.zillow.com/homedetails/230-Prairie-Ave-Butterfield-MN-56120/106854822_zpid/,230 Prairie Ave,56120,Butterfield,MN,43.953136,-94.795706,147750.0,2.0,3.0,1670.0,1979,49500.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106854755,https://www.zillow.com/homedetails/250-Armstrong-Ave-Butterfield-MN-56120/106854755_zpid/,250 Armstrong Ave,56120,Butterfield,MN,43.956716,-94.793127,69500.0,2.0,3.0,1456.0,1999,16500.0,MANUFACTURED,RECENTLY_SOLD,25
+106857604,https://www.zillow.com/homedetails/61936-330th-St-Butterfield-MN-56120/106857604_zpid/,61936 330th St,56120,Butterfield,MN,44.007827,-94.840726,183000.0,2.0,4.0,1108.0,1920,313632.0,SINGLE_FAMILY,RECENTLY_SOLD,36
+106857536,https://www.zillow.com/homedetails/62414-350th-St-Butterfield-MN-56120/106857536_zpid/,62414 350th St,56120,Butterfield,MN,43.978945,-94.830627,175000.0,3.0,3.0,2040.0,2008,390297.0,SINGLE_FAMILY,SOLD,37
+106854752,https://www.zillow.com/homedetails/220-4th-St-S-Butterfield-MN-56120/106854752_zpid/,220 4th St S,56120,Butterfield,MN,43.957231,-94.791613,45000.0,3.0,2.0,1022.0,1955,13939.0,SINGLE_FAMILY,SOLD,0
+106857562,https://www.zillow.com/homedetails/65582-370th-St-Butterfield-MN-56120/106857562_zpid/,65582 370th St,56120,Butterfield,MN,43.951641,-94.768133,240000.0,2.0,4.0,1656.0,1978,304920.0,SINGLE_FAMILY,SOLD,27
+106858138,https://www.zillow.com/homedetails/63674-420th-St-Butterfield-MN-56120/106858138_zpid/,63674 420th St,56120,Butterfield,MN,43.88002,-94.805936,35000.0,1.0,3.0,2087.0,1900,722224.0,SINGLE_FAMILY,SOLD,10
+106854851,https://www.zillow.com/homedetails/230-2nd-St-N-Butterfield-MN-56120/106854851_zpid/,230 2nd St N,56120,Butterfield,MN,43.960025,-94.795676,18500.0,1.0,4.0,2073.0,1907,10454.0,SINGLE_FAMILY,SOLD,0

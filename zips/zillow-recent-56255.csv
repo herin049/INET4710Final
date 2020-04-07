@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106816463,https://www.zillow.com/homedetails/303-North-St-Lucan-MN-56255/106816463_zpid/,303 North St,56255,Lucan,MN,44.41005,-95.408157,93000.0,2.0,2.0,1788.0,1962,59241.0,SINGLE_FAMILY,RECENTLY_SOLD,18
+106816436,https://www.zillow.com/homedetails/612-2nd-St-Lucan-MN-56255/106816436_zpid/,612 2nd St,56255,Lucan,MN,44.409498,-95.415668,70300.0,2.0,3.0,1242.0,1910,13982.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106816491,https://www.zillow.com/homedetails/205-Pine-St-Lucan-MN-56255/106816491_zpid/,205 Pine St,56255,Lucan,MN,44.408951,-95.412071,115540.0,2.0,4.0,3012.0,1914,8712.0,SINGLE_FAMILY,SOLD,0
+106816417,https://www.zillow.com/homedetails/302-Birch-St-Lucan-MN-56255/106816417_zpid/,302 Birch St,56255,Lucan,MN,44.408576,-95.41511,65000.0,1.0,3.0,1248.0,1983,22215.0,SINGLE_FAMILY,SOLD,0
+106816438,https://www.zillow.com/homedetails/606-2nd-St-Lucan-MN-56255/106816438_zpid/,606 2nd St,56255,Lucan,MN,44.409532,-95.414833,79500.0,2.0,2.0,3472.0,1950,10454.0,SINGLE_FAMILY,SOLD,0

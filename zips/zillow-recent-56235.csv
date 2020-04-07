@@ -1,0 +1,8 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106838025,https://www.zillow.com/homedetails/210-Edinbourgh-Ave-Donnelly-MN-56235/106838025_zpid/,210 Edinbourgh Ave,56235,Donnelly,MN,45.689769,-96.009586,42300.0,2.0,3.0,2417.0,1928,10454.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106837875,https://www.zillow.com/homedetails/107-W-3rd-St-Donnelly-MN-56235/106837875_zpid/,107 W 3rd St,56235,Donnelly,MN,45.688957,-96.013702,108900.0,2.0,3.0,1400.0,1945,6969.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+115961706,https://www.zillow.com/homedetails/404-3rd-St-Donnelly-MN-56235/115961706_zpid/,404 3rd St,56235,Donnelly,MN,45.690932,-96.006341,93000.0,2.0,4.0,2280.0,2003,2147483647.0,SINGLE_FAMILY,SOLD,22
+235794771,https://www.zillow.com/homedetails/209-3rd-St-Donnelly-MN-56235/235794771_zpid/,209 3rd St,56235,Donnelly,MN,45.690562,-96.009171,65000.0,3.0,4.0,1956.0,1911,-1.0,SINGLE_FAMILY,SOLD,0
+235794785,https://www.zillow.com/homedetails/210-3rd-St-Donnelly-MN-56235/235794785_zpid/,210 3rd St,56235,Donnelly,MN,45.690032,-96.008844,126572.0,2.0,3.0,1520.0,1910,13939.0,SINGLE_FAMILY,SOLD,0
+106838637,https://www.zillow.com/homedetails/45208-140th-St-Donnelly-MN-56235/106838637_zpid/,45208 140th St,56235,Donnelly,MN,45.695365,-95.870408,360000.0,3.0,4.0,3042.0,1995,2147483647.0,SINGLE_FAMILY,SOLD,32
+106836163,https://www.zillow.com/homedetails/55920-180th-St-Donnelly-MN-56235/106836163_zpid/,55920 180th St,56235,Donnelly,MN,45.644986,-96.087183,124000.0,2.0,3.0,2362.0,1955,604612.0,SINGLE_FAMILY,SOLD,14

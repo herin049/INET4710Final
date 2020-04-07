@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+115010160,https://www.zillow.com/homedetails/37280-Us-Highway-71-Lake-George-MN-56458/115010160_zpid/,37280 Us Highway 71,56458,Lake George,MN,47.202526,-94.988884,169800.0,1.0,2.0,1248.0,1971,44866.0,SINGLE_FAMILY,FOR_SALE,22
+114988458,https://www.zillow.com/homedetails/36202-Northern-Lights-Trl-Lake-George-MN-56458/114988458_zpid/,36202 Northern Lights Trl,56458,Lake George,MN,47.18604,-95.003399,299900.0,2.0,3.0,2990.0,1992,97574.0,SINGLE_FAMILY,FOR_SALE,47
+115006609,https://www.zillow.com/homedetails/37350-County-4-Lake-George-MN-56458/115006609_zpid/,37350 County 4,56458,Lake George,MN,47.202214,-94.993317,94900.0,1.0,2.0,1016.0,1972,17859.0,SINGLE_FAMILY,FOR_SALE,9
+114988461,https://www.zillow.com/homedetails/36155-New-Melahn-Dr-Lake-George-MN-56458/114988461_zpid/,36155 New Melahn Dr,56458,Lake George,MN,47.182691,-94.96231,359900.0,2.0,3.0,2772.0,2002,61855.0,SINGLE_FAMILY,FOR_SALE,35

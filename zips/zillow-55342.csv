@@ -1,0 +1,7 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+235801962,https://www.zillow.com/homedetails/261-2nd-St-E-Hector-MN-55342/235801962_zpid/,261 2nd St E,55342,Hector,MN,44.743163,-94.713175,39900.0,1.0,1.0,592.0,1906,10890.0,SINGLE_FAMILY,FOR_SALE,16
+106822330,https://www.zillow.com/homedetails/101-Greenwood-Ave-W-Hector-MN-55342/106822330_zpid/,101 Greenwood Ave W,55342,Hector,MN,44.738533,-94.716092,112000.0,1.0,3.0,1728.0,1910,21780.0,SINGLE_FAMILY,FOR_SALE,22
+106822216,https://www.zillow.com/homedetails/501-4th-St-E-Hector-MN-55342/106822216_zpid/,501 4th St E,55342,Hector,MN,44.740761,-94.710167,12900.0,1.0,3.0,1620.0,1908,10018.0,SINGLE_FAMILY,FOR_SALE,5
+2080971737,https://www.zillow.com/homedetails/441-Main-St-S-Hector-MN-55342/2080971737_zpid/,441 Main St S,55342,Hector,MN,44.741207,-94.71471,85000.0,1.0,2.0,880.0,1954,6000.0,SINGLE_FAMILY,FOR_SALE,13
+235802018,https://www.zillow.com/homedetails/250-Douglas-Ave-E-Hector-MN-55342/235802018_zpid/,250 Douglas Ave E,55342,Hector,MN,44.741726,-94.712515,20000.0,2.0,2.0,930.0,1900,7492.0,SINGLE_FAMILY,FOR_SALE,10
+106822171,https://www.zillow.com/homedetails/350-2nd-St-E-Hector-MN-55342/106822171_zpid/,350 2nd St E,55342,Hector,MN,44.742107,-94.714056,99900.0,2.0,4.0,1800.0,1923,-1.0,SINGLE_FAMILY,FOR_SALE,27

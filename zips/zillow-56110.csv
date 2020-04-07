@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106786133,https://www.zillow.com/homedetails/19143-330th-St-Adrian-MN-56110/106786133_zpid/,19143 330th St,56110,Adrian,MN,43.514028,-95.870851,225000.0,2.0,3.0,2904.0,1918,189050.0,SINGLE_FAMILY,FOR_SALE,18
+106786714,https://www.zillow.com/homedetails/316-Oklahoma-Ave-Adrian-MN-56110/106786714_zpid/,316 Oklahoma Ave,56110,Adrian,MN,43.633382,-95.92986,179000.0,2.0,4.0,2605.0,1941,9147.0,SINGLE_FAMILY,FOR_SALE,30
+106787036,https://www.zillow.com/homedetails/216-E-7th-St-Adrian-MN-56110/106787036_zpid/,216 E 7th St,56110,Adrian,MN,43.62901,-95.930547,129900.0,2.0,3.0,1718.0,1964,10890.0,SINGLE_FAMILY,FOR_SALE,29
+106786915,https://www.zillow.com/homedetails/28-Oklahoma-Ave-Adrian-MN-56110/106786915_zpid/,28 Oklahoma Ave,56110,Adrian,MN,43.637096,-95.929116,129900.0,1.0,5.0,2304.0,1890,138350.0,SINGLE_FAMILY,FOR_SALE,30

@@ -1,0 +1,12 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106637578,https://www.zillow.com/homedetails/301-E-Woodman-St-Jeffers-MN-56145/106637578_zpid/,301 E Woodman St,56145,Jeffers,MN,44.058413,-95.19328,58000.0,2.0,2.0,1818.0,1939,14200.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106637641,https://www.zillow.com/homedetails/108-W-Clark-St-Jeffers-MN-56145/106637641_zpid/,108 W Clark St,56145,Jeffers,MN,44.059485,-95.197312,25000.0,1.0,2.0,1200.0,1917,6969.0,SINGLE_FAMILY,RECENTLY_SOLD,15
+106637634,https://www.zillow.com/homedetails/204-W-Clark-St-Jeffers-MN-56145/106637634_zpid/,204 W Clark St,56145,Jeffers,MN,44.059495,-95.198572,52000.0,2.0,2.0,1100.0,1938,7100.0,SINGLE_FAMILY,RECENTLY_SOLD,19
+106637657,https://www.zillow.com/homedetails/215-N-County-Road-4-Jeffers-MN-56145/106637657_zpid/,215 N County Road 4,56145,Jeffers,MN,44.059007,-95.201502,84500.0,3.0,3.0,1600.0,1941,52707.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106637562,https://www.zillow.com/homedetails/105-W-Clark-St-Jeffers-MN-56145/106637562_zpid/,105 W Clark St,56145,Jeffers,MN,44.058877,-95.197227,29900.0,1.0,2.0,958.0,1948,14200.0,SINGLE_FAMILY,RECENTLY_SOLD,1
+106637483,https://www.zillow.com/homedetails/405-E-Woodman-St-Jeffers-MN-56145/106637483_zpid/,405 E Woodman St,56145,Jeffers,MN,44.058398,-95.191264,70000.0,2.0,4.0,1726.0,1956,10650.0,SINGLE_FAMILY,SOLD,1
+106637625,https://www.zillow.com/homedetails/407-N-Stevens-Ave-Jeffers-MN-56145/106637625_zpid/,407 N Stevens Ave,56145,Jeffers,MN,44.060009,-95.199834,44900.0,1.0,2.0,1556.0,1927,14190.0,SINGLE_FAMILY,SOLD,1
+106637178,https://www.zillow.com/homedetails/47922-State-Highway-30-Jeffers-MN-56145/106637178_zpid/,47922 State Highway 30,56145,Jeffers,MN,44.050563,-95.121595,83000.0,2.0,3.0,1445.0,1955,5125.0,SINGLE_FAMILY,SOLD,1
+106637521,https://www.zillow.com/homedetails/203-E-Duroe-St-Jeffers-MN-56145/106637521_zpid/,203 E Duroe St,56145,Jeffers,MN,44.060799,-95.194971,62000.0,1.0,3.0,860.0,1941,33900.0,SINGLE_FAMILY,SOLD,1
+106637558,https://www.zillow.com/homedetails/306-E-Clark-St-Jeffers-MN-56145/106637558_zpid/,306 E Clark St,56145,Jeffers,MN,44.058845,-95.192893,70000.0,2.0,3.0,1296.0,1957,-1.0,SINGLE_FAMILY,SOLD,0
+106637565,https://www.zillow.com/homedetails/104-W-Woodman-St-Jeffers-MN-56145/106637565_zpid/,104 W Woodman St,56145,Jeffers,MN,44.058441,-95.197138,22500.0,1.0,2.0,978.0,1953,6969.0,SINGLE_FAMILY,SOLD,0

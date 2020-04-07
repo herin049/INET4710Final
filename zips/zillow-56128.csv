@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106797273,https://www.zillow.com/homedetails/221-W-Maple-St-Edgerton-MN-56128/106797273_zpid/,221 W Maple St,56128,Edgerton,MN,43.873427,-96.132277,64000.0,2.0,3.0,1080.0,1947,8250.0,SINGLE_FAMILY,FOR_SALE,14
+115957940,https://www.zillow.com/homedetails/231-Elizabeth-St-E-Edgerton-MN-56128/115957940_zpid/,231 Elizabeth St E,56128,Edgerton,MN,43.875668,-96.127597,97900.0,2.0,2.0,1462.0,1968,3750.0,SINGLE_FAMILY,FOR_SALE,12
+2081703513,https://www.zillow.com/homedetails/1585-State-Highway-30-Edgerton-MN-56128/2081703513_zpid/,1585 State Highway 30,56128,Edgerton,MN,43.992709,-96.147843,349900.0,1.0,3.0,1760.0,1915,435600.0,SINGLE_FAMILY,FOR_SALE,54
+115957967,https://www.zillow.com/homedetails/941-Mechanic-St-Edgerton-MN-56128/115957967_zpid/,941 Mechanic St,56128,Edgerton,MN,43.871835,-96.127492,279000.0,4.0,4.0,2600.0,1890,15000.0,SINGLE_FAMILY,FOR_SALE,40

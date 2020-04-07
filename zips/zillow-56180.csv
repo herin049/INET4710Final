@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106819564,https://www.zillow.com/homedetails/400-Bedal-St-Walnut-Grove-MN-56180/106819564_zpid/,400 Bedal St,56180,Walnut Grove,MN,44.222137,-95.466672,39900.0,1.0,3.0,1425.0,1899,14113.0,SINGLE_FAMILY,FOR_SALE,11
+113936671,https://www.zillow.com/homedetails/231-5th-St-Walnut-Grove-MN-56180/113936671_zpid/,231 5th St,56180,Walnut Grove,MN,44.225702,-95.468335,152500.0,3.0,4.0,2975.0,1995,34978.0,SINGLE_FAMILY,FOR_SALE,23
+106819698,https://www.zillow.com/homedetails/600-Main-St-Walnut-Grove-MN-56180/106819698_zpid/,600 Main St,56180,Walnut Grove,MN,44.223197,-95.469661,125000.0,1.0,1.0,2346.0,1903,-1.0,CONDO,FOR_SALE,11
+106819556,https://www.zillow.com/homedetails/401-5th-St-Walnut-Grove-MN-56180/106819556_zpid/,401 5th St,56180,Walnut Grove,MN,44.223057,-95.468331,37900.0,1.0,2.0,1200.0,1972,9496.0,SINGLE_FAMILY,FOR_SALE,15

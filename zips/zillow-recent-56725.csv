@@ -1,0 +1,8 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2083834992,https://www.zillow.com/homedetails/37434-260th-St-NE-Goodridge-MN-56725/2083834992_zpid/,37434 260th St NE,56725,Goodridge,MN,48.253318,-95.67093,50000.0,2.0,3.0,1280.0,1998,435600.0,MANUFACTURED,RECENTLY_SOLD,0
+249194868,https://www.zillow.com/homedetails/31232-190th-St-NE-Goodridge-MN-56725/249194868_zpid/,31232 190th St NE,56725,Goodridge,MN,48.150597,-95.803711,268787.0,2.0,3.0,1790.0,1950,435600.0,SINGLE_FAMILY,RECENTLY_SOLD,8
+236115516,https://www.zillow.com/homedetails/18686-280th-Ave-NE-Goodridge-MN-56725/236115516_zpid/,18686 280th Ave NE,56725,Goodridge,MN,48.14551,-95.873142,85000.0,1.0,3.0,1120.0,1976,903870.0,SINGLE_FAMILY,SOLD,21
+236116024,https://www.zillow.com/homedetails/14687-240th-Ave-NE-Goodridge-MN-56725/236116024_zpid/,14687 240th Ave NE,56725,Goodridge,MN,48.088556,-95.966123,155000.0,2.0,3.0,1768.0,1990,6969600.0,SINGLE_FAMILY,SOLD,31
+106796972,https://www.zillow.com/homedetails/13416-230th-Ave-NE-Goodridge-MN-56725/106796972_zpid/,13416 230th Ave NE,56725,Goodridge,MN,48.074174,-95.913542,240000.0,2.0,3.0,2352.0,1977,1202256.0,SINGLE_FAMILY,SOLD,34
+113932199,https://www.zillow.com/homedetails/32232-210th-St-NE-Goodridge-MN-56725/113932199_zpid/,32232 210th St NE,56725,Goodridge,MN,48.187002,-95.781977,135000.0,2.0,3.0,1668.0,1960,435600.0,SINGLE_FAMILY,SOLD,30
+2098843148,https://www.zillow.com/homedetails/16503-390th-Ave-NE-Goodridge-MN-56725/2098843148_zpid/,16503 390th Ave NE,56725,Goodridge,MN,48.114523,-95.641166,340000.0,4.0,4.0,5086.0,2008,217800.0,SINGLE_FAMILY,SOLD,73

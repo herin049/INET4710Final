@@ -1,0 +1,7 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106671777,https://www.zillow.com/homedetails/13500-750th-Ave-Glenville-MN-56036/106671777_zpid/,13500 750th Ave,56036,Glenville,MN,43.551027,-93.367248,199900.0,2.0,3.0,1040.0,1960,435600.0,SINGLE_FAMILY,FOR_SALE,36
+106671392,https://www.zillow.com/homedetails/141-Center-Ave-N-Glenville-MN-56036/106671392_zpid/,141 Center Ave N,56036,Glenville,MN,43.573963,-93.279867,68000.0,1.0,3.0,1680.0,1981,13416.0,SINGLE_FAMILY,FOR_SALE,2
+106678769,https://www.zillow.com/homedetails/14941-750th-Ave-Glenville-MN-56036/106678769_zpid/,14941 750th Ave,56036,Glenville,MN,43.574363,-93.368993,69900.0,2.0,4.0,2287.0,1957,217800.0,SINGLE_FAMILY,FOR_SALE,22
+106668544,https://www.zillow.com/homedetails/10515-880th-Ave-Glenville-MN-56036/106668544_zpid/,10515 880th Ave,56036,Glenville,MN,43.507004,-93.110226,219900.0,2.0,4.0,2682.0,1971,310147.0,SINGLE_FAMILY,FOR_SALE,32
+106671741,https://www.zillow.com/homedetails/77089-135th-St-Glenville-MN-56036/106671741_zpid/,77089 135th St,56036,Glenville,MN,43.548146,-93.326227,449000.0,1.0,3.0,1442.0,1862,5227200.0,SINGLE_FAMILY,FOR_SALE,14
+106671721,https://www.zillow.com/homedetails/13793-787th-Ave-Glenville-MN-56036/106671721_zpid/,13793 787th Ave,56036,Glenville,MN,43.555348,-93.303718,170000.0,2.0,2.0,1416.0,1957,297950.0,SINGLE_FAMILY,FOR_SALE,28

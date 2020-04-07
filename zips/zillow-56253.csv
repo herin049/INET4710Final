@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106704274,https://www.zillow.com/homedetails/340-Woodlawn-Ave-Lake-Lillian-MN-56253/106704274_zpid/,340 Woodlawn Ave,56253,Lake Lillian,MN,44.946769,-94.875993,99000.0,2.0,3.0,1044.0,1950,10497.0,SINGLE_FAMILY,FOR_SALE,3
+303808551,https://www.zillow.com/homedetails/460-Lakeview-St-Lake-Lillian-MN-56253/303808551_zpid/,460 Lakeview St,56253,Lake Lillian,MN,44.944339,-94.88053,56500.0,1.0,3.0,2040.0,1920,8363.0,SINGLE_FAMILY,FOR_SALE,3
+106704263,https://www.zillow.com/homedetails/327-Woodlawn-Ave-Lake-Lillian-MN-56253/106704263_zpid/,327 Woodlawn Ave,56253,Lake Lillian,MN,44.947318,-94.875705,96000.0,1.0,2.0,1260.0,1900,10454.0,SINGLE_FAMILY,FOR_SALE,20
+2082580804,https://www.zillow.com/homedetails/7400-SE-147th-Ave-Lake-Lillian-MN-56253/2082580804_zpid/,7400 SE 147th Ave,56253,Lake Lillian,MN,44.981323,-94.94537,210000.0,1.0,2.0,624.0,1969,-1.0,SINGLE_FAMILY,FOR_SALE,30

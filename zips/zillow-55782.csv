@@ -1,0 +1,2 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+61573894,https://www.zillow.com/homedetails/76-Main-St-Soudan-MN-55782/61573894_zpid/,76 Main St,55782,Soudan,MN,47.815281,-92.237603,29000.0,1.0,2.0,854.0,1920,12283.0,SINGLE_FAMILY,FOR_SALE,15

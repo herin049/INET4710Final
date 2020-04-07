@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106758893,https://www.zillow.com/homedetails/309-S-Center-St-Ceylon-MN-56121/106758893_zpid/,309 S Center St,56121,Ceylon,MN,43.530829,-94.631232,14900.0,2.0,3.0,1310.0,1918,14810.0,SINGLE_FAMILY,FOR_SALE,22
+106758584,https://www.zillow.com/homedetails/1446-30th-St-Ceylon-MN-56121/106758584_zpid/,1446 30th St,56121,Ceylon,MN,43.529015,-94.58509,194000.0,2.0,3.0,1474.0,1916,348480.0,SINGLE_FAMILY,FOR_SALE,7

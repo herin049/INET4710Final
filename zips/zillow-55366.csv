@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+103957053,https://www.zillow.com/homedetails/6201-2nd-St-New-Auburn-MN-55366/103957053_zpid/,6201 2nd St,55366,New Auburn,MN,44.668576,-94.228141,114900.0,2.0,2.0,1248.0,1951,16204.0,SINGLE_FAMILY,FOR_SALE,20
+299771652,https://www.zillow.com/homedetails/9405-4th-St-New-Auburn-MN-55366/299771652_zpid/,9405 4th St,55366,New Auburn,MN,44.672223,-94.23192,54900.0,1.0,3.0,911.0,1860,16247.0,SINGLE_FAMILY,FOR_SALE,10
+2087825971,https://www.zillow.com/homedetails/6545-6th-Ave-New-Auburn-MN-55366/2087825971_zpid/,6545 6th Ave,55366,New Auburn,MN,44.674366,-94.228097,119900.0,2.0,4.0,1792.0,2000,16204.0,SINGLE_FAMILY,FOR_SALE,19
+2088065907,https://www.zillow.com/homedetails/7601-6th-St-New-Auburn-MN-55366/2088065907_zpid/,7601 6th St,55366,New Auburn,MN,44.6734,-94.2304,13995.0,1.0,1.0,700.0,1920,16247.0,SINGLE_FAMILY,FOR_SALE,3

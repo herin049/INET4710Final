@@ -1,0 +1,8 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+225239111,https://www.zillow.com/homedetails/425-Corcoran-Dr-Minnesota-City-MN-55959/225239111_zpid/,425 Corcoran Dr,55959,Minnesota City,MN,44.090663,-91.741255,310000.0,2.0,3.0,1740.0,2020,10880.0,SINGLE_FAMILY,FOR_SALE,30
+102941539,https://www.zillow.com/homedetails/25476-Highway-248-Minnesota-City-MN-55959/102941539_zpid/,25476 Highway 248,55959,Minnesota City,MN,44.09948,-91.772037,250000.0,3.0,4.0,2332.0,1996,196455.0,SINGLE_FAMILY,FOR_SALE,17
+102943618,https://www.zillow.com/homedetails/8870-Leesher-Dr-Minnesota-City-MN-55959/102943618_zpid/,8870 Leesher Dr,55959,Minnesota City,MN,44.091817,-91.744888,385000.0,3.0,5.0,3740.0,2004,15681.0,SINGLE_FAMILY,FOR_SALE,34
+112920569,https://www.zillow.com/homedetails/27-Lock-And-Dam-Ln-Minnesota-City-MN-55959/112920569_zpid/,27 Lock And Dam Ln,55959,Minnesota City,MN,44.156966,-91.807906,44000.0,1.0,1.0,960.0,1994,-1.0,MANUFACTURED,FOR_SALE,10
+102941297,https://www.zillow.com/homedetails/45-Marval-Dr-Minnesota-City-MN-55959/102941297_zpid/,45 Marval Dr,55959,Minnesota City,MN,44.086295,-91.734536,207900.0,2.0,4.0,2718.0,1977,24524.0,SINGLE_FAMILY,FOR_SALE,29
+102941422,https://www.zillow.com/homedetails/16208-Denzer-Rd-Minnesota-City-MN-55959/102941422_zpid/,16208 Denzer Rd,55959,Minnesota City,MN,44.10374,-91.756478,189000.0,2.0,4.0,2294.0,1978,217800.0,SINGLE_FAMILY,FOR_SALE,13
+102943640,https://www.zillow.com/homedetails/1085-Bay-Dr-Minnesota-City-MN-55959/102943640_zpid/,1085 Bay Dr,55959,Minnesota City,MN,44.067924,-91.718864,235000.0,3.0,2.0,1276.0,2005,1350.0,TOWNHOUSE,FOR_SALE,15

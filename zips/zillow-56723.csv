@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106809165,https://www.zillow.com/homedetails/110-N-3rd-St-Fisher-MN-56723/106809165_zpid/,110 N 3rd St,56723,Fisher,MN,47.801579,-96.800121,225000.0,2.0,3.0,1792.0,1922,13982.0,SINGLE_FAMILY,FOR_SALE,30
+106809102,https://www.zillow.com/homedetails/302-S-3rd-St-Fisher-MN-56723/106809102_zpid/,302 S 3rd St,56723,Fisher,MN,47.798742,-96.798795,84900.0,2.0,2.0,1376.0,1942,7000.0,SINGLE_FAMILY,FOR_SALE,16

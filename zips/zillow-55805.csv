@@ -1,0 +1,10 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+61511732,https://www.zillow.com/homedetails/1220-E-10th-St-Duluth-MN-55805/61511732_zpid/,1220 E 10th St,55805,Duluth,MN,46.805404,-92.09306,129900.0,1.0,3.0,1090.0,1909,-1.0,SINGLE_FAMILY,FOR_SALE,11
+61527503,https://www.zillow.com/homedetails/1022-E-11th-St-Duluth-MN-55805/61527503_zpid/,1022 E 11th St,55805,Duluth,MN,46.804271,-92.097171,179900.0,2.0,2.0,1203.0,1928,9147.0,SINGLE_FAMILY,FOR_SALE,40
+61527410,https://www.zillow.com/homedetails/912-E-9th-St-Duluth-MN-55805/61527410_zpid/,912 E 9th St,55805,Duluth,MN,46.801683,-92.096621,70000.0,2.0,2.0,722.0,1927,3484.0,SINGLE_FAMILY,FOR_SALE,9
+61527612,https://www.zillow.com/homedetails/1201-Denney-Dr-Duluth-MN-55805/61527612_zpid/,1201 Denney Dr,55805,Duluth,MN,46.807464,-92.097439,759900.0,4.0,5.0,4092.0,1963,26136.0,SINGLE_FAMILY,FOR_SALE,50
+61511843,https://www.zillow.com/homedetails/1413-E-10th-St-Duluth-MN-55805/61511843_zpid/,1413 E 10th St,55805,Duluth,MN,46.807514,-92.09136,136205.0,1.0,2.0,1024.0,1908,4356.0,SINGLE_FAMILY,FORECLOSED,14
+61534508,https://www.zillow.com/homedetails/610-E-8th-St-Duluth-MN-55805/61534508_zpid/,610 E 8th St,55805,Duluth,MN,46.798137,-92.098752,69000.0,1.0,2.0,1040.0,1923,3484.0,SINGLE_FAMILY,FOR_SALE,19
+61536789,https://www.zillow.com/homedetails/522-N-7th-Ave-E-Duluth-MN-55805/61536789_zpid/,522 N 7th Ave E,55805,Duluth,MN,46.797591,-92.095447,127007.0,1.0,2.0,1050.0,1912,1306.0,SINGLE_FAMILY,PRE_FORECLOSURE,6
+2085255329,https://www.zillow.com/homedetails/15-E-Skyline-Pkwy-Duluth-MN-55805/2085255329_zpid/,15 E Skyline Pkwy,55805,Duluth,MN,46.810568,-92.092427,475000.0,2.0,3.0,1864.0,2019,6141.0,SINGLE_FAMILY,FOR_SALE,12
+2091481000,https://www.zillow.com/homedetails/15XX-E-Skyline-Pkwy-Duluth-MN-55805/2091481000_zpid/,15XX E Skyline Pkwy,55805,Duluth,MN,46.810503,-92.092583,475000.0,2.0,3.0,1864.0,2019,6141.0,SINGLE_FAMILY,FOR_SALE,12

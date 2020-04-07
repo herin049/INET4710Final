@@ -1,0 +1,17 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106728524,https://www.zillow.com/homedetails/211-SW-5th-St-Elysian-MN-56028/106728524_zpid/,211 SW 5th St,56028,Elysian,MN,44.196434,-93.682038,178900.0,1.0,3.0,1015.0,1894,40946.0,SINGLE_FAMILY,FOR_SALE,20
+106728574,https://www.zillow.com/homedetails/304-Park-Ave-NE-Elysian-MN-56028/106728574_zpid/,304 Park Ave NE,56028,Elysian,MN,44.19982,-93.671132,93000.0,1.0,2.0,706.0,1940,18730.0,SINGLE_FAMILY,FOR_SALE,17
+106728398,https://www.zillow.com/homedetails/118-Shoreview-Dr-Elysian-MN-56028/106728398_zpid/,118 Shoreview Dr,56028,Elysian,MN,44.20972,-93.687275,319900.0,3.0,3.0,3040.0,2004,21780.0,SINGLE_FAMILY,FOR_SALE,23
+106734825,https://www.zillow.com/homedetails/22895-Greenland-Ln-Elysian-MN-56028/106734825_zpid/,22895 Greenland Ln,56028,Elysian,MN,44.205812,-93.722748,599900.0,3.0,3.0,6400.0,2006,70567.0,SINGLE_FAMILY,FOR_SALE,30
+106728409,https://www.zillow.com/homedetails/203-James-Dr-Elysian-MN-56028/106728409_zpid/,203 James Dr,56028,Elysian,MN,44.209804,-93.686199,358900.0,3.0,4.0,2921.0,2004,22651.0,SINGLE_FAMILY,FOR_SALE,28
+106728417,https://www.zillow.com/homedetails/202-James-Dr-Elysian-MN-56028/106728417_zpid/,202 James Dr,56028,Elysian,MN,44.209268,-93.685556,283900.0,3.0,4.0,2664.0,2003,19602.0,SINGLE_FAMILY,FOR_SALE,25
+106728618,https://www.zillow.com/homedetails/105-N-Shore-Dr-Elysian-MN-56028/106728618_zpid/,105 N Shore Dr,56028,Elysian,MN,44.197821,-93.667954,211295.0,1.75,2.0,2454.0,1977,-1.0,SINGLE_FAMILY,PRE_FORECLOSURE,0
+106734700,https://www.zillow.com/homedetails/1344-Scenic-Hideaway-Ln-Elysian-MN-56028/106734700_zpid/,1344 Scenic Hideaway Ln,56028,Elysian,MN,44.212578,-93.670314,449995.0,3.0,3.0,2700.0,1998,31798.0,SINGLE_FAMILY,FOR_SALE,29
+106728524,https://www.zillow.com/homedetails/211-SW-5th-St-Elysian-MN-56028/106728524_zpid/,211 SW 5th St,56028,Elysian,MN,44.196434,-93.682038,178900.0,1.0,3.0,1015.0,1894,40946.0,SINGLE_FAMILY,FOR_SALE,20
+106728574,https://www.zillow.com/homedetails/304-Park-Ave-NE-Elysian-MN-56028/106728574_zpid/,304 Park Ave NE,56028,Elysian,MN,44.19982,-93.671132,93000.0,1.0,2.0,706.0,1940,18730.0,SINGLE_FAMILY,FOR_SALE,17
+106728398,https://www.zillow.com/homedetails/118-Shoreview-Dr-Elysian-MN-56028/106728398_zpid/,118 Shoreview Dr,56028,Elysian,MN,44.20972,-93.687275,319900.0,3.0,3.0,3040.0,2004,21780.0,SINGLE_FAMILY,FOR_SALE,23
+106734825,https://www.zillow.com/homedetails/22895-Greenland-Ln-Elysian-MN-56028/106734825_zpid/,22895 Greenland Ln,56028,Elysian,MN,44.205812,-93.722748,599900.0,3.0,3.0,6400.0,2006,70567.0,SINGLE_FAMILY,FOR_SALE,30
+106728409,https://www.zillow.com/homedetails/203-James-Dr-Elysian-MN-56028/106728409_zpid/,203 James Dr,56028,Elysian,MN,44.209804,-93.686199,358900.0,3.0,4.0,2921.0,2004,22651.0,SINGLE_FAMILY,FOR_SALE,28
+106728417,https://www.zillow.com/homedetails/202-James-Dr-Elysian-MN-56028/106728417_zpid/,202 James Dr,56028,Elysian,MN,44.209268,-93.685556,283900.0,3.0,4.0,2664.0,2003,19602.0,SINGLE_FAMILY,FOR_SALE,25
+106728618,https://www.zillow.com/homedetails/105-N-Shore-Dr-Elysian-MN-56028/106728618_zpid/,105 N Shore Dr,56028,Elysian,MN,44.197821,-93.667954,211295.0,1.75,2.0,2454.0,1977,-1.0,SINGLE_FAMILY,PRE_FORECLOSURE,0
+106734700,https://www.zillow.com/homedetails/1344-Scenic-Hideaway-Ln-Elysian-MN-56028/106734700_zpid/,1344 Scenic Hideaway Ln,56028,Elysian,MN,44.212578,-93.670314,449995.0,3.0,3.0,2700.0,1998,31798.0,SINGLE_FAMILY,FOR_SALE,29

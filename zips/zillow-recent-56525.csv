@@ -1,0 +1,8 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+89274043,https://www.zillow.com/homedetails/2005-160th-Ave-S-Comstock-MN-56525/89274043_zpid/,2005 160th Ave S,56525,Comstock,MN,46.659149,-96.746187,135000.0,1.0,3.0,2100.0,1930,7405.0,SINGLE_FAMILY,RECENTLY_SOLD,13
+89312991,https://www.zillow.com/homedetails/15857-17th-St-S-Comstock-MN-56525/89312991_zpid/,15857 17th St S,56525,Comstock,MN,46.660626,-96.750885,3000.0,2.0,0.0,15700.0,1909,20908.0,SINGLE_FAMILY,RECENTLY_SOLD,1
+89322901,https://www.zillow.com/homedetails/15853-18th-St-S-Comstock-MN-56525/89322901_zpid/,15853 18th St S,56525,Comstock,MN,46.660603,-96.749009,81900.0,1.0,3.0,900.0,1910,7405.0,SINGLE_FAMILY,SOLD,12
+89229765,https://www.zillow.com/homedetails/1973-160th-Ave-S-Comstock-MN-56525/89229765_zpid/,1973 160th Ave S,56525,Comstock,MN,46.659148,-96.746436,30000.0,2.0,4.0,1974.0,1920,-1.0,SINGLE_FAMILY,SOLD,20
+89258780,https://www.zillow.com/homedetails/2103-160th-Ave-S-Comstock-MN-56525/89258780_zpid/,2103 160th Ave S,56525,Comstock,MN,46.659111,-96.744693,204900.0,1.0,3.0,2690.0,1960,16552.0,SINGLE_FAMILY,SOLD,32
+89260135,https://www.zillow.com/homedetails/15924-19th-St-S-Comstock-MN-56525/89260135_zpid/,15924 19th St S,56525,Comstock,MN,46.660089,-96.747321,52500.0,1.0,2.0,2100.0,1930,-1.0,SINGLE_FAMILY,SOLD,11
+89303976,https://www.zillow.com/homedetails/15952-21st-St-S-Comstock-MN-56525/89303976_zpid/,15952 21st St S,56525,Comstock,MN,46.659668,-96.744293,234900.0,2.0,4.0,3152.0,1970,13939.0,SINGLE_FAMILY,SOLD,40

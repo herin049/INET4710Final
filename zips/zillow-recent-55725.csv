@@ -1,0 +1,14 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+61578269,https://www.zillow.com/homedetails/7545-Bowser-Ct-Crane-Lake-MN-55725/61578269_zpid/,7545 Bowser Ct,55725,Crane Lake,MN,48.266135,-92.493926,165818.0,1.7,3.0,1232.0,1976,67518.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+149997091,https://www.zillow.com/homedetails/7363-Handberg-Rd-Crane-Lake-MN-55725/149997091_zpid/,7363 Handberg Rd,55725,Crane Lake,MN,48.260243,-92.491509,145000.0,0.75,1.0,480.0,2015,286624.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+61578443,https://www.zillow.com/homedetails/641-Lindgrens-Shr-Crane-Lake-MN-55725/61578443_zpid/,641 Lindgrens Shr,55725,Crane Lake,MN,48.294625,-92.456551,205000.0,1.0,2.0,1006.0,1975,22651.0,SINGLE_FAMILY,SOLD,1
+61578305,https://www.zillow.com/homedetails/7494-Crane-Lake-Rd-Virginia-MN-55725/61578305_zpid/,7494 Crane Lake Rd,55725,Virginia,MN,48.263724,-92.486605,36751.0,1.5,3.0,480.0,1953,123274.0,SINGLE_FAMILY,SOLD,0
+61578457,https://www.zillow.com/homedetails/723-Kicker-Blvd-Crane-Lake-MN-55725/61578457_zpid/,723 Kicker Blvd,55725,Crane Lake,MN,48.324931,-92.455365,228939.0,1.0,2.0,1024.0,2010,30927.0,SINGLE_FAMILY,SOLD,1
+61578441,https://www.zillow.com/homedetails/7577-Gold-Coast-Rd-Crane-Lake-MN-55725/61578441_zpid/,7577 Gold Coast Rd,55725,Crane Lake,MN,48.26879,-92.489571,252500.0,1.5,3.0,1064.0,1986,-1.0,SINGLE_FAMILY,SOLD,0
+61578518,https://www.zillow.com/homedetails/7533-Bayside-Dr-Crane-Lake-MN-55725/61578518_zpid/,7533 Bayside Dr,55725,Crane Lake,MN,48.265475,-92.486924,436000.0,2.5,2.0,1570.0,1989,21780.0,SINGLE_FAMILY,SOLD,42
+61578200,https://www.zillow.com/homedetails/648-E-Bay-N-Crane-Lake-MN-55725/61578200_zpid/,648 E Bay N,55725,Crane Lake,MN,48.295031,-92.448388,165000.0,1.0,2.0,864.0,1989,76230.0,SINGLE_FAMILY,SOLD,0
+242880790,https://www.zillow.com/homedetails/7505-Gold-Coast-Rd-Crane-Lake-MN-55725/242880790_zpid/,7505 Gold Coast Rd,55725,Crane Lake,MN,48.265202,-92.489559,350000.0,1.0,3.0,1271.0,1960,-1.0,SINGLE_FAMILY,SOLD,0
+61578454,https://www.zillow.com/homedetails/625-Lindgrens-Shr-Crane-Lake-MN-55725/61578454_zpid/,625 Lindgrens Shr,55725,Crane Lake,MN,48.299326,-92.459953,350000.0,1.0,2.0,1320.0,2001,35719.0,SINGLE_FAMILY,SOLD,16
+61578408,https://www.zillow.com/homedetails/7618-Hilltop-Rd-Crane-Lake-MN-55725/61578408_zpid/,7618 Hilltop Rd,55725,Crane Lake,MN,48.265833,-92.489617,40000.0,2.0,4.0,2160.0,1970,13068.0,SINGLE_FAMILY,SOLD,9
+149997073,https://www.zillow.com/homedetails/7490-Bayside-Dr-Crane-Lake-MN-55725/149997073_zpid/,7490 Bayside Dr,55725,Crane Lake,MN,48.264116,-92.482898,359000.0,1.0,2.0,796.0,1982,26136.0,SINGLE_FAMILY,FOR_SALE,29
+61578489,https://www.zillow.com/homedetails/7519-Rocky-Rd-Crane-Lake-MN-55725/61578489_zpid/,7519 Rocky Rd,55725,Crane Lake,MN,48.264212,-92.477138,387500.0,2.0,4.0,2080.0,1987,76665.0,SINGLE_FAMILY,SOLD,1

@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106637636,https://www.zillow.com/homedetails/105-W-Duroe-St-Jeffers-MN-56145/106637636_zpid/,105 W Duroe St,56145,Jeffers,MN,44.059919,-95.197209,36999.0,1.0,2.0,984.0,1927,-1.0,SINGLE_FAMILY,FOR_SALE,20
+106637639,https://www.zillow.com/homedetails/407-Courthouse-Ave-Jeffers-MN-56145/106637639_zpid/,407 Courthouse Ave,56145,Jeffers,MN,44.059916,-95.196827,25000.0,1.0,2.0,896.0,1915,14374.0,SINGLE_FAMILY,FOR_SALE,20
+2082634136,https://www.zillow.com/homedetails/210-W-Whited-St-Jeffers-MN-56145/2082634136_zpid/,210 W Whited St,56145,Jeffers,MN,44.056032,-95.198148,16900.0,1.0,1.0,728.0,1950,10454.0,SINGLE_FAMILY,FOR_SALE,14
+106637492,https://www.zillow.com/homedetails/404-E-Woodman-St-Jeffers-MN-56145/106637492_zpid/,404 E Woodman St,56145,Jeffers,MN,44.05778,-95.191591,24600.0,1.0,1.0,664.0,1953,9000.0,SINGLE_FAMILY,FOR_SALE,21

@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2087248869,https://www.zillow.com/homedetails/21372-Gull-Lake-Loop-Rd-NE-Tenstrike-MN-56683/2087248869_zpid/,21372 Gull Lake Loop Rd NE,56683,Tenstrike,MN,47.677223,-94.74498,169000.0,3.0,5.0,2500.0,1997,382892.0,SINGLE_FAMILY,FOR_SALE,23
+117521761,https://www.zillow.com/homedetails/21368-Gull-Lake-Loop-Rd-NE-Tenstrike-MN-56683/117521761_zpid/,21368 Gull Lake Loop Rd NE,56683,Tenstrike,MN,47.676039,-94.744301,169000.0,3.0,5.0,2500.0,1997,382892.0,SINGLE_FAMILY,FOR_SALE,2
+117521758,https://www.zillow.com/homedetails/10417-Quarter-Horse-Cir-NE-Tenstrike-MN-56683/117521758_zpid/,10417 Quarter Horse Cir NE,56683,Tenstrike,MN,47.674864,-94.733527,125000.0,1.0,2.0,1008.0,1988,111078.0,SINGLE_FAMILY,FOR_SALE,19

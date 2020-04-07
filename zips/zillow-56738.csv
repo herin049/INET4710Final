@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2080344597,https://www.zillow.com/homedetails/204-S-Main-St-Newfolden-MN-56738/2080344597_zpid/,204 S Main St,56738,Newfolden,MN,48.3554,-96.328743,155000.0,2.0,5.0,1744.0,1922,15681.0,SINGLE_FAMILY,FOR_SALE,14
+125688893,https://www.zillow.com/homedetails/238-E-4th-St-Newfolden-MN-56738/125688893_zpid/,238 E 4th St,56738,Newfolden,MN,48.353844,-96.322466,199900.0,2.0,4.0,1936.0,2013,10890.0,SINGLE_FAMILY,FOR_SALE,23
+106756275,https://www.zillow.com/homedetails/207-Marshall-Ave-Holt-MN-56738/106756275_zpid/,207 Marshall Ave,56738,Holt,MN,48.293037,-96.190585,118500.0,2.0,3.0,1160.0,1910,14374.0,SINGLE_FAMILY,FOR_SALE,29
+2083888011,https://www.zillow.com/homedetails/233-E-Melgaard-Ave-Newfolden-MN-56738/2083888011_zpid/,233 E Melgaard Ave,56738,Newfolden,MN,48.354684,-96.326973,165000.0,1.0,5.0,2517.0,1967,13068.0,SINGLE_FAMILY,FOR_SALE,65

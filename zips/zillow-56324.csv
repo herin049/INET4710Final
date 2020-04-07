@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+97010126,https://www.zillow.com/homedetails/17434-County-Highway-33-Dalton-MN-56324/97010126_zpid/,17434 County Highway 33,56324,Dalton,MN,46.215485,-95.935824,299900.0,2.0,3.0,2675.0,1979,213008.0,SINGLE_FAMILY,FOR_SALE,62
+300907570,https://www.zillow.com/homedetails/12415-County-Highway-117-Dalton-MN-56324/300907570_zpid/,12415 County Highway 117,56324,Dalton,MN,46.144747,-95.849747,645000.0,3.0,7.0,5344.0,1871,3916915.0,SINGLE_FAMILY,FOR_SALE,47
+97027705,https://www.zillow.com/homedetails/15126-Tumuli-Rd-Dalton-MN-56324/97027705_zpid/,15126 Tumuli Rd,56324,Dalton,MN,46.189905,-95.960048,218500.0,2.0,4.0,2200.0,1885,326700.0,SINGLE_FAMILY,FOR_SALE,55
+2085905734,https://www.zillow.com/homedetails/12415-County-Highway-117-Dalton-MN-56324/2085905734_zpid/,12415 County Highway 117,56324,Dalton,MN,46.144747,-95.849747,645000.0,3.0,7.0,5344.0,1871,3916915.0,SINGLE_FAMILY,FOR_SALE,92

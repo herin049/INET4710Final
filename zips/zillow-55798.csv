@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+110927835,https://www.zillow.com/homedetails/6720-Pacific-Ave-Wright-MN-55798/110927835_zpid/,6720 Pacific Ave,55798,Wright,MN,46.672271,-93.004015,95000.0,1.0,3.0,1600.0,1916,204296.0,SINGLE_FAMILY,FOR_SALE,15
+110936684,https://www.zillow.com/homedetails/368-Prairie-Lake-Rd-Wright-MN-55798/110936684_zpid/,368 Prairie Lake Rd,55798,Wright,MN,46.752276,-92.8871,119900.0,1.0,1.0,1304.0,1988,217800.0,SINGLE_FAMILY,FOR_SALE,10

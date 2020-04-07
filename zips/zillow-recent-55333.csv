@@ -1,0 +1,15 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106824549,https://www.zillow.com/homedetails/63372-County-Road-5-Franklin-MN-55333/106824549_zpid/,63372 County Road 5,55333,Franklin,MN,44.505085,-94.855378,125500.0,1.0,3.0,1779.0,1900,449103.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106820005,https://www.zillow.com/homedetails/67786-400th-St-Franklin-MN-55333/106820005_zpid/,67786 400th St,55333,Franklin,MN,44.568335,-94.870173,165000.0,1.0,4.0,1448.0,1900,258310.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106821922,https://www.zillow.com/homedetails/400-1st-St-S-Franklin-MN-55333/106821922_zpid/,400 1st St S,55333,Franklin,MN,44.534637,-94.8864,86000.0,2.0,4.0,1850.0,1920,32670.0,SINGLE_FAMILY,RECENTLY_SOLD,24
+106822609,https://www.zillow.com/homedetails/71155-380th-St-Franklin-MN-55333/106822609_zpid/,71155 380th St,55333,Franklin,MN,44.617849,-94.919956,161500.0,2.0,5.0,1760.0,1918,217800.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+115959582,https://www.zillow.com/homedetails/431-3rd-Ave-E-Franklin-MN-55333/115959582_zpid/,431 3rd Ave E,55333,Franklin,MN,44.528808,-94.879964,55000.0,1.0,4.0,1248.0,1929,13547.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+235801875,https://www.zillow.com/homedetails/415-4th-St-S-Franklin-MN-55333/235801875_zpid/,415 4th St S,55333,Franklin,MN,44.527193,-94.880342,62500.0,2.0,3.0,1552.0,1992,16988.0,MANUFACTURED,SOLD,0
+106821830,https://www.zillow.com/homedetails/410-4th-St-S-Franklin-MN-55333/106821830_zpid/,410 4th St S,55333,Franklin,MN,44.527232,-94.881092,32000.0,2.0,3.0,1265.0,1952,12196.0,SINGLE_FAMILY,SOLD,0
+106821962,https://www.zillow.com/homedetails/371-3rd-Ave-E-Franklin-MN-55333/106821962_zpid/,371 3rd Ave E,55333,Franklin,MN,44.528767,-94.881139,18600.0,1.0,2.0,2387.0,1905,11761.0,SINGLE_FAMILY,SOLD,0
+235797934,https://www.zillow.com/homedetails/71716-County-Road-3-Franklin-MN-55333/235797934_zpid/,71716 County Road 3,55333,Franklin,MN,44.627534,-94.805784,175000.0,3.0,4.0,3482.0,1921,302306.0,SINGLE_FAMILY,SOLD,0
+122616062,https://www.zillow.com/homedetails/100-3rd-Ave-W-Franklin-MN-55333/122616062_zpid/,100 3rd Ave W,55333,Franklin,MN,44.528424,-94.886109,63500.0,1.0,3.0,2184.0,1962,10454.0,SINGLE_FAMILY,SOLD,0
+106822598,https://www.zillow.com/homedetails/38778-County-Road-19-Franklin-MN-55333/106822598_zpid/,38778 County Road 19,55333,Franklin,MN,44.615454,-94.899314,66500.0,1.0,2.0,936.0,1949,419047.0,SINGLE_FAMILY,SOLD,22
+106824529,https://www.zillow.com/homedetails/64302-400th-St-Franklin-MN-55333/106824529_zpid/,64302 400th St,55333,Franklin,MN,44.521059,-94.857805,179900.0,3.0,3.0,3344.0,1886,562359.0,SINGLE_FAMILY,SOLD,0
+106820374,https://www.zillow.com/homedetails/72896-410th-St-Bird-Island-MN-55333/106820374_zpid/,72896 410th St,55333,Bird Island,MN,44.643339,-94.852435,197000.0,2.0,3.0,2056.0,1897,448232.0,SINGLE_FAMILY,SOLD,28
+106821847,https://www.zillow.com/homedetails/440-3rd-Ave-E-Franklin-MN-55333/106821847_zpid/,440 3rd Ave E,55333,Franklin,MN,44.528229,-94.879854,70000.0,2.0,3.0,3318.0,1974,16117.0,SINGLE_FAMILY,SOLD,0

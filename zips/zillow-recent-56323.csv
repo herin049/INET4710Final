@@ -1,0 +1,7 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106811826,https://www.zillow.com/homedetails/306-W-Johnson-Dr-Cyrus-MN-56323/106811826_zpid/,306 W Johnson Dr,56323,Cyrus,MN,45.618998,-95.741275,123000.0,2.0,4.0,1976.0,1999,20037.0,MANUFACTURED,RECENTLY_SOLD,29
+106811863,https://www.zillow.com/homedetails/218-E-Main-St-Cyrus-MN-56323/106811863_zpid/,218 E Main St,56323,Cyrus,MN,45.614913,-95.735945,65000.0,2.0,3.0,1214.0,1895,18730.0,SINGLE_FAMILY,RECENTLY_SOLD,42
+115959325,https://www.zillow.com/homedetails/38698-State-Highway-28-Cyrus-MN-56323/115959325_zpid/,38698 State Highway 28,56323,Cyrus,MN,45.6165,-95.73157,36500.0,2.0,3.0,1764.0,1980,40075.0,SINGLE_FAMILY,RECENTLY_SOLD,2
+232990105,https://www.zillow.com/homedetails/117-W-4th-St-Cyrus-MN-56323/232990105_zpid/,117 W 4th St,56323,Cyrus,MN,45.615377,-95.739153,36500.0,1.0,2.0,1776.0,1916,15246.0,SINGLE_FAMILY,SOLD,19
+106813198,https://www.zillow.com/homedetails/38225-190th-St-Cyrus-MN-56323/106813198_zpid/,38225 190th St,56323,Cyrus,MN,45.628178,-95.722595,375000.0,2.0,4.0,2480.0,1994,1742400.0,SINGLE_FAMILY,SOLD,12
+106811738,https://www.zillow.com/homedetails/101-W-5th-St-Cyrus-MN-56323/106811738_zpid/,101 W 5th St,56323,Cyrus,MN,45.616434,-95.737735,87000.0,1.0,4.0,1750.0,1920,14810.0,SINGLE_FAMILY,SOLD,20

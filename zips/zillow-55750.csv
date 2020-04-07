@@ -1,0 +1,15 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+61564762,https://www.zillow.com/homedetails/217-Guilford-Rd-Hoyt-Lakes-MN-55750/61564762_zpid/,217 Guilford Rd,55750,Hoyt Lakes,MN,47.513035,-92.14283,59900.0,2.0,3.0,1757.0,1956,7579.0,SINGLE_FAMILY,FOR_SALE,10
+61564993,https://www.zillow.com/homedetails/418-Kent-Rd-Hoyt-Lakes-MN-55750/61564993_zpid/,418 Kent Rd,55750,Hoyt Lakes,MN,47.516378,-92.133845,67900.0,1.0,2.0,864.0,1957,7710.0,SINGLE_FAMILY,FOR_SALE,13
+61564794,https://www.zillow.com/homedetails/224-Guilford-Rd-Hoyt-Lakes-MN-55750/61564794_zpid/,224 Guilford Rd,55750,Hoyt Lakes,MN,47.512677,-92.142071,64526.0,1.5,3.0,974.0,1957,7405.0,SINGLE_FAMILY,FORECLOSED,5
+61564302,https://www.zillow.com/homedetails/129-Wyandotte-Rd-Hoyt-Lakes-MN-55750/61564302_zpid/,129 Wyandotte Rd,55750,Hoyt Lakes,MN,47.517368,-92.146656,59900.0,2.0,2.0,1344.0,1954,8189.0,SINGLE_FAMILY,FOR_SALE,11
+61565056,https://www.zillow.com/homedetails/408-Arlington-Rd-Hoyt-Lakes-MN-55750/61565056_zpid/,408 Arlington Rd,55750,Hoyt Lakes,MN,47.517446,-92.133415,29900.0,1.0,2.0,864.0,1957,7187.0,SINGLE_FAMILY,FOR_SALE,11
+61565080,https://www.zillow.com/homedetails/425-Coventry-Rd-Hoyt-Lakes-MN-55750/61565080_zpid/,425 Coventry Rd,55750,Hoyt Lakes,MN,47.516851,-92.131227,74900.0,2.0,4.0,1590.0,1957,7274.0,SINGLE_FAMILY,FOR_SALE,17
+61564565,https://www.zillow.com/homedetails/231-Arlington-Rd-Hoyt-Lakes-MN-55750/61564565_zpid/,231 Arlington Rd,55750,Hoyt Lakes,MN,47.518784,-92.141498,43500.0,1.0,3.0,1371.0,1954,9147.0,SINGLE_FAMILY,FOR_SALE,14
+61564818,https://www.zillow.com/homedetails/234-Hampshire-Dr-Hoyt-Lakes-MN-55750/61564818_zpid/,234 Hampshire Dr,55750,Hoyt Lakes,MN,47.512094,-92.141059,109000.0,1.0,3.0,1330.0,1956,7361.0,SINGLE_FAMILY,FOR_SALE,10
+61564393,https://www.zillow.com/homedetails/205-Brandon-Rd-Hoyt-Lakes-MN-55750/61564393_zpid/,205 Brandon Rd,55750,Hoyt Lakes,MN,47.516888,-92.144632,22894.0,1.0,2.0,992.0,1954,8712.0,SINGLE_FAMILY,PRE_FORECLOSURE,1
+61564626,https://www.zillow.com/homedetails/301-Arlington-Rd-Aurora-MN-55750/61564626_zpid/,301 Arlington Rd,55750,Aurora,MN,47.518562,-92.139133,95000.0,2.0,2.0,1786.0,1956,6098.0,SINGLE_FAMILY,FOR_SALE,19
+61565082,https://www.zillow.com/homedetails/421-Coventry-Rd-Hoyt-Lakes-MN-55750/61565082_zpid/,421 Coventry Rd,55750,Hoyt Lakes,MN,47.516865,-92.131744,54900.0,1.0,3.0,1037.0,1955,6969.0,SINGLE_FAMILY,FOR_SALE,14
+61565060,https://www.zillow.com/homedetails/416-Arlington-Rd-Tower-MN-55750/61565060_zpid/,416 Arlington Rd,55750,Tower,MN,47.517312,-92.132382,97000.0,2.0,4.0,1743.0,1957,7187.0,SINGLE_FAMILY,FOR_SALE,18
+61564726,https://www.zillow.com/homedetails/309-Elmwood-Rd-Hoyt-Lakes-MN-55750/61564726_zpid/,309 Elmwood Rd,55750,Hoyt Lakes,MN,47.515743,-92.140682,63500.0,2.0,3.0,1495.0,1956,7405.0,SINGLE_FAMILY,FOR_SALE,11
+61564579,https://www.zillow.com/homedetails/321-Andover-Rd-Hoyt-Lakes-MN-55750/61564579_zpid/,321 Andover Rd,55750,Hoyt Lakes,MN,47.519089,-92.136151,84000.0,2.0,4.0,691.0,1956,6969.0,SINGLE_FAMILY,FOR_SALE,24

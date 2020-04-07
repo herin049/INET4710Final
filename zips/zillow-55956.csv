@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2080496447,https://www.zillow.com/homedetails/266-14th-Ave-SE-Mazeppa-MN-55956/2080496447_zpid/,266 14th Ave SE,55956,Mazeppa,MN,44.269675,-92.529829,289900.0,2.0,2.0,1210.0,2019,1306.0,SINGLE_FAMILY,FOR_SALE,16
+98949660,https://www.zillow.com/homedetails/62997-430th-Ave-Mazeppa-MN-55956/98949660_zpid/,62997 430th Ave,55956,Mazeppa,MN,44.294691,-92.536252,774000.0,3.0,3.0,4118.0,2005,2516896.0,SINGLE_FAMILY,FOR_SALE,73
+98953323,https://www.zillow.com/homedetails/780-Cherry-St-E-Mazeppa-MN-55956/98953323_zpid/,780 Cherry St E,55956,Mazeppa,MN,44.274109,-92.537584,379900.0,3.0,4.0,3975.0,1999,89298.0,SINGLE_FAMILY,FOR_SALE,30

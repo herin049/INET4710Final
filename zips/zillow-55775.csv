@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+103941816,https://www.zillow.com/homedetails/16250-Maple-Knoll-Dr-Pengilly-MN-55775/103941816_zpid/,16250 Maple Knoll Dr,55775,Pengilly,MN,47.288458,-93.199382,274900.0,2.0,4.0,2558.0,1978,94960.0,SINGLE_FAMILY,FOR_SALE,33
+120639681,https://www.zillow.com/homedetails/16506-Maple-Knoll-Dr-Pengilly-MN-55775/120639681_zpid/,16506 Maple Knoll Dr,55775,Pengilly,MN,47.286716,-93.2061,289900.0,2.0,2.0,2007.0,2008,50529.0,SINGLE_FAMILY,FOR_SALE,31
+2143466903,https://www.zillow.com/homedetails/28676-Grozys-Point-Rd-Pengilly-MN-55775/2143466903_zpid/,28676 Grozys Point Rd,55775,Pengilly,MN,47.2914,-93.168591,599900.0,3.0,3.0,2358.0,1961,548856.0,TOWNHOUSE,FOR_SALE,3
+112244448,https://www.zillow.com/homedetails/17513-County-Road-12-Pengilly-MN-55775/112244448_zpid/,17513 County Road 12,55775,Pengilly,MN,47.266936,-93.226655,329900.0,2.0,3.0,1693.0,1955,273121.0,SINGLE_FAMILY,FOR_SALE,15
+218527677,https://www.zillow.com/homedetails/16339-Badavinac-Rd-Pengilly-MN-55775/218527677_zpid/,16339 Badavinac Rd,55775,Pengilly,MN,47.310832,-93.202846,199900.0,2.0,3.0,1792.0,1970,304920.0,SINGLE_FAMILY,FOR_SALE,19

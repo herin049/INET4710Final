@@ -1,0 +1,12 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106670534,https://www.zillow.com/homedetails/132-Charles-St-Conger-MN-56020/106670534_zpid/,132 Charles St,56020,Conger,MN,43.61393,-93.53077,78000.0,2.0,4.0,1809.0,1900,14200.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106670533,https://www.zillow.com/homedetails/138-Charles-St-Conger-MN-56020/106670533_zpid/,138 Charles St,56020,Conger,MN,43.613519,-93.530768,55000.0,1.0,2.0,1346.0,1934,14810.0,SINGLE_FAMILY,SOLD,1
+106670539,https://www.zillow.com/homedetails/108-S-Maple-St-Conger-MN-56020/106670539_zpid/,108 S Maple St,56020,Conger,MN,43.61359,-93.530048,81928.0,1.0,4.0,2368.0,1913,-1.0,SINGLE_FAMILY,OTHER,0
+106670537,https://www.zillow.com/homedetails/112-Maple-St-Conger-MN-56020/106670537_zpid/,112 Maple St,56020,Conger,MN,43.613316,-93.530047,120632.0,1.5,3.0,1431.0,1950,-1.0,SINGLE_FAMILY,OTHER,0
+106670531,https://www.zillow.com/homedetails/142-Charles-St-Conger-MN-56020/106670531_zpid/,142 Charles St,56020,Conger,MN,43.613177,-93.530767,108532.0,2.0,4.0,3009.0,1936,6969.0,SINGLE_FAMILY,OTHER,0
+106670532,https://www.zillow.com/homedetails/140-Charles-St-Conger-MN-56020/106670532_zpid/,140 Charles St,56020,Conger,MN,43.613314,-93.530768,110629.0,2.0,3.0,1440.0,1933,-1.0,SINGLE_FAMILY,OTHER,0
+106670536,https://www.zillow.com/homedetails/114-Maple-St-Conger-MN-56020/106670536_zpid/,114 Maple St,56020,Conger,MN,43.613178,-93.530047,75326.0,2.0,2.0,912.0,1939,-1.0,SINGLE_FAMILY,OTHER,0
+106670542,https://www.zillow.com/homedetails/102-Maple-St-Conger-MN-56020/106670542_zpid/,102 Maple St,56020,Conger,MN,43.614001,-93.53005,65763.0,1.25,3.0,1056.0,1895,-1.0,SINGLE_FAMILY,OTHER,0
+106670540,https://www.zillow.com/homedetails/106-Maple-St-Conger-MN-56020/106670540_zpid/,106 Maple St,56020,Conger,MN,43.613718,-93.530084,54980.0,1.0,3.0,1568.0,1911,-1.0,SINGLE_FAMILY,OTHER,0
+106670528,https://www.zillow.com/homedetails/150-Miller-Ave-Conger-MN-56020/106670528_zpid/,150 Miller Ave,56020,Conger,MN,43.614656,-93.530772,116628.0,2.25,4.0,1104.0,1970,-1.0,SINGLE_FAMILY,OTHER,0
+106670526,https://www.zillow.com/homedetails/130-William-Ave-Conger-MN-56020/106670526_zpid/,130 William Ave,56020,Conger,MN,43.614384,-93.530771,117213.0,2.0,3.0,1344.0,1971,-1.0,SINGLE_FAMILY,OTHER,0

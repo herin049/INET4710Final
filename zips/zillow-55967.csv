@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+117533974,https://www.zillow.com/homedetails/309-Minnesota-St-SE-Racine-MN-55967/117533974_zpid/,309 Minnesota St SE,55967,Racine,MN,43.774536,-92.480045,225000.0,3.0,5.0,2300.0,1992,14810.0,SINGLE_FAMILY,FOR_SALE,13
+117534027,https://www.zillow.com/homedetails/11-Oak-Ave-NE-Racine-MN-55967/117534027_zpid/,11 Oak Ave NE,55967,Racine,MN,43.776674,-92.479511,215000.0,2.0,4.0,2775.0,1910,23870.0,SINGLE_FAMILY,FOR_SALE,32

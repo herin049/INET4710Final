@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+53221658,https://www.zillow.com/homedetails/831-River-St-Taylors-Falls-MN-55084/53221658_zpid/,831 River St,55084,Taylors Falls,MN,45.410667,-92.650559,189900.0,2.0,3.0,1662.0,1921,14984.0,SINGLE_FAMILY,FOR_SALE,25
+219491593,https://www.zillow.com/homedetails/20192-345th-St-Taylors-Falls-MN-55084/219491593_zpid/,20192 345th St,55084,Taylors Falls,MN,45.449921,-92.698481,629900.0,2.0,3.0,2624.0,1905,3458664.0,SINGLE_FAMILY,FOR_SALE,43
+72386364,https://www.zillow.com/homedetails/918-Gable-St-Taylors-Falls-MN-55084/72386364_zpid/,918 Gable St,55084,Taylors Falls,MN,45.413059,-92.666278,239900.0,2.0,2.0,1476.0,2020,5880.0,TOWNHOUSE,FOR_SALE,14
+53221829,https://www.zillow.com/homedetails/370-Walnut-St-Taylors-Falls-MN-55084/53221829_zpid/,370 Walnut St,55084,Taylors Falls,MN,45.405123,-92.656442,132811.0,1.5,2.0,655.0,1900,20037.0,SINGLE_FAMILY,PRE_FORECLOSURE,5
+2082733879,https://www.zillow.com/homedetails/37930-Reed-Ave-NW-Taylors-Falls-MN-55084/2082733879_zpid/,37930 Reed Ave NW,55084,Taylors Falls,MN,45.499138,-92.755167,289999.0,2.0,2.0,1116.0,2019,239580.0,SINGLE_FAMILY,FOR_SALE,14

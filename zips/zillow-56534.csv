@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+97016176,https://www.zillow.com/homedetails/24638-Tonseth-Ln-Erhard-MN-56534/97016176_zpid/,24638 Tonseth Ln,56534,Erhard,MN,46.442894,-95.975637,299000.0,2.0,3.0,1936.0,1976,179902.0,SINGLE_FAMILY,FOR_SALE,19
+97014572,https://www.zillow.com/homedetails/16862-County-Highway-24-Erhard-MN-56534/97014572_zpid/,16862 County Highway 24,56534,Erhard,MN,46.485229,-96.139798,189000.0,2.0,3.0,2531.0,1940,302306.0,SINGLE_FAMILY,FOR_SALE,19
+97014553,https://www.zillow.com/homedetails/20064-County-Highway-24-Erhard-MN-56534/97014553_zpid/,20064 County Highway 24,56534,Erhard,MN,46.491538,-96.051258,225000.0,2.0,3.0,1886.0,1995,2476386.0,SINGLE_FAMILY,FOR_SALE,25
+97020828,https://www.zillow.com/homedetails/35121-260th-Ave-Erhard-MN-56534/97020828_zpid/,35121 260th Ave,56534,Erhard,MN,46.472434,-95.952819,750000.0,3.0,3.0,3824.0,2010,435600.0,SINGLE_FAMILY,FOR_SALE,62

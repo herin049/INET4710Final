@@ -1,0 +1,12 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2083704682,https://www.zillow.com/homedetails/48794-210th-St-Vining-MN-56588/2083704682_zpid/,48794 210th St,56588,Vining,MN,46.260676,-95.475425,365000.0,2.0,4.0,2352.0,1964,3267000.0,SINGLE_FAMILY,RECENTLY_SOLD,9
+97035699,https://www.zillow.com/homedetails/50-Eastern-Ave-Vining-MN-56588/97035699_zpid/,50 Eastern Ave,56588,Vining,MN,46.123567,-95.509202,86000.0,1.0,4.0,1300.0,1919,12000.0,SINGLE_FAMILY,RECENTLY_SOLD,22
+97016437,https://www.zillow.com/homedetails/45509-Chippewa-Trl-Vining-MN-56588/97016437_zpid/,45509 Chippewa Trl,56588,Vining,MN,46.29546,-95.544348,548000.0,2.0,4.0,3324.0,1996,67518.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+115956978,https://www.zillow.com/homedetails/44621-220th-St-Vining-MN-56588/115956978_zpid/,44621 220th St,56588,Vining,MN,46.282754,-95.561562,120000.0,1.0,3.0,1040.0,1960,34848.0,MANUFACTURED,SOLD,28
+97035956,https://www.zillow.com/homedetails/204-Soule-Ave-Vining-MN-56588/97035956_zpid/,204 Soule Ave,56588,Vining,MN,46.261639,-95.538318,37000.0,1.0,2.0,1122.0,1892,14810.0,SINGLE_FAMILY,SOLD,16
+97035608,https://www.zillow.com/homedetails/12-N-1st-St-Vining-MN-56588/97035608_zpid/,12 N 1st St,56588,Vining,MN,46.124658,-95.511387,38000.0,1.0,3.0,979.0,1924,8712.0,SINGLE_FAMILY,SOLD,17
+97016449,https://www.zillow.com/homedetails/45379-Chippewa-Trl-Vining-MN-56588/97016449_zpid/,45379 Chippewa Trl,56588,Vining,MN,46.292525,-95.544914,389900.0,3.0,4.0,2990.0,1992,113255.0,SINGLE_FAMILY,SOLD,0
+97016444,https://www.zillow.com/homedetails/45500-Chippewa-Way-Vining-MN-56588/97016444_zpid/,45500 Chippewa Way,56588,Vining,MN,46.291696,-95.542924,353700.0,2.0,3.0,1800.0,1999,141570.0,SINGLE_FAMILY,SOLD,0
+97035981,https://www.zillow.com/homedetails/229-Soule-Ave-Vining-MN-56588/97035981_zpid/,229 Soule Ave,56588,Vining,MN,46.259405,-95.537576,72500.0,1.0,3.0,2080.0,1991,26136.0,SINGLE_FAMILY,SOLD,10
+97017370,https://www.zillow.com/homedetails/22075-Tepee-Cir-Vining-MN-56588/97017370_zpid/,22075 Tepee Cir,56588,Vining,MN,46.284178,-95.535013,185000.0,1.0,3.0,1252.0,1938,21780.0,SINGLE_FAMILY,SOLD,10
+97021332,https://www.zillow.com/homedetails/45417-Bush-Hill-Rd-Vining-MN-56588/97021332_zpid/,45417 Bush Hill Rd,56588,Vining,MN,46.277293,-95.543078,200000.0,1.0,3.0,1022.0,1987,14374.0,SINGLE_FAMILY,SOLD,14

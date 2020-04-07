@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+233522397,https://www.zillow.com/homedetails/21130-Valley-Vista-Rd-Spring-Grove-MN-55974/233522397_zpid/,21130 Valley Vista Rd,55974,Spring Grove,MN,43.543009,-91.593518,329000.0,1.0,3.0,1303.0,1900,1001880.0,SINGLE_FAMILY,FOR_SALE,18
+106686578,https://www.zillow.com/homedetails/127-3rd-Ave-SW-Spring-Grove-MN-55974/106686578_zpid/,127 3rd Ave SW,55974,Spring Grove,MN,43.558805,-91.642419,159000.0,2.0,3.0,1496.0,1977,10200.0,SINGLE_FAMILY,FOR_SALE,36
+106686585,https://www.zillow.com/homedetails/321-1st-St-NE-Spring-Grove-MN-55974/106686585_zpid/,321 1st St NE,55974,Spring Grove,MN,43.561979,-91.631245,104000.0,2.0,3.0,1996.0,1921,9583.0,SINGLE_FAMILY,FOR_SALE,1
+106682299,https://www.zillow.com/homedetails/16850-Heritage-Rd-Spring-Grove-MN-55974/106682299_zpid/,16850 Heritage Rd,55974,Spring Grove,MN,43.606157,-91.614492,199900.0,1.0,3.0,1485.0,1900,117612.0,SINGLE_FAMILY,FOR_SALE,20

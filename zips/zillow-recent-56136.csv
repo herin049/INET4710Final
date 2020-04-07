@@ -1,0 +1,15 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+113930252,https://www.zillow.com/homedetails/403-Chavis-Dr-Hendricks-MN-56136/113930252_zpid/,403 Chavis Dr,56136,Hendricks,MN,44.503639,-96.418086,116500.0,2.0,3.0,2240.0,1976,14461.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+2086603959,https://www.zillow.com/homedetails/210-W-Hobart-St-Hendricks-MN-56136/2086603959_zpid/,210 W Hobart St,56136,Hendricks,MN,44.508339,-96.426749,75000.0,2.0,4.0,2208.0,1917,10454.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+2090701345,https://www.zillow.com/homedetails/20003-Oak-Hills-Pl-Hendricks-MN-56136/2090701345_zpid/,20003 Oak Hills Pl,56136,Hendricks,MN,44.5046,-96.4004,500000.0,5.0,4.0,3912.0,2014,24750.0,SINGLE_FAMILY,RECENTLY_SOLD,34
+106736914,https://www.zillow.com/homedetails/201-N-Oak-St-Hendricks-MN-56136/106736914_zpid/,201 N Oak St,56136,Hendricks,MN,44.508296,-96.421046,35000.0,2.0,3.0,1401.0,1910,7318.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+2088451385,https://www.zillow.com/homedetails/102-S-Brook-St-Hendricks-MN-56136/2088451385_zpid/,102 S Brook St,56136,Hendricks,MN,44.506917,-96.431139,60000.0,2.0,4.0,2816.0,1920,9583.0,SINGLE_FAMILY,SOLD,0
+2088829801,https://www.zillow.com/homedetails/402-N-Main-St-Hendricks-MN-56136/2088829801_zpid/,402 N Main St,56136,Hendricks,MN,44.510317,-96.425894,64500.0,1.0,4.0,2216.0,1956,-1.0,SINGLE_FAMILY,SOLD,0
+2088159071,https://www.zillow.com/homedetails/1077-N-Shore-Hendricks-MN-56136/2088159071_zpid/,1077 N Shore,56136,Hendricks,MN,44.504468,-96.447446,148000.0,1.0,2.0,1056.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
+2088113851,https://www.zillow.com/homedetails/1077-Shore-Hendricks-MN-56136/2088113851_zpid/,1077 Shore,56136,Hendricks,MN,44.504439,-96.444469,148000.0,1.0,2.0,1056.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
+2088853549,https://www.zillow.com/homedetails/1123-N-Shore-Dr-Hendricks-MN-56136/2088853549_zpid/,1123 N Shore Dr,56136,Hendricks,MN,44.505903,-96.441694,190000.0,2.0,3.0,1200.0,1997,61419.0,MANUFACTURED,SOLD,0
+2098827206,https://www.zillow.com/homedetails/19926-Ramlo-Shrs-Hendricks-MN-56136/2098827206_zpid/,19926 Ramlo Shrs,56136,Hendricks,MN,44.5019,-96.4406,525000.0,3.0,4.0,4194.0,2005,35719.0,SINGLE_FAMILY,SOLD,61
+106736839,https://www.zillow.com/homedetails/211-N-Division-St-Hendricks-MN-56136/106736839_zpid/,211 N Division St,56136,Hendricks,MN,44.509005,-96.423882,32000.0,2.0,2.0,1452.0,1922,6969.0,SINGLE_FAMILY,SOLD,0
+2136317980,https://www.zillow.com/homedetails/2461-County-Road-102-Hendricks-MN-56136/2136317980_zpid/,2461 County Road 102,56136,Hendricks,MN,44.4975,-96.3634,235000.0,2.0,4.0,2288.0,1967,43560.0,SINGLE_FAMILY,SOLD,0
+2093302985,https://www.zillow.com/homedetails/115-S-Sunrise-St-Hendricks-MN-56136/2093302985_zpid/,115 S Sunrise St,56136,Hendricks,MN,44.499508,-96.428341,124900.0,2.0,2.0,1492.0,2006,-1.0,CONDO,FOR_SALE,24
+113930239,https://www.zillow.com/homedetails/307-N-Prairie-St-Hendricks-MN-56136/113930239_zpid/,307 N Prairie St,56136,Hendricks,MN,44.509737,-96.426763,55000.0,1.0,2.0,996.0,1940,43560.0,SINGLE_FAMILY,SOLD,0

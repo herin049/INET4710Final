@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106764519,https://www.zillow.com/homedetails/20-3rd-Ave-SE-Trimont-MN-56176/106764519_zpid/,20 3rd Ave SE,56176,Trimont,MN,43.761576,-94.709669,69900.0,1.0,2.0,1250.0,1940,9757.0,SINGLE_FAMILY,FOR_SALE,26
+106764393,https://www.zillow.com/homedetails/331-Apple-St-E-Trimont-MN-56176/106764393_zpid/,331 Apple St E,56176,Trimont,MN,43.763295,-94.709456,69900.0,3.0,4.0,1773.0,1900,7013.0,SINGLE_FAMILY,FOR_SALE,37
+106764435,https://www.zillow.com/homedetails/70-Main-St-E-Trimont-MN-56176/106764435_zpid/,70 Main St E,56176,Trimont,MN,43.761675,-94.713021,93000.0,2.0,3.0,2090.0,1925,7013.0,SINGLE_FAMILY,FOR_SALE,34
+106764288,https://www.zillow.com/homedetails/211-Ash-St-W-Trimont-MN-56176/106764288_zpid/,211 Ash St W,56176,Trimont,MN,43.761298,-94.718442,129900.0,3.0,3.0,864.0,1905,13416.0,SINGLE_FAMILY,FOR_SALE,36

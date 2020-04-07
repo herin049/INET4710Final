@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+124233105,https://www.zillow.com/homedetails/1283-200th-Ave-N-Georgetown-MN-56546/124233105_zpid/,1283 200th Ave N,56546,Georgetown,MN,47.135725,-96.758632,358900.0,3.0,4.0,2850.0,1993,479160.0,SINGLE_FAMILY,RECENTLY_SOLD,89
+222125832,https://www.zillow.com/homedetails/19041-30th-St-N-Georgetown-MN-56546/222125832_zpid/,19041 30th St N,56546,Georgetown,MN,47.12317,-96.733224,205000.0,2.0,4.0,2800.0,1946,217800.0,SINGLE_FAMILY,RECENTLY_SOLD,39
+89223715,https://www.zillow.com/homedetails/3748-200th-Ave-N-Georgetown-MN-56546/89223715_zpid/,3748 200th Ave N,56546,Georgetown,MN,47.138123,-96.717016,259500.0,1.0,4.0,2824.0,1953,514879.0,SINGLE_FAMILY,SOLD,61
+89322396,https://www.zillow.com/homedetails/463-Elm-St-Georgetown-MN-56546/89322396_zpid/,463 Elm St,56546,Georgetown,MN,47.077205,-96.794412,80000.0,2.0,3.0,1232.0,2004,-1.0,SINGLE_FAMILY,SOLD,16
+89226536,https://www.zillow.com/homedetails/19712-40th-St-N-Georgetown-MN-56546/89226536_zpid/,19712 40th St N,56546,Georgetown,MN,47.133228,-96.710162,210000.0,2.0,4.0,1865.0,1957,871200.0,SINGLE_FAMILY,SOLD,65

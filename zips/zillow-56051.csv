@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+115009596,https://www.zillow.com/homedetails/804-W-State-St-Kiester-MN-56051/115009596_zpid/,804 W State St,56051,Kiester,MN,43.53574,-93.717953,74900.0,2.0,4.0,1768.0,1955,6098.0,SINGLE_FAMILY,FOR_SALE,19
+234330678,https://www.zillow.com/homedetails/500-W-Center-St-Kiester-MN-56051/234330678_zpid/,500 W Center St,56051,Kiester,MN,43.536729,-93.71397,27500.0,2.0,4.0,1092.0,1936,6300.0,SINGLE_FAMILY,FOR_SALE,20

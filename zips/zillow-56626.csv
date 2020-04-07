@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2083296568,https://www.zillow.com/homedetails/108-Jewel-Weed-Ln-NE-Bena-MN-56626/2083296568_zpid/,108 Jewel Weed Ln NE,56626,Bena,MN,47.377902,-94.285575,239900.0,1.0,3.0,750.0,1950,27878.0,SINGLE_FAMILY,FOR_SALE,25
+2083504709,https://www.zillow.com/homedetails/15038-16th-Ave-UNIT-17-Bena-MN-56626/2083504709_zpid/,15038 16th Ave UNIT 17,56626,Bena,MN,47.3479,-94.2281,74800.0,1.0,2.0,952.0,1984,4356.0,SINGLE_FAMILY,FOR_SALE,18

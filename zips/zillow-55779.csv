@@ -1,0 +1,9 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+61587724,https://www.zillow.com/homedetails/5495-Munger-Shaw-Rd-Saginaw-MN-55779/61587724_zpid/,5495 Munger Shaw Rd,55779,Saginaw,MN,46.909128,-92.340477,214900.0,1.0,3.0,1008.0,1963,218750.0,SINGLE_FAMILY,FOR_SALE,14
+61607145,https://www.zillow.com/homedetails/6254-Highway-194-Saginaw-MN-55779/61607145_zpid/,6254 Highway 194,55779,Saginaw,MN,46.843105,-92.338472,335000.0,3.0,6.0,2700.0,1988,402500.0,SINGLE_FAMILY,FOR_SALE,39
+61589264,https://www.zillow.com/homedetails/5019-Westlund-Rd-Culver-MN-55779/61589264_zpid/,5019 Westlund Rd,55779,Culver,MN,46.874008,-92.389074,599900.0,5.0,3.0,3356.0,1990,91475.0,SINGLE_FAMILY,FOR_SALE,40
+61589007,https://www.zillow.com/homedetails/6453-Tambren-Ln-Saginaw-MN-55779/61589007_zpid/,6453 Tambren Ln,55779,Saginaw,MN,46.88591,-92.360686,374900.0,5.0,4.0,3192.0,1993,60000.0,SINGLE_FAMILY,FOR_SALE,35
+61588653,https://www.zillow.com/homedetails/6360-Beckman-Rd-Saginaw-MN-55779/61588653_zpid/,6360 Beckman Rd,55779,Saginaw,MN,46.943795,-92.350408,499000.0,3.0,3.0,3820.0,1993,531432.0,SINGLE_FAMILY,FOR_SALE,48
+61588143,https://www.zillow.com/homedetails/5004-Munger-Shaw-Rd-Saginaw-MN-55779/61588143_zpid/,5004 Munger Shaw Rd,55779,Saginaw,MN,46.872868,-92.34156,369900.0,2.0,3.0,2500.0,1986,471319.0,SINGLE_FAMILY,FOR_SALE,37
+149993829,https://www.zillow.com/homedetails/8138-Highway-2-Saginaw-MN-55779/149993829_zpid/,8138 Highway 2,55779,Saginaw,MN,46.846033,-92.537071,230000.0,1.0,2.0,1400.0,2014,180774.0,SINGLE_FAMILY,FOR_SALE,18
+150013579,https://www.zillow.com/homedetails/6579-Highway-53-Saginaw-MN-55779/150013579_zpid/,6579 Highway 53,55779,Saginaw,MN,46.986807,-92.473897,330000.0,3.0,3.0,2892.0,2013,389862.0,SINGLE_FAMILY,FOR_SALE,21

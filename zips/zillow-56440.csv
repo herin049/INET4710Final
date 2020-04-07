@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106842296,https://www.zillow.com/homedetails/32736-203rd-Ave-Clarissa-MN-56440/106842296_zpid/,32736 203rd Ave,56440,Clarissa,MN,46.102737,-94.940583,139900.0,1.0,3.0,1232.0,1977,435600.0,SINGLE_FAMILY,FOR_SALE,16
+106845213,https://www.zillow.com/homedetails/34549-County-11-Clarissa-MN-56440/106845213_zpid/,34549 County 11,56440,Clarissa,MN,46.13048,-94.959548,85000.0,1.0,3.0,1100.0,1969,27878.0,SINGLE_FAMILY,FOR_SALE,31
+106842295,https://www.zillow.com/homedetails/32459-203rd-Ave-Clarissa-MN-56440/106842295_zpid/,32459 203rd Ave,56440,Clarissa,MN,46.099223,-94.943798,219900.0,2.0,3.0,1350.0,2019,200376.0,SINGLE_FAMILY,FOR_SALE,25

@@ -1,0 +1,7 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+115959500,https://www.zillow.com/homedetails/88261-County-Road-37-Maynard-MN-56260/115959500_zpid/,88261 County Road 37,56260,Maynard,MN,44.865391,-95.466654,40000.0,1.0,4.0,2000.0,1920,217800.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106632600,https://www.zillow.com/homedetails/310-Jesse-Ave-Maynard-MN-56260/106632600_zpid/,310 Jesse Ave,56260,Maynard,MN,44.909117,-95.472736,136500.0,2.0,3.0,2607.0,-1,17640.0,SINGLE_FAMILY,SOLD,1
+106633604,https://www.zillow.com/homedetails/8045-1st-Ave-S-Maynard-MN-56260/106633604_zpid/,8045 1st Ave S,56260,Maynard,MN,44.900153,-95.595682,54000.0,1.0,4.0,1876.0,1900,196020.0,SINGLE_FAMILY,SOLD,21
+106820579,https://www.zillow.com/homedetails/10391-880th-Ave-Maynard-MN-56260/106820579_zpid/,10391 880th Ave,56260,Maynard,MN,44.861772,-95.461023,153000.0,2.0,3.0,2372.0,1900,530560.0,SINGLE_FAMILY,SOLD,0
+106632613,https://www.zillow.com/homedetails/520-Amy-St-Maynard-MN-56260/106632613_zpid/,520 Amy St,56260,Maynard,MN,44.909482,-95.469919,40000.0,1.0,2.0,1852.0,1927,6969.0,SINGLE_FAMILY,SOLD,0
+106632637,https://www.zillow.com/homedetails/440-Cynthia-St-Maynard-MN-56260/106632637_zpid/,440 Cynthia St,56260,Maynard,MN,44.908307,-95.470572,15000.0,1.0,2.0,904.0,1940,6969.0,SINGLE_FAMILY,SOLD,18

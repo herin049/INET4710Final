@@ -1,0 +1,9 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+235786022,https://www.zillow.com/homedetails/1557-100th-Ave-Hadley-MN-56151/235786022_zpid/,1557 100th Ave,56151,Hadley,MN,44.078481,-95.861212,305000.0,3.0,3.0,4401.0,1927,758815.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106775134,https://www.zillow.com/homedetails/200-Broadway-Ave-N-Lake-Wilson-MN-56151/106775134_zpid/,200 Broadway Ave N,56151,Lake Wilson,MN,43.999257,-95.954792,50000.0,1.0,3.0,2254.0,1921,11325.0,SINGLE_FAMILY,SOLD,0
+113934671,https://www.zillow.com/homedetails/241-3rd-Ave-E-Hadley-MN-56151/113934671_zpid/,241 3rd Ave E,56151,Hadley,MN,44.000105,-95.852218,55000.0,1.0,2.0,2032.0,1940,22651.0,SINGLE_FAMILY,SOLD,0
+106775124,https://www.zillow.com/homedetails/121-Roosevelt-St-N-Lake-Wilson-MN-56151/106775124_zpid/,121 Roosevelt St N,56151,Lake Wilson,MN,43.997962,-95.955157,90000.0,3.0,3.0,2208.0,1959,15246.0,SINGLE_FAMILY,SOLD,0
+106773667,https://www.zillow.com/homedetails/1358-110th-Ave-Hadley-MN-56151/106773667_zpid/,1358 110th Ave,56151,Hadley,MN,44.044983,-95.842543,225000.0,2.0,3.0,3148.0,1915,460429.0,SINGLE_FAMILY,SOLD,0
+106773573,https://www.zillow.com/homedetails/819-120th-Ave-Hadley-MN-56151/106773573_zpid/,819 120th Ave,56151,Hadley,MN,43.967251,-95.825111,137000.0,2.0,3.0,1497.0,1930,420789.0,SINGLE_FAMILY,SOLD,0
+106776092,https://www.zillow.com/homedetails/1376-50th-Ave-Lake-Wilson-MN-56151/106776092_zpid/,1376 50th Ave,56151,Lake Wilson,MN,44.048219,-95.962017,200000.0,3.0,4.0,2656.0,1975,574992.0,SINGLE_FAMILY,SOLD,0
+106773567,https://www.zillow.com/homedetails/1110-110th-Ave-Hadley-MN-56151/106773567_zpid/,1110 110th Ave,56151,Hadley,MN,44.009201,-95.842673,130000.0,3.0,5.0,3152.0,1980,607662.0,SINGLE_FAMILY,SOLD,0

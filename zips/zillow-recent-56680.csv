@@ -1,0 +1,10 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+112244352,https://www.zillow.com/homedetails/55481-Eggar-Rd-Spring-Lake-MN-56680/112244352_zpid/,55481 Eggar Rd,56680,Spring Lake,MN,47.641472,-94.02062,125000.0,1.0,3.0,1452.0,1979,79714.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+120634658,https://www.zillow.com/homedetails/51537-Edgewater-Rd-Spring-Lake-MN-56680/120634658_zpid/,51537 Edgewater Rd,56680,Spring Lake,MN,47.622766,-93.982174,240000.0,2.0,3.0,1942.0,1988,103672.0,SINGLE_FAMILY,SOLD,24
+120632954,https://www.zillow.com/homedetails/55535-Eggar-Rd-Spring-Lake-MN-56680/120632954_zpid/,55535 Eggar Rd,56680,Spring Lake,MN,47.641542,-94.021869,126500.0,1.0,2.0,1312.0,1978,85813.0,SINGLE_FAMILY,SOLD,14
+120634307,https://www.zillow.com/homedetails/51605-Edgewater-Rd-Spring-Lake-MN-56680/120634307_zpid/,51605 Edgewater Rd,56680,Spring Lake,MN,47.623593,-93.983247,190000.0,1.0,2.0,912.0,1988,85377.0,SINGLE_FAMILY,SOLD,24
+120642802,https://www.zillow.com/homedetails/49222-County-Road-4-Spring-Lake-MN-56680/120642802_zpid/,49222 County Road 4,56680,Spring Lake,MN,47.64424,-93.885644,95000.0,1.0,2.0,1056.0,1978,4573800.0,SINGLE_FAMILY,SOLD,18
+120633870,https://www.zillow.com/homedetails/50145-County-Road-4-Spring-Lake-MN-56680/120633870_zpid/,50145 County Road 4,56680,Spring Lake,MN,47.642638,-93.904888,115500.0,3.0,5.0,1758.0,1975,1742400.0,SINGLE_FAMILY,SOLD,18
+120633283,https://www.zillow.com/homedetails/52348-S-Center-Rd-Spring-Lake-MN-56680/120633283_zpid/,52348 S Center Rd,56680,Spring Lake,MN,47.632231,-93.991717,1122.0,3.0,4.0,2527.0,2012,182951.0,SINGLE_FAMILY,SOLD,17
+120640182,https://www.zillow.com/homedetails/47335-Dallas-Rd-Spring-Lake-MN-56680/120640182_zpid/,47335 Dallas Rd,56680,Spring Lake,MN,47.64641,-93.847045,509.0,1.0,2.0,1288.0,2008,32670.0,SINGLE_FAMILY,SOLD,18
+120634566,https://www.zillow.com/homedetails/51136-Edgewater-Rd-Hastings-MN-56680/120634566_zpid/,51136 Edgewater Rd,56680,Hastings,MN,47.616019,-93.981911,227000.0,1.0,2.0,756.0,1983,994039.0,SINGLE_FAMILY,SOLD,14

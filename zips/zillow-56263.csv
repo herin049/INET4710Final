@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106816581,https://www.zillow.com/homedetails/307-Prospect-St-Milroy-MN-56263/106816581_zpid/,307 Prospect St,56263,Milroy,MN,44.416764,-95.554966,57900.0,2.0,3.0,1456.0,1902,8407.0,SINGLE_FAMILY,FOR_SALE,15
+106816538,https://www.zillow.com/homedetails/406-Bernice-St-Milroy-MN-56263/106816538_zpid/,406 Bernice St,56263,Milroy,MN,44.417677,-95.549213,199900.0,3.0,4.0,4380.0,1984,14250.0,SINGLE_FAMILY,FOR_SALE,32
+106816533,https://www.zillow.com/homedetails/200-Lexington-St-Milroy-MN-56263/106816533_zpid/,200 Lexington St,56263,Milroy,MN,44.415649,-95.551778,66000.0,1.0,2.0,1352.0,1964,15376.0,SINGLE_FAMILY,FOR_SALE,15

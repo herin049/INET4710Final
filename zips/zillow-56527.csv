@@ -1,0 +1,8 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+115957576,https://www.zillow.com/homedetails/421-5th-St-N-Deer-Creek-MN-56527/115957576_zpid/,421 5th St N,56527,Deer Creek,MN,46.396762,-95.328958,125000.0,2.0,3.0,1844.0,2002,108900.0,MANUFACTURED,FOR_SALE,59
+2080322503,https://www.zillow.com/homedetails/57747-Co-Hwy-50-Deer-Creek-MN-56527/2080322503_zpid/,57747 Co Hwy #50,56527,Deer Creek,MN,46.382265,-95.313378,179900.0,2.0,4.0,1240.0,1900,223898.0,SINGLE_FAMILY,FOR_SALE,17
+97027985,https://www.zillow.com/homedetails/306-N-Ave-E-Deer-Creek-MN-56527/97027985_zpid/,306 N Ave E,56527,Deer Creek,MN,46.392236,-95.31755,124900.0,2.0,2.0,1452.0,1977,12632.0,SINGLE_FAMILY,FOR_SALE,18
+97019114,https://www.zillow.com/homedetails/51563-Curly-Dr-Deer-Creek-MN-56527/97019114_zpid/,51563 Curly Dr,56527,Deer Creek,MN,46.393066,-95.416321,649000.0,3.0,3.0,2600.0,2002,226511.0,SINGLE_FAMILY,FOR_SALE,44
+97027888,https://www.zillow.com/homedetails/721-State-Highway-106-N-Deer-Creek-MN-56527/97027888_zpid/,721 State Highway 106 N,56527,Deer Creek,MN,46.404877,-95.323071,134900.0,2.0,4.0,1344.0,1979,221284.0,SINGLE_FAMILY,FOR_SALE,22
+115956694,https://www.zillow.com/homedetails/57065-County-Highway-50-Deer-Creek-MN-56527/115956694_zpid/,57065 County Highway 50,56527,Deer Creek,MN,46.392661,-95.298111,285000.0,2.0,3.0,1456.0,2002,1742400.0,SINGLE_FAMILY,FOR_SALE,36
+2102120443,https://www.zillow.com/homedetails/101-2nd-St-SW-Deer-Creek-MN-56527/2102120443_zpid/,101 2nd St SW,56527,Deer Creek,MN,46.383,-95.321,57000.0,1.0,2.0,1736.0,1940,-1.0,SINGLE_FAMILY,FOR_SALE,8

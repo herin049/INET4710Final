@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106814340,https://www.zillow.com/homedetails/312-7th-St-NW-Red-Lake-Falls-MN-56750/106814340_zpid/,312 7th St NW,56750,Red Lake Falls,MN,47.890047,-96.278693,225000.0,3.0,3.0,2422.0,1962,54014.0,SINGLE_FAMILY,FOR_SALE,29
+106814679,https://www.zillow.com/homedetails/610-Chicago-Ave-SW-Red-Lake-Falls-MN-56750/106814679_zpid/,610 Chicago Ave SW,56750,Red Lake Falls,MN,47.877618,-96.279242,111900.0,2.0,2.0,2072.0,1956,13068.0,SINGLE_FAMILY,FOR_SALE,27
+106814627,https://www.zillow.com/homedetails/316-Main-Ave-N-Red-Lake-Falls-MN-56750/106814627_zpid/,316 Main Ave N,56750,Red Lake Falls,MN,47.887349,-96.272798,65000.0,2.0,3.0,1080.0,1930,-1.0,SINGLE_FAMILY,FOR_SALE,11

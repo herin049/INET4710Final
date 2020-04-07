@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+229458162,https://www.zillow.com/homedetails/3084-Beauty-Point-Rd-SW-Farwell-MN-56327/229458162_zpid/,3084 Beauty Point Rd SW,56327,Farwell,MN,45.863688,-95.540155,89500.0,1.0,1.0,288.0,2007,252212.0,SINGLE_FAMILY,FOR_SALE,12
+2082598059,https://www.zillow.com/homedetails/4735-Mill-Lake-Shores-Rd-SW-Farwell-MN-56327/2082598059_zpid/,4735 Mill Lake Shores Rd SW,56327,Farwell,MN,45.848409,-95.539016,394900.0,2.0,3.0,1896.0,1996,17424.0,SINGLE_FAMILY,FOR_SALE,50

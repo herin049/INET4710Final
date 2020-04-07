@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106619850,https://www.zillow.com/homedetails/215-1st-St-Clinton-MN-56225/106619850_zpid/,215 1st St,56225,Clinton,MN,45.458459,-96.438286,99000.0,2.0,2.0,1788.0,1982,11238.0,SINGLE_FAMILY,FOR_SALE,21
+2081284692,https://www.zillow.com/homedetails/222-2nd-St-E-Clinton-MN-56225/2081284692_zpid/,222 2nd St E,56225,Clinton,MN,45.457521,-96.434819,39900.0,1.0,2.0,868.0,1962,13460.0,SINGLE_FAMILY,FOR_SALE,12
+106619864,https://www.zillow.com/homedetails/227-2nd-St-Clinton-MN-56225/106619864_zpid/,227 2nd St,56225,Clinton,MN,45.459297,-96.466309,28000.0,2.0,2.0,1008.0,1955,13200.0,SINGLE_FAMILY,FOR_SALE,4
+113918665,https://www.zillow.com/homedetails/85135-Foster-Ln-W-Clinton-MN-56225/113918665_zpid/,85135 Foster Ln W,56225,Clinton,MN,45.416578,-96.679095,124900.0,1.0,2.0,1520.0,1945,18992.0,SINGLE_FAMILY,FOR_SALE,18

@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+123023686,https://www.zillow.com/homedetails/2983-490th-St-Nashua-MN-56565/123023686_zpid/,2983 490th St,56565,Nashua,MN,46.064435,-96.351813,40000.0,1.0,2.0,1476.0,1920,217800.0,SINGLE_FAMILY,RECENTLY_SOLD,27
+106681995,https://www.zillow.com/homedetails/29768-340th-Ave-Nashua-MN-56565/106681995_zpid/,29768 340th Ave,56565,Nashua,MN,46.047186,-96.265146,100000.0,2.0,4.0,1474.0,1910,229561.0,SINGLE_FAMILY,RECENTLY_SOLD,9

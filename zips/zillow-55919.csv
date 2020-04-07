@@ -1,0 +1,7 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106687251,https://www.zillow.com/homedetails/13909-Hillside-Rd-Brownsville-MN-55919/106687251_zpid/,13909 Hillside Rd,55919,Brownsville,MN,43.643805,-91.306077,419900.0,3.0,4.0,2800.0,2003,1206612.0,SINGLE_FAMILY,FOR_SALE,22
+106684010,https://www.zillow.com/homedetails/282-N-Marina-Dr-Brownsville-MN-55919/106684010_zpid/,282 N Marina Dr,55919,Brownsville,MN,43.69489,-91.271465,580000.0,3.0,4.0,2272.0,1995,6534.0,SINGLE_FAMILY,FOR_SALE,29
+106683935,https://www.zillow.com/homedetails/899-Mississippi-Ln-Brownsville-MN-55919/106683935_zpid/,899 Mississippi Ln,55919,Brownsville,MN,43.704499,-91.271398,229000.0,1.0,2.0,1200.0,2004,174240.0,SINGLE_FAMILY,FOR_SALE,25
+106687212,https://www.zillow.com/homedetails/14648-Twin-Coves-Ln-Brownsville-MN-55919/106687212_zpid/,14648 Twin Coves Ln,55919,Brownsville,MN,43.63604,-91.276781,243000.0,2.0,3.0,1776.0,1959,152460.0,SINGLE_FAMILY,FOR_SALE,25
+113925314,https://www.zillow.com/homedetails/501-N-2nd-St-Brownsville-MN-55919/113925314_zpid/,501 N 2nd St,55919,Brownsville,MN,43.698766,-91.271335,225000.0,3.0,3.0,2012.0,1993,6098.0,SINGLE_FAMILY,FOR_SALE,20
+106687255,https://www.zillow.com/homedetails/15555-County-24-Brownsville-MN-55919/106687255_zpid/,15555 County 24,55919,Brownsville,MN,43.620236,-91.348108,300000.0,3.0,2.0,1848.0,2002,137649.0,SINGLE_FAMILY,FOR_SALE,26

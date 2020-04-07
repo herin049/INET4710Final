@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2080999007,https://www.zillow.com/homedetails/408-N-Division-St-Hendricks-MN-56136/2080999007_zpid/,408 N Division St,56136,Hendricks,MN,44.511005,-96.42472,149500.0,1.0,2.0,2256.0,2004,16988.0,SINGLE_FAMILY,FOR_SALE,21
+194398602,https://www.zillow.com/homedetails/104-N-Division-St-Hendricks-MN-56136/194398602_zpid/,104 N Division St,56136,Hendricks,MN,44.507569,-96.424747,69900.0,2.0,3.0,1460.0,1910,7927.0,SINGLE_FAMILY,FOR_SALE,20
+2093302985,https://www.zillow.com/homedetails/115-S-Sunrise-St-Hendricks-MN-56136/2093302985_zpid/,115 S Sunrise St,56136,Hendricks,MN,44.499508,-96.428341,124900.0,2.0,2.0,1492.0,2006,-1.0,CONDO,FOR_SALE,24

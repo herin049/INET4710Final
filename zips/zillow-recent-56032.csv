@@ -1,0 +1,15 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106670943,https://www.zillow.com/homedetails/302-Main-St-Freeborn-MN-56032/106670943_zpid/,302 Main St,56032,Freeborn,MN,43.767108,-93.561547,36000.0,1.0,3.0,1232.0,1910,7405.0,SINGLE_FAMILY,RECENTLY_SOLD,24
+106670876,https://www.zillow.com/homedetails/203-4th-Ave-Freeborn-MN-56032/106670876_zpid/,203 4th Ave,56032,Freeborn,MN,43.765185,-93.562307,84500.0,2.0,4.0,1736.0,1900,9583.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106670912,https://www.zillow.com/homedetails/505-4th-Ave-Freeborn-MN-56032/106670912_zpid/,505 4th Ave,56032,Freeborn,MN,43.768268,-93.562281,70000.0,1.0,2.0,936.0,1956,9147.0,SINGLE_FAMILY,SOLD,29
+106670915,https://www.zillow.com/homedetails/602-3rd-Ave-Freeborn-MN-56032/106670915_zpid/,602 3rd Ave,56032,Freeborn,MN,43.768707,-93.561813,48000.0,1.0,3.0,3596.0,1979,25264.0,SINGLE_FAMILY,SOLD,35
+106670914,https://www.zillow.com/homedetails/604-3rd-Ave-Freeborn-MN-56032/106670914_zpid/,604 3rd Ave,56032,Freeborn,MN,43.76906,-93.56172,76250.0,1.0,3.0,1288.0,1977,18295.0,SINGLE_FAMILY,SOLD,1
+106670854,https://www.zillow.com/homedetails/904-Lakeshore-Dr-Freeborn-MN-56032/106670854_zpid/,904 Lakeshore Dr,56032,Freeborn,MN,43.765088,-93.569922,115000.0,2.0,5.0,1440.0,1967,-1.0,SINGLE_FAMILY,SOLD,0
+106670820,https://www.zillow.com/homedetails/408-2nd-Ave-Freeborn-MN-56032/106670820_zpid/,408 2nd Ave,56032,Freeborn,MN,43.767535,-93.560333,105000.0,2.0,3.0,1443.0,1950,21344.0,SINGLE_FAMILY,SOLD,1
+106670869,https://www.zillow.com/homedetails/203-5th-Ave-Freeborn-MN-56032/106670869_zpid/,203 5th Ave,56032,Freeborn,MN,43.765002,-93.563789,51500.0,1.0,3.0,1272.0,1900,10018.0,SINGLE_FAMILY,SOLD,1
+106670909,https://www.zillow.com/homedetails/110-Center-St-Freeborn-MN-56032/106670909_zpid/,110 Center St,56032,Freeborn,MN,43.768101,-93.559843,53000.0,1.0,2.0,1104.0,1951,13200.0,SINGLE_FAMILY,SOLD,0
+106670918,https://www.zillow.com/homedetails/302-State-St-Freeborn-MN-56032/106670918_zpid/,302 State St,56032,Freeborn,MN,43.769555,-93.56171,146175.0,3.0,3.0,2808.0,1980,13503.0,SINGLE_FAMILY,SOLD,1
+106670924,https://www.zillow.com/homedetails/406-Center-St-Freeborn-MN-56032/106670924_zpid/,406 Center St,56032,Freeborn,MN,43.768063,-93.563621,58000.0,2.0,3.0,1222.0,1890,7840.0,SINGLE_FAMILY,SOLD,35
+106670862,https://www.zillow.com/homedetails/608-Lakeshore-Dr-Freeborn-MN-56032/106670862_zpid/,608 Lakeshore Dr,56032,Freeborn,MN,43.765421,-93.566205,46000.0,1.0,2.0,1200.0,1958,32670.0,SINGLE_FAMILY,SOLD,1
+226056426,https://www.zillow.com/homedetails/608-Lakeshore-Dr-Freeborn-MN-56032/226056426_zpid/,608 Lakeshore Dr,56032,Freeborn,MN,43.765421,-93.566205,46000.0,1.0,2.0,1216.0,1955,-1.0,SINGLE_FAMILY,SOLD,0
+106670879,https://www.zillow.com/homedetails/202-3rd-St-Freeborn-MN-56032/106670879_zpid/,202 3rd St,56032,Freeborn,MN,43.764982,-93.561599,42000.0,2.0,3.0,968.0,1953,6969.0,SINGLE_FAMILY,SOLD,1

@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+98951117,https://www.zillow.com/homedetails/200-S-Smith-St-Kellogg-MN-55945/98951117_zpid/,200 S Smith St,55945,Kellogg,MN,44.306242,-91.99473,85000.0,1.0,5.0,1180.0,1890,17424.0,SINGLE_FAMILY,FOR_SALE,18
+98951159,https://www.zillow.com/homedetails/420-E-Kendall-Ave-Kellogg-MN-55945/98951159_zpid/,420 E Kendall Ave,55945,Kellogg,MN,44.303918,-91.994835,79900.0,4.0,6.0,1855.0,1970,15768.0,MANUFACTURED,FOR_SALE,22
+98950154,https://www.zillow.com/homedetails/19860-E-County-Road-14-Kellogg-MN-55945/98950154_zpid/,19860 E County Road 14,55945,Kellogg,MN,44.221026,-92.065798,525000.0,4.0,4.0,4382.0,2003,435600.0,SINGLE_FAMILY,FOR_SALE,25
+98951180,https://www.zillow.com/homedetails/404-N-1st-St-Kellogg-MN-55945/98951180_zpid/,404 N 1st St,55945,Kellogg,MN,44.310799,-92.00044,142000.0,3.0,3.0,2332.0,1996,18469.0,SINGLE_FAMILY,FOR_SALE,20

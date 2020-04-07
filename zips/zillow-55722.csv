@@ -1,0 +1,10 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+120636980,https://www.zillow.com/homedetails/403-Lakeview-Blvd-Coleraine-MN-55722/120636980_zpid/,403 Lakeview Blvd,55722,Coleraine,MN,47.282149,-93.42581,99500.0,2.0,2.0,1188.0,1946,10890.0,SINGLE_FAMILY,FOR_SALE,15
+120638670,https://www.zillow.com/homedetails/104-Hartley-Ave-Coleraine-MN-55722/120638670_zpid/,104 Hartley Ave,55722,Coleraine,MN,47.285444,-93.43007,110900.0,1.0,4.0,1415.0,1910,9583.0,SINGLE_FAMILY,FOR_SALE,21
+2082514472,https://www.zillow.com/homedetails/302-Gunn-St-Coleraine-MN-55722/2082514472_zpid/,302 Gunn St,55722,Coleraine,MN,47.287074,-93.436815,112900.0,1.0,3.0,1440.0,1930,16117.0,SINGLE_FAMILY,FOR_SALE,11
+2080826150,https://www.zillow.com/homedetails/201-Birch-Ln-S-Coleraine-MN-55722/2080826150_zpid/,201 Birch Ln S,55722,Coleraine,MN,47.27426,-93.441367,269900.0,2.0,4.0,2200.0,2008,33105.0,SINGLE_FAMILY,FOR_SALE,20
+120639364,https://www.zillow.com/homedetails/116-Eagle-Pointe-Rd-Coleraine-MN-55722/120639364_zpid/,116 Eagle Pointe Rd,55722,Coleraine,MN,47.27683,-93.424243,564900.0,3.0,4.0,2236.0,2003,33105.0,SINGLE_FAMILY,FOR_SALE,44
+120642140,https://www.zillow.com/homedetails/504-Corey-Ave-Coleraine-MN-55722/120642140_zpid/,504 Corey Ave,55722,Coleraine,MN,47.289348,-93.428292,84900.0,2.0,3.0,1436.0,1910,9583.0,SINGLE_FAMILY,FOR_SALE,12
+2082196578,https://www.zillow.com/homedetails/304-Mitchell-St-Coleraine-MN-55722/2082196578_zpid/,304 Mitchell St,55722,Coleraine,MN,47.286038,-93.4371,85000.0,2.0,3.0,1150.0,1910,9583.0,SINGLE_FAMILY,FOR_SALE,25
+120638678,https://www.zillow.com/homedetails/408-Hartley-Ave-Coleraine-MN-55722/120638678_zpid/,408 Hartley Ave,55722,Coleraine,MN,47.281742,-93.426439,50000.0,2.0,4.0,1560.0,1915,9583.0,SINGLE_FAMILY,FOR_SALE,5
+2105301306,https://www.zillow.com/homedetails/411-Congdon-St-Coleraine-MN-55722/2105301306_zpid/,411 Congdon St,55722,Coleraine,MN,47.279696,-93.425286,234900.0,3.0,3.0,2212.0,2003,4791.0,SINGLE_FAMILY,FOR_SALE,25

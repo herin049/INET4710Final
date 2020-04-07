@@ -1,0 +1,12 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+113935847,https://www.zillow.com/homedetails/25342-Kalina-Dr-Lowry-MN-56349/113935847_zpid/,25342 Kalina Dr,56349,Lowry,MN,45.739883,-95.455031,358000.0,2.0,3.0,2224.0,2001,45302.0,SINGLE_FAMILY,RECENTLY_SOLD,21
+106812185,https://www.zillow.com/homedetails/28627-State-Highway-55-Lowry-MN-56349/106812185_zpid/,28627 State Highway 55,56349,Lowry,MN,45.707338,-95.521193,160000.0,2.0,3.0,2873.0,1950,47916.0,SINGLE_FAMILY,RECENTLY_SOLD,50
+106648560,https://www.zillow.com/homedetails/10323-Pocket-Lake-Rd-SW-Lowry-MN-56349/106648560_zpid/,10323 Pocket Lake Rd SW,56349,Lowry,MN,45.784659,-95.530466,665000.0,4.0,4.0,4384.0,2001,75358.0,SINGLE_FAMILY,RECENTLY_SOLD,27
+106812166,https://www.zillow.com/homedetails/109-Poplar-Ave-Lowry-MN-56349/106812166_zpid/,109 Poplar Ave,56349,Lowry,MN,45.702321,-95.521493,162000.0,3.0,3.0,2026.0,1979,2147483647.0,SINGLE_FAMILY,RECENTLY_SOLD,25
+122613916,https://www.zillow.com/homedetails/10301-Pocket-Lake-Rd-SW-Lowry-MN-56349/122613916_zpid/,10301 Pocket Lake Rd SW,56349,Lowry,MN,45.784345,-95.529653,680000.0,4.0,4.0,5048.0,2013,2147483647.0,SINGLE_FAMILY,SOLD,4
+106813074,https://www.zillow.com/homedetails/31204-County-Road-28-Lowry-MN-56349/106813074_zpid/,31204 County Road 28,56349,Lowry,MN,45.701918,-95.576696,165000.0,1.0,3.0,1424.0,1895,2147483647.0,SINGLE_FAMILY,SOLD,14
+106812196,https://www.zillow.com/homedetails/436-Aurora-Ave-Lowry-MN-56349/106812196_zpid/,436 Aurora Ave,56349,Lowry,MN,45.706042,-95.519155,71000.0,1.0,3.0,1040.0,1940,6098.0,SINGLE_FAMILY,SOLD,24
+115948420,https://www.zillow.com/homedetails/11333-State-Highway-114-SW-Lowry-MN-56349/115948420_zpid/,11333 State Highway 114 SW,56349,Lowry,MN,45.788307,-95.530787,257500.0,1.0,3.0,2488.0,1915,81457.0,SINGLE_FAMILY,SOLD,0
+106652530,https://www.zillow.com/homedetails/7652-Wildlife-Dr-SW-Lowry-MN-56349/106652530_zpid/,7652 Wildlife Dr SW,56349,Lowry,MN,45.766593,-95.491744,122000.0,2.0,2.0,1945.0,1965,2147483647.0,SINGLE_FAMILY,SOLD,1
+106812197,https://www.zillow.com/homedetails/440-Aurora-Ave-Lowry-MN-56349/106812197_zpid/,440 Aurora Ave,56349,Lowry,MN,45.706179,-95.519155,89900.0,1.0,3.0,1584.0,1915,6969.0,SINGLE_FAMILY,SOLD,18
+106812174,https://www.zillow.com/homedetails/236-Poplar-Ave-Lowry-MN-56349/106812174_zpid/,236 Poplar Ave,56349,Lowry,MN,45.70682,-95.522198,195000.0,3.0,4.0,3164.0,2004,30056.0,SINGLE_FAMILY,SOLD,45

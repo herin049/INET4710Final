@@ -1,0 +1,2 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106845871,https://www.zillow.com/homedetails/513-N-Wisconsin-St-Hewitt-MN-56453/106845871_zpid/,513 N Wisconsin St,56453,Hewitt,MN,46.327554,-95.084907,60000.0,1.0,3.0,1266.0,1960,12632.0,SINGLE_FAMILY,FOR_SALE,8

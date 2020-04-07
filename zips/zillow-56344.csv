@@ -1,0 +1,10 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+115955442,https://www.zillow.com/homedetails/19282-285th-Ave-Lastrup-MN-56344/115955442_zpid/,19282 285th Ave,56344,Lastrup,MN,46.040501,-94.061855,124584.0,1.0,4.0,2132.0,1931,-1.0,SINGLE_FAMILY,OTHER,0
+97005071,https://www.zillow.com/homedetails/19250-Ortman-Ave-Pierz-MN-56364/97005071_zpid/,19250 Ortman Ave,56364,Pierz,MN,46.040186,-94.063432,101900.0,1.0,4.0,2128.0,1958,-1.0,SINGLE_FAMILY,OTHER,0
+97005218,https://www.zillow.com/homedetails/19245-285th-Ave-Lastrup-MN-56344/97005218_zpid/,19245 285th Ave,56344,Lastrup,MN,46.039624,-94.062542,39900.0,1.0,4.0,2520.0,1930,-1.0,SINGLE_FAMILY,SOLD,0
+97005208,https://www.zillow.com/homedetails/19213-285th-Ave-Lastrup-MN-56344/97005208_zpid/,19213 285th Ave,56344,Lastrup,MN,46.039446,-94.062541,93817.0,2.0,4.0,1053.0,1947,8712.0,SINGLE_FAMILY,OTHER,0
+115955796,https://www.zillow.com/homedetails/19292-Ortman-Ave-Pierz-MN-56364/115955796_zpid/,19292 Ortman Ave,56364,Pierz,MN,46.040736,-94.063432,64023.0,1.0,2.0,1104.0,1896,-1.0,SINGLE_FAMILY,OTHER,0
+115955795,https://www.zillow.com/homedetails/19243-Block-Ave-Pierz-MN-56364/115955795_zpid/,19243 Block Ave,56364,Pierz,MN,46.040031,-94.061641,46204.0,1.0,3.0,716.0,1974,37462.0,SINGLE_FAMILY,OTHER,0
+115955794,https://www.zillow.com/homedetails/19262-285th-Ave-Lastrup-MN-56344/115955794_zpid/,19262 285th Ave,56344,Lastrup,MN,46.039856,-94.061827,50000.0,1.0,3.0,832.0,1920,13068.0,SINGLE_FAMILY,SOLD,0
+115955879,https://www.zillow.com/homedetails/28414-Lake-St-Pierz-MN-56364/115955879_zpid/,28414 Lake St,56364,Pierz,MN,46.039015,-94.063432,101214.0,2.0,5.0,1152.0,1901,-1.0,SINGLE_FAMILY,OTHER,0
+115955959,https://www.zillow.com/homedetails/28411-Platte-St-Pierz-MN-56364/115955959_zpid/,28411 Platte St,56364,Pierz,MN,46.039476,-94.062997,98332.0,2.0,5.0,1406.0,1917,13068.0,SINGLE_FAMILY,OTHER,0

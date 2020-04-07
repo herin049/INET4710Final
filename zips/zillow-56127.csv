@@ -1,0 +1,2 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106765985,https://www.zillow.com/homedetails/758-60th-Ave-Dunnell-MN-56127/106765985_zpid/,758 60th Ave,56127,Dunnell,MN,43.596566,-94.752207,689000.0,3.0,3.0,2088.0,1910,479160.0,SINGLE_FAMILY,FOR_SALE,13

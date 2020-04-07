@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+61613215,https://www.zillow.com/homedetails/5993-Wilson-Rd-Makinen-MN-55763/61613215_zpid/,5993 Wilson Rd,55763,Makinen,MN,47.358815,-92.313158,60000.0,1.0,2.0,1044.0,1974,871200.0,MANUFACTURED,FOR_SALE,0
+61577445,https://www.zillow.com/homedetails/2374-E-Cabin-Cir-Makinen-MN-55763/61577445_zpid/,2374 E Cabin Cir,55763,Makinen,MN,47.285942,-92.187887,324500.0,1.0,3.0,1214.0,2004,106286.0,SINGLE_FAMILY,FOR_SALE,28
+61613243,https://www.zillow.com/homedetails/6455-Wilson-Rd-Makinen-MN-55763/61613243_zpid/,6455 Wilson Rd,55763,Makinen,MN,47.357812,-92.363422,255000.0,3.0,6.0,3200.0,2000,871200.0,SINGLE_FAMILY,FOR_SALE,35
+61613217,https://www.zillow.com/homedetails/3321-Mud-Hen-Rd-Makinen-MN-55763/61613217_zpid/,3321 Mud Hen Rd,55763,Makinen,MN,47.358537,-92.30971,219900.0,2.0,5.0,2150.0,1980,653400.0,SINGLE_FAMILY,FOR_SALE,33

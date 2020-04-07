@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+114996441,https://www.zillow.com/homedetails/102-W-1st-St-Hardwick-MN-56134/114996441_zpid/,102 W 1st St,56134,Hardwick,MN,43.776051,-96.19961,69000.0,2.0,3.0,1625.0,1910,118879.0,SINGLE_FAMILY,RECENTLY_SOLD,17
+115959887,https://www.zillow.com/homedetails/304-S-Ross-St-Hardwick-MN-56134/115959887_zpid/,304 S Ross St,56134,Hardwick,MN,43.772204,-96.198543,93500.0,2.0,2.0,1104.0,1956,13499.0,SINGLE_FAMILY,SOLD,25
+115959876,https://www.zillow.com/homedetails/101-W-2nd-St-Hardwick-MN-56134/115959876_zpid/,101 W 2nd St,56134,Hardwick,MN,43.776527,-96.199684,70000.0,1.0,5.0,2188.0,1902,30300.0,SINGLE_FAMILY,SOLD,34
+114982141,https://www.zillow.com/homedetails/2492-120th-Ave-Hardwick-MN-56134/114982141_zpid/,2492 120th Ave,56134,Hardwick,MN,43.847712,-96.231319,125000.0,3.0,4.0,1848.0,1926,351093.0,SINGLE_FAMILY,SOLD,26
+115959891,https://www.zillow.com/homedetails/104-S-Ross-St-Hardwick-MN-56134/115959891_zpid/,104 S Ross St,56134,Hardwick,MN,43.774235,-96.198409,67500.0,2.0,3.0,880.0,1953,11761.0,SINGLE_FAMILY,SOLD,42

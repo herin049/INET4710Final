@@ -1,0 +1,9 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106841504,https://www.zillow.com/homedetails/745-Clara-Ave-Murdock-MN-56271/106841504_zpid/,745 Clara Ave,56271,Murdock,MN,45.223325,-95.389445,96000.0,2.0,3.0,1810.0,1945,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,24
+235811297,https://www.zillow.com/homedetails/102-2nd-St-S-De-Graff-MN-56271/235811297_zpid/,102 2nd St S,56271,De Graff,MN,45.261844,-95.465398,66900.0,1.0,3.0,1260.0,1926,19122.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106841512,https://www.zillow.com/homedetails/703-Paulina-St-Murdock-MN-56271/106841512_zpid/,703 Paulina St,56271,Murdock,MN,45.223031,-95.388277,56000.0,1.0,3.0,1558.0,1880,12600.0,SINGLE_FAMILY,SOLD,0
+106841510,https://www.zillow.com/homedetails/713-Paulina-St-Murdock-MN-56271/106841510_zpid/,713 Paulina St,56271,Murdock,MN,45.22362,-95.387715,55000.0,2.0,3.0,1480.0,1907,22651.0,SINGLE_FAMILY,SOLD,0
+121499036,https://www.zillow.com/homedetails/3070-80th-St-NE-De-Graff-MN-56271/121499036_zpid/,3070 80th St NE,56271,De Graff,MN,45.137152,-95.531737,145000.0,2.0,3.0,1500.0,1962,219542.0,SINGLE_FAMILY,SOLD,0
+106841549,https://www.zillow.com/homedetails/319-Clara-Ave-Murdock-MN-56271/106841549_zpid/,319 Clara Ave,56271,Murdock,MN,45.225972,-95.395013,55000.0,1.0,4.0,1872.0,1890,11325.0,SINGLE_FAMILY,SOLD,0
+106838945,https://www.zillow.com/homedetails/1560-60th-St-NE-Murdock-MN-56271/106838945_zpid/,1560 60th St NE,56271,Murdock,MN,45.383965,-95.304183,174000.0,2.0,6.0,3304.0,1910,503118.0,SINGLE_FAMILY,SOLD,48
+106838999,https://www.zillow.com/homedetails/950-30th-St-SE-De-Graff-MN-56271/106838999_zpid/,950 30th St SE,56271,De Graff,MN,45.28373,-95.430919,198500.0,2.0,4.0,2400.0,1929,293158.0,SINGLE_FAMILY,SOLD,73

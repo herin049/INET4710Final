@@ -1,0 +1,7 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2110983417,https://www.zillow.com/homedetails/29894-Arden-Dr-Grey-Eagle-MN-56336/2110983417_zpid/,29894 Arden Dr,56336,Grey Eagle,MN,45.785486,-94.749055,419500.0,3.0,5.0,1500.0,1968,21213.0,SINGLE_FAMILY,FOR_SALE,35
+2080424704,https://www.zillow.com/homedetails/11751-County-Road-47-Grey-Eagle-MN-56336/2080424704_zpid/,11751 County Road 47,56336,Grey Eagle,MN,45.798252,-94.735115,309900.0,1.0,2.0,628.0,1949,3049.0,SINGLE_FAMILY,FOR_SALE,8
+106841856,https://www.zillow.com/homedetails/11751-County-47-Grey-Grey-Eagle-MN-56336/106841856_zpid/,11751 County 47 Grey,56336,Grey Eagle,MN,45.798085,-94.735328,309900.0,1.0,2.0,628.0,1949,3049.0,SINGLE_FAMILY,FOR_SALE,7
+2098645119,https://www.zillow.com/homedetails/29897-Arden-Dr-Grey-Eagle-MN-56336/2098645119_zpid/,29897 Arden Dr,56336,Grey Eagle,MN,45.78582,-94.75008,319900.0,1.0,1.0,576.0,1945,96877.0,SINGLE_FAMILY,FOR_SALE,27
+112575584,https://www.zillow.com/homedetails/44751-Birch-Park-Cir-Grey-Eagle-MN-56336/112575584_zpid/,44751 Birch Park Cir,56336,Grey Eagle,MN,45.770122,-94.734747,499000.0,3.0,2.0,2510.0,2004,15681.0,SINGLE_FAMILY,FOR_SALE,34
+2094391174,https://www.zillow.com/homedetails/10105-Amigo-Trl-Grey-Eagle-MN-56336/2094391174_zpid/,10105 Amigo Trl,56336,Grey Eagle,MN,45.775698,-94.798858,214900.0,1.0,2.0,556.0,2000,61419.0,SINGLE_FAMILY,FOR_SALE,31

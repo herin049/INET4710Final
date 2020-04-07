@@ -1,0 +1,7 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106716614,https://www.zillow.com/homedetails/509-Spruce-St-Littlefork-MN-56653/106716614_zpid/,509 Spruce St,56653,Littlefork,MN,48.399453,-93.558847,80000.0,2.0,0.0,1152.0,1970,10497.0,SINGLE_FAMILY,FOR_SALE,20
+106716633,https://www.zillow.com/homedetails/420-Spruce-St-Littlefork-MN-56653/106716633_zpid/,420 Spruce St,56653,Littlefork,MN,48.398621,-93.558613,105500.0,2.0,2.0,1008.0,2012,10454.0,SINGLE_FAMILY,FOR_SALE,13
+233009437,https://www.zillow.com/homedetails/1524-6th-Ave-Littlefork-MN-56653/233009437_zpid/,1524 6th Ave,56653,Littlefork,MN,48.397842,-93.541844,239900.0,2.0,3.0,1800.0,1999,58370.0,SINGLE_FAMILY,FOR_SALE,33
+106713662,https://www.zillow.com/homedetails/7656-Town-Rd-94-Littlefork-MN-56653/106713662_zpid/,7656 Town Rd #94,56653,Littlefork,MN,48.414635,-93.804241,121900.0,2.0,3.0,1600.0,1950,304920.0,SINGLE_FAMILY,FOR_SALE,66
+233009401,https://www.zillow.com/homedetails/1325-Central-Rd-Littlefork-MN-56653/233009401_zpid/,1325 Central Rd,56653,Littlefork,MN,48.397825,-93.547971,127500.0,1.0,3.0,1500.0,2002,13503.0,SINGLE_FAMILY,FOR_SALE,18
+2086883428,https://www.zillow.com/homedetails/3877-Us-Hwy-71-Littlefork-MN-56653/2086883428_zpid/,3877 Us Hwy 71,56653,Littlefork,MN,48.477183,-93.583003,149900.0,1.0,2.0,1008.0,1941,493099.0,SINGLE_FAMILY,FOR_SALE,18

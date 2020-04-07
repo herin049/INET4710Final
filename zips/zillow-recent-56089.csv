@@ -1,0 +1,8 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106671939,https://www.zillow.com/homedetails/403-Highway-St-Twin-Lakes-MN-56089/106671939_zpid/,403 Highway St,56089,Twin Lakes,MN,43.560879,-93.424811,30000.0,1.0,2.0,814.0,1920,9060.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106671936,https://www.zillow.com/homedetails/124-Main-St-W-Twin-Lakes-MN-56089/106671936_zpid/,124 Main St W,56089,Twin Lakes,MN,43.557494,-93.42891,87000.0,2.0,2.0,1279.0,1951,13939.0,SINGLE_FAMILY,SOLD,35
+106678869,https://www.zillow.com/homedetails/71603-135th-St-Twin-Lakes-MN-56089/106678869_zpid/,71603 135th St,56089,Twin Lakes,MN,43.548499,-93.439096,162000.0,2.0,3.0,1957.0,2000,712206.0,SINGLE_FAMILY,SOLD,0
+106671952,https://www.zillow.com/homedetails/301-Miller-Dr-Twin-Lakes-MN-56089/106671952_zpid/,301 Miller Dr,56089,Twin Lakes,MN,43.560285,-93.426378,150000.0,3.0,4.0,2670.0,1974,19166.0,SINGLE_FAMILY,SOLD,1
+106671929,https://www.zillow.com/homedetails/304-Miller-Dr-Twin-Lakes-MN-56089/106671929_zpid/,304 Miller Dr,56089,Twin Lakes,MN,43.560639,-93.426443,37500.0,1.0,2.0,2360.0,1955,7840.0,SINGLE_FAMILY,SOLD,12
+106671924,https://www.zillow.com/homedetails/308-Miller-Dr-Twin-Lakes-MN-56089/106671924_zpid/,308 Miller Dr,56089,Twin Lakes,MN,43.560154,-93.42759,73000.0,1.0,3.0,1226.0,1954,11325.0,SINGLE_FAMILY,SOLD,30
+106671927,https://www.zillow.com/homedetails/310-Miller-Dr-Twin-Lakes-MN-56089/106671927_zpid/,310 Miller Dr,56089,Twin Lakes,MN,43.559771,-93.427417,31000.0,2.0,4.0,1293.0,1949,23086.0,SINGLE_FAMILY,SOLD,1

@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+123025103,https://www.zillow.com/homedetails/2090-470th-St-Tintah-MN-56583/123025103_zpid/,2090 470th St,56583,Tintah,MN,46.095259,-96.536318,155000.0,1.75,4.0,1911.0,1960,353707.0,SINGLE_FAMILY,SOLD,30
+2089165024,https://www.zillow.com/homedetails/7616-795th-St-Tintah-MN-56583/2089165024_zpid/,7616 795th St,56583,Tintah,MN,46.014596,-96.302448,140000.0,2.0,3.0,2016.0,2006,617245.0,SINGLE_FAMILY,SOLD,49

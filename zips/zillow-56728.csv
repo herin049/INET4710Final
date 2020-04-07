@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+121737338,https://www.zillow.com/homedetails/100-2nd-St-NE-Hallock-MN-56728/121737338_zpid/,100 2nd St NE,56728,Hallock,MN,48.77748,-96.947396,69500.0,2.0,4.0,2080.0,1982,10000.0,SINGLE_FAMILY,FOR_SALE,12
+106711408,https://www.zillow.com/homedetails/813-8th-St-NE-Hallock-MN-56728/106711408_zpid/,813 8th St NE,56728,Hallock,MN,48.783803,-96.949468,184900.0,2.0,5.0,2968.0,1978,14810.0,SINGLE_FAMILY,FOR_SALE,27
+106712044,https://www.zillow.com/homedetails/2726-210th-Ave-Hallock-MN-56728/106712044_zpid/,2726 210th Ave,56728,Hallock,MN,48.793652,-96.994942,99900.0,2.0,2.0,2228.0,1979,245678.0,SINGLE_FAMILY,FOR_SALE,20

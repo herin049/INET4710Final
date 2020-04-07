@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+102954545,https://www.zillow.com/homedetails/44080-Dakota-Valley-Dr-Dakota-MN-55925/102954545_zpid/,44080 Dakota Valley Dr,55925,Dakota,MN,43.914329,-91.400612,259900.0,3.0,4.0,2250.0,1981,229996.0,SINGLE_FAMILY,FOR_SALE,19
+225235372,https://www.zillow.com/homedetails/42713-County-Road-12-Dakota-MN-55925/225235372_zpid/,42713 County Road 12,55925,Dakota,MN,43.902829,-91.434031,154500.0,1.0,4.0,1700.0,1910,43560.0,SINGLE_FAMILY,FOR_SALE,9

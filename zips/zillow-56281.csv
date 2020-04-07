@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106704964,https://www.zillow.com/homedetails/301-Kandiyohi-Ave-Prinsburg-MN-56281/106704964_zpid/,301 Kandiyohi Ave,56281,Prinsburg,MN,44.935096,-95.191381,89000.0,2.0,2.0,1322.0,1939,14592.0,SINGLE_FAMILY,FOR_SALE,13
+106704966,https://www.zillow.com/homedetails/106-3rd-St-Prinsburg-MN-56281/106704966_zpid/,106 3rd St,56281,Prinsburg,MN,44.935591,-95.191383,87500.0,1.0,3.0,1264.0,1930,11194.0,SINGLE_FAMILY,FOR_SALE,14
+106704967,https://www.zillow.com/homedetails/304-Park-Ave-Prinsburg-MN-56281/106704967_zpid/,304 Park Ave,56281,Prinsburg,MN,44.935692,-95.190899,129000.0,2.0,3.0,1614.0,1969,17031.0,SINGLE_FAMILY,FOR_SALE,19
+106704985,https://www.zillow.com/homedetails/307-Minnesota-Ave-Prinsburg-MN-56281/106704985_zpid/,307 Minnesota Ave,56281,Prinsburg,MN,44.937297,-95.190536,189900.0,3.0,5.0,2300.0,1911,19602.0,SINGLE_FAMILY,FOR_SALE,28
+106705381,https://www.zillow.com/homedetails/512-Prinsburg-Ave-Prinsburg-MN-56281/106705381_zpid/,512 Prinsburg Ave,56281,Prinsburg,MN,44.940246,-95.187109,168150.0,4.0,5.0,3644.0,1978,26136.0,SINGLE_FAMILY,FOR_SALE,16

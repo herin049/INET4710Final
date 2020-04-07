@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+89261911,https://www.zillow.com/homedetails/19948-120th-St-N-Borup-MN-56519/89261911_zpid/,19948 120th St N,56519,Borup,MN,47.133185,-96.537814,109200.0,1.0,3.0,2840.0,1955,105850.0,SINGLE_FAMILY,SOLD,37
+125027309,https://www.zillow.com/homedetails/103-Main-Ave-Borup-MN-56519/125027309_zpid/,103 Main Ave,56519,Borup,MN,47.180043,-96.504268,66500.0,2.0,4.0,2700.0,1920,10890.0,SINGLE_FAMILY,SOLD,11
+89226526,https://www.zillow.com/homedetails/19772-160th-St-N-Borup-MN-56519/89226526_zpid/,19772 160th St N,56519,Borup,MN,47.133187,-96.452129,305000.0,2.0,4.0,2700.0,2003,448232.0,SINGLE_FAMILY,SOLD,65
+89254750,https://www.zillow.com/homedetails/20517-170th-St-N-Borup-MN-56519/89254750_zpid/,20517 170th St N,56519,Borup,MN,47.144487,-96.437658,14612.0,1.0,4.0,1800.0,1944,391168.0,SINGLE_FAMILY,SOLD,19
+2092140252,https://www.zillow.com/homedetails/206-2nd-Borup-MN-56519/2092140252_zpid/,206 2nd,56519,Borup,MN,47.178839,-96.505185,75000.0,1.0,2.0,825.0,-1,-1.0,SINGLE_FAMILY,SOLD,0

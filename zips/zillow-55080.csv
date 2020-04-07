@@ -1,0 +1,10 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+88841131,https://www.zillow.com/homedetails/4067-377th-Ave-NW-Stanchfield-MN-55080/88841131_zpid/,4067 377th Ave NW,55080,Stanchfield,MN,45.652329,-93.369548,145900.0,1.0,3.0,1600.0,1893,261360.0,SINGLE_FAMILY,FOR_SALE,11
+60525748,https://www.zillow.com/homedetails/315-457th-Trl-Stanchfield-MN-55080/60525748_zpid/,315 457th Trl,55080,Stanchfield,MN,45.609682,-93.108794,259900.0,2.0,3.0,1793.0,2002,233046.0,SINGLE_FAMILY,FOR_SALE,15
+53211574,https://www.zillow.com/homedetails/52485-Azalea-Ave-Stanchfield-MN-55080/53211574_zpid/,52485 Azalea Ave,55080,Stanchfield,MN,45.708842,-93.086938,299900.0,2.0,2.0,1286.0,1961,109771.0,SINGLE_FAMILY,FOR_SALE,43
+88841033,https://www.zillow.com/homedetails/3742-389th-Ave-NE-Stanchfield-MN-55080/88841033_zpid/,3742 389th Ave NE,55080,Stanchfield,MN,45.672384,-93.174093,220000.0,1.0,2.0,1270.0,1976,131986.0,SINGLE_FAMILY,FOR_SALE,30
+88844540,https://www.zillow.com/homedetails/38694-Polk-St-NE-Stanchfield-MN-55080/88844540_zpid/,38694 Polk St NE,55080,Stanchfield,MN,45.66931,-93.247396,449900.0,3.0,3.0,3060.0,2004,182951.0,SINGLE_FAMILY,FOR_SALE,45
+88841045,https://www.zillow.com/homedetails/37675-Verdin-St-NW-Stanchfield-MN-55080/88841045_zpid/,37675 Verdin St NW,55080,Stanchfield,MN,45.650489,-93.324787,217000.0,2.0,3.0,1624.0,1995,1698840.0,MANUFACTURED,FOR_SALE,9
+88832684,https://www.zillow.com/homedetails/39645-Palm-St-NW-Stanchfield-MN-55080/88832684_zpid/,39645 Palm St NW,55080,Stanchfield,MN,45.686786,-93.284752,499900.0,4.0,3.0,3456.0,2003,435600.0,SINGLE_FAMILY,FOR_SALE,43
+225124249,https://www.zillow.com/homedetails/1489-389th-Ave-NW-Stanchfield-MN-55080/225124249_zpid/,1489 389th Ave NW,55080,Stanchfield,MN,45.674824,-93.30363,239900.0,1.0,3.0,1190.0,1893,3136320.0,LOT,FOR_SALE,5
+88843991,https://www.zillow.com/homedetails/38951-Naples-St-NE-Stanchfield-MN-55080/88843991_zpid/,38951 Naples St NE,55080,Stanchfield,MN,45.674167,-93.182015,112255.0,2.0,3.0,982.0,1900,21780.0,SINGLE_FAMILY,FORECLOSED,0

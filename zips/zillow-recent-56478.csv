@@ -1,0 +1,7 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+113940372,https://www.zillow.com/homedetails/28177-249th-Ave-Sebeka-MN-56477/113940372_zpid/,28177 249th Ave,56477,Sebeka,MN,46.632842,-94.851678,35000.0,1.0,3.0,420.0,2017,871200.0,SINGLE_FAMILY,SOLD,0
+106851454,https://www.zillow.com/homedetails/23394-Acorn-St-Sebeka-MN-56477/106851454_zpid/,23394 Acorn St,56477,Sebeka,MN,46.6339,-94.880748,79900.0,1.0,3.0,1344.0,1920,21780.0,SINGLE_FAMILY,SOLD,25
+106851442,https://www.zillow.com/homedetails/23365-Acorn-St-Sebeka-MN-56477/106851442_zpid/,23365 Acorn St,56477,Sebeka,MN,46.633364,-94.881602,78000.0,1.0,3.0,1208.0,1962,43560.0,SINGLE_FAMILY,SOLD,11
+122616578,https://www.zillow.com/homedetails/27864-County-Road-26-Sebeka-MN-56477/122616578_zpid/,27864 County Road 26,56477,Sebeka,MN,46.628173,-94.882719,286000.0,2.0,3.0,2792.0,1978,1697097.0,SINGLE_FAMILY,SOLD,24
+2097695291,https://www.zillow.com/homedetails/22540-County-Road-14-Sebeka-MN-56477/2097695291_zpid/,22540 County Road 14,56477,Sebeka,MN,46.668148,-94.88535,252900.0,1.0,3.0,1840.0,2004,-1.0,SINGLE_FAMILY,SOLD,24
+119760099,https://www.zillow.com/homedetails/23331-Nimrod-Ave-Sebeka-MN-56477/119760099_zpid/,23331 Nimrod Ave,56477,Sebeka,MN,46.637164,-94.880992,80000.0,1.0,2.0,1200.0,2000,63162.0,SINGLE_FAMILY,SOLD,0

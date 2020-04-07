@@ -1,0 +1,7 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+120297029,https://www.zillow.com/homedetails/205-Southview-St-West-Concord-MN-55985/120297029_zpid/,205 Southview St,55985,West Concord,MN,44.14272,-92.900019,174900.0,2.0,4.0,2184.0,1995,13939.0,SINGLE_FAMILY,FOR_SALE,23
+116115574,https://www.zillow.com/homedetails/104-Olive-St-West-Concord-MN-55985/116115574_zpid/,104 Olive St,55985,West Concord,MN,44.14916,-92.897945,134900.0,1.0,3.0,1360.0,1890,5314.0,SINGLE_FAMILY,FOR_SALE,11
+106647004,https://www.zillow.com/homedetails/420-Highland-St-West-Concord-MN-55985/106647004_zpid/,420 Highland St,55985,West Concord,MN,44.149826,-92.904711,143900.0,2.0,3.0,1486.0,1910,13068.0,SINGLE_FAMILY,FOR_SALE,18
+113920109,https://www.zillow.com/homedetails/616-Highland-St-West-Concord-MN-55985/113920109_zpid/,616 Highland St,55985,West Concord,MN,44.148408,-92.905506,225000.0,3.0,4.0,2488.0,1920,-1.0,SINGLE_FAMILY,FOR_SALE,31
+120296496,https://www.zillow.com/homedetails/55224-201st-Ave-West-Concord-MN-55985/120296496_zpid/,55224 201st Ave,55985,West Concord,MN,44.147163,-92.835951,89900.0,1.0,2.0,1289.0,1875,26136.0,SINGLE_FAMILY,FOR_SALE,5
+106646830,https://www.zillow.com/homedetails/410-Irvin-St-West-Concord-MN-55985/106646830_zpid/,410 Irvin St,55985,West Concord,MN,44.151023,-92.902718,459900.0,4.0,6.0,4343.0,1900,21823.0,SINGLE_FAMILY,FOR_SALE,45

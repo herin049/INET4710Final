@@ -1,0 +1,10 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+110480050,https://www.zillow.com/homedetails/211-Lillie-Ave-Roscoe-MN-56371/110480050_zpid/,211 Lillie Ave,56371,Roscoe,MN,45.432433,-94.637559,53000.0,1.0,3.0,2412.0,1980,-1.0,SINGLE_FAMILY,SOLD,0
+91507432,https://www.zillow.com/homedetails/340-1st-St-Roscoe-MN-56371/91507432_zpid/,340 1st St,56371,Roscoe,MN,45.433561,-94.639429,13000.0,1.0,3.0,1680.0,1910,3049.0,SINGLE_FAMILY,SOLD,0
+74881407,https://www.zillow.com/homedetails/121-Lillie-Ave-Roscoe-MN-56371/74881407_zpid/,121 Lillie Ave,56371,Roscoe,MN,45.433165,-94.637569,48000.0,2.0,5.0,1702.0,1916,10890.0,SINGLE_FAMILY,SOLD,24
+74881405,https://www.zillow.com/homedetails/230-1st-St-Roscoe-MN-56371/74881405_zpid/,230 1st St,56371,Roscoe,MN,45.433476,-94.637882,104000.0,2.5,3.0,2094.0,1913,12000.0,SINGLE_FAMILY,SOLD,0
+74881391,https://www.zillow.com/homedetails/330-2nd-St-Roscoe-MN-56371/74881391_zpid/,330 2nd St,56371,Roscoe,MN,45.432543,-94.63933,88500.0,1.0,2.0,1173.0,1920,51836.0,SINGLE_FAMILY,SOLD,0
+74881406,https://www.zillow.com/homedetails/210-1st-St-Roscoe-MN-56371/74881406_zpid/,210 1st St,56371,Roscoe,MN,45.433478,-94.63759,69000.0,1.0,3.0,1335.0,1916,6098.0,SINGLE_FAMILY,SOLD,11
+91507423,https://www.zillow.com/homedetails/300-1st-St-Roscoe-MN-56371/91507423_zpid/,300 1st St,56371,Roscoe,MN,45.433495,-94.63898,40000.0,2.0,4.0,2300.0,1916,13242.0,SINGLE_FAMILY,SOLD,17
+91507429,https://www.zillow.com/homedetails/135-Main-St-Roscoe-MN-56371/91507429_zpid/,135 Main St,56371,Roscoe,MN,45.433009,-94.640334,134000.0,1.0,3.0,1619.0,1922,13200.0,SINGLE_FAMILY,SOLD,0
+91507427,https://www.zillow.com/homedetails/135-Main-St-Roscoe-MN-56371/91507427_zpid/,135 Main St,56371,Roscoe,MN,45.433009,-94.640334,134000.0,1.0,3.0,1619.0,1922,19602.0,SINGLE_FAMILY,SOLD,19

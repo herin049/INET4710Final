@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+115949455,https://www.zillow.com/homedetails/6650-County-Road-3-SE-Osakis-MN-56360/115949455_zpid/,6650 County Road 3 SE,56360,Osakis,MN,45.831858,-95.159635,310000.0,2.0,3.0,1970.0,2008,450410.0,SINGLE_FAMILY,FOR_SALE,52
+2082511367,https://www.zillow.com/homedetails/2270-Lake-St-E-UNIT-3-Osakis-MN-56360/2082511367_zpid/,2270 Lake St E UNIT 3,56360,Osakis,MN,45.872871,-95.117625,239900.0,2.0,3.0,1577.0,1999,4356.0,SINGLE_FAMILY,FOR_SALE,20
+106658525,https://www.zillow.com/homedetails/402-W-Pike-St-Osakis-MN-56360/106658525_zpid/,402 W Pike St,56360,Osakis,MN,45.865018,-95.160002,120257.0,2.0,3.0,2080.0,1972,6534.0,SINGLE_FAMILY,FORECLOSED,4
+2087973813,https://www.zillow.com/homedetails/12806-Dally-Dr-Osakis-MN-56360/2087973813_zpid/,12806 Dally Dr,56360,Osakis,MN,45.885303,-95.104447,55000.0,1.0,2.0,980.0,1980,2613.0,SINGLE_FAMILY,FOR_SALE,16

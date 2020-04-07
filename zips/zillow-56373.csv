@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+97004609,https://www.zillow.com/homedetails/305-1st-St-S-Royalton-MN-56373/97004609_zpid/,305 1st St S,56373,Royalton,MN,45.828781,-94.291282,145000.0,1.0,3.0,1559.0,1900,13503.0,SINGLE_FAMILY,FOR_SALE,25
+97004723,https://www.zillow.com/homedetails/404-E-Centre-St-Royalton-MN-56373/97004723_zpid/,404 E Centre St,56373,Royalton,MN,45.830285,-94.290012,179900.0,2.0,3.0,1792.0,1928,11979.0,SINGLE_FAMILY,FOR_SALE,29
+97004679,https://www.zillow.com/homedetails/505-S-Driftwood-St-Royalton-MN-56373/97004679_zpid/,505 S Driftwood St,56373,Royalton,MN,45.825942,-94.288918,94900.0,1.0,4.0,1643.0,1890,12458.0,SINGLE_FAMILY,FOR_SALE,6
+2085171804,https://www.zillow.com/homedetails/Xxx-N-Evergreen-St-Royalton-MN-56373/2085171804_zpid/,Xxx N Evergreen St,56373,Royalton,MN,45.860535,-94.224514,389900.0,2.0,3.0,1747.0,2020,45258.0,SINGLE_FAMILY,FOR_SALE,34
+97002997,https://www.zillow.com/homedetails/6378-Holm-Ct-Royalton-MN-56373/97002997_zpid/,6378 Holm Ct,56373,Royalton,MN,45.85317,-94.30879,369000.0,2.0,4.0,2019.0,1985,306226.0,SINGLE_FAMILY,FOR_SALE,10

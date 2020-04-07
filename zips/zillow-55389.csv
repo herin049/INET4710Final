@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106771590,https://www.zillow.com/homedetails/401-Central-Ave-N-Watkins-MN-55389/106771590_zpid/,401 Central Ave N,55389,Watkins,MN,45.319104,-94.409227,169900.0,3.0,3.0,1710.0,1917,9365.0,SINGLE_FAMILY,FOR_SALE,26
+233018734,https://www.zillow.com/homedetails/36708-653rd-Ave-Watkins-MN-55389/233018734_zpid/,36708 653rd Ave,55389,Watkins,MN,45.276174,-94.453607,240000.0,2.0,4.0,1957.0,2018,35065.0,SINGLE_FAMILY,FOR_SALE,17

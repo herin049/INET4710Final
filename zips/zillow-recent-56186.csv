@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+249353046,https://www.zillow.com/homedetails/50-1st-Ave-N-Woodstock-MN-56186/249353046_zpid/,50 1st Ave N,56186,Woodstock,MN,44.008446,-96.08997,159900.0,1.0,3.0,1114.0,1927,609840.0,SINGLE_FAMILY,FOR_SALE,15
+106798938,https://www.zillow.com/homedetails/240-1st-Ave-N-Woodstock-MN-56186/106798938_zpid/,240 1st Ave N,56186,Woodstock,MN,44.008367,-96.097394,43000.0,1.0,2.0,1008.0,1990,7405.0,SINGLE_FAMILY,SOLD,8
+115958641,https://www.zillow.com/homedetails/321-W-St-N-Woodstock-MN-56186/115958641_zpid/,321 W St N,56186,Woodstock,MN,44.011153,-96.105523,160000.0,3.0,6.0,3584.0,2010,61419.0,SINGLE_FAMILY,SOLD,30

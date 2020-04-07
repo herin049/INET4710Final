@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+114973529,https://www.zillow.com/homedetails/45-Cedar-St-Easton-MN-56025/114973529_zpid/,45 Cedar St,56025,Easton,MN,43.764982,-93.899176,69000.0,2.0,3.0,1310.0,1947,7013.0,SINGLE_FAMILY,FOR_SALE,17
+115005793,https://www.zillow.com/homedetails/20377-460th-Ave-Easton-MN-56025/115005793_zpid/,20377 460th Ave,56025,Easton,MN,43.780449,-93.948182,91334.0,1.0,4.0,4092.0,1946,178596.0,SINGLE_FAMILY,FORECLOSED,4
+114991236,https://www.zillow.com/homedetails/47204-200th-St-Easton-MN-56025/114991236_zpid/,47204 200th St,56025,Easton,MN,43.77508,-93.925641,159900.0,1.0,5.0,2548.0,1900,217800.0,SINGLE_FAMILY,FOR_SALE,32
+234330057,https://www.zillow.com/homedetails/48-Cedar-St-Easton-MN-56025/234330057_zpid/,48 Cedar St,56025,Easton,MN,43.765557,-93.898705,45000.0,2.0,5.0,3700.0,1888,13939.0,SINGLE_FAMILY,FOR_SALE,29

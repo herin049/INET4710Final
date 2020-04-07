@@ -1,0 +1,8 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2080970998,https://www.zillow.com/homedetails/245-Ash-St-Gonvick-MN-56644/2080970998_zpid/,245 Ash St,56644,Gonvick,MN,47.73702,-95.507017,114900.0,1.0,2.0,1272.0,1663,14000.0,SINGLE_FAMILY,FOR_SALE,25
+2126152950,https://www.zillow.com/homedetails/48010-E-Pine-Lake-Rd-Gonvick-MN-56644/2126152950_zpid/,48010 E Pine Lake Rd,56644,Gonvick,MN,47.703431,-95.508597,79900.0,1.0,2.0,648.0,1975,3920.0,SINGLE_FAMILY,FOR_SALE,19
+106636461,https://www.zillow.com/homedetails/632-North-Ave-Gonvick-MN-56644/106636461_zpid/,632 North Ave,56644,Gonvick,MN,47.738635,-95.506617,112000.0,2.0,2.0,2336.0,1943,18295.0,SINGLE_FAMILY,FOR_SALE,31
+2084263222,https://www.zillow.com/homedetails/47973-E-Pine-Lake-Rd-Gonvick-MN-56644/2084263222_zpid/,47973 E Pine Lake Rd,56644,Gonvick,MN,47.70291,-95.50821,328000.0,2.0,3.0,1216.0,2005,22000.0,SINGLE_FAMILY,FOR_SALE,36
+236111058,https://www.zillow.com/homedetails/12575-490th-St-Gonvick-MN-56644/236111058_zpid/,12575 490th St,56644,Gonvick,MN,47.712909,-95.523117,354000.0,3.0,5.0,4288.0,2011,2613600.0,SINGLE_FAMILY,FOR_SALE,53
+106636431,https://www.zillow.com/homedetails/469-North-Ave-Gonvick-MN-56644/106636431_zpid/,469 North Ave,56644,Gonvick,MN,47.739167,-95.509428,70000.0,2.0,3.0,1152.0,1939,8712.0,SINGLE_FAMILY,FOR_SALE,35
+2087005810,https://www.zillow.com/homedetails/46260-County-7-Gonvick-MN-56644/2087005810_zpid/,46260 County 7,56644,Gonvick,MN,47.676205,-95.513745,199900.0,3.0,5.0,2136.0,2002,1975881.0,SINGLE_FAMILY,FOR_SALE,33

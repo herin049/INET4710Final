@@ -1,0 +1,11 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106717390,https://www.zillow.com/homedetails/3191-211th-Ave-Bellingham-MN-56212/106717390_zpid/,3191 211th Ave,56212,Bellingham,MN,45.123292,-96.226527,49900.0,1.0,4.0,1592.0,1897,420353.0,SINGLE_FAMILY,RECENTLY_SOLD,24
+106717587,https://www.zillow.com/homedetails/1129-350th-St-Bellingham-MN-56212/106717587_zpid/,1129 350th St,56212,Bellingham,MN,45.167674,-96.433633,148000.0,1.0,4.0,2578.0,1900,242629.0,SINGLE_FAMILY,SOLD,0
+106717624,https://www.zillow.com/homedetails/110-Main-Ave-Bellingham-MN-56212/106717624_zpid/,110 Main Ave,56212,Bellingham,MN,45.137633,-96.283999,53560.0,2.0,3.0,2392.0,1978,16552.0,MANUFACTURED,SOLD,0
+106717678,https://www.zillow.com/homedetails/110-3rd-Ave-Bellingham-MN-56212/106717678_zpid/,110 3rd Ave,56212,Bellingham,MN,45.137633,-96.285324,47969.0,2.0,4.0,1920.0,1977,12632.0,MANUFACTURED,SOLD,0
+106717712,https://www.zillow.com/homedetails/101-Main-Ave-Bellingham-MN-56212/106717712_zpid/,101 Main Ave,56212,Bellingham,MN,45.137781,-96.283615,8900.0,2.0,4.0,1323.0,1890,8276.0,SINGLE_FAMILY,SOLD,0
+126550318,https://www.zillow.com/homedetails/50-3rd-St-S-Bellingham-MN-56212/126550318_zpid/,50 3rd St S,56212,Bellingham,MN,45.1343,-96.286028,12000.0,2.0,2.0,5000.0,1901,32000.0,SINGLE_FAMILY,SOLD,13
+106717663,https://www.zillow.com/homedetails/405-1st-St-Bellingham-MN-56212/106717663_zpid/,405 1st St,56212,Bellingham,MN,45.138076,-96.281933,22300.0,2.0,3.0,2496.0,1977,63597.0,SINGLE_FAMILY,SOLD,0
+106717705,https://www.zillow.com/homedetails/207-2nd-Ave-Bellingham-MN-56212/106717705_zpid/,207 2nd Ave,56212,Bellingham,MN,45.135851,-96.286188,16500.0,2.0,5.0,1580.0,1920,-1.0,SINGLE_FAMILY,SOLD,0
+106717708,https://www.zillow.com/homedetails/203-2nd-Ave-Bellingham-MN-56212/106717708_zpid/,203 2nd Ave,56212,Bellingham,MN,45.135912,-96.286189,10400.0,2.0,4.0,896.0,1900,14374.0,SINGLE_FAMILY,SOLD,0
+106717571,https://www.zillow.com/homedetails/3178-141st-Ave-Bellingham-MN-56212/106717571_zpid/,3178 141st Ave,56212,Bellingham,MN,45.122123,-96.37369,61500.0,1.0,4.0,2320.0,1890,1496285.0,SINGLE_FAMILY,SOLD,0

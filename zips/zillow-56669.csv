@@ -1,0 +1,9 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+61595814,https://www.zillow.com/homedetails/9932-Gamma-Rd-Ray-MN-56669/61595814_zpid/,9932 Gamma Rd,56669,Ray,MN,48.443331,-93.056163,119900.0,1.0,3.0,1000.0,1965,43560.0,SINGLE_FAMILY,FOR_SALE,6
+61595931,https://www.zillow.com/homedetails/12974-White-Eagle-Ln-Ray-MN-56669/61595931_zpid/,12974 White Eagle Ln,56669,Ray,MN,48.484927,-93.075476,439000.0,2.0,4.0,1872.0,2000,27442.0,SINGLE_FAMILY,FOR_SALE,29
+2102548457,https://www.zillow.com/homedetails/9932-Gamma-Road-Kabetogama-MN-56669/2102548457_zpid/,9932 Gamma Road,56669,Kabetogama,MN,48.443284,-93.060132,119900.0,1.0,3.0,1000.0,1965,43560.0,SINGLE_FAMILY,FOR_SALE,6
+72235361,https://www.zillow.com/homedetails/10530-Bittersweet-Ln-Kabetogama-MN-56669/72235361_zpid/,10530 Bittersweet Ln,56669,Kabetogama,MN,48.487651,-93.073607,274900.0,1.0,3.0,1325.0,2015,3354.0,SINGLE_FAMILY,FOR_SALE,23
+2089143326,https://www.zillow.com/homedetails/10530-Bittersweet-Ln-6-Kabetogama-MN-56669/2089143326_zpid/,10530 Bittersweet Ln #6,56669,Kabetogama,MN,48.487651,-93.073607,274900.0,1.0,3.0,1146.0,2015,3049.0,SINGLE_FAMILY,FOR_SALE,20
+61595935,https://www.zillow.com/homedetails/12413-Ice-Ridge-Dr-Ray-MN-56669/61595935_zpid/,12413 Ice Ridge Dr,56669,Ray,MN,48.43995,-93.017006,199900.0,1.0,2.0,748.0,1948,34281.0,SINGLE_FAMILY,FOR_SALE,30
+150009272,https://www.zillow.com/homedetails/9684-Gamma-Rd-Kabetogama-MN-56669/150009272_zpid/,9684 Gamma Rd,56669,Kabetogama,MN,48.427779,-93.048054,60000.0,2.0,2.0,952.0,1991,182951.0,SINGLE_FAMILY,FOR_SALE,19
+106713729,https://www.zillow.com/homedetails/4794-Town-Rd-180-Ray-MN-56669/106713729_zpid/,4794 Town Rd #180,56669,Ray,MN,48.409624,-93.201598,230000.0,3.0,4.0,3500.0,2000,161172.0,SINGLE_FAMILY,FOR_SALE,37

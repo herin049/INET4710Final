@@ -1,0 +1,7 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+61615635,https://www.zillow.com/homedetails/8822-E-Point-Dr-Britt-MN-55710/61615635_zpid/,8822 E Point Dr,55710,Britt,MN,47.645579,-92.619362,189000.0,2.0,4.0,1200.0,-1,22215.0,SINGLE_FAMILY,FOR_SALE,34
+61615337,https://www.zillow.com/homedetails/7568-Highway-53-Britt-MN-55710/61615337_zpid/,7568 Highway 53,55710,Britt,MN,47.668071,-92.642473,198500.0,2.0,3.0,2016.0,2005,87120.0,SINGLE_FAMILY,FOR_SALE,20
+61615390,https://www.zillow.com/homedetails/8509-Tall-Pine-Rd-Britt-MN-55710/61615390_zpid/,8509 Tall Pine Rd,55710,Britt,MN,47.655609,-92.58283,209900.0,2.0,3.0,1872.0,-1,191228.0,SINGLE_FAMILY,FOR_SALE,14
+61615677,https://www.zillow.com/homedetails/8517-Reid-Rd-Britt-MN-55710/61615677_zpid/,8517 Reid Rd,55710,Britt,MN,47.634449,-92.583722,195500.0,2.0,3.0,1512.0,2000,319730.0,SINGLE_FAMILY,FOR_SALE,28
+61616052,https://www.zillow.com/homedetails/10259-Highway-65-Britt-MN-55710/61616052_zpid/,10259 Highway 65,55710,Britt,MN,47.675621,-92.773241,139900.0,3.0,6.0,1200.0,1950,129373.0,SINGLE_FAMILY,FOR_SALE,19
+61616128,https://www.zillow.com/homedetails/9531-Pine-Ln-Britt-MN-55710/61616128_zpid/,9531 Pine Ln,55710,Britt,MN,47.680655,-92.704636,125000.0,1.0,3.0,980.0,1980,40641.0,SINGLE_FAMILY,FOR_SALE,3

@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+232506021,https://www.zillow.com/homedetails/204-Hill-Ave-Pease-MN-56363/232506021_zpid/,204 Hill Ave,56363,Pease,MN,45.697106,-93.648494,95000.0,1.0,2.0,1008.0,1930,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+232506001,https://www.zillow.com/homedetails/129-Hill-Ave-Pease-MN-56363/232506001_zpid/,129 Hill Ave,56363,Pease,MN,45.697752,-93.649175,79900.0,1.0,1.0,672.0,1963,8712.0,SINGLE_FAMILY,SOLD,0
+96992391,https://www.zillow.com/homedetails/49-W-1st-St-Pease-MN-56363/96992391_zpid/,49 W 1st St,56363,Pease,MN,45.698038,-93.648618,72000.0,1.0,2.0,1242.0,1930,5314.0,SINGLE_FAMILY,SOLD,0
+96992280,https://www.zillow.com/homedetails/230-2nd-Ave-N-Pease-MN-56363/96992280_zpid/,230 2nd Ave N,56363,Pease,MN,45.700923,-93.645554,175000.0,1.0,2.0,1031.0,1920,174240.0,SINGLE_FAMILY,SOLD,0

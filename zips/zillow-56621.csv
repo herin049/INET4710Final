@@ -1,0 +1,9 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106635307,https://www.zillow.com/homedetails/31876-State-92-Bagley-MN-56621/106635307_zpid/,31876 State 92,56621,Bagley,MN,47.469377,-95.380543,184900.0,2.0,3.0,2016.0,2004,317988.0,SINGLE_FAMILY,FOR_SALE,35
+2085554212,https://www.zillow.com/homedetails/17373-Big-Hill-Rd-Bagley-MN-56621/2085554212_zpid/,17373 Big Hill Rd,56621,Bagley,MN,47.208221,-95.416904,269000.0,2.0,2.0,1642.0,2007,418176.0,SINGLE_FAMILY,FOR_SALE,37
+106635266,https://www.zillow.com/homedetails/23086-White-Pine-Dr-Bagley-MN-56621/106635266_zpid/,23086 White Pine Dr,56621,Bagley,MN,47.488654,-95.295995,189000.0,4.0,3.0,2236.0,1993,74052.0,SINGLE_FAMILY,FOR_SALE,33
+236111979,https://www.zillow.com/homedetails/224-Evergreen-Dr-SW-Bagley-MN-56621/236111979_zpid/,224 Evergreen Dr SW,56621,Bagley,MN,47.519596,-95.415677,209000.0,3.0,3.0,1775.0,2017,12000.0,SINGLE_FAMILY,FOR_SALE,19
+2085530710,https://www.zillow.com/homedetails/15196-Us-2-Bagley-MN-56621/2085530710_zpid/,15196 Us 2,56621,Bagley,MN,47.5272,-95.4586,199000.0,3.0,3.0,2808.0,1930,435600.0,SINGLE_FAMILY,FOR_SALE,68
+2085068225,https://www.zillow.com/homedetails/16259-Us-Hwy-2-Bagley-MN-56621/2085068225_zpid/,16259 Us Hwy 2,56621,Bagley,MN,47.525792,-95.445819,179900.0,1.0,4.0,2862.0,1941,217800.0,SINGLE_FAMILY,FOR_SALE,21
+2085118557,https://www.zillow.com/homedetails/16259-Us-2-Bagley-MN-56621/2085118557_zpid/,16259 Us 2,56621,Bagley,MN,47.525792,-95.445819,179900.0,1.0,4.0,2862.0,1941,217800.0,SINGLE_FAMILY,FOR_SALE,30
+106635700,https://www.zillow.com/homedetails/12816-Ecton-Trl-Bagley-MN-56621/106635700_zpid/,12816 Ecton Trl,56621,Bagley,MN,47.192431,-95.422365,424000.0,3.0,2.0,2688.0,1999,331056.0,SINGLE_FAMILY,FOR_SALE,22

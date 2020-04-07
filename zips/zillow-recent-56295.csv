@@ -1,0 +1,12 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106634947,https://www.zillow.com/homedetails/1009-Highland-Rdg-Watson-MN-56295/106634947_zpid/,1009 Highland Rdg,56295,Watson,MN,45.015543,-95.799602,98000.0,1.0,2.0,1200.0,2005,24959.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+115947854,https://www.zillow.com/homedetails/1028-Highland-Rdg-Watson-MN-56295/115947854_zpid/,1028 Highland Rdg,56295,Watson,MN,45.015611,-95.800974,83000.0,2.0,3.0,1716.0,2002,26005.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106634928,https://www.zillow.com/homedetails/300-Sunnyside-Watson-MN-56295/106634928_zpid/,300 Sunnyside,56295,Watson,MN,45.007234,-95.801229,20272.0,1.0,3.0,1650.0,1904,10454.0,SINGLE_FAMILY,RECENTLY_SOLD,1
+106634934,https://www.zillow.com/homedetails/120-Elm-Ave-Watson-MN-56295/106634934_zpid/,120 Elm Ave,56295,Watson,MN,45.006404,-95.798746,84500.0,2.0,3.0,1907.0,1940,10454.0,SINGLE_FAMILY,RECENTLY_SOLD,44
+106634940,https://www.zillow.com/homedetails/240-Elm-Watson-MN-56295/106634940_zpid/,240 Elm,56295,Watson,MN,45.006193,-95.800617,68000.0,1.0,3.0,2200.0,1959,10454.0,SINGLE_FAMILY,SOLD,0
+106634973,https://www.zillow.com/homedetails/355-Park-Ave-Watson-MN-56295/106634973_zpid/,355 Park Ave,56295,Watson,MN,45.008877,-95.802007,93450.0,2.0,4.0,2734.0,1946,14810.0,SINGLE_FAMILY,SOLD,41
+106631531,https://www.zillow.com/homedetails/611-1st-St-Watson-MN-56295/106631531_zpid/,611 1st St,56295,Watson,MN,45.010841,-95.797596,55000.0,2.0,2.0,1890.0,1920,42688.0,SINGLE_FAMILY,SOLD,0
+113918791,https://www.zillow.com/homedetails/3040-110th-Ave-NW-Watson-MN-56295/113918791_zpid/,3040 110th Ave NW,56295,Watson,MN,45.07158,-95.81653,34000.0,2.0,5.0,2600.0,1913,175547.0,SINGLE_FAMILY,SOLD,0
+106634992,https://www.zillow.com/homedetails/600-Walnut-Ave-Watson-MN-56295/106634992_zpid/,600 Walnut Ave,56295,Watson,MN,45.011032,-95.798542,39400.0,1.0,3.0,1400.0,1956,6098.0,SINGLE_FAMILY,SOLD,16
+106631519,https://www.zillow.com/homedetails/189-120th-Ave-SW-Watson-MN-56295/106631519_zpid/,189 120th Ave SW,56295,Watson,MN,45.010154,-95.842673,1006.0,2.0,3.0,4500.0,2009,261360.0,SINGLE_FAMILY,SOLD,0
+106634993,https://www.zillow.com/homedetails/342-Park-Ave-Watson-MN-56295/106634993_zpid/,342 Park Ave,56295,Watson,MN,45.008257,-95.801712,17000.0,1.0,2.0,1140.0,1935,3484.0,SINGLE_FAMILY,SOLD,0

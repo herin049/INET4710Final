@@ -1,0 +1,11 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+250549666,https://www.zillow.com/homedetails/203-Bauer-St-Elrosa-MN-56325/250549666_zpid/,203 Bauer St,56325,Elrosa,MN,45.562717,-94.94497,124900.0,1.75,3.0,1404.0,1957,6011.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+74876847,https://www.zillow.com/homedetails/106-State-St-Elrosa-MN-56325/74876847_zpid/,106 State St,56325,Elrosa,MN,45.563417,-94.94673,79000.0,1.0,3.0,838.0,1900,4000.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+304820670,https://www.zillow.com/homedetails/78-Robert-St-Elrosa-MN-56325/304820670_zpid/,78 Robert St,56325,Elrosa,MN,45.56449,-94.945638,150000.0,1.75,3.0,1866.0,1980,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+74876841,https://www.zillow.com/homedetails/78-Robert-St-Elrosa-MN-56325/74876841_zpid/,78 Robert St,56325,Elrosa,MN,45.565301,-94.943887,150000.0,1.75,3.0,1866.0,1980,11700.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+304820572,https://www.zillow.com/homedetails/714-1st-Ave-Elrosa-MN-56325/304820572_zpid/,714 1st Ave,56325,Elrosa,MN,45.564192,-94.94448,135000.0,2.5,3.0,1947.0,1963,-1.0,SINGLE_FAMILY,SOLD,0
+74876821,https://www.zillow.com/homedetails/714-1st-Ave-Elrosa-MN-56325/74876821_zpid/,714 1st Ave,56325,Elrosa,MN,45.564185,-94.944472,135000.0,3.0,4.0,2340.0,1963,12632.0,SINGLE_FAMILY,SOLD,0
+74876833,https://www.zillow.com/homedetails/57-Robert-St-Elrosa-MN-56325/74876833_zpid/,57 Robert St,56325,Elrosa,MN,45.566098,-94.943528,133900.0,2.0,3.0,1354.0,1978,18295.0,SINGLE_FAMILY,SOLD,0
+245909330,https://www.zillow.com/homedetails/710-1st-Ave-Elrosa-MN-56325/245909330_zpid/,710 1st Ave,56325,Elrosa,MN,45.564191,-94.94484,95000.0,1.5,3.0,1632.0,1973,12894.0,SINGLE_FAMILY,SOLD,0
+74876860,https://www.zillow.com/homedetails/103-Bauer-St-Elrosa-MN-56325/74876860_zpid/,103 Bauer St,56325,Elrosa,MN,45.563669,-94.944949,89500.0,1.0,2.0,1314.0,1920,13068.0,SINGLE_FAMILY,SOLD,0
+74876839,https://www.zillow.com/homedetails/86-Robert-St-Elrosa-MN-56325/74876839_zpid/,86 Robert St,56325,Elrosa,MN,45.564964,-94.944618,139900.0,3.0,3.0,2354.0,1982,11761.0,SINGLE_FAMILY,SOLD,13

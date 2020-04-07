@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106737315,https://www.zillow.com/homedetails/210-Bluff-St-W-Lake-Benton-MN-56149/106737315_zpid/,210 Bluff St W,56149,Lake Benton,MN,44.259542,-96.2903,95500.0,2.0,4.0,1800.0,1900,21780.0,SINGLE_FAMILY,FOR_SALE,10
+106737300,https://www.zillow.com/homedetails/234-Grant-St-S-Lake-Benton-MN-56149/106737300_zpid/,234 Grant St S,56149,Lake Benton,MN,44.256658,-96.28759,35000.0,1.0,2.0,775.0,1950,8755.0,SINGLE_FAMILY,FOR_SALE,11
+113930600,https://www.zillow.com/homedetails/2069-Us-Highway-14-Lake-Benton-MN-56149/113930600_zpid/,2069 Us Highway 14,56149,Lake Benton,MN,44.265535,-96.297695,319900.0,3.0,4.0,3024.0,1968,300564.0,SINGLE_FAMILY,FOR_SALE,52

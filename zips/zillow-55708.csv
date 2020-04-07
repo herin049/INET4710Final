@@ -1,0 +1,15 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+61542388,https://www.zillow.com/homedetails/106-4th-Ave-N-Babbitt-MN-55708/61542388_zpid/,106 4th Ave N,55708,Babbitt,MN,47.533646,-92.344059,17900.0,1.0,2.0,684.0,1940,3049.0,SINGLE_FAMILY,FOR_SALE,3
+2104341216,https://www.zillow.com/homedetails/6373-Wynne-Creek-Dr-343-Biwabik-MN-55708/2104341216_zpid/,6373 Wynne Creek Dr #343,55708,Biwabik,MN,47.578891,-92.304844,85000.0,1.0,1.0,459.0,1999,-1.0,CONDO,FOR_SALE,36
+2095646983,https://www.zillow.com/homedetails/6373-Wynne-Creek-Dr-114-Biwabik-MN-55708/2095646983_zpid/,6373 Wynne Creek Dr #114,55708,Biwabik,MN,47.579518,-92.305149,69500.0,1.0,1.0,504.0,2003,522.0,TOWNHOUSE,FOR_SALE,8
+61542470,https://www.zillow.com/homedetails/115-4th-Ave-S-Babbitt-MN-55708/61542470_zpid/,115 4th Ave S,55708,Babbitt,MN,47.531932,-92.344319,30000.0,2.0,2.0,800.0,1950,6229.0,SINGLE_FAMILY,FOR_SALE,13
+61542674,https://www.zillow.com/homedetails/212-7th-Ave-N-Biwabik-MN-55708/61542674_zpid/,212 7th Ave N,55708,Biwabik,MN,47.534571,-92.339254,147900.0,2.0,4.0,1816.0,1950,8407.0,SINGLE_FAMILY,FOR_SALE,22
+2082719396,https://www.zillow.com/homedetails/6373-Wynne-Creek-Dr-102-Biwabik-MN-55708/2082719396_zpid/,6373 Wynne Creek Dr #102,55708,Biwabik,MN,47.579518,-92.305149,75000.0,1.0,1.0,462.0,1999,-1.0,CONDO,FOR_SALE,29
+2091748188,https://www.zillow.com/homedetails/5848-Residence-Club-Ln-Biwabik-MN-55708/2091748188_zpid/,5848 Residence Club Ln,55708,Biwabik,MN,47.5377,-92.3351,434999.0,5.0,4.0,3330.0,2010,12196.0,SINGLE_FAMILY,FOR_SALE,42
+61542388,https://www.zillow.com/homedetails/106-4th-Ave-N-Babbitt-MN-55708/61542388_zpid/,106 4th Ave N,55708,Babbitt,MN,47.533646,-92.344059,17900.0,1.0,2.0,684.0,1940,3049.0,SINGLE_FAMILY,FOR_SALE,3
+2104341216,https://www.zillow.com/homedetails/6373-Wynne-Creek-Dr-343-Biwabik-MN-55708/2104341216_zpid/,6373 Wynne Creek Dr #343,55708,Biwabik,MN,47.578891,-92.304844,85000.0,1.0,1.0,459.0,1999,-1.0,CONDO,FOR_SALE,36
+2095646983,https://www.zillow.com/homedetails/6373-Wynne-Creek-Dr-114-Biwabik-MN-55708/2095646983_zpid/,6373 Wynne Creek Dr #114,55708,Biwabik,MN,47.579518,-92.305149,69500.0,1.0,1.0,504.0,2003,522.0,TOWNHOUSE,FOR_SALE,8
+61542470,https://www.zillow.com/homedetails/115-4th-Ave-S-Babbitt-MN-55708/61542470_zpid/,115 4th Ave S,55708,Babbitt,MN,47.531932,-92.344319,30000.0,2.0,2.0,800.0,1950,6229.0,SINGLE_FAMILY,FOR_SALE,13
+61542674,https://www.zillow.com/homedetails/212-7th-Ave-N-Biwabik-MN-55708/61542674_zpid/,212 7th Ave N,55708,Biwabik,MN,47.534571,-92.339254,147900.0,2.0,4.0,1816.0,1950,8407.0,SINGLE_FAMILY,FOR_SALE,22
+2082719396,https://www.zillow.com/homedetails/6373-Wynne-Creek-Dr-102-Biwabik-MN-55708/2082719396_zpid/,6373 Wynne Creek Dr #102,55708,Biwabik,MN,47.579518,-92.305149,75000.0,1.0,1.0,462.0,1999,-1.0,CONDO,FOR_SALE,29
+2091748188,https://www.zillow.com/homedetails/5848-Residence-Club-Ln-Biwabik-MN-55708/2091748188_zpid/,5848 Residence Club Ln,55708,Biwabik,MN,47.5377,-92.3351,434999.0,5.0,4.0,3330.0,2010,12196.0,SINGLE_FAMILY,FOR_SALE,42

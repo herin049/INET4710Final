@@ -1,0 +1,2 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+127043576,https://www.zillow.com/homedetails/1648-Wall-Ave-Bock-MN-56313/127043576_zpid/,1648 Wall Ave,56313,Bock,MN,45.785164,-93.552292,122000.0,2.0,4.0,1808.0,2002,13982.0,SINGLE_FAMILY,SOLD,24

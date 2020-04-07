@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106744962,https://www.zillow.com/homedetails/1819-County-Road-31-Russell-MN-56169/106744962_zpid/,1819 County Road 31,56169,Russell,MN,44.314101,-95.961153,149900.0,1.0,3.0,1100.0,1954,129373.0,SINGLE_FAMILY,FOR_SALE,20
+106744031,https://www.zillow.com/homedetails/113-W-High-St-Russell-MN-56169/106744031_zpid/,113 W High St,56169,Russell,MN,44.315705,-95.951289,43500.0,1.0,1.0,862.0,1919,9757.0,SINGLE_FAMILY,FOR_SALE,18
+106743961,https://www.zillow.com/homedetails/107-Water-St-Russell-MN-56169/106743961_zpid/,107 Water St,56169,Russell,MN,44.3177,-95.947469,50000.0,2.0,2.0,1861.0,1957,13939.0,SINGLE_FAMILY,FOR_SALE,19

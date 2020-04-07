@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+234326881,https://www.zillow.com/homedetails/15728-430th-Ave-Delavan-MN-56023/234326881_zpid/,15728 430th Ave,56023,Delavan,MN,43.713373,-94.006254,115000.0,1.0,4.0,1968.0,1915,598950.0,SINGLE_FAMILY,RECENTLY_SOLD,40
+115009539,https://www.zillow.com/homedetails/106-N-School-Delavan-MN-56023/115009539_zpid/,106 N School,56023,Delavan,MN,43.768485,-94.016989,37000.0,2.0,2.0,2196.0,1951,8712.0,SINGLE_FAMILY,RECENTLY_SOLD,23
+114969834,https://www.zillow.com/homedetails/45095-240th-St-Delavan-MN-56023/114969834_zpid/,45095 240th St,56023,Delavan,MN,43.833512,-93.966472,165000.0,2.0,3.0,1407.0,1930,174240.0,SINGLE_FAMILY,SOLD,25
+234329979,https://www.zillow.com/homedetails/110-N-Main-St-Delavan-MN-56023/234329979_zpid/,110 N Main St,56023,Delavan,MN,43.768563,-94.019927,21500.0,1.0,1.0,1412.0,1917,10454.0,SINGLE_FAMILY,SOLD,11
+115002304,https://www.zillow.com/homedetails/103-N-Thompson-St-Delavan-MN-56023/115002304_zpid/,103 N Thompson St,56023,Delavan,MN,43.767983,-94.017655,68000.0,2.0,3.0,2620.0,1907,13939.0,SINGLE_FAMILY,SOLD,21

@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+120641630,https://www.zillow.com/homedetails/36505-Big-Mccarthy-Lake-Rd-Nashwauk-MN-55769/120641630_zpid/,36505 Big Mccarthy Lake Rd,55769,Nashwauk,MN,47.406434,-93.26012,129900.0,1.0,0.0,728.0,2005,67082.0,SINGLE_FAMILY,FOR_SALE,21
+103945940,https://www.zillow.com/homedetails/15679-N-Buck-Lake-Rd-Nashwauk-MN-55769/103945940_zpid/,15679 N Buck Lake Rd,55769,Nashwauk,MN,47.544096,-93.183541,139000.0,2.0,2.0,1268.0,1963,14810.0,SINGLE_FAMILY,FOR_SALE,26
+103953225,https://www.zillow.com/homedetails/312-2nd-St-Nashwauk-MN-55769/103953225_zpid/,312 2nd St,55769,Nashwauk,MN,47.377469,-93.166764,34900.0,1.0,3.0,1198.0,1924,3049.0,SINGLE_FAMILY,FOR_SALE,23
+103944460,https://www.zillow.com/homedetails/17881-Little-Mc-Carthy-Lake-Rd-Nashwauk-MN-55769/103944460_zpid/,17881 Little Mc Carthy Lake Rd,55769,Nashwauk,MN,47.395721,-93.235722,49900.0,1.0,3.0,750.0,1950,219106.0,SINGLE_FAMILY,FOR_SALE,11
+103944801,https://www.zillow.com/homedetails/39536-State-Highway-65-Nashwauk-MN-55769/103944801_zpid/,39536 State Highway 65,55769,Nashwauk,MN,47.450443,-93.194233,84900.0,2.0,3.0,1642.0,2005,283140.0,MANUFACTURED,FOR_SALE,23

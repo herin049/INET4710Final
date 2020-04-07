@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+303994564,https://www.zillow.com/homedetails/8855-Cramer-Rd-Finland-MN-55603/303994564_zpid/,8855 Cramer Rd,55603,Finland,MN,47.418636,-91.246906,430000.0,2.0,2.0,1424.0,2007,56192.0,SINGLE_FAMILY,FOR_SALE,19
+106723745,https://www.zillow.com/homedetails/6754-Riverside-Dr-Finland-MN-55603/106723745_zpid/,6754 Riverside Dr,55603,Finland,MN,47.416892,-91.249278,113000.0,1.0,3.0,1324.0,1958,23522.0,SINGLE_FAMILY,FOR_SALE,27
+106723851,https://www.zillow.com/homedetails/5230-Laurel-Ln-Finland-MN-55603/106723851_zpid/,5230 Laurel Ln,55603,Finland,MN,47.41046,-91.243808,179900.0,1.0,3.0,1020.0,1937,87120.0,SINGLE_FAMILY,FOR_SALE,50

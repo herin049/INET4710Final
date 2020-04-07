@@ -1,0 +1,11 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106717902,https://www.zillow.com/homedetails/339-6th-St-Dawson-MN-56232/106717902_zpid/,339 6th St,56232,Dawson,MN,44.933417,-96.054325,129900.0,1.0,4.0,1582.0,1920,-1.0,SINGLE_FAMILY,FOR_SALE,21
+106718404,https://www.zillow.com/homedetails/1196-Pine-St-Dawson-MN-56232/106718404_zpid/,1196 Pine St,56232,Dawson,MN,44.929114,-96.063428,89900.0,2.0,4.0,1560.0,1940,8276.0,SINGLE_FAMILY,FOR_SALE,34
+106718035,https://www.zillow.com/homedetails/1117-Elm-St-Dawson-MN-56232/106718035_zpid/,1117 Elm St,56232,Dawson,MN,44.934027,-96.061961,139000.0,1.0,3.0,1800.0,1947,29620.0,SINGLE_FAMILY,FOR_SALE,16
+106719125,https://www.zillow.com/homedetails/423-Ash-St-Dawson-MN-56232/106719125_zpid/,423 Ash St,56232,Dawson,MN,44.926032,-96.052166,339000.0,5.0,3.0,4898.0,2003,14810.0,SINGLE_FAMILY,FOR_SALE,22
+106718810,https://www.zillow.com/homedetails/1109-Pine-St-Dawson-MN-56232/106718810_zpid/,1109 Pine St,56232,Dawson,MN,44.928833,-96.062386,299900.0,4.0,5.0,4198.0,1995,31363.0,SINGLE_FAMILY,FOR_SALE,39
+235788936,https://www.zillow.com/homedetails/3123-230th-St-Dawson-MN-56232/235788936_zpid/,3123 230th St,56232,Dawson,MN,44.993593,-96.01837,499900.0,2.0,5.0,2409.0,1917,387248.0,SINGLE_FAMILY,FOR_SALE,94
+106718881,https://www.zillow.com/homedetails/939-Ash-St-Dawson-MN-56232/106718881_zpid/,939 Ash St,56232,Dawson,MN,44.925824,-96.059243,49500.0,1.0,3.0,1176.0,1914,-1.0,SINGLE_FAMILY,FOR_SALE,19
+106718912,https://www.zillow.com/homedetails/1287-Pine-St-Dawson-MN-56232/106718912_zpid/,1287 Pine St,56232,Dawson,MN,44.928854,-96.066735,235000.0,3.0,4.0,3164.0,1910,13068.0,SINGLE_FAMILY,FOR_SALE,21
+106716993,https://www.zillow.com/homedetails/2429-321st-Ave-Dawson-MN-56232/106716993_zpid/,2429 321st Ave,56232,Dawson,MN,45.001776,-96.001006,250000.0,2.0,3.0,2528.0,1900,392040.0,SINGLE_FAMILY,FOR_SALE,42
+106717976,https://www.zillow.com/homedetails/674-2nd-St-Dawson-MN-56232/106717976_zpid/,674 2nd St,56232,Dawson,MN,44.930619,-96.049277,167900.0,3.0,4.0,3056.0,1908,27878.0,SINGLE_FAMILY,FOR_SALE,53

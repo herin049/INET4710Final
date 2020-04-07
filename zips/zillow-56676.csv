@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+126550467,https://www.zillow.com/homedetails/23098-County-2-Shevlin-MN-56676/126550467_zpid/,23098 County 2,56676,Shevlin,MN,47.341807,-95.22451,105000.0,2.0,2.0,1824.0,1986,250034.0,SINGLE_FAMILY,FOR_SALE,34
+2083106689,https://www.zillow.com/homedetails/20593-Dalby-Rd-NW-Shevlin-MN-56676/2083106689_zpid/,20593 Dalby Rd NW,56676,Shevlin,MN,47.740414,-95.185104,299800.0,1.0,2.0,1024.0,1984,186001.0,SINGLE_FAMILY,FOR_SALE,51
+106635111,https://www.zillow.com/homedetails/26051-250th-St-Shevlin-MN-56676/106635111_zpid/,26051 250th St,56676,Shevlin,MN,47.365484,-95.233163,349900.0,2.0,3.0,1947.0,2005,2025540.0,SINGLE_FAMILY,FOR_SALE,47
+2140938188,https://www.zillow.com/homedetails/18465-Railroad-Grade-Trl-Shevlin-MN-56676/2140938188_zpid/,18465 Railroad Grade Trl,56676,Shevlin,MN,47.272337,-95.276852,250000.0,3.0,6.0,3000.0,1930,34848.0,SINGLE_FAMILY,FOR_SALE,24
+2130474231,https://www.zillow.com/homedetails/21095-Haugan-Dr-NW-Pinewood-MN-56676/2130474231_zpid/,21095 Haugan Dr NW,56676,Pinewood,MN,47.68134,-95.150097,259500.0,1.0,3.0,1344.0,1984,420353.0,SINGLE_FAMILY,FOR_SALE,36

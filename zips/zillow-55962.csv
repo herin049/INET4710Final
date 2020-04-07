@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2081005397,https://www.zillow.com/homedetails/411-Mill-St-Peterson-MN-55962/2081005397_zpid/,411 Mill St,55962,Peterson,MN,43.7862,-91.833897,75000.0,1.0,1.0,1100.0,1900,12632.0,SINGLE_FAMILY,FOR_SALE,8
+106659201,https://www.zillow.com/homedetails/29917-Desoto-Rd-Peterson-MN-55962/106659201_zpid/,29917 Desoto Rd,55962,Peterson,MN,43.785605,-91.855433,425000.0,2.0,4.0,3500.0,1900,435600.0,SINGLE_FAMILY,FOR_SALE,29
+106667311,https://www.zillow.com/homedetails/425-Prospect-St-Peterson-MN-55962/106667311_zpid/,425 Prospect St,55962,Peterson,MN,43.785362,-91.834219,275000.0,11.0,10.0,5220.0,1904,7405.0,SINGLE_FAMILY,FOR_SALE,41

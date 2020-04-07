@@ -1,0 +1,10 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+74901994,https://www.zillow.com/homedetails/945-Willow-View-Cir-Waite-Park-MN-56387/74901994_zpid/,945 Willow View Cir,56387,Waite Park,MN,45.537667,-94.214705,220000.0,2.0,2.0,1662.0,1997,12196.0,SINGLE_FAMILY,FOR_SALE,49
+74902543,https://www.zillow.com/homedetails/234-W-Ave-N-Waite-Park-MN-56387/74902543_zpid/,234 W Ave N,56387,Waite Park,MN,45.557175,-94.217358,189000.0,2.0,3.0,2385.0,1952,-1.0,SINGLE_FAMILY,FOR_SALE,17
+74902645,https://www.zillow.com/homedetails/1079-Sunwood-Park-Ln-Waite-Park-MN-56387/74902645_zpid/,1079 Sunwood Park Ln,56387,Waite Park,MN,45.536005,-94.228323,250000.0,3.0,3.0,1917.0,1994,11360.0,SINGLE_FAMILY,FOR_SALE,21
+110481730,https://www.zillow.com/homedetails/153-10th-Ave-N-Waite-Park-MN-56387/110481730_zpid/,153 10th Ave N,56387,Waite Park,MN,45.556922,-94.229644,159900.0,3.0,5.0,2539.0,1911,4791.0,MULTI_FAMILY,FOR_SALE,17
+2131820441,https://www.zillow.com/homedetails/315-Waite-Ave-S-APT-213-Waite-Park-MN-56387/2131820441_zpid/,315 Waite Ave S APT 213,56387,Waite Park,MN,45.54763,-94.21428,71500.0,1.0,2.0,895.0,1983,-1.0,CONDO,FOR_SALE,24
+74902413,https://www.zillow.com/homedetails/1279-Heritage-Ln-Waite-Park-MN-56387/74902413_zpid/,1279 Heritage Ln,56387,Waite Park,MN,45.532145,-94.222803,174900.0,2.0,2.0,1262.0,2002,2613.0,TOWNHOUSE,FOR_SALE,11
+74902052,https://www.zillow.com/homedetails/204-10th-Ave-N-Waite-Park-MN-56387/74902052_zpid/,204 10th Ave N,56387,Waite Park,MN,45.557379,-94.228889,189900.0,3.0,3.0,3342.0,1946,10018.0,MULTI_FAMILY,FOR_SALE,12
+74901665,https://www.zillow.com/homedetails/35-9th-Ave-N-Waite-Park-MN-56387/74901665_zpid/,35 9th Ave N,56387,Waite Park,MN,45.554671,-94.228404,117302.0,1.75,2.0,1183.0,1966,4879.0,SINGLE_FAMILY,PRE_FORECLOSURE,0
+295600038,https://www.zillow.com/homedetails/256-Waite-Ave-N-Waite-Park-MN-56387/295600038_zpid/,256 Waite Ave N,56387,Waite Park,MN,45.557628,-94.213351,194900.0,3.0,4.0,2326.0,1946,20908.0,MULTI_FAMILY,FOR_SALE,16

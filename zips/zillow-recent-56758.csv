@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+126972694,https://www.zillow.com/homedetails/106-Rainbow-Dr-Strandquist-MN-56758/126972694_zpid/,106 Rainbow Dr,56758,Strandquist,MN,48.471464,-96.434295,45000.0,2.0,3.0,1280.0,1990,43560.0,SINGLE_FAMILY,RECENTLY_SOLD,27
+106755403,https://www.zillow.com/homedetails/15718-410th-St-NW-Strandquist-MN-56758/106755403_zpid/,15718 410th St NW,56758,Strandquist,MN,48.475185,-96.380544,90000.0,2.0,3.0,1600.0,1997,435600.0,SINGLE_FAMILY,RECENTLY_SOLD,43
+126972675,https://www.zillow.com/homedetails/38489-260th-Ave-NW-Strandquist-MN-56758/126972675_zpid/,38489 260th Ave NW,56758,Strandquist,MN,48.431373,-96.608831,237000.0,3.0,2.0,2329.0,1964,3484800.0,SINGLE_FAMILY,RECENTLY_SOLD,46
+122615427,https://www.zillow.com/homedetails/302-Anderson-St-Strandquist-MN-56758/122615427_zpid/,302 Anderson St,56758,Strandquist,MN,48.490006,-96.401526,12000.0,2.0,2.0,1216.0,1995,20908.0,SINGLE_FAMILY,RECENTLY_SOLD,31

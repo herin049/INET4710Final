@@ -1,0 +1,14 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106743894,https://www.zillow.com/homedetails/213-Water-St-Russell-MN-56169/106743894_zpid/,213 Water St,56169,Russell,MN,44.316105,-95.947133,71000.0,2.0,3.0,1064.0,1957,12000.0,SINGLE_FAMILY,RECENTLY_SOLD,12
+106743980,https://www.zillow.com/homedetails/101-Park-Rd-Russell-MN-56169/106743980_zpid/,101 Park Rd,56169,Russell,MN,44.319334,-95.955963,215000.0,3.0,3.0,3070.0,1978,85377.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106743970,https://www.zillow.com/homedetails/207-W-Old-Highway-23-Russell-MN-56169/106743970_zpid/,207 W Old Highway 23,56169,Russell,MN,44.316607,-95.954982,114000.0,3.0,3.0,1542.0,1918,70567.0,SINGLE_FAMILY,SOLD,0
+106744901,https://www.zillow.com/homedetails/1947-150th-Ave-Russell-MN-56169/106744901_zpid/,1947 150th Ave,56169,Russell,MN,44.332754,-95.999476,310000.0,2.0,5.0,2798.0,1995,609840.0,SINGLE_FAMILY,SOLD,35
+106743930,https://www.zillow.com/homedetails/202-1st-St-Russell-MN-56169/106743930_zpid/,202 1st St,56169,Russell,MN,44.31738,-95.949749,20000.0,1.0,4.0,1636.0,1910,6534.0,SINGLE_FAMILY,SOLD,0
+106743885,https://www.zillow.com/homedetails/300-Hill-St-Russell-MN-56169/106743885_zpid/,300 Hill St,56169,Russell,MN,44.317454,-95.946661,43000.0,1.0,2.0,1220.0,1959,9583.0,SINGLE_FAMILY,SOLD,0
+106743959,https://www.zillow.com/homedetails/204-Hill-St-Russell-MN-56169/106743959_zpid/,204 Hill St,56169,Russell,MN,44.31806,-95.947018,20000.0,1.0,2.0,1056.0,1920,7000.0,SINGLE_FAMILY,SOLD,0
+106744012,https://www.zillow.com/homedetails/110-N-2nd-St-Russell-MN-56169/106744012_zpid/,110 N 2nd St,56169,Russell,MN,44.322407,-95.953346,78900.0,2.0,5.0,2430.0,1924,26136.0,SINGLE_FAMILY,SOLD,16
+106744988,https://www.zillow.com/homedetails/1456-210th-St-Russell-MN-56169/106744988_zpid/,1456 210th St,56169,Russell,MN,44.356703,-96.006799,134000.0,2.0,3.0,1910.0,1910,298386.0,SINGLE_FAMILY,SOLD,0
+106743889,https://www.zillow.com/homedetails/304-Hill-St-Russell-MN-56169/106743889_zpid/,304 Hill St,56169,Russell,MN,44.317046,-95.946482,72500.0,2.0,2.0,2384.0,1968,12632.0,SINGLE_FAMILY,SOLD,0
+106743945,https://www.zillow.com/homedetails/102-Water-St-Russell-MN-56169/106743945_zpid/,102 Water St,56169,Russell,MN,44.31776,-95.948417,72000.0,2.0,3.0,1620.0,1914,9147.0,SINGLE_FAMILY,SOLD,0
+106743886,https://www.zillow.com/homedetails/203-Water-St-Russell-MN-56169/106743886_zpid/,203 Water St,56169,Russell,MN,44.317,-95.947143,59500.0,2.0,3.0,1600.0,1961,13503.0,SINGLE_FAMILY,SOLD,0
+106743943,https://www.zillow.com/homedetails/103-1st-St-Russell-MN-56169/106743943_zpid/,103 1st St,56169,Russell,MN,44.318317,-95.949409,43500.0,2.0,5.0,1560.0,1920,6969.0,SINGLE_FAMILY,SOLD,0

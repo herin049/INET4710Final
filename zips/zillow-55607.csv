@@ -1,0 +1,10 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106723730,https://www.zillow.com/homedetails/9905-National-Forest-Lodge-Rd-Isabella-MN-55607/106723730_zpid/,9905 National Forest Lodge Rd,55607,Isabella,MN,47.647968,-91.47989,690000.0,7.0,23.0,8000.0,1985,827640.0,SINGLE_FAMILY,FOR_SALE,56
+106723150,https://www.zillow.com/homedetails/9393-Highway-1-Isabella-MN-55607/106723150_zpid/,9393 Highway 1,55607,Isabella,MN,47.61725,-91.364248,70000.0,1.0,2.0,1104.0,1948,58370.0,SINGLE_FAMILY,FOR_SALE,16
+303994413,https://www.zillow.com/homedetails/1290-Wander-Rd-Isabella-MN-55607/303994413_zpid/,1290 Wander Rd,55607,Isabella,MN,47.688276,-91.653959,340000.0,1.0,2.0,2298.0,2007,143748.0,SINGLE_FAMILY,FOR_SALE,26
+116115648,https://www.zillow.com/homedetails/9527-Highway-1-Isabella-MN-55607/116115648_zpid/,9527 Highway 1,55607,Isabella,MN,47.630072,-91.424933,175000.0,2.0,4.0,2076.0,2007,1328580.0,SINGLE_FAMILY,FOR_SALE,14
+2082755055,https://www.zillow.com/homedetails/1520-Slate-Rd-Isabella-MN-55607/2082755055_zpid/,1520 Slate Rd,55607,Isabella,MN,47.691599,-91.639821,263500.0,1.0,2.0,1561.0,2002,152460.0,SINGLE_FAMILY,FOR_SALE,49
+232999010,https://www.zillow.com/homedetails/9375-Highway-1-Isabella-MN-55607/232999010_zpid/,9375 Highway 1,55607,Isabella,MN,47.61642,-91.356975,199000.0,2.0,2.0,2112.0,1970,652528.0,SINGLE_FAMILY,FOR_SALE,29
+126034531,https://www.zillow.com/homedetails/1350-Snowshoe-Trl-Isabella-MN-55607/126034531_zpid/,1350 Snowshoe Trl,55607,Isabella,MN,47.594581,-91.64663,310000.0,1.0,1.0,965.0,1977,3441240.0,SINGLE_FAMILY,FOR_SALE,50
+2084617541,https://www.zillow.com/homedetails/9934-National-Forest-Lodge-Rd-3-Isabella-MN-55607/2084617541_zpid/,9934 National Forest Lodge Rd #3,55607,Isabella,MN,47.648001,-91.477554,124000.0,2.0,3.0,890.0,1995,-1.0,TOWNHOUSE,FOR_SALE,17
+116115681,https://www.zillow.com/homedetails/10512-Highway-1-Isabella-MN-55607/116115681_zpid/,10512 Highway 1,55607,Isabella,MN,47.692619,-91.640863,54900.0,1.0,3.0,1355.0,1967,17859.0,SINGLE_FAMILY,FOR_SALE,9

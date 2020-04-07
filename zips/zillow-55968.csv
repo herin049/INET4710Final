@@ -1,0 +1,2 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+98949702,https://www.zillow.com/homedetails/70583-206th-Ave-Reads-Landing-MN-55968/98949702_zpid/,70583 206th Ave,55968,Reads Landing,MN,44.401676,-92.081239,129900.0,1.0,2.0,1122.0,1920,15028.0,SINGLE_FAMILY,FOR_SALE,20

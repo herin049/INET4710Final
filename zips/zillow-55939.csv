@@ -1,0 +1,7 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106659688,https://www.zillow.com/homedetails/10-2nd-Ave-SE-Harmony-MN-55939/106659688_zpid/,10 2nd Ave SE,55939,Harmony,MN,43.554123,-92.007189,79900.0,1.0,2.0,1120.0,1890,8712.0,SINGLE_FAMILY,FOR_SALE,20
+2086546765,https://www.zillow.com/homedetails/120-5th-St-SW-Harmony-MN-55939/2086546765_zpid/,120 5th St SW,55939,Harmony,MN,43.549644,-92.01167,156000.0,1.0,2.0,995.0,2017,3049.0,SINGLE_FAMILY,FOR_SALE,16
+304911597,https://www.zillow.com/homedetails/735-3rd-Ave-SE-Harmony-MN-55939/304911597_zpid/,735 3rd Ave SE,55939,Harmony,MN,43.546872,-92.006104,225000.0,2.0,3.0,1760.0,2019,13068.0,SINGLE_FAMILY,FOR_SALE,29
+2088832094,https://www.zillow.com/homedetails/735-3rd-Ave-SE-Harmony-MN-55939/2088832094_zpid/,735 3rd Ave SE,55939,Harmony,MN,43.546872,-92.006104,225000.0,2.0,3.0,1760.0,2019,13068.0,SINGLE_FAMILY,FOR_SALE,5
+106661364,https://www.zillow.com/homedetails/13020-241st-Ave-Harmony-MN-55939/106661364_zpid/,13020 241st Ave,55939,Harmony,MN,43.544461,-92.168624,114900.0,2.0,4.0,3216.0,1925,47044.0,SINGLE_FAMILY,FOR_SALE,26
+2086546769,https://www.zillow.com/homedetails/140-5th-St-SW-Harmony-MN-55939/2086546769_zpid/,140 5th St SW,55939,Harmony,MN,43.549645,-92.011744,186000.0,2.0,2.0,1240.0,2018,4791.0,SINGLE_FAMILY,FOR_SALE,3

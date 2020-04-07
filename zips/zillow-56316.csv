@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+74875407,https://www.zillow.com/homedetails/680-County-Road-18-Brooten-MN-56316/74875407_zpid/,680 County Road 18,56316,Brooten,MN,45.490836,-95.121588,230000.0,2.0,3.0,1450.0,2015,37000.0,SINGLE_FAMILY,FOR_SALE,9
+74875611,https://www.zillow.com/homedetails/420-Western-Ave-S-Brooten-MN-56316/74875611_zpid/,420 Western Ave S,56316,Brooten,MN,45.497511,-95.12703,154900.0,2.0,3.0,1850.0,1970,12196.0,SINGLE_FAMILY,FOR_SALE,13
+74875550,https://www.zillow.com/homedetails/340-Prairie-Ave-S-Brooten-MN-56316/74875550_zpid/,340 Prairie Ave S,56316,Brooten,MN,45.498185,-95.125587,39900.0,2.0,3.0,1232.0,1900,12632.0,SINGLE_FAMILY,FOR_SALE,10
+74875543,https://www.zillow.com/homedetails/330-Central-Ave-S-Brooten-MN-56316/74875543_zpid/,330 Central Ave S,56316,Brooten,MN,45.498339,-95.124144,84990.0,1.0,2.0,892.0,1940,11325.0,SINGLE_FAMILY,FORECLOSED,0
+74875549,https://www.zillow.com/homedetails/310-Prairie-Ave-S-Brooten-MN-56316/74875549_zpid/,310 Prairie Ave S,56316,Brooten,MN,45.498637,-95.125587,119900.0,2.0,5.0,1906.0,1915,8712.0,SINGLE_FAMILY,FOR_SALE,17

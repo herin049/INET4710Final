@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106791863,https://www.zillow.com/homedetails/33215-State-Highway-91-Ellsworth-MN-56129/106791863_zpid/,33215 State Highway 91,56129,Ellsworth,MN,43.511484,-96.018916,325000.0,2.0,4.0,2474.0,1910,303177.0,SINGLE_FAMILY,FOR_SALE,27
+106787601,https://www.zillow.com/homedetails/110-W-Butler-Ave-Ellsworth-MN-56129/106787601_zpid/,110 W Butler Ave,56129,Ellsworth,MN,43.523264,-96.019318,65000.0,2.0,3.0,1478.0,1919,14000.0,SINGLE_FAMILY,FOR_SALE,34
+106787685,https://www.zillow.com/homedetails/106-W-4th-Ave-Ellsworth-MN-56129/106787685_zpid/,106 W 4th Ave,56129,Ellsworth,MN,43.517463,-96.019316,55000.0,1.0,2.0,1262.0,1894,10497.0,SINGLE_FAMILY,FOR_SALE,29
+2082047254,https://www.zillow.com/homedetails/209-E-5th-Ave-Ellsworth-MN-56129/2082047254_zpid/,209 E 5th Ave,56129,Ellsworth,MN,43.516038,-96.015885,39900.0,2.0,4.0,1840.0,1938,17424.0,SINGLE_FAMILY,FOR_SALE,16
+232982402,https://www.zillow.com/homedetails/208-W-3rd-Ave-Ellsworth-MN-56129/232982402_zpid/,208 W 3rd Ave,56129,Ellsworth,MN,43.518553,-96.020805,79900.0,3.0,4.0,3582.0,1917,10497.0,SINGLE_FAMILY,FOR_SALE,29

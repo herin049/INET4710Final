@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2082577218,https://www.zillow.com/homedetails/36-Magney-Ln-Schroeder-MN-55613/2082577218_zpid/,36 Magney Ln,55613,Schroeder,MN,47.467346,-91.020148,499000.0,3.0,4.0,2145.0,1994,52272.0,SINGLE_FAMILY,FOR_SALE,75
+2083845721,https://www.zillow.com/homedetails/100-Temperance-Rd-Schroeder-MN-55613/2083845721_zpid/,100 Temperance Rd,55613,Schroeder,MN,47.554284,-90.88087,355000.0,2.0,3.0,2688.0,1996,261360.0,SINGLE_FAMILY,FOR_SALE,75
+2084910492,https://www.zillow.com/homedetails/9406-W-Highway-61-Schroeder-MN-55613/2084910492_zpid/,9406 W Highway 61,55613,Schroeder,MN,47.472551,-91.010324,599900.0,2.0,3.0,2087.0,1978,189921.0,SINGLE_FAMILY,FOR_SALE,50

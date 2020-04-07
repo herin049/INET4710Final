@@ -1,0 +1,12 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106776192,https://www.zillow.com/homedetails/1611-260th-Ave-Currie-MN-56123/106776192_zpid/,1611 260th Ave,56123,Currie,MN,44.084495,-95.543743,19900.0,2.0,3.0,1792.0,1915,466963.0,SINGLE_FAMILY,RECENTLY_SOLD,8
+249447366,https://www.zillow.com/homedetails/2582-151st-St-Currie-MN-56123/249447366_zpid/,2582 151st St,56123,Currie,MN,44.066467,-95.545348,48000.0,1.0,3.0,1040.0,1952,162478.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+2084915446,https://www.zillow.com/homedetails/30-Hudson-Rd-Currie-MN-56123/2084915446_zpid/,30 Hudson Rd,56123,Currie,MN,44.090192,-95.695815,380000.0,3.0,4.0,2881.0,1979,15115.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106774295,https://www.zillow.com/homedetails/940-Sweetman-St-Currie-MN-56123/106774295_zpid/,940 Sweetman St,56123,Currie,MN,44.067437,-95.662594,107000.0,2.0,4.0,1860.0,1976,13982.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106774357,https://www.zillow.com/homedetails/250-Church-St-Currie-MN-56123/106774357_zpid/,250 Church St,56123,Currie,MN,44.069843,-95.664378,39000.0,1.0,3.0,1270.0,1903,10497.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106774291,https://www.zillow.com/homedetails/2012-State-Highway-30-Currie-MN-56123/106774291_zpid/,2012 State Highway 30,56123,Currie,MN,44.065827,-95.661842,83000.0,2.0,3.0,1056.0,1946,20778.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106774246,https://www.zillow.com/homedetails/110-Everett-St-Currie-MN-56123/106774246_zpid/,110 Everett St,56123,Currie,MN,44.070899,-95.661871,165500.0,3.0,4.0,2740.0,1978,19602.0,SINGLE_FAMILY,SOLD,0
+106773625,https://www.zillow.com/homedetails/2243-121st-St-Currie-MN-56123/106773625_zpid/,2243 121st St,56123,Currie,MN,44.021401,-95.614649,92500.0,2.0,4.0,2536.0,1890,165092.0,SINGLE_FAMILY,SOLD,0
+106774337,https://www.zillow.com/homedetails/231-Des-Moines-St-Currie-MN-56123/106774337_zpid/,231 Des Moines St,56123,Currie,MN,44.070045,-95.667693,60600.0,1.0,3.0,1220.0,1900,13939.0,SINGLE_FAMILY,SOLD,0
+106774343,https://www.zillow.com/homedetails/820-1st-St-Currie-MN-56123/106774343_zpid/,820 1st St,56123,Currie,MN,44.071537,-95.664279,77000.0,1.0,3.0,1302.0,1953,14810.0,SINGLE_FAMILY,SOLD,0
+106773819,https://www.zillow.com/homedetails/16-N-Forman-Rd-Currie-MN-56123/106773819_zpid/,16 N Forman Rd,56123,Currie,MN,44.098597,-95.694867,193500.0,3.0,4.0,1894.0,1960,9583.0,SINGLE_FAMILY,SOLD,29

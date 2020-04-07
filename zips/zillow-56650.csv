@@ -1,0 +1,7 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+226531589,https://www.zillow.com/homedetails/18392-Cormant-Rd-NE-Kelliher-MN-56650/226531589_zpid/,18392 Cormant Rd NE,56650,Kelliher,MN,47.931319,-94.61731,199900.0,1.0,2.0,1600.0,1942,3703906.0,SINGLE_FAMILY,FOR_SALE,10
+117528941,https://www.zillow.com/homedetails/368-Main-St-E-Kelliher-MN-56650/117528941_zpid/,368 Main St E,56650,Kelliher,MN,47.941479,-94.44351,75000.0,1.0,2.0,972.0,1985,47916.0,SINGLE_FAMILY,FOR_SALE,16
+2082399099,https://www.zillow.com/homedetails/147-E-Main-St-Kelliher-MN-56650/2082399099_zpid/,147 E Main St,56650,Kelliher,MN,47.942166,-94.449284,24900.0,1.0,0.0,1052.0,1954,6969.0,SINGLE_FAMILY,FOR_SALE,18
+117528906,https://www.zillow.com/homedetails/251-Lakin-Ave-SW-Kelliher-MN-56650/117528906_zpid/,251 Lakin Ave SW,56650,Kelliher,MN,47.940502,-94.450331,74900.0,1.0,4.0,3432.0,1982,28749.0,SINGLE_FAMILY,FOR_SALE,21
+226529770,https://www.zillow.com/homedetails/13609-Norske-Rd-NE-Kelliher-MN-56650/226529770_zpid/,13609 Norske Rd NE,56650,Kelliher,MN,47.978229,-94.692589,289000.0,1.0,3.0,2000.0,1965,3484800.0,SINGLE_FAMILY,FOR_SALE,18
+117525964,https://www.zillow.com/homedetails/48193-Pioneer-Rd-NE-Kelliher-MN-56650/117525964_zpid/,48193 Pioneer Rd NE,56650,Kelliher,MN,48.065161,-94.684785,319000.0,1.0,4.0,1400.0,1978,2570040.0,SINGLE_FAMILY,FOR_SALE,20

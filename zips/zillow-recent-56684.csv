@@ -1,0 +1,2 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106810215,https://www.zillow.com/homedetails/207-1st-Ave-W-Trail-MN-56684/106810215_zpid/,207 1st Ave W,56684,Trail,MN,47.778373,-95.695216,30000.0,1.0,4.0,1755.0,1915,7000.0,SINGLE_FAMILY,SOLD,15

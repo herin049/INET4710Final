@@ -1,0 +1,25 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106786968,https://www.zillow.com/homedetails/620-Kentucky-Ave-Adrian-MN-56110/106786968_zpid/,620 Kentucky Ave,56110,Adrian,MN,43.630049,-95.935603,123500.0,2.0,3.0,1985.0,1961,11325.0,SINGLE_FAMILY,RECENTLY_SOLD,28
+106786736,https://www.zillow.com/homedetails/500-Maine-Ave-Adrian-MN-56110/106786736_zpid/,500 Maine Ave,56110,Adrian,MN,43.631883,-95.933558,175000.0,3.0,4.0,2760.0,1914,11761.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106786950,https://www.zillow.com/homedetails/635-Maine-Ave-Adrian-MN-56110/106786950_zpid/,635 Maine Ave,56110,Adrian,MN,43.629438,-95.933584,82000.0,1.0,3.0,1056.0,1966,10454.0,SINGLE_FAMILY,RECENTLY_SOLD,13
+106786772,https://www.zillow.com/homedetails/311-W-2nd-St-Adrian-MN-56110/106786772_zpid/,311 W 2nd St,56110,Adrian,MN,43.634854,-95.936979,89900.0,2.0,3.0,2374.0,1890,14810.0,SINGLE_FAMILY,RECENTLY_SOLD,45
+2082115897,https://www.zillow.com/homedetails/508-Arkansas-Adrian-MN-56110/2082115897_zpid/,508 Arkansas,56110,Adrian,MN,43.631881,-95.941342,235000.0,6.0,9.0,8400.0,-1,-1.0,APARTMENT,RECENTLY_SOLD,0
+106787031,https://www.zillow.com/homedetails/301-E-6th-St-Adrian-MN-56110/106787031_zpid/,301 E 6th St,56110,Adrian,MN,43.630434,-95.930154,32000.0,1.0,4.0,1080.0,1920,7840.0,SINGLE_FAMILY,RECENTLY_SOLD,11
+232981829,https://www.zillow.com/homedetails/406-Pennsylvania-Ave-Adrian-MN-56110/232981829_zpid/,406 Pennsylvania Ave,56110,Adrian,MN,43.632752,-95.928335,164900.0,2.0,4.0,1664.0,1915,20473.0,SINGLE_FAMILY,RECENTLY_SOLD,33
+106786907,https://www.zillow.com/homedetails/100-Louisiana-Ave-Adrian-MN-56110/106786907_zpid/,100 Louisiana Ave,56110,Adrian,MN,43.635892,-95.93413,126000.0,2.0,3.0,1632.0,1915,7501.0,SINGLE_FAMILY,RECENTLY_SOLD,33
+106786967,https://www.zillow.com/homedetails/206-W-1st-St-Adrian-MN-56110/106786967_zpid/,206 W 1st St,56110,Adrian,MN,43.635901,-95.93555,92790.0,1.0,3.0,1363.0,1880,7501.0,SINGLE_FAMILY,RECENTLY_SOLD,25
+106786828,https://www.zillow.com/homedetails/504-Connecticut-Ave-Adrian-MN-56110/106786828_zpid/,504 Connecticut Ave,56110,Adrian,MN,43.631704,-95.939934,40000.0,1.0,2.0,830.0,1880,7405.0,SINGLE_FAMILY,RECENTLY_SOLD,13
+106787035,https://www.zillow.com/homedetails/613-Pennsylvania-Ave-Adrian-MN-56110/106787035_zpid/,613 Pennsylvania Ave,56110,Adrian,MN,43.629798,-95.929227,195000.0,3.0,4.0,3959.0,1972,13939.0,SINGLE_FAMILY,SOLD,51
+106786990,https://www.zillow.com/homedetails/421-Connecticut-Ave-Adrian-MN-56110/106786990_zpid/,421 Connecticut Ave,56110,Adrian,MN,43.632322,-95.940704,78600.0,3.0,4.0,1622.0,1895,-1.0,SINGLE_FAMILY,SOLD,21
+106787085,https://www.zillow.com/homedetails/724-Nevada-Ave-Adrian-MN-56110/106787085_zpid/,724 Nevada Ave,56110,Adrian,MN,43.627639,-95.931457,114500.0,3.0,3.0,2062.0,1940,12632.0,SINGLE_FAMILY,SOLD,0
+106786766,https://www.zillow.com/homedetails/221-Kentucky-Ave-Adrian-MN-56110/106786766_zpid/,221 Kentucky Ave,56110,Adrian,MN,43.634369,-95.936214,109000.0,1.0,2.0,1502.0,1951,1006.0,SINGLE_FAMILY,SOLD,23
+106791875,https://www.zillow.com/homedetails/29882-Cory-Ave-Adrian-MN-56110/106791875_zpid/,29882 Cory Ave,56110,Adrian,MN,43.560041,-95.953108,135000.0,2.0,3.0,2480.0,1955,112820.0,SINGLE_FAMILY,SOLD,0
+232981753,https://www.zillow.com/homedetails/304-W-2nd-St-Adrian-MN-56110/232981753_zpid/,304 W 2nd St,56110,Adrian,MN,43.635262,-95.936494,59100.0,1.0,2.0,928.0,1960,5802.0,SINGLE_FAMILY,SOLD,11
+106787033,https://www.zillow.com/homedetails/215-E-6th-St-Adrian-MN-56110/106787033_zpid/,215 E 6th St,56110,Adrian,MN,43.630261,-95.930525,45000.0,2.0,4.0,2204.0,1900,23522.0,SINGLE_FAMILY,SOLD,16
+106791988,https://www.zillow.com/homedetails/18422-Durfee-Ave-Adrian-MN-56110/106791988_zpid/,18422 Durfee Ave,56110,Adrian,MN,43.725902,-95.890231,300000.0,4.0,4.0,2500.0,1958,271379.0,SINGLE_FAMILY,SOLD,32
+106786916,https://www.zillow.com/homedetails/701-Louisiana-Ave-Adrian-MN-56110/106786916_zpid/,701 Louisiana Ave,56110,Adrian,MN,43.628545,-95.935008,120000.0,2.0,3.0,2080.0,1964,-1.0,SINGLE_FAMILY,SOLD,17
+106786850,https://www.zillow.com/homedetails/410-Pennsylvania-Ave-Adrian-MN-56110/106786850_zpid/,410 Pennsylvania Ave,56110,Adrian,MN,43.632527,-95.928337,46500.0,2.0,2.0,1952.0,1952,13503.0,SINGLE_FAMILY,SOLD,0
+106787084,https://www.zillow.com/homedetails/210-E-8th-St-Adrian-MN-56110/106787084_zpid/,210 E 8th St,56110,Adrian,MN,43.627369,-95.930906,185000.0,2.0,2.0,2352.0,1978,-1.0,SINGLE_FAMILY,SOLD,34
+2094500551,https://www.zillow.com/homedetails/10489-270th-St-Adrian-MN-56110/2094500551_zpid/,10489 270th St,56110,Adrian,MN,43.60195,-96.04453,380000.0,4.0,4.0,2250.0,1971,435600.0,SINGLE_FAMILY,SOLD,52
+106786793,https://www.zillow.com/homedetails/209-Indiana-Ave-Adrian-MN-56110/106786793_zpid/,209 Indiana Ave,56110,Adrian,MN,43.634619,-95.937849,118000.0,2.0,2.0,1699.0,1957,11325.0,SINGLE_FAMILY,SOLD,15
+106786891,https://www.zillow.com/homedetails/630-Pennsylvania-Ave-Adrian-MN-56110/106786891_zpid/,630 Pennsylvania Ave,56110,Adrian,MN,43.629255,-95.928378,217000.0,2.0,3.0,2774.0,1978,20799.0,SINGLE_FAMILY,SOLD,1

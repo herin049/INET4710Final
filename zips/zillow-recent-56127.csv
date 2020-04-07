@@ -1,0 +1,13 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106759088,https://www.zillow.com/homedetails/225-N-Lindberg-Ave-Dunnell-MN-56127/106759088_zpid/,225 N Lindberg Ave,56127,Dunnell,MN,43.560895,-94.777645,41000.0,2.0,2.0,1306.0,1918,10062.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106757763,https://www.zillow.com/homedetails/295-80th-Ave-Dunnell-MN-56127/106757763_zpid/,295 80th Ave,56127,Dunnell,MN,43.529296,-94.715078,95000.0,2.0,5.0,1676.0,1930,186872.0,SINGLE_FAMILY,RECENTLY_SOLD,6
+106765979,https://www.zillow.com/homedetails/551-80th-St-Dunnell-MN-56127/106765979_zpid/,551 80th St,56127,Dunnell,MN,43.598974,-94.769257,125000.0,2.0,3.0,1404.0,1965,6969600.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106759039,https://www.zillow.com/homedetails/140-S-Lindberg-Ave-Dunnell-MN-56127/106759039_zpid/,140 S Lindberg Ave,56127,Dunnell,MN,43.557854,-94.776814,35000.0,2.0,2.0,1981.0,1936,35719.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106757411,https://www.zillow.com/homedetails/662-50th-St-Dunnell-MN-56127/106757411_zpid/,662 50th St,56127,Dunnell,MN,43.560424,-94.742723,55000.0,1.5,5.0,1737.0,1920,202554.0,SINGLE_FAMILY,SOLD,0
+106757521,https://www.zillow.com/homedetails/474-80th-Ave-Dunnell-MN-56127/106757521_zpid/,474 80th Ave,56127,Dunnell,MN,43.554857,-94.713097,90000.0,2.75,4.0,3810.0,2011,130680.0,SINGLE_FAMILY,SOLD,0
+106757547,https://www.zillow.com/homedetails/352-90th-Ave-Dunnell-MN-56127/106757547_zpid/,352 90th Ave,56127,Dunnell,MN,43.537411,-94.693858,250000.0,4.0,4.0,3474.0,1930,185130.0,SINGLE_FAMILY,SOLD,0
+106757462,https://www.zillow.com/homedetails/228-50th-Ave-Dunnell-MN-56127/106757462_zpid/,228 50th Ave,56127,Dunnell,MN,43.520092,-94.769475,100000.0,2.0,2.0,2092.0,1910,5227200.0,SINGLE_FAMILY,SOLD,0
+106759097,https://www.zillow.com/homedetails/125-N-Lindberg-Ave-Dunnell-MN-56127/106759097_zpid/,125 N Lindberg Ave,56127,Dunnell,MN,43.559882,-94.777659,14000.0,1.5,3.0,1129.0,1915,-1.0,SINGLE_FAMILY,SOLD,0
+241726710,https://www.zillow.com/homedetails/622-60th-St-Dunnell-MN-56127/241726710_zpid/,622 60th St,56127,Dunnell,MN,43.573491,-94.733002,214000.0,2.0,4.0,2491.0,1954,371566.0,SINGLE_FAMILY,SOLD,0
+106757427,https://www.zillow.com/homedetails/465-State-Highway-4-Dunnell-MN-56127/106757427_zpid/,465 State Highway 4,56127,Dunnell,MN,43.554116,-94.776033,100000.0,2.0,4.0,2167.0,1955,435600.0,SINGLE_FAMILY,SOLD,0
+106759080,https://www.zillow.com/homedetails/205-N-Seeley-Ave-Dunnell-MN-56127/106759080_zpid/,205 N Seeley Ave,56127,Dunnell,MN,43.560361,-94.775102,13500.0,1.0,2.0,840.0,1935,-1.0,SINGLE_FAMILY,SOLD,0

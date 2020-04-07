@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106669490,https://www.zillow.com/homedetails/80449-320th-St-Ellendale-MN-56026/106669490_zpid/,80449 320th St,56026,Ellendale,MN,43.82293,-93.260971,439900.0,3.0,4.0,3302.0,2000,124581.0,SINGLE_FAMILY,FOR_SALE,13
+106669523,https://www.zillow.com/homedetails/32439-775th-Ave-Ellendale-MN-56026/106669523_zpid/,32439 775th Ave,56026,Ellendale,MN,43.817744,-93.320777,390000.0,4.0,5.0,4277.0,1975,217800.0,SINGLE_FAMILY,FOR_SALE,32
+106834996,https://www.zillow.com/homedetails/4683-SW-108th-St-Ellendale-MN-56026/106834996_zpid/,4683 SW 108th St,56026,Ellendale,MN,43.934456,-93.295692,254900.0,3.0,4.0,1712.0,1900,174240.0,SINGLE_FAMILY,FOR_SALE,54
+106835107,https://www.zillow.com/homedetails/16411-SW-52nd-Ave-Ellendale-MN-56026/106835107_zpid/,16411 SW 52nd Ave,56026,Ellendale,MN,43.853805,-93.305895,299900.0,3.0,4.0,2800.0,1940,61855.0,SINGLE_FAMILY,FOR_SALE,16

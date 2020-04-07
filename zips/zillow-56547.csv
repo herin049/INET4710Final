@@ -1,0 +1,13 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+89306778,https://www.zillow.com/homedetails/1103-Lyndon-Ave-S-Glyndon-MN-56547/89306778_zpid/,1103 Lyndon Ave S,56547,Glyndon,MN,46.863991,-96.582507,315000.0,3.0,4.0,2400.0,1999,-1.0,SINGLE_FAMILY,FOR_SALE,57
+92531568,https://www.zillow.com/homedetails/121-7th-St-SW-Glyndon-MN-56547/92531568_zpid/,121 7th St SW,56547,Glyndon,MN,46.869667,-96.582192,225000.0,2.0,4.0,2080.0,1965,54885.0,SINGLE_FAMILY,FOR_SALE,38
+89284455,https://www.zillow.com/homedetails/18-Eglon-Ave-S-Glyndon-MN-56547/89284455_zpid/,18 Eglon Ave S,56547,Glyndon,MN,46.876737,-96.576825,195000.0,2.0,3.0,2400.0,1885,-1.0,SINGLE_FAMILY,FOR_SALE,47
+89314166,https://www.zillow.com/homedetails/2165-150th-St-N-Glyndon-MN-56547/89314166_zpid/,2165 150th St N,56547,Glyndon,MN,46.900454,-96.486695,419900.0,3.0,4.0,2218.0,2001,890366.0,SINGLE_FAMILY,FOR_SALE,55
+89257352,https://www.zillow.com/homedetails/420-Partridge-Ave-S-Glyndon-MN-56547/89257352_zpid/,420 Partridge Ave S,56547,Glyndon,MN,46.872235,-96.578378,250000.0,3.0,4.0,3296.0,1910,-1.0,SINGLE_FAMILY,FOR_SALE,63
+2080771901,https://www.zillow.com/homedetails/10049-28th-Ave-N-Glyndon-MN-56547/2080771901_zpid/,10049 28th Ave N,56547,Glyndon,MN,46.902391,-96.584261,579900.0,4.0,4.0,4400.0,1997,426452.0,SINGLE_FAMILY,FOR_SALE,32
+89320477,https://www.zillow.com/homedetails/1215-Magnolia-Ct-Glyndon-MN-56547/89320477_zpid/,1215 Magnolia Ct,56547,Glyndon,MN,46.861615,-96.583622,226000.0,2.0,4.0,2180.0,2004,-1.0,SINGLE_FAMILY,FOR_SALE,42
+89223669,https://www.zillow.com/homedetails/7749-140th-St-S-Glyndon-MN-56547/89223669_zpid/,7749 140th St S,56547,Glyndon,MN,46.78455,-96.509536,265841.0,2.0,4.0,1800.0,1900,435600.0,SINGLE_FAMILY,PRE_FORECLOSURE,58
+89271196,https://www.zillow.com/homedetails/517-Eglon-Ave-S-Glyndon-MN-56547/89271196_zpid/,517 Eglon Ave S,56547,Glyndon,MN,46.870713,-96.577745,76763.0,2.0,4.0,1700.0,1900,113.0,SINGLE_FAMILY,PRE_FORECLOSURE,51
+89259432,https://www.zillow.com/homedetails/111-Seter-Cir-Glyndon-MN-56547/89259432_zpid/,111 Seter Cir,56547,Glyndon,MN,46.866304,-96.577751,315000.0,3.0,4.0,3000.0,2002,19166.0,SINGLE_FAMILY,FOR_SALE,67
+250280508,https://www.zillow.com/homedetails/1270-Southview-Dr-SW-Glyndon-MN-56547/250280508_zpid/,1270 Southview Dr SW,56547,Glyndon,MN,46.859269,-96.585144,336150.0,3.0,4.0,2776.0,2019,-1.0,SINGLE_FAMILY,FOR_SALE,19
+250280491,https://www.zillow.com/homedetails/315-Northview-Dr-SW-Glyndon-MN-56547/250280491_zpid/,315 Northview Dr SW,56547,Glyndon,MN,46.861715,-96.585908,433000.0,3.0,4.0,3712.0,2019,-1.0,SINGLE_FAMILY,FOR_SALE,31

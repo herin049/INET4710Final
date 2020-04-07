@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2092462880,https://www.zillow.com/homedetails/301-1st-St-Geneva-MN-56035/2092462880_zpid/,301 1st St,56035,Geneva,MN,43.825641,-93.266404,189900.0,2.0,2.0,1411.0,2017,13068.0,SINGLE_FAMILY,FOR_SALE,9
+2092462881,https://www.zillow.com/homedetails/305-1st-St-Geneva-MN-56035/2092462881_zpid/,305 1st St,56035,Geneva,MN,43.826112,-93.266602,189900.0,2.0,2.0,1411.0,2017,13068.0,SINGLE_FAMILY,FOR_SALE,8
+106671062,https://www.zillow.com/homedetails/403-Central-Ave-S-Geneva-MN-56035/106671062_zpid/,403 Central Ave S,56035,Geneva,MN,43.819779,-93.267284,125000.0,2.0,3.0,1261.0,1928,17031.0,SINGLE_FAMILY,FOR_SALE,14
+2082275626,https://www.zillow.com/homedetails/205-2nd-St-SW-Geneva-MN-56035/2082275626_zpid/,205 2nd St SW,56035,Geneva,MN,43.82088,-93.268392,175000.0,1.0,3.0,1079.0,1969,25200.0,SINGLE_FAMILY,FOR_SALE,13

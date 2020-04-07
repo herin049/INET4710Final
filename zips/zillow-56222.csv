@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106631805,https://www.zillow.com/homedetails/422-2nd-St-SW-Clara-City-MN-56222/106631805_zpid/,422 2nd St SW,56222,Clara City,MN,44.951155,-95.365457,75000.0,1.0,4.0,1300.0,1950,10628.0,SINGLE_FAMILY,FOR_SALE,18
+106631816,https://www.zillow.com/homedetails/419-Main-St-S-Clara-City-MN-56222/106631816_zpid/,419 Main St S,56222,Clara City,MN,44.95196,-95.363854,147000.0,2.0,4.0,2859.0,1955,13808.0,SINGLE_FAMILY,FOR_SALE,22
+106631785,https://www.zillow.com/homedetails/223-2nd-St-NE-Clara-City-MN-56222/106631785_zpid/,223 2nd St NE,56222,Clara City,MN,44.958171,-95.366273,79900.0,1.0,3.0,1207.0,1961,7013.0,SINGLE_FAMILY,FOR_SALE,19
+106631796,https://www.zillow.com/homedetails/623-1st-St-NE-Clara-City-MN-56222/106631796_zpid/,623 1st St NE,56222,Clara City,MN,44.961089,-95.37059,89000.0,2.0,2.0,816.0,1952,10149.0,SINGLE_FAMILY,FOR_SALE,26
+106632172,https://www.zillow.com/homedetails/639-2nd-St-NE-Clara-City-MN-56222/106632172_zpid/,639 2nd St NE,56222,Clara City,MN,44.962872,-95.369733,218700.0,3.0,4.0,3100.0,1950,39204.0,SINGLE_FAMILY,FOR_SALE,21

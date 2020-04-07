@@ -1,0 +1,7 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+124350718,https://www.zillow.com/homedetails/36328-Outpost-Rd-NW-Grygla-MN-56727/124350718_zpid/,36328 Outpost Rd NW,56727,Grygla,MN,48.301234,-95.425338,125000.0,1.0,3.0,1313.0,1986,3484800.0,SINGLE_FAMILY,RECENTLY_SOLD,33
+117526116,https://www.zillow.com/homedetails/67092-Flintlock-Rd-NW-Grygla-MN-56727/117526116_zpid/,67092 Flintlock Rd NW,56727,Grygla,MN,48.340652,-95.55008,75000.0,2.0,3.0,1232.0,1979,229125.0,SINGLE_FAMILY,SOLD,0
+124350721,https://www.zillow.com/homedetails/65947-Ose-Rd-NW-Grygla-MN-56727/124350721_zpid/,65947 Ose Rd NW,56727,Grygla,MN,48.324484,-95.423187,5000.0,1.5,3.0,1456.0,1986,87120.0,SINGLE_FAMILY,SOLD,0
+2091506532,https://www.zillow.com/homedetails/202-W-State-St-Grygla-MN-56727/2091506532_zpid/,202 W State St,56727,Grygla,MN,48.301365,-95.620171,26000.0,1.0,2.0,1128.0,1930,6969.0,SINGLE_FAMILY,SOLD,17
+226531150,https://www.zillow.com/homedetails/65257-Dylan-Rd-NW-Grygla-MN-56727/226531150_zpid/,65257 Dylan Rd NW,56727,Grygla,MN,48.31221,-95.575729,142000.0,1.0,2.0,1196.0,1978,1747191.0,SINGLE_FAMILY,SOLD,0
+124351362,https://www.zillow.com/homedetails/63357-Carmel-Rd-NW-Grygla-MN-56727/124351362_zpid/,63357 Carmel Rd NW,56727,Grygla,MN,48.285416,-95.447133,59460.0,1.0,3.0,1400.0,1969,1231876.0,SINGLE_FAMILY,SOLD,0

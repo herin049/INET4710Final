@@ -1,0 +1,9 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+122615409,https://www.zillow.com/homedetails/232-E-Melgaard-Ave-Newfolden-MN-56738/122615409_zpid/,232 E Melgaard Ave,56738,Newfolden,MN,48.354512,-96.327493,120000.0,2.0,3.0,1806.0,1969,19602.0,SINGLE_FAMILY,RECENTLY_SOLD,36
+2082027352,https://www.zillow.com/homedetails/411-State-Holt-MN-56738/2082027352_zpid/,411 State,56738,Holt,MN,48.292372,-96.194331,112000.0,1.0,3.0,2920.0,-1,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+2091394739,https://www.zillow.com/homedetails/150-E-Melgaard-Ave-Newfolden-MN-56738/2091394739_zpid/,150 E Melgaard Ave,56738,Newfolden,MN,48.354484,-96.328022,118500.0,2.0,3.0,1344.0,-1,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+2086806938,https://www.zillow.com/homedetails/14548-360th-St-NW-Newfolden-MN-56738/2086806938_zpid/,14548 360th St NW,56738,Newfolden,MN,48.399075,-96.353386,65000.0,2.0,3.0,1216.0,1995,435600.0,SINGLE_FAMILY,SOLD,15
+106756046,https://www.zillow.com/homedetails/37568-180th-Ave-NW-Newfolden-MN-56738/106756046_zpid/,37568 180th Ave NW,56738,Newfolden,MN,48.42122,-96.429049,120000.0,2.0,3.0,1500.0,1930,217800.0,SINGLE_FAMILY,SOLD,32
+122615403,https://www.zillow.com/homedetails/135-2nd-St-SW-Newfolden-MN-56738/122615403_zpid/,135 2nd St SW,56738,Newfolden,MN,48.403995,-96.282135,100000.0,1.0,2.0,1152.0,1928,8712.0,SINGLE_FAMILY,SOLD,18
+2086733614,https://www.zillow.com/homedetails/148-2nd-St-W-Newfolden-MN-56738/2086733614_zpid/,148 2nd St W,56738,Newfolden,MN,48.356155,-96.330534,60000.0,2.0,3.0,1320.0,-1,-1.0,MANUFACTURED,SOLD,0
+106755698,https://www.zillow.com/homedetails/15442-360th-St-NW-Newfolden-MN-56738/106755698_zpid/,15442 360th St NW,56738,Newfolden,MN,48.39993,-96.375137,175000.0,2.0,4.0,2500.0,1977,174240.0,SINGLE_FAMILY,SOLD,32

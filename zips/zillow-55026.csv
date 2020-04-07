@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+74837866,https://www.zillow.com/homedetails/29240-Westervelt-Avenue-Way-W-Frontenac-MN-55026/74837866_zpid/,29240 Westervelt Avenue Way W,55026,Frontenac,MN,44.521332,-92.335129,290000.0,2.0,4.0,1830.0,1973,73600.0,SINGLE_FAMILY,FOR_SALE,21
+74837947,https://www.zillow.com/homedetails/33743-Germania-St-Frontenac-MN-55026/74837947_zpid/,33743 Germania St,55026,Frontenac,MN,44.511897,-92.354915,168900.0,2.0,2.0,1672.0,1943,7405.0,SINGLE_FAMILY,FOR_SALE,14
+94946642,https://www.zillow.com/homedetails/34953-Burr-Oak-St-Frontenac-MN-55026/94946642_zpid/,34953 Burr Oak St,55026,Frontenac,MN,44.530782,-92.332412,785000.0,4.0,6.0,4002.0,1940,-1.0,SINGLE_FAMILY,FOR_SALE,55
+74837873,https://www.zillow.com/homedetails/28578-Lake-Avenue-Way-Frontenac-MN-55026/74837873_zpid/,28578 Lake Avenue Way,55026,Frontenac,MN,44.531723,-92.331333,580000.0,2.0,2.0,1750.0,1969,55669.0,SINGLE_FAMILY,FOR_SALE,31

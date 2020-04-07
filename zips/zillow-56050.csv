@@ -1,0 +1,11 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+229441503,https://www.zillow.com/homedetails/47873-Jill-Dr-Kasota-MN-56050/229441503_zpid/,47873 Jill Dr,56050,Kasota,MN,44.255405,-93.89355,569900.0,4.0,5.0,4530.0,2010,43560.0,SINGLE_FAMILY,FOR_SALE,11
+106735428,https://www.zillow.com/homedetails/2106-Limberdink-Rd-Kasota-MN-56050/106735428_zpid/,2106 Limberdink Rd,56050,Kasota,MN,44.247455,-93.8866,469900.0,2.0,4.0,2840.0,1980,15681.0,SINGLE_FAMILY,FOR_SALE,27
+106735246,https://www.zillow.com/homedetails/34933-Arrowwood-Dr-Kasota-MN-56050/106735246_zpid/,34933 Arrowwood Dr,56050,Kasota,MN,44.254487,-93.965819,236964.0,2.0,3.0,2503.0,1985,28313.0,SINGLE_FAMILY,PRE_FORECLOSURE,1
+106735497,https://www.zillow.com/homedetails/48446-Pheasant-Run-Rd-Kasota-MN-56050/106735497_zpid/,48446 Pheasant Run Rd,56050,Kasota,MN,44.247083,-93.969615,264400.0,2.0,4.0,2640.0,1980,57063.0,SINGLE_FAMILY,FOR_SALE,45
+106735093,https://www.zillow.com/homedetails/34609-470th-St-Kasota-MN-56050/106735093_zpid/,34609 470th St,56050,Kasota,MN,44.267247,-93.959711,296500.0,1.0,4.0,3309.0,1974,146797.0,SINGLE_FAMILY,FOR_SALE,47
+106728892,https://www.zillow.com/homedetails/110-N-Mill-St-Kasota-MN-56050/106728892_zpid/,110 N Mill St,56050,Kasota,MN,44.290484,-93.963059,149900.0,2.0,3.0,1957.0,1900,10454.0,SINGLE_FAMILY,FOR_SALE,0
+106735239,https://www.zillow.com/homedetails/34969-Arrowwood-Dr-Kasota-MN-56050/106735239_zpid/,34969 Arrowwood Dr,56050,Kasota,MN,44.254476,-93.966277,200000.0,2.0,3.0,3192.0,1992,28313.0,SINGLE_FAMILY,FOR_SALE,3
+106728968,https://www.zillow.com/homedetails/501-N-Rice-St-Kasota-MN-56050/106728968_zpid/,501 N Rice St,56050,Kasota,MN,44.294482,-93.965345,62632.0,1.0,2.0,1016.0,1900,-1.0,SINGLE_FAMILY,PRE_FORECLOSURE,0
+106728974,https://www.zillow.com/homedetails/420-N-Webster-St-Kasota-MN-56050/106728974_zpid/,420 N Webster St,56050,Kasota,MN,44.293472,-93.966359,85900.0,1.0,2.0,1224.0,1935,-1.0,SINGLE_FAMILY,FOR_SALE,12
+106735439,https://www.zillow.com/homedetails/2132-Limberdink-Rd-Kasota-MN-56050/106735439_zpid/,2132 Limberdink Rd,56050,Kasota,MN,44.249755,-93.888729,539900.0,3.0,3.0,4224.0,1989,9583.0,SINGLE_FAMILY,FOR_SALE,25

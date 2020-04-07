@@ -1,0 +1,8 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+1671302,https://www.zillow.com/homedetails/772-Keokuk-Ln-Mendota-Heights-MN-55120/1671302_zpid/,772 Keokuk Ln,55120,Mendota Heights,MN,44.871818,-93.12438,423000.0,3.0,4.0,1762.0,1957,19166.0,SINGLE_FAMILY,FOR_SALE,6
+1669934,https://www.zillow.com/homedetails/2158-Lexington-Ave-S-Mendota-Heights-MN-55120/1669934_zpid/,2158 Lexington Ave S,55120,Mendota Heights,MN,44.877761,-93.146111,412850.0,2.0,3.0,1969.0,1938,39204.0,SINGLE_FAMILY,FOR_SALE,12
+1670146,https://www.zillow.com/homedetails/2481-Bridgeview-Ct-Mendota-Heights-MN-55120/1670146_zpid/,2481 Bridgeview Ct,55120,Mendota Heights,MN,44.867478,-93.124108,590000.0,4.0,4.0,4388.0,1990,37026.0,SINGLE_FAMILY,FOR_SALE,28
+1672074,https://www.zillow.com/homedetails/2537-Concord-Way-120-Mendota-Heights-MN-55120/1672074_zpid/,2537 Concord Way #120,55120,Mendota Heights,MN,44.865393,-93.120758,224900.0,2.0,3.0,1618.0,1989,-1.0,CONDO,FOR_SALE,11
+1672662,https://www.zillow.com/homedetails/871-Cheri-Ln-Mendota-Heights-MN-55120/1672662_zpid/,871 Cheri Ln,55120,Mendota Heights,MN,44.873155,-93.130887,1375000.0,5.0,5.0,5360.0,2020,21867.0,SINGLE_FAMILY,FOR_SALE,41
+1671389,https://www.zillow.com/homedetails/755-Mohican-Ln-Mendota-Heights-MN-55120/1671389_zpid/,755 Mohican Ln,55120,Mendota Heights,MN,44.870662,-93.123306,317686.0,3.0,4.0,2156.0,1957,10454.0,SINGLE_FAMILY,PRE_FORECLOSURE,17
+299708910,https://www.zillow.com/homedetails/2515-Condon-Ct-Mendota-Heights-MN-55120/299708910_zpid/,2515 Condon Ct,55120,Mendota Heights,MN,44.865474,-93.130648,799900.0,3.0,3.0,3450.0,2019,10018.0,SINGLE_FAMILY,FOR_SALE,58

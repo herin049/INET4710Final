@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+234018964,https://www.zillow.com/homedetails/404-Main-St-Foxhome-MN-56543/234018964_zpid/,404 Main St,56543,Foxhome,MN,46.276665,-96.310356,78500.0,2.0,4.0,2112.0,2001,20908.0,SINGLE_FAMILY,SOLD,0
+123023543,https://www.zillow.com/homedetails/3816-290th-Ave-Foxhome-MN-56543/123023543_zpid/,3816 290th Ave,56543,Foxhome,MN,46.222177,-96.368521,165000.0,3.0,3.0,2302.0,1910,456509.0,SINGLE_FAMILY,SOLD,35

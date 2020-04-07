@@ -1,0 +1,8 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+102944228,https://www.zillow.com/homedetails/690-Harrison-St-Lewiston-MN-55952/102944228_zpid/,690 Harrison St,55952,Lewiston,MN,43.985599,-91.859329,129900.0,1.0,3.0,1002.0,1935,11151.0,SINGLE_FAMILY,FOR_SALE,2
+102944134,https://www.zillow.com/homedetails/280-Cedar-Ln-Lewiston-MN-55952/102944134_zpid/,280 Cedar Ln,55952,Lewiston,MN,43.986973,-91.871584,180000.0,2.0,4.0,2074.0,1981,-1.0,SINGLE_FAMILY,FOR_SALE,10
+102944193,https://www.zillow.com/homedetails/115-Benson-Dr-Lewiston-MN-55952/102944193_zpid/,115 Benson Dr,55952,Lewiston,MN,43.979928,-91.874746,259000.0,2.0,4.0,2600.0,1991,-1.0,SINGLE_FAMILY,FOR_SALE,58
+102941846,https://www.zillow.com/homedetails/27074-County-Road-29-Lewiston-MN-55952/102941846_zpid/,27074 County Road 29,55952,Lewiston,MN,43.946381,-91.869948,363000.0,4.0,5.0,2900.0,1983,435600.0,SINGLE_FAMILY,FOR_SALE,45
+102944390,https://www.zillow.com/homedetails/360-E-Main-St-Lewiston-MN-55952/102944390_zpid/,360 E Main St,55952,Lewiston,MN,43.984577,-91.864346,157089.0,2.0,4.0,1312.0,1905,9460.0,SINGLE_FAMILY,FORECLOSED,5
+102944173,https://www.zillow.com/homedetails/25-Tews-Ave-Lewiston-MN-55952/102944173_zpid/,25 Tews Ave,55952,Lewiston,MN,43.97902,-91.872584,213900.0,2.0,4.0,2380.0,1989,11440.0,SINGLE_FAMILY,FOR_SALE,31
+102941853,https://www.zillow.com/homedetails/20900-Enterprise-Valley-Dr-Lewiston-MN-55952/102941853_zpid/,20900 Enterprise Valley Dr,55952,Lewiston,MN,43.93825,-91.857787,209900.0,2.0,3.0,1268.0,1989,278784.0,SINGLE_FAMILY,FOR_SALE,17

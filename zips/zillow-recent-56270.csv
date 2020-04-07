@@ -1,0 +1,17 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+235802415,https://www.zillow.com/homedetails/791-Main-St-S-Morton-MN-56270/235802415_zpid/,791 Main St S,56270,Morton,MN,44.547051,-94.981807,138500.0,2.0,3.0,2340.0,1900,53578.0,SINGLE_FAMILY,RECENTLY_SOLD,34
+235798089,https://www.zillow.com/homedetails/70685-360th-St-Morton-MN-56270/235798089_zpid/,70685 360th St,56270,Morton,MN,44.609604,-94.95659,415000.0,3.0,4.0,3648.0,1981,309276.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106821918,https://www.zillow.com/homedetails/67800-Us-Highway-71-Morton-MN-56270/106821918_zpid/,67800 Us Highway 71,56270,Morton,MN,44.565752,-94.992376,285000.0,1.0,3.0,1952.0,1955,2127034.0,SINGLE_FAMILY,RECENTLY_SOLD,48
+235802514,https://www.zillow.com/homedetails/411-W-1st-St-Morton-MN-56270/235802514_zpid/,411 W 1st St,56270,Morton,MN,44.549291,-94.986552,58000.0,2.0,4.0,2184.0,1910,13068.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+235802432,https://www.zillow.com/homedetails/460-N-Valley-Dr-Morton-MN-56270/235802432_zpid/,460 N Valley Dr,56270,Morton,MN,44.553725,-94.988451,7000.0,1.0,4.0,828.0,1900,7013.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106822580,https://www.zillow.com/homedetails/220-E-1st-St-Morton-MN-56270/106822580_zpid/,220 E 1st St,56270,Morton,MN,44.551889,-94.97931,40000.0,2.0,3.0,1883.0,1939,20473.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+235798031,https://www.zillow.com/homedetails/67022-Us-Highway-71-Morton-MN-56270/235798031_zpid/,67022 Us Highway 71,56270,Morton,MN,44.558104,-94.994865,163000.0,2.0,2.0,3582.0,1994,244807.0,SINGLE_FAMILY,SOLD,0
+106821818,https://www.zillow.com/homedetails/35538-County-Road-2-Morton-MN-56270/106821818_zpid/,35538 County Road 2,56270,Morton,MN,44.584444,-94.963351,255000.0,3.0,4.0,2896.0,1928,937411.0,SINGLE_FAMILY,SOLD,0
+106822537,https://www.zillow.com/homedetails/171-N-Walnut-Dr-Morton-MN-56270/106822537_zpid/,171 N Walnut Dr,56270,Morton,MN,44.552707,-94.979865,48000.0,1.0,3.0,1904.0,1900,13939.0,SINGLE_FAMILY,SOLD,0
+106822663,https://www.zillow.com/homedetails/211-W-3rd-St-Morton-MN-56270/106822663_zpid/,211 W 3rd St,56270,Morton,MN,44.552556,-94.985935,50000.0,1.0,2.0,892.0,1901,14700.0,SINGLE_FAMILY,SOLD,0
+106815600,https://www.zillow.com/homedetails/30787-County-Highway-13-Morton-MN-56270/106815600_zpid/,30787 County Highway 13,56270,Morton,MN,44.497074,-94.985093,219000.0,1.0,3.0,1552.0,2004,218235.0,SINGLE_FAMILY,SOLD,0
+106821777,https://www.zillow.com/homedetails/35823-County-Road-19-Morton-MN-56270/106821777_zpid/,35823 County Road 19,56270,Morton,MN,44.61341,-94.960061,154000.0,1.0,3.0,2320.0,1890,315810.0,SINGLE_FAMILY,SOLD,0
+106822634,https://www.zillow.com/homedetails/441-Quarry-Dr-Morton-MN-56270/106822634_zpid/,441 Quarry Dr,56270,Morton,MN,44.553205,-94.98873,22000.0,2.0,2.0,1912.0,1930,-1.0,SINGLE_FAMILY,SOLD,0
+2093436059,https://www.zillow.com/homedetails/441-Quarry-Dr-Morton-MN-56270/2093436059_zpid/,441 Quarry Dr.,56270,Morton,MN,44.553196,-94.988975,22000.0,1.0,2.0,1912.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
+2093436029,https://www.zillow.com/homedetails/370-Monument-Dr-Morton-MN-56270/2093436029_zpid/,370 Monument Dr.,56270,Morton,MN,44.553197,-94.980126,87000.0,2.0,3.0,1728.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
+106822548,https://www.zillow.com/homedetails/270-Valley-Dr-Morton-MN-56270/106822548_zpid/,270 Valley Dr,56270,Morton,MN,44.551653,-94.986706,23500.0,2.0,4.0,2168.0,1915,6969.0,SINGLE_FAMILY,SOLD,0

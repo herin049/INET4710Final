@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106630995,https://www.zillow.com/homedetails/108-Summit-Ave-Hanska-MN-56041/106630995_zpid/,108 Summit Ave,56041,Hanska,MN,44.148232,-94.495834,54900.0,2.0,2.0,1444.0,1924,5758.0,SINGLE_FAMILY,FOR_SALE,19
+2080819005,https://www.zillow.com/homedetails/47420-217th-St-Hanska-MN-56041/2080819005_zpid/,47420 217th St,56041,Hanska,MN,44.170988,-94.364912,219700.0,2.0,2.0,1892.0,1900,285753.0,SINGLE_FAMILY,FOR_SALE,26
+106630944,https://www.zillow.com/homedetails/210-Broadway-Hanska-MN-56041/106630944_zpid/,210 Broadway,56041,Hanska,MN,44.149963,-94.494649,49500.0,2.0,3.0,1736.0,1997,8999.0,SINGLE_FAMILY,FOR_SALE,13
+106630873,https://www.zillow.com/homedetails/203-W-2nd-St-Hanska-MN-56041/106630873_zpid/,203 W 2nd St,56041,Hanska,MN,44.149056,-94.497519,149900.0,3.0,4.0,3744.0,1971,9583.0,SINGLE_FAMILY,FOR_SALE,6

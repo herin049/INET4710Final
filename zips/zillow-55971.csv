@@ -1,0 +1,10 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106667214,https://www.zillow.com/homedetails/766-Horseshoe-Dr-Rushford-MN-55971/106667214_zpid/,766 Horseshoe Dr,55971,Rushford,MN,43.819546,-91.748211,319000.0,3.0,5.0,3756.0,1999,32539.0,SINGLE_FAMILY,FOR_SALE,48
+106682689,https://www.zillow.com/homedetails/4087-Spruce-Ln-Rushford-MN-55971/106682689_zpid/,4087 Spruce Ln,55971,Rushford,MN,43.787975,-91.724375,290000.0,4.0,5.0,2850.0,1959,86248.0,SINGLE_FAMILY,FOR_SALE,20
+106666716,https://www.zillow.com/homedetails/205-E-Harry-St-Rushford-MN-55971/106666716_zpid/,205 E Harry St,55971,Rushford,MN,43.806529,-91.751007,164900.0,2.0,3.0,1600.0,1880,8712.0,SINGLE_FAMILY,FOR_SALE,18
+106667069,https://www.zillow.com/homedetails/1005-Southview-Ter-Rushford-MN-55971/106667069_zpid/,1005 Southview Ter,55971,Rushford,MN,43.808405,-91.762297,159000.0,2.0,2.0,1480.0,1978,14250.0,SINGLE_FAMILY,FOR_SALE,28
+106666878,https://www.zillow.com/homedetails/114-River-St-Rushford-MN-55971/106666878_zpid/,114 River St,55971,Rushford,MN,43.809354,-91.744539,149000.0,2.0,4.0,2100.0,1892,18905.0,SINGLE_FAMILY,FOR_SALE,8
+106667052,https://www.zillow.com/homedetails/416-W-Center-St-Rushford-MN-55971/106667052_zpid/,416 W Center St,55971,Rushford,MN,43.817557,-91.758837,122900.0,2.0,4.0,2604.0,2000,13068.0,SINGLE_FAMILY,FOR_SALE,11
+113924591,https://www.zillow.com/homedetails/200-Maie-St-Rushford-MN-55971/113924591_zpid/,200 Maie St,55971,Rushford,MN,43.807372,-91.751316,185000.0,2.0,2.0,1510.0,1997,-1.0,SINGLE_FAMILY,FOR_SALE,20
+106667167,https://www.zillow.com/homedetails/720-Trisdahl-Ct-Rushford-MN-55971/106667167_zpid/,720 Trisdahl Ct,55971,Rushford,MN,43.817213,-91.744871,377500.0,4.0,5.0,4937.0,1998,313632.0,SINGLE_FAMILY,FOR_SALE,69
+225234006,https://www.zillow.com/homedetails/31511-Boehmke-Rd-Rushford-MN-55971/225234006_zpid/,31511 Boehmke Rd,55971,Rushford,MN,43.887598,-91.760518,416000.0,4.0,5.0,3420.0,1900,2570040.0,SINGLE_FAMILY,FOR_SALE,32

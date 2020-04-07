@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106849832,https://www.zillow.com/homedetails/5058-Saint-Anthony-Dr-Browns-Valley-MN-56219/106849832_zpid/,5058 Saint Anthony Dr,56219,Browns Valley,MN,45.59496,-96.816129,125000.0,3.0,3.0,1584.0,1964,165528.0,SINGLE_FAMILY,RECENTLY_SOLD,1
+106849681,https://www.zillow.com/homedetails/421-Logan-St-N-Browns-Valley-MN-56219/106849681_zpid/,421 Logan St N,56219,Browns Valley,MN,45.599392,-96.83479,27000.0,2.0,4.0,1990.0,1930,-1.0,SINGLE_FAMILY,SOLD,16

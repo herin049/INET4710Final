@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+74260313,https://www.zillow.com/homedetails/4334-112th-St-NW-Maple-Lake-MN-55358/74260313_zpid/,4334 112th St NW,55358,Maple Lake,MN,45.315117,-93.981379,184900.0,2.0,3.0,1487.0,1995,34020.0,SINGLE_FAMILY,FOR_SALE,20
+74264539,https://www.zillow.com/homedetails/5278-130th-St-NW-Clearwater-MN-55320/74264539_zpid/,5278 130th St NW,55320,Clearwater,MN,45.340962,-93.999801,290616.0,2.0,3.0,1120.0,1979,185565.0,SINGLE_FAMILY,PRE_FORECLOSURE,0

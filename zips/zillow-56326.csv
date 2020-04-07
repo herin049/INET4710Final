@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106652877,https://www.zillow.com/homedetails/15100-Solitude-Ct-NW-Evansville-MN-56326/106652877_zpid/,15100 Solitude Ct NW,56326,Evansville,MN,46.050025,-95.63244,219900.0,1.0,4.0,896.0,1891,653835.0,SINGLE_FAMILY,FOR_SALE,24
+229463948,https://www.zillow.com/homedetails/407-1st-Ave-W-Evansville-MN-56326/229463948_zpid/,407 1st Ave W,56326,Evansville,MN,46.00798,-95.690886,137500.0,2.0,3.0,1442.0,1879,2147483647.0,SINGLE_FAMILY,FOR_SALE,26
+229457648,https://www.zillow.com/homedetails/13955-County-Road-16-NW-Evansville-MN-56326/229457648_zpid/,13955 County Road 16 NW,56326,Evansville,MN,46.036998,-95.609658,250000.0,3.0,5.0,2350.0,1912,309276.0,SINGLE_FAMILY,FOR_SALE,24
+229463995,https://www.zillow.com/homedetails/112-2nd-St-Evansville-MN-56326/229463995_zpid/,112 2nd St,56326,Evansville,MN,46.006661,-95.689685,71500.0,1.0,1.0,525.0,1945,6969.0,SINGLE_FAMILY,FOR_SALE,19

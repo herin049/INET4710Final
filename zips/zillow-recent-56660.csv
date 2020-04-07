@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+248843762,https://www.zillow.com/homedetails/11839-County-Road-56-Mizpah-MN-56660/248843762_zpid/,11839 County Road 56,56660,Mizpah,MN,47.969164,-94.16408,209500.0,2.0,4.0,2418.0,1996,3136320.0,SINGLE_FAMILY,RECENTLY_SOLD,28
+106713775,https://www.zillow.com/homedetails/10416-Town-Rd-32-Mizpah-MN-56660/106713775_zpid/,10416 Town Rd #32,56660,Mizpah,MN,47.969912,-94.102486,140000.0,2.0,5.0,3413.0,1969,78408.0,SINGLE_FAMILY,RECENTLY_SOLD,25
+106713794,https://www.zillow.com/homedetails/11029-Highway-71-Mizpah-MN-56660/106713794_zpid/,11029 Highway 71,56660,Mizpah,MN,47.962911,-94.147782,24150.0,1.0,3.0,1197.0,1969,392040.0,SINGLE_FAMILY,SOLD,1
+115951766,https://www.zillow.com/homedetails/10428-Town-Rd-32-Mizpah-MN-56660/115951766_zpid/,10428 Town Rd #32,56660,Mizpah,MN,47.970008,-94.106169,213000.0,1.0,2.0,1028.0,2009,119790.0,SINGLE_FAMILY,SOLD,26

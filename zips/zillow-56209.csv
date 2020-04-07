@@ -1,0 +1,14 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106703978,https://www.zillow.com/homedetails/309-E-Rd-S-Atwater-MN-56209/106703978_zpid/,309 E Rd S,56209,Atwater,MN,45.133229,-94.775828,124000.0,2.0,3.0,1740.0,1873,21344.0,SINGLE_FAMILY,FOR_SALE,26
+106703558,https://www.zillow.com/homedetails/306-Washington-Ave-Atwater-MN-56209/106703558_zpid/,306 Washington Ave,56209,Atwater,MN,45.132009,-94.781162,30000.0,1.0,2.0,1197.0,1953,5837.0,SINGLE_FAMILY,FOR_SALE,11
+106700180,https://www.zillow.com/homedetails/7494-159th-St-NE-Atwater-MN-56209/106700180_zpid/,7494 159th St NE,56209,Atwater,MN,45.196526,-94.828329,399000.0,2.0,3.0,1803.0,1970,10585.0,SINGLE_FAMILY,FOR_SALE,38
+106703637,https://www.zillow.com/homedetails/309-Main-St-N-Atwater-MN-56209/106703637_zpid/,309 Main St N,56209,Atwater,MN,45.139696,-94.777138,57000.0,1.0,4.0,712.0,1900,-1.0,SINGLE_FAMILY,FOR_SALE,9
+106703928,https://www.zillow.com/homedetails/101-9th-St-N-Atwater-MN-56209/106703928_zpid/,101 9th St N,56209,Atwater,MN,45.136924,-94.788925,164900.0,1.0,3.0,1680.0,1998,21997.0,SINGLE_FAMILY,FOR_SALE,28
+106703845,https://www.zillow.com/homedetails/202-Main-St-S-Atwater-MN-56209/106703845_zpid/,202 Main St S,56209,Atwater,MN,45.13479,-94.778067,82500.0,2.0,2.0,1485.0,1898,14026.0,SINGLE_FAMILY,FOR_SALE,9
+106700205,https://www.zillow.com/homedetails/6356-159th-St-NE-Atwater-MN-56209/106700205_zpid/,6356 159th St NE,56209,Atwater,MN,45.18606,-94.826866,525000.0,4.0,5.0,3231.0,1993,-1.0,SINGLE_FAMILY,FOR_SALE,34
+2081534351,https://www.zillow.com/homedetails/17031-Lake-Elizabeth-Pass-P-Atwater-MN-56209/2081534351_zpid/,17031 Lake Elizabeth Pass #P,56209,Atwater,MN,45.07398,-94.81172,135000.0,1.0,2.0,960.0,1900,-1.0,CONDO,FOR_SALE,4
+303807890,https://www.zillow.com/homedetails/6330-159th-St-NE-Atwater-MN-56209/303807890_zpid/,6330 159th St NE,56209,Atwater,MN,45.185827,-94.826666,189900.0,1.0,2.0,624.0,1951,-1.0,SINGLE_FAMILY,FOR_SALE,7
+106703547,https://www.zillow.com/homedetails/407-2nd-St-S-Atwater-MN-56209/106703547_zpid/,407 2nd St S,56209,Atwater,MN,45.132292,-94.778441,77900.0,2.0,3.0,1624.0,1930,9408.0,SINGLE_FAMILY,FOR_SALE,24
+303807922,https://www.zillow.com/homedetails/14497-Breezy-Point-Rd-Atwater-MN-56209/303807922_zpid/,14497 Breezy Point Rd,56209,Atwater,MN,45.188446,-94.843313,227000.0,1.0,3.0,1404.0,1980,7187.0,SINGLE_FAMILY,FOR_SALE,21
+2083295597,https://www.zillow.com/homedetails/14665-Breezy-Point-Rd-Atwater-MN-56209/2083295597_zpid/,14665 Breezy Point Rd,56209,Atwater,MN,45.191853,-94.841714,287000.0,2.0,2.0,720.0,1958,6795.0,SINGLE_FAMILY,FOR_SALE,22
+106700145,https://www.zillow.com/homedetails/7498-159th-St-NE-Atwater-MN-56209/106700145_zpid/,7498 159th St NE,56209,Atwater,MN,45.196868,-94.827229,190000.0,1.0,0.0,2400.0,1990,77362.0,SINGLE_FAMILY,FOR_SALE,5

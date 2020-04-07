@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106819011,https://www.zillow.com/homedetails/275-Oak-St-Revere-MN-56166/106819011_zpid/,275 Oak St,56166,Revere,MN,44.221828,-95.362901,41000.0,2.0,3.0,2668.0,1957,13982.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+113936646,https://www.zillow.com/homedetails/205-Main-St-Revere-MN-56166/113936646_zpid/,205 Main St,56166,Revere,MN,44.222597,-95.364408,32000.0,2.0,3.0,1540.0,1949,6534.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106640661,https://www.zillow.com/homedetails/34618-County-Road-55-Revere-MN-56166/106640661_zpid/,34618 County Road 55,56166,Revere,MN,44.181967,-95.389906,149000.0,2.0,2.0,3264.0,1953,339768.0,SINGLE_FAMILY,SOLD,0

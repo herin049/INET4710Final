@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2080246000,https://www.zillow.com/homedetails/41564-Co-Hwy-4-Morgan-MN-56266/2080246000_zpid/,41564 Co Hwy #4,56266,Morgan,MN,44.414469,-94.94588,639900.0,3.0,3.0,4480.0,1987,871200.0,SINGLE_FAMILY,FOR_SALE,28
+106816685,https://www.zillow.com/homedetails/110-Bloomington-Ave-Morgan-MN-56266/106816685_zpid/,110 Bloomington Ave,56266,Morgan,MN,44.414651,-94.926762,41000.0,1.0,4.0,2352.0,1938,6969.0,SINGLE_FAMILY,FOR_SALE,8
+106816722,https://www.zillow.com/homedetails/113-2nd-St-E-Morgan-MN-56266/106816722_zpid/,113 2nd St E,56266,Morgan,MN,44.412685,-94.921848,72500.0,2.0,3.0,1313.0,1940,11238.0,SINGLE_FAMILY,FOR_SALE,28
+106816969,https://www.zillow.com/homedetails/511-Gallager-St-Morgan-MN-56266/106816969_zpid/,511 Gallager St,56266,Morgan,MN,44.418597,-94.924044,69000.0,2.0,4.0,1546.0,1939,8232.0,SINGLE_FAMILY,FOR_SALE,0
+106816935,https://www.zillow.com/homedetails/505-Vernon-Ave-Morgan-MN-56266/106816935_zpid/,505 Vernon Ave,56266,Morgan,MN,44.418768,-94.923894,79500.0,2.0,3.0,1745.0,1941,8276.0,SINGLE_FAMILY,FOR_SALE,15

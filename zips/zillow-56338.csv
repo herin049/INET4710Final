@@ -1,0 +1,7 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+96999658,https://www.zillow.com/homedetails/25677-360th-Ave-Hillman-MN-56338/96999658_zpid/,25677 360th Ave,56338,Hillman,MN,46.133281,-93.919629,249000.0,1.0,3.0,780.0,1931,61419.0,SINGLE_FAMILY,FOR_SALE,27
+97003535,https://www.zillow.com/homedetails/37121-167th-St-Hillman-MN-56338/97003535_zpid/,37121 167th St,56338,Hillman,MN,46.003092,-93.891402,70000.0,1.0,2.0,720.0,1950,21780.0,SINGLE_FAMILY,FOR_SALE,1
+96999841,https://www.zillow.com/homedetails/37102-Highway-27-Hillman-MN-56338/96999841_zpid/,37102 Highway 27,56338,Hillman,MN,46.08072,-93.887734,480000.0,2.0,4.0,2518.0,2003,3109312.0,SINGLE_FAMILY,FOR_SALE,33
+304906471,https://www.zillow.com/homedetails/27008-Channel-Point-Dr-Hillman-MN-56338/304906471_zpid/,27008 Channel Point Dr,56338,Hillman,MN,46.151918,-93.934655,324900.0,2.0,3.0,1288.0,2019,36895.0,SINGLE_FAMILY,FOR_SALE,12
+96999737,https://www.zillow.com/homedetails/37541-Sycamore-Rd-Hillman-MN-56338/96999737_zpid/,37541 Sycamore Rd,56338,Hillman,MN,46.151792,-93.880306,249000.0,3.0,4.0,2450.0,1917,1825164.0,SINGLE_FAMILY,FOR_SALE,28
+96997720,https://www.zillow.com/homedetails/7349-330th-Ave-Hillman-MN-56338/96997720_zpid/,7349 330th Ave,56338,Hillman,MN,45.868234,-93.972433,88750.0,1.0,3.0,924.0,1977,435600.0,MANUFACTURED,FOR_SALE,24

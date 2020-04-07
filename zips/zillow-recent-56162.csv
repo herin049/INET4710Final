@@ -1,0 +1,8 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106854548,https://www.zillow.com/homedetails/73264-440th-St-Ormsby-MN-56162/106854548_zpid/,73264 440th St,56162,Ormsby,MN,43.849287,-94.611171,216000.0,2.0,6.0,2808.0,1892,458251.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106763764,https://www.zillow.com/homedetails/807-County-Road-8-Ormsby-MN-56162/106763764_zpid/,807 County Road 8,56162,Ormsby,MN,43.847758,-94.693868,47000.0,2.0,2.0,2080.0,1977,17424.0,SINGLE_FAMILY,RECENTLY_SOLD,12
+106765888,https://www.zillow.com/homedetails/2378-90th-Ave-Ormsby-MN-56162/106765888_zpid/,2378 90th Ave,56162,Ormsby,MN,43.830404,-94.691754,88000.0,1.0,3.0,2352.0,1925,3484800.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106765872,https://www.zillow.com/homedetails/1027-250th-St-Ormsby-MN-56162/106765872_zpid/,1027 250th St,56162,Ormsby,MN,43.847545,-94.669158,85000.0,1.0,4.0,1644.0,1915,191664.0,SINGLE_FAMILY,SOLD,0
+106765812,https://www.zillow.com/homedetails/1085-230th-St-Ormsby-MN-56162/106765812_zpid/,1085 230th St,56162,Ormsby,MN,43.816916,-94.658171,110000.0,2.0,3.0,2416.0,1953,347608.0,SINGLE_FAMILY,SOLD,51
+106763768,https://www.zillow.com/homedetails/404-1st-St-Ormsby-MN-56162/106763768_zpid/,404 1st St,56162,Ormsby,MN,43.847362,-94.698921,46500.0,2.0,3.0,2606.0,1950,6534.0,SINGLE_FAMILY,SOLD,0
+106763754,https://www.zillow.com/homedetails/201-Broadway-Ormsby-MN-56162/106763754_zpid/,201 Broadway,56162,Ormsby,MN,43.847298,-94.699839,44500.0,1.0,2.0,1546.0,1940,6708.0,SINGLE_FAMILY,SOLD,0

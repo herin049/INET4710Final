@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+251394204,https://www.zillow.com/homedetails/19-4th-St-S-Gaylord-MN-55334/251394204_zpid/,19 4th St S,55334,Gaylord,MN,44.54975,-94.221085,152900.0,2.0,2.0,770.0,1951,7492.0,SINGLE_FAMILY,FOR_SALE,14
+2080553080,https://www.zillow.com/homedetails/718-Main-Ave-W-Gaylord-MN-55334/2080553080_zpid/,718 Main Ave W,55334,Gaylord,MN,44.557271,-94.201976,105000.0,1.0,3.0,1306.0,1920,-1.0,SINGLE_FAMILY,FOR_SALE,19
+299770864,https://www.zillow.com/homedetails/516-7th-St-Gaylord-MN-55334/299770864_zpid/,516 7th St,55334,Gaylord,MN,44.55724,-94.224487,169900.0,3.0,3.0,3037.0,1950,9583.0,SINGLE_FAMILY,FOR_SALE,35
+2097443454,https://www.zillow.com/homedetails/354-3rd-St-Gaylord-MN-55334/2097443454_zpid/,354 3rd St,55334,Gaylord,MN,44.555323,-94.218786,194900.0,4.0,3.0,2447.0,1910,13939.0,SINGLE_FAMILY,FOR_SALE,31

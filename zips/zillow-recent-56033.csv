@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+128508964,https://www.zillow.com/homedetails/225-4th-St-Frost-MN-56033/128508964_zpid/,225 4th St,56033,Frost,MN,43.586945,-93.926229,60000.0,2.0,3.0,2889.0,1910,19166.0,SINGLE_FAMILY,RECENTLY_SOLD,23
+114980646,https://www.zillow.com/homedetails/675-3rd-St-Frost-MN-56033/114980646_zpid/,675 3rd St,56033,Frost,MN,43.585962,-93.918375,57000.0,0.5,3.0,1297.0,1974,-1.0,SINGLE_FAMILY,SOLD,0
+114991262,https://www.zillow.com/homedetails/5131-450th-Ave-Frost-MN-56033/114991262_zpid/,5131 450th Ave,56033,Frost,MN,43.560043,-93.969305,141000.0,3.0,3.0,1958.0,1930,296208.0,SINGLE_FAMILY,SOLD,0

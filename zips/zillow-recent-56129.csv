@@ -1,0 +1,9 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+232982409,https://www.zillow.com/homedetails/211-S-Chestnut-St-Ellsworth-MN-56129/232982409_zpid/,211 S Chestnut St,56129,Ellsworth,MN,43.518416,-96.021427,19000.0,1.0,3.0,1016.0,1900,6969.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+119759154,https://www.zillow.com/homedetails/213-N-Broadway-St-Ellsworth-MN-56129/119759154_zpid/,213 N Broadway St,56129,Ellsworth,MN,43.522825,-96.018715,20000.0,1.0,3.0,1329.0,1899,13939.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106787667,https://www.zillow.com/homedetails/501-N-Broadway-St-Ellsworth-MN-56129/106787667_zpid/,501 N Broadway St,56129,Ellsworth,MN,43.525514,-96.018687,21000.0,2.0,5.0,2971.0,1905,12632.0,SINGLE_FAMILY,SOLD,20
+115961071,https://www.zillow.com/homedetails/471-200th-Ave-Ellsworth-MN-56129/115961071_zpid/,471 200th Ave,56129,Ellsworth,MN,43.554397,-96.074384,185000.0,1.0,3.0,1344.0,1920,439520.0,SINGLE_FAMILY,SOLD,36
+106787582,https://www.zillow.com/homedetails/109-E-North-Ave-Ellsworth-MN-56129/106787582_zpid/,109 E North Ave,56129,Ellsworth,MN,43.525075,-96.017245,15000.0,1.0,3.0,2044.0,1947,1023.0,SINGLE_FAMILY,SOLD,12
+122616086,https://www.zillow.com/homedetails/419-190th-Ave-Ellsworth-MN-56129/122616086_zpid/,419 190th Ave,56129,Ellsworth,MN,43.545387,-96.093253,255000.0,2.0,3.0,2580.0,1966,397267.0,SINGLE_FAMILY,SOLD,41
+106787588,https://www.zillow.com/homedetails/410-N-Broadway-St-Ellsworth-MN-56129/106787588_zpid/,410 N Broadway St,56129,Ellsworth,MN,43.524903,-96.017848,50000.0,2.0,3.0,2954.0,1944,10497.0,SINGLE_FAMILY,SOLD,15
+106787527,https://www.zillow.com/homedetails/516-S-Broadway-St-Ellsworth-MN-56129/106787527_zpid/,516 S Broadway St,56129,Ellsworth,MN,43.515695,-96.017845,40000.0,1.0,2.0,2024.0,1949,10454.0,SINGLE_FAMILY,SOLD,0

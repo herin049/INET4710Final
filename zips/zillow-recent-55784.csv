@@ -1,0 +1,7 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+103944662,https://www.zillow.com/homedetails/17801-County-Road-433-Swan-River-MN-55784/103944662_zpid/,17801 County Road 433,55784,Swan River,MN,47.084609,-93.22764,202909.0,2.0,3.0,2248.0,1982,801504.0,SINGLE_FAMILY,RECENTLY_SOLD,18
+218532409,https://www.zillow.com/homedetails/16582-County-Road-438-Swan-River-MN-55784/218532409_zpid/,16582 County Road 438,55784,Swan River,MN,47.037712,-93.203384,215000.0,1.0,1.0,1028.0,1970,3164198.0,SINGLE_FAMILY,RECENTLY_SOLD,18
+103944682,https://www.zillow.com/homedetails/18789-County-Road-433-Swan-River-MN-55784/103944682_zpid/,18789 County Road 433,55784,Swan River,MN,47.085218,-93.250175,199000.0,2.0,4.0,1559.0,1978,1768535.0,SINGLE_FAMILY,SOLD,0
+103944668,https://www.zillow.com/homedetails/17129-County-Road-433-Swan-River-MN-55784/103944668_zpid/,17129 County Road 433,55784,Swan River,MN,47.084502,-93.213762,1000.0,1.0,3.0,1088.0,2003,1698840.0,SINGLE_FAMILY,SOLD,0
+120636676,https://www.zillow.com/homedetails/10377-State-Highway-65-Swan-River-MN-55784/120636676_zpid/,10377 State Highway 65,55784,Swan River,MN,47.032285,-93.24429,35000.0,1.0,2.0,980.0,1984,143748.0,SINGLE_FAMILY,SOLD,18
+112243798,https://www.zillow.com/homedetails/11854-County-Road-424-Swan-River-MN-55784/112243798_zpid/,11854 County Road 424,55784,Swan River,MN,47.056048,-93.224176,602.0,2.0,3.0,2112.0,1994,1742400.0,SINGLE_FAMILY,SOLD,14

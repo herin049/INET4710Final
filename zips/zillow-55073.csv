@@ -1,0 +1,12 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2231831,https://www.zillow.com/homedetails/22959-Olinda-Trl-N-Scandia-MN-55073/2231831_zpid/,22959 Olinda Trl N,55073,Scandia,MN,45.281139,-92.79887,322000.0,3.0,3.0,2248.0,1969,174240.0,SINGLE_FAMILY,FOR_SALE,17
+2223033,https://www.zillow.com/homedetails/22090-Lofton-Ave-N-Scandia-MN-55073/2223033_zpid/,22090 Lofton Ave N,55073,Scandia,MN,45.268946,-92.866978,460000.0,3.0,5.0,2835.0,1994,220239.0,SINGLE_FAMILY,FOR_SALE,44
+88933907,https://www.zillow.com/homedetails/10034-245th-St-Scandia-MN-55073/88933907_zpid/,10034 245th St,55073,Scandia,MN,45.305274,-92.902022,339900.0,2.0,3.0,1481.0,2019,44997.0,SINGLE_FAMILY,FOR_SALE,40
+2248319,https://www.zillow.com/homedetails/11000-218th-St-N-Scandia-MN-55073/2248319_zpid/,11000 218th St N,55073,Scandia,MN,45.267058,-92.879003,330000.0,2.0,3.0,1900.0,1978,331927.0,SINGLE_FAMILY,FOR_SALE,38
+101665965,https://www.zillow.com/homedetails/20790-Odell-Ave-N-Scandia-MN-55073/101665965_zpid/,20790 Odell Ave N,55073,Scandia,MN,45.249928,-92.816969,649000.0,4.0,5.0,3950.0,2014,87250.0,SINGLE_FAMILY,FOR_SALE,49
+2261736,https://www.zillow.com/homedetails/19720-Parkview-Ln-N-Scandia-MN-55073/2261736_zpid/,19720 Parkview Ln N,55073,Scandia,MN,45.2346,-92.77665,539000.0,3.0,4.0,2340.0,1977,283445.0,SINGLE_FAMILY,FOR_SALE,56
+2231843,https://www.zillow.com/homedetails/22695-Olinda-Trl-N-Scandia-MN-55073/2231843_zpid/,22695 Olinda Trl N,55073,Scandia,MN,45.27727,-92.798958,650000.0,3.0,4.0,3424.0,1966,464349.0,SINGLE_FAMILY,FOR_SALE,22
+299865019,https://www.zillow.com/homedetails/13407-Mayberry-Trl-N-Scandia-MN-55073/299865019_zpid/,13407 Mayberry Trl N,55073,Scandia,MN,45.236793,-92.837558,750000.0,3.0,2.0,3717.0,2001,871200.0,SINGLE_FAMILY,FOR_SALE,64
+2233464,https://www.zillow.com/homedetails/15400-Pilar-Rd-N-Scandia-MN-55073/2233464_zpid/,15400 Pilar Rd N,55073,Scandia,MN,45.280943,-92.791512,475000.0,3.0,3.0,3184.0,1999,235224.0,SINGLE_FAMILY,FOR_SALE,34
+2261718,https://www.zillow.com/homedetails/16160-199th-St-N-Scandia-MN-55073/2261718_zpid/,16160 199th St N,55073,Scandia,MN,45.237348,-92.776495,629900.0,6.0,5.0,4494.0,1983,277477.0,SINGLE_FAMILY,FOR_SALE,34
+55378958,https://www.zillow.com/homedetails/20286-Saint-Croix-Trl-N-Scandia-MN-55073/55378958_zpid/,20286 Saint Croix Trl N,55073,Scandia,MN,45.243937,-92.772916,779000.0,4.0,3.0,6128.0,2003,283575.0,SINGLE_FAMILY,FOR_SALE,28

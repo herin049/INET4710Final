@@ -1,0 +1,8 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2088829803,https://www.zillow.com/homedetails/100-Orchard-St-Sanborn-MN-56083/2088829803_zpid/,100 Orchard St,56083,Sanborn,MN,44.209541,-95.125714,78500.0,1.0,2.0,1105.0,1946,8712.0,SINGLE_FAMILY,FOR_SALE,17
+2080910924,https://www.zillow.com/homedetails/130-E-Winona-St-Sanborn-MN-56083/2080910924_zpid/,130 E Winona St,56083,Sanborn,MN,44.208739,-95.128092,38500.0,1.0,3.0,900.0,1940,10497.0,SINGLE_FAMILY,FOR_SALE,14
+106819156,https://www.zillow.com/homedetails/320-Letford-St-Sanborn-MN-56083/106819156_zpid/,320 Letford St,56083,Sanborn,MN,44.211163,-95.131191,67500.0,3.0,3.0,1507.0,1946,7013.0,SINGLE_FAMILY,FOR_SALE,11
+106819895,https://www.zillow.com/homedetails/151-Dineen-St-W-Sanborn-MN-56083/106819895_zpid/,151 Dineen St W,56083,Sanborn,MN,44.207837,-95.129464,65000.0,1.0,4.0,1682.0,1920,14113.0,SINGLE_FAMILY,FOR_SALE,34
+106819864,https://www.zillow.com/homedetails/120-E-Johns-St-Sanborn-MN-56083/106819864_zpid/,120 E Johns St,56083,Sanborn,MN,44.213399,-95.127879,49900.0,2.0,3.0,950.0,1920,27878.0,SINGLE_FAMILY,FOR_SALE,20
+2084352287,https://www.zillow.com/homedetails/330-W-Central-St-Sanborn-MN-56083/2084352287_zpid/,330 W Central St,56083,Sanborn,MN,44.209538,-95.131882,49500.0,1.0,4.0,1287.0,1910,7100.0,SINGLE_FAMILY,FOR_SALE,32
+2091153232,https://www.zillow.com/homedetails/30483-County-Rd-15-Sanborn-MN-56083/2091153232_zpid/,30483 County Rd #15,56083,Sanborn,MN,44.2103,-95.1325,189500.0,1.0,3.0,1278.0,1890,969645.0,SINGLE_FAMILY,FOR_SALE,24

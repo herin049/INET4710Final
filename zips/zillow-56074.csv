@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+236531117,https://www.zillow.com/homedetails/600-3rd-St-Nicollet-MN-56074/236531117_zpid/,600 3rd St,56074,Nicollet,MN,44.276258,-94.188989,149000.0,2.0,3.0,1830.0,1885,9322.0,SINGLE_FAMILY,FOR_SALE,32
+236529938,https://www.zillow.com/homedetails/51306-465th-Ave-Nicollet-MN-56074/236529938_zpid/,51306 465th Ave,56074,Nicollet,MN,44.205093,-94.20147,950000.0,1.0,4.0,1418.0,1937,14679720.0,SINGLE_FAMILY,FOR_SALE,28

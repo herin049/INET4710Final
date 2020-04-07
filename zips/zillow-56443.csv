@@ -1,0 +1,13 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2080168477,https://www.zillow.com/homedetails/35444-Moccasin-Ln-Cushing-MN-56443/2080168477_zpid/,35444 Moccasin Ln,56443,Cushing,MN,46.14195,-94.689402,190000.0,2.0,3.0,944.0,1976,22694.0,SINGLE_FAMILY,FOR_SALE,37
+2083121242,https://www.zillow.com/homedetails/33285-Loon-Trl-Cushing-MN-56443/2083121242_zpid/,33285 Loon Trl,56443,Cushing,MN,46.11316,-94.703356,429000.0,1.0,4.0,1545.0,1985,52533.0,SINGLE_FAMILY,FOR_SALE,83
+97001583,https://www.zillow.com/homedetails/31564-18th-Ave-Cushing-MN-56443/97001583_zpid/,31564 18th Ave,56443,Cushing,MN,46.216675,-94.625091,236000.0,1.0,2.0,950.0,1920,44431.0,SINGLE_FAMILY,FOR_SALE,24
+97000861,https://www.zillow.com/homedetails/30175-22nd-Ave-Cushing-MN-56443/97000861_zpid/,30175 22nd Ave,56443,Cushing,MN,46.200819,-94.615962,315000.0,2.0,3.0,1600.0,1975,85750.0,SINGLE_FAMILY,FOR_SALE,17
+97000837,https://www.zillow.com/homedetails/4552-Lakeview-Dr-Cushing-MN-56443/97000837_zpid/,4552 Lakeview Dr,56443,Cushing,MN,46.209782,-94.567086,299900.0,2.0,2.0,1800.0,1980,33323.0,SINGLE_FAMILY,FOR_SALE,20
+97008809,https://www.zillow.com/homedetails/28686-Bear-Rd-Cushing-MN-56443/97008809_zpid/,28686 Bear Rd,56443,Cushing,MN,46.174142,-94.555973,209900.0,1.0,3.0,1095.0,1906,696960.0,SINGLE_FAMILY,FOR_SALE,21
+97000560,https://www.zillow.com/homedetails/30887-Fish-Trap-Lake-Dr-Cushing-MN-56443/97000560_zpid/,30887 Fish Trap Lake Dr,56443,Cushing,MN,46.207537,-94.6071,369500.0,2.0,3.0,1064.0,2007,41382.0,SINGLE_FAMILY,FOR_SALE,52
+2081913426,https://www.zillow.com/homedetails/26205-Front-St-Cushing-MN-56443/2081913426_zpid/,26205 Front St,56443,Cushing,MN,46.14051,-94.57947,59900.0,1.0,2.0,1440.0,1981,12000.0,SINGLE_FAMILY,FOR_SALE,10
+97001430,https://www.zillow.com/homedetails/30484-White-Pine-Cir-Cushing-MN-56443/97001430_zpid/,30484 White Pine Cir,56443,Cushing,MN,46.201432,-94.630302,49900.0,1.0,2.0,924.0,1982,34063.0,MANUFACTURED,FOR_SALE,16
+97001475,https://www.zillow.com/homedetails/3350-Bluebird-Rd-Cushing-MN-56443/97001475_zpid/,3350 Bluebird Rd,56443,Cushing,MN,46.222585,-94.591465,217499.0,2.0,3.0,1580.0,2005,40075.0,SINGLE_FAMILY,FOR_SALE,21
+97001788,https://www.zillow.com/homedetails/31589-60th-Ave-Cushing-MN-56443/97001788_zpid/,31589 60th Ave,56443,Cushing,MN,46.216951,-94.538929,1090000.0,4.0,4.0,5242.0,1994,141134.0,SINGLE_FAMILY,FOR_SALE,61
+2082831294,https://www.zillow.com/homedetails/4268-Bayview-Trl-5-Cushing-MN-56443/2082831294_zpid/,4268 Bayview Trl #5,56443,Cushing,MN,46.223929,-94.572806,269900.0,2.0,3.0,1080.0,1940,2308.0,SINGLE_FAMILY,FOR_SALE,37

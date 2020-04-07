@@ -1,0 +1,10 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+74877744,https://www.zillow.com/homedetails/220-3rd-St-S-Greenwald-MN-56335/74877744_zpid/,220 3rd St S,56335,Greenwald,MN,45.599559,-94.859531,120000.0,1.75,4.0,1893.0,1980,13068.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+74877777,https://www.zillow.com/homedetails/140-2nd-Ave-N-Greenwald-MN-56335/74877777_zpid/,140 2nd Ave N,56335,Greenwald,MN,45.602484,-94.858218,113300.0,1.0,4.0,1447.0,1920,10018.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+74877745,https://www.zillow.com/homedetails/230-3rd-St-S-Greenwald-MN-56335/74877745_zpid/,230 3rd St S,56335,Greenwald,MN,45.599255,-94.859546,168500.0,3.0,3.0,1942.0,1980,13068.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+207002258,https://www.zillow.com/homedetails/221-Jake-St-Greenwald-MN-56335/207002258_zpid/,221 Jake St,56335,Greenwald,MN,45.599537,-94.859005,230000.0,2.25,4.0,2484.0,2000,13504.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+74877782,https://www.zillow.com/homedetails/300-2nd-Ave-N-Greenwald-MN-56335/74877782_zpid/,300 2nd Ave N,56335,Greenwald,MN,45.602401,-94.860245,98000.0,2.0,3.0,1685.0,1925,10454.0,SINGLE_FAMILY,SOLD,14
+207002294,https://www.zillow.com/homedetails/200-2nd-Ave-N-Greenwald-MN-56335/207002294_zpid/,200 2nd Ave N,56335,Greenwald,MN,45.602508,-94.858868,112000.0,1.5,2.0,1546.0,1918,-1.0,SINGLE_FAMILY,SOLD,0
+74877799,https://www.zillow.com/homedetails/110-3rd-St-N-Greenwald-MN-56335/74877799_zpid/,110 3rd St N,56335,Greenwald,MN,45.602189,-94.859637,125000.0,2.0,3.0,2240.0,1977,8712.0,SINGLE_FAMILY,SOLD,0
+74877784,https://www.zillow.com/homedetails/100-4th-St-N-Greenwald-MN-56335/74877784_zpid/,100 4th St N,56335,Greenwald,MN,45.60195,-94.861157,40000.0,3.0,6.0,4554.0,1900,6969.0,SINGLE_FAMILY,SOLD,64
+91506738,https://www.zillow.com/homedetails/241-Jake-St-Greenwald-MN-56335/91506738_zpid/,241 Jake St,56335,Greenwald,MN,45.598968,-94.859053,150000.0,2.0,3.0,1612.0,2004,12632.0,SINGLE_FAMILY,SOLD,29

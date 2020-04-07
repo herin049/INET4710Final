@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106861143,https://www.zillow.com/homedetails/4375-Highway-67-Clarkfield-MN-56223/106861143_zpid/,4375 Highway 67,56223,Clarkfield,MN,44.789605,-95.773621,399900.0,3.0,4.0,4024.0,1961,554954.0,SINGLE_FAMILY,FOR_SALE,46
+126809169,https://www.zillow.com/homedetails/3972-230th-Ave-Clarkfield-MN-56223/126809169_zpid/,3972 230th Ave,56223,Clarkfield,MN,44.73613,-95.854042,298900.0,2.0,4.0,2766.0,1963,309276.0,SINGLE_FAMILY,FOR_SALE,65

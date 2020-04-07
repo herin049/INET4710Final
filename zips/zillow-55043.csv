@@ -1,0 +1,10 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2278814,https://www.zillow.com/homedetails/735-Quality-Ave-N-Lakeland-MN-55043/2278814_zpid/,735 Quality Ave N,55043,Lakeland,MN,44.958297,-92.776745,359900.0,4.0,4.0,2269.0,1993,23958.0,SINGLE_FAMILY,FOR_SALE,27
+2234853,https://www.zillow.com/homedetails/2080-Quebec-Ave-S-Lakeland-MN-55043/2234853_zpid/,2080 Quebec Ave S,55043,Lakeland,MN,44.918971,-92.773045,255000.0,1.0,4.0,1521.0,1959,23958.0,SINGLE_FAMILY,FOR_SALE,28
+2235094,https://www.zillow.com/homedetails/2877-Itasca-Ave-S-Lakeland-MN-55043/2235094_zpid/,2877 Itasca Ave S,55043,Lakeland,MN,44.907729,-92.770983,2850000.0,5.0,5.0,6898.0,2001,32365.0,SINGLE_FAMILY,FOR_SALE,61
+2230601,https://www.zillow.com/homedetails/1920-Queens-Ave-S-Lakeland-MN-55043/2230601_zpid/,1920 Queens Ave S,55043,Lakeland,MN,44.9213,-92.771779,190326.0,1.0,2.0,910.0,1950,9287.0,SINGLE_FAMILY,PRE_FORECLOSURE,0
+2210250,https://www.zillow.com/homedetails/79-Quality-Ave-S-Lakeland-MN-55043/2210250_zpid/,79 Quality Ave S,55043,Lakeland,MN,44.947872,-92.778609,249000.0,1.0,3.0,1966.0,1966,31747.0,SINGLE_FAMILY,FOR_SALE,33
+2278786,https://www.zillow.com/homedetails/16078-6th-St-N-Lakeland-MN-55043/2278786_zpid/,16078 6th St N,55043,Lakeland,MN,44.956681,-92.780458,307057.0,2.0,4.0,2128.0,1979,22651.0,SINGLE_FAMILY,PRE_FORECLOSURE,0
+2279195,https://www.zillow.com/homedetails/16595-3rd-St-N-Lakeland-MN-55043/2279195_zpid/,16595 3rd St N,55043,Lakeland,MN,44.952332,-92.769569,311982.0,2.0,3.0,2108.0,1975,18730.0,SINGLE_FAMILY,PRE_FORECLOSURE,4
+2230887,https://www.zillow.com/homedetails/1991-Racine-Ave-S-Lakeland-MN-55043/2230887_zpid/,1991 Racine Ave S,55043,Lakeland,MN,44.920423,-92.767294,192015.0,1.0,1.0,1062.0,1950,23958.0,SINGLE_FAMILY,PRE_FORECLOSURE,17
+2230455,https://www.zillow.com/homedetails/1434-Riviera-Ave-S-Lakeland-MN-55043/2230455_zpid/,1434 Riviera Ave S,55043,Lakeland,MN,44.92782,-92.766218,675000.0,3.0,4.0,3320.0,1999,15246.0,SINGLE_FAMILY,FOR_SALE,28

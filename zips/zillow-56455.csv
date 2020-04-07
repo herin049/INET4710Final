@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+92523792,https://www.zillow.com/homedetails/624-7th-Ave-Ironton-MN-56455/92523792_zpid/,624 7th Ave,56455,Ironton,MN,46.47491,-93.982261,109900.0,1.0,2.0,1199.0,1935,11325.0,SINGLE_FAMILY,FOR_SALE,36
+92547253,https://www.zillow.com/homedetails/21797-Irene-Ave-Ironton-MN-56455/92547253_zpid/,21797 Irene Ave,56455,Ironton,MN,46.471732,-93.978268,219900.0,3.0,3.0,1854.0,1920,48787.0,SINGLE_FAMILY,FOR_SALE,44
+92545643,https://www.zillow.com/homedetails/20733-Scenic-Rd-Ironton-MN-56455/92545643_zpid/,20733 Scenic Rd,56455,Ironton,MN,46.456568,-94.028416,414500.0,2.0,4.0,3529.0,1994,263000.0,SINGLE_FAMILY,FOR_SALE,39

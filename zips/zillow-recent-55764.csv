@@ -1,0 +1,19 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+120635728,https://www.zillow.com/homedetails/200-Jessie-St-Marble-MN-55764/120635728_zpid/,200 Jessie St,55764,Marble,MN,47.319933,-93.301257,15500.0,1.0,1.0,600.0,1920,8712.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+120636409,https://www.zillow.com/homedetails/105-Bawden-St-Marble-MN-55764/120636409_zpid/,105 Bawden St,55764,Marble,MN,47.321471,-93.300627,55000.0,1.0,3.0,1658.0,1832,6969.0,SINGLE_FAMILY,RECENTLY_SOLD,1
+120636410,https://www.zillow.com/homedetails/406-Alice-Ave-Marble-MN-55764/120636410_zpid/,406 Alice Ave,55764,Marble,MN,47.32022,-93.301442,83000.0,1.0,3.0,1403.0,1921,12000.0,SINGLE_FAMILY,RECENTLY_SOLD,13
+103952953,https://www.zillow.com/homedetails/103-Sadie-St-Marble-MN-55764/103952953_zpid/,103 Sadie St,55764,Marble,MN,47.321623,-93.297677,65451.0,2.0,3.0,810.0,1920,6969.0,SINGLE_FAMILY,SOLD,9
+103952969,https://www.zillow.com/homedetails/103-Jessie-St-Marble-MN-55764/103952969_zpid/,103 Jessie St,55764,Marble,MN,47.32143,-93.302102,85000.0,3.0,3.0,1089.0,1920,10454.0,SINGLE_FAMILY,SOLD,17
+120635032,https://www.zillow.com/homedetails/505-Alice-Ave-Marble-MN-55764/120635032_zpid/,505 Alice Ave,55764,Marble,MN,47.320762,-93.30267,119000.0,3.0,3.0,1676.0,1907,23086.0,SINGLE_FAMILY,SOLD,18
+103952970,https://www.zillow.com/homedetails/503-Alice-Ave-Marble-MN-55764/103952970_zpid/,503 Alice Ave,55764,Marble,MN,47.320763,-93.302368,65000.0,2.0,2.0,1096.0,1950,9147.0,SINGLE_FAMILY,SOLD,13
+103952973,https://www.zillow.com/homedetails/300-Jessie-St-Marble-MN-55764/103952973_zpid/,300 Jessie St,55764,Marble,MN,47.31845,-93.301238,76000.0,2.0,3.0,2040.0,1800,12196.0,SINGLE_FAMILY,SOLD,17
+120636049,https://www.zillow.com/homedetails/102-Harriet-St-Marble-MN-55764/120636049_zpid/,102 Harriet St,55764,Marble,MN,47.321324,-93.302746,45900.0,1.0,2.0,768.0,1900,6970.0,SINGLE_FAMILY,SOLD,9
+120635719,https://www.zillow.com/homedetails/212-Sadie-St-Marble-MN-55764/120635719_zpid/,212 Sadie St,55764,Marble,MN,47.319132,-93.296823,87900.0,1.0,3.0,1000.0,1920,6969.0,SINGLE_FAMILY,SOLD,18
+120634356,https://www.zillow.com/homedetails/206-Harriet-St-Marble-MN-55764/120634356_zpid/,206 Harriet St,55764,Marble,MN,47.319171,-93.302726,80000.0,2.0,2.0,1440.0,1956,13939.0,SINGLE_FAMILY,SOLD,18
+2090441819,https://www.zillow.com/homedetails/206-Harriet-Street-Marble-MN-55764/2090441819_zpid/,206 Harriet Street,55764,Marble,MN,47.319172,-93.302727,80000.0,2.0,2.0,1920.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
+120634711,https://www.zillow.com/homedetails/100-Jessie-St-Marble-MN-55764/120634711_zpid/,100 Jessie St,55764,Marble,MN,47.321742,-93.301274,32000.0,2.0,3.0,1514.0,1910,8712.0,SINGLE_FAMILY,SOLD,13
+2090968424,https://www.zillow.com/homedetails/214-Marble-MN-55764/2090968424_zpid/,214,55764,Marble,MN,47.3205,-93.2964,72900.0,2.0,2.0,1708.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
+120633006,https://www.zillow.com/homedetails/208-Ellen-St-Marble-MN-55764/120633006_zpid/,208 Ellen St,55764,Marble,MN,47.318839,-93.304202,75000.0,1.0,3.0,1344.0,2006,12632.0,SINGLE_FAMILY,SOLD,0
+103952961,https://www.zillow.com/homedetails/401-Alice-Ave-Marble-MN-55764/103952961_zpid/,401 Alice Ave,55764,Marble,MN,47.320772,-93.30054,73000.0,1.0,3.0,1224.0,1920,12196.0,SINGLE_FAMILY,SOLD,16
+120633683,https://www.zillow.com/homedetails/204-Ellen-St-Marble-MN-55764/120633683_zpid/,204 Ellen St,55764,Marble,MN,47.319477,-93.304205,108000.0,2.0,3.0,1508.0,2004,8712.0,SINGLE_FAMILY,SOLD,23
+103952957,https://www.zillow.com/homedetails/310-Ekman-Ave-Marble-MN-55764/103952957_zpid/,310 Ekman Ave,55764,Marble,MN,47.322064,-93.299983,88000.0,1.0,3.0,2128.0,1978,6969.0,SINGLE_FAMILY,SOLD,18

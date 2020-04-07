@@ -1,0 +1,7 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+226548063,https://www.zillow.com/homedetails/12809-700th-Ave-Taopi-MN-55977/226548063_zpid/,12809 700th Ave,55977,Taopi,MN,43.539961,-92.658724,2019000.0,2.0,3.0,2344.0,1875,13939200.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+117534206,https://www.zillow.com/homedetails/110-Walnut-St-Taopi-MN-55977/117534206_zpid/,110 Walnut St,55977,Taopi,MN,43.55895,-92.643077,79670.0,1.0,1.0,800.0,1880,8712.0,APARTMENT,SOLD,2
+117534199,https://www.zillow.com/homedetails/300-1st-St-Taopi-MN-55977/117534199_zpid/,300 1st St,55977,Taopi,MN,43.559442,-92.642191,77456.0,1.0,2.0,926.0,1975,50965.0,MANUFACTURED,SOLD,1
+117534192,https://www.zillow.com/homedetails/400-State-Highway-56-Taopi-MN-55977/117534192_zpid/,400 State Highway 56,55977,Taopi,MN,43.558358,-92.640644,65000.0,1.0,2.0,1988.0,1905,31363.0,SINGLE_FAMILY,SOLD,0
+117534205,https://www.zillow.com/homedetails/108-Walnut-St-Taopi-MN-55977/117534205_zpid/,108 Walnut St,55977,Taopi,MN,43.558769,-92.643077,81400.0,2.0,3.0,1636.0,1987,12632.0,SINGLE_FAMILY,SOLD,1
+226546473,https://www.zillow.com/homedetails/10877-680th-Ave-Taopi-MN-55977/226546473_zpid/,10877 680th Ave,55977,Taopi,MN,43.512651,-92.689399,22652.0,1.75,4.0,1475.0,1973,304920.0,SINGLE_FAMILY,SOLD,0

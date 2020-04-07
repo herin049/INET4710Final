@@ -1,0 +1,17 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106683899,https://www.zillow.com/homedetails/119-W-Main-St-Eitzen-MN-55931/106683899_zpid/,119 W Main St,55931,Eitzen,MN,43.507552,-91.465081,179900.0,3.0,4.0,2584.0,1979,23522.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106684018,https://www.zillow.com/homedetails/312-E-Main-St-Eitzen-MN-55931/106684018_zpid/,312 E Main St,55931,Eitzen,MN,43.506581,-91.459562,23000.0,2.0,4.0,1470.0,1928,8712.0,SINGLE_FAMILY,RECENTLY_SOLD,1
+106683982,https://www.zillow.com/homedetails/434-E-Main-St-Eitzen-MN-55931/106683982_zpid/,434 E Main St,55931,Eitzen,MN,43.507471,-91.456429,123000.0,1.0,2.0,994.0,1935,21780.0,SINGLE_FAMILY,RECENTLY_SOLD,61
+106684017,https://www.zillow.com/homedetails/400-E-Main-St-Eitzen-MN-55931/106684017_zpid/,400 E Main St,55931,Eitzen,MN,43.507632,-91.459153,45000.0,2.0,2.0,3200.0,1950,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,17
+106683881,https://www.zillow.com/homedetails/213-Iowa-Ave-S-Eitzen-MN-55931/106683881_zpid/,213 Iowa Ave S,55931,Eitzen,MN,43.505731,-91.463582,90000.0,1.0,3.0,2380.0,1937,9583.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106687506,https://www.zillow.com/homedetails/2188-Corral-Dr-Eitzen-MN-55931/106687506_zpid/,2188 Corral Dr,55931,Eitzen,MN,43.526078,-91.290239,299500.0,1.0,1.0,384.0,1999,3484800.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106683902,https://www.zillow.com/homedetails/104-Birch-St-Eitzen-MN-55931/106683902_zpid/,104 Birch St,55931,Eitzen,MN,43.50734,-91.462563,68500.0,2.0,2.0,753.0,1966,6996.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106684014,https://www.zillow.com/homedetails/347-Townline-Rd-Eitzen-MN-55931/106684014_zpid/,347 Townline Rd,55931,Eitzen,MN,43.511178,-91.471237,53500.0,1.0,3.0,1096.0,1935,25102.0,SINGLE_FAMILY,SOLD,0
+106683909,https://www.zillow.com/homedetails/524-E-Main-St-Eitzen-MN-55931/106683909_zpid/,524 E Main St,55931,Eitzen,MN,43.507456,-91.45295,75000.0,1.0,3.0,1165.0,1900,54885.0,SINGLE_FAMILY,SOLD,0
+106683905,https://www.zillow.com/homedetails/121-Pine-St-Eitzen-MN-55931/106683905_zpid/,121 Pine St,55931,Eitzen,MN,43.508563,-91.46511,64000.0,2.0,3.0,1080.0,2002,-1.0,MANUFACTURED,SOLD,0
+106684041,https://www.zillow.com/homedetails/207-1st-St-SE-Eitzen-MN-55931/106684041_zpid/,207 1st St SE,55931,Eitzen,MN,43.506936,-91.461435,100000.0,1.0,3.0,1654.0,1954,-1.0,SINGLE_FAMILY,SOLD,0
+106683991,https://www.zillow.com/homedetails/514-E-Main-St-Caledonia-MN-55931/106683991_zpid/,514 E Main St,55931,Caledonia,MN,43.507471,-91.45483,48000.0,1.0,2.0,1248.0,1970,-1.0,MANUFACTURED,SOLD,0
+233520684,https://www.zillow.com/homedetails/2128-County-5-Eitzen-MN-55931/233520684_zpid/,2128 County 5,55931,Eitzen,MN,43.501864,-91.295722,17775.0,1.0,3.0,2504.0,1887,311018.0,SINGLE_FAMILY,SOLD,0
+106683925,https://www.zillow.com/homedetails/109-E-Main-St-Eitzen-MN-55931/106683925_zpid/,109 E Main St,55931,Eitzen,MN,43.508307,-91.462093,55000.0,1.0,2.0,5534.0,1890,36590.0,SINGLE_FAMILY,SOLD,0
+106683928,https://www.zillow.com/homedetails/109-E-Main-St-Eitzen-MN-55931/106683928_zpid/,109 E Main St,55931,Eitzen,MN,43.508307,-91.462093,55000.0,2.5,5.0,3006.0,1891,25700.0,SINGLE_FAMILY,SOLD,0
+106683936,https://www.zillow.com/homedetails/116-W-Main-St-Eitzen-MN-55931/106683936_zpid/,116 W Main St,55931,Eitzen,MN,43.508172,-91.464772,93000.0,1.5,2.0,2160.0,1975,13503.0,SINGLE_FAMILY,SOLD,0

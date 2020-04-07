@@ -1,0 +1,2 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+1687731,https://www.zillow.com/homedetails/211-Park-Ave-N-Vermillion-MN-55085/1687731_zpid/,211 Park Ave N,55085,Vermillion,MN,44.675991,-92.966303,275000.0,2.0,3.0,1183.0,1980,16117.0,SINGLE_FAMILY,FOR_SALE,4

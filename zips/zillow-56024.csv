@@ -1,0 +1,10 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+110460103,https://www.zillow.com/homedetails/212-Lakeview-Dr-Eagle-Lake-MN-56024/110460103_zpid/,212 Lakeview Dr,56024,Eagle Lake,MN,44.168486,-93.883367,225900.0,3.0,4.0,3524.0,1990,8712.0,SINGLE_FAMILY,FOR_SALE,18
+221688469,https://www.zillow.com/homedetails/260-Oak-Dr-Eagle-Lake-MN-56024/221688469_zpid/,260 Oak Dr,56024,Eagle Lake,MN,44.14959,-93.876729,419000.0,3.0,3.0,2686.0,2017,16552.0,SINGLE_FAMILY,FOR_SALE,26
+221688488,https://www.zillow.com/homedetails/704-Maple-Ln-Eagle-Lake-MN-56024/221688488_zpid/,704 Maple Ln,56024,Eagle Lake,MN,44.151114,-93.87544,299900.0,2.0,4.0,2224.0,2019,13068.0,SINGLE_FAMILY,FOR_SALE,37
+221688461,https://www.zillow.com/homedetails/228-Oak-Dr-Eagle-Lake-MN-56024/221688461_zpid/,228 Oak Dr,56024,Eagle Lake,MN,44.152023,-93.877676,259000.0,2.0,4.0,2228.0,2011,13068.0,SINGLE_FAMILY,FOR_SALE,22
+221688397,https://www.zillow.com/homedetails/109-Connie-Ln-Eagle-Lake-MN-56024/221688397_zpid/,109 Connie Ln,56024,Eagle Lake,MN,44.157249,-93.880191,307700.0,3.0,4.0,2888.0,2015,7840.0,SINGLE_FAMILY,FOR_SALE,34
+221688468,https://www.zillow.com/homedetails/256-Oak-Dr-Eagle-Lake-MN-56024/221688468_zpid/,256 Oak Dr,56024,Eagle Lake,MN,44.149752,-93.877271,429900.0,4.0,5.0,3448.0,2017,28749.0,SINGLE_FAMILY,FOR_SALE,35
+110460054,https://www.zillow.com/homedetails/502-Thomas-Dr-Eagle-Lake-MN-56024/110460054_zpid/,502 Thomas Dr,56024,Eagle Lake,MN,44.155493,-93.882153,299999.0,2.0,3.0,1933.0,2003,10920.0,SINGLE_FAMILY,FOR_SALE,30
+221688498,https://www.zillow.com/homedetails/105-Oak-Dr-Eagle-Lake-MN-56024/221688498_zpid/,105 Oak Dr,56024,Eagle Lake,MN,44.151349,-93.874236,274900.0,2.0,3.0,1966.0,2019,16988.0,SINGLE_FAMILY,FOR_SALE,35
+110460101,https://www.zillow.com/homedetails/304-Leray-Ave-Eagle-Lake-MN-56024/110460101_zpid/,304 Leray Ave,56024,Eagle Lake,MN,44.167075,-93.884617,249000.0,2.0,3.0,2424.0,1956,10018.0,SINGLE_FAMILY,FOR_SALE,21

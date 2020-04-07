@@ -1,0 +1,14 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2080448831,https://www.zillow.com/homedetails/55-Wildwood-Acres-Trl-Tofte-MN-55615/2080448831_zpid/,55 Wildwood Acres Trl,55615,Tofte,MN,47.589626,-90.835446,219900.0,1.0,2.0,952.0,2019,41382.0,SINGLE_FAMILY,FOR_SALE,36
+238973654,https://www.zillow.com/homedetails/7274-Tofte-Park-Rd-Tofte-MN-55615/238973654_zpid/,7274 Tofte Park Rd,55615,Tofte,MN,47.5698,-90.841566,699900.0,2.0,2.0,1950.0,1981,43560.0,SINGLE_FAMILY,FOR_SALE,44
+2116451932,https://www.zillow.com/homedetails/6626-W-Highway-61-6-Tofte-MN-55615/2116451932_zpid/,6626 W Highway 61 #6,55615,Tofte,MN,47.599108,-90.787926,79900.0,1.0,1.0,480.0,1972,174240.0,SINGLE_FAMILY,FOR_SALE,21
+2081169635,https://www.zillow.com/homedetails/6626-W-Highway-61-06-Tofte-MN-55615/2081169635_zpid/,6626 W Highway 61 #06,55615,Tofte,MN,47.599108,-90.787926,79900.0,1.0,1.0,484.0,1972,174240.0,SINGLE_FAMILY,FOR_SALE,19
+124449411,https://www.zillow.com/homedetails/7181-W-Highway-61-Tofte-MN-55615/124449411_zpid/,7181 W Highway 61,55615,Tofte,MN,47.575386,-90.835046,235900.0,1.0,3.0,1096.0,1937,53143.0,SINGLE_FAMILY,FOR_SALE,45
+2082761878,https://www.zillow.com/homedetails/1-Toftey-Ct-Tofte-Twp-MN-55615/2082761878_zpid/,1 Toftey Ct,55615,Tofte Twp,MN,47.574872,-90.845257,749900.0,3.0,3.0,2825.0,2015,94089.0,SINGLE_FAMILY,FOR_SALE,50
+2082832358,https://www.zillow.com/homedetails/6626-W-Highway-61-7-Tofte-MN-55615/2082832358_zpid/,6626 W Highway 61 #7,55615,Tofte,MN,47.599108,-90.787926,69900.0,1.0,1.0,484.0,1972,147668.0,TOWNHOUSE,FOR_SALE,46
+238973711,https://www.zillow.com/homedetails/6781-W-Highway-61-Tofte-MN-55615/238973711_zpid/,6781 W Highway 61,55615,Tofte,MN,47.593461,-90.800739,159777.0,1.0,1.0,702.0,1920,87120.0,SINGLE_FAMILY,FOR_SALE,36
+2103294151,https://www.zillow.com/homedetails/6548-Aspenwood-Dr-Tofte-MN-55615/2103294151_zpid/,6548 Aspenwood Dr,55615,Tofte,MN,47.60479,-90.779683,299900.0,3.0,2.0,1540.0,2006,206910.0,TOWNHOUSE,FOR_SALE,20
+2085705673,https://www.zillow.com/homedetails/16A-Surfside-Dr-Tofte-MN-55615/2085705673_zpid/,16A Surfside Dr,55615,Tofte,MN,47.563591,-90.854198,184900.0,3.0,3.0,2888.0,2009,653400.0,TOWNHOUSE,FOR_SALE,53
+238973496,https://www.zillow.com/homedetails/7192-W-Highway-61-1-Tofte-MN-55615/238973496_zpid/,7192 W Highway 61 #1,55615,Tofte,MN,47.573934,-90.834932,339900.0,2.0,2.0,1100.0,1984,286624.0,TOWNHOUSE,FOR_SALE,55
+2088905381,https://www.zillow.com/homedetails/102-Hoaglund-Dr-Tofte-MN-55615/2088905381_zpid/,102 Hoaglund Dr,55615,Tofte,MN,47.573652,-90.844582,399900.0,2.0,3.0,2454.0,2008,87555.0,SINGLE_FAMILY,FOR_SALE,60
+2106798708,https://www.zillow.com/homedetails/7192-W-Highway-61-Tofte-MN-55615/2106798708_zpid/,7192 W Highway 61,55615,Tofte,MN,47.572887,-90.836181,275000.0,1.0,1.0,664.0,1988,435.0,TOWNHOUSE,FOR_SALE,17

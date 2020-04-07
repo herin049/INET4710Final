@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2083934828,https://www.zillow.com/homedetails/9310-20th-St-Fort-Ripley-MN-56449/2083934828_zpid/,9310 20th St,56449,Fort Ripley,MN,46.189163,-94.203545,324900.0,3.0,3.0,2008.0,1996,958320.0,SINGLE_FAMILY,FOR_SALE,32
+226100942,https://www.zillow.com/homedetails/14936-Ridgeway-Dr-Fort-Ripley-MN-56449/226100942_zpid/,14936 Ridgeway Dr,56449,Fort Ripley,MN,46.14203,-94.345874,414900.0,3.0,4.0,2654.0,2014,46609.0,SINGLE_FAMILY,FOR_SALE,22
+2083298072,https://www.zillow.com/homedetails/2811-Mississippi-Shores-Rd-Fort-Ripley-MN-56449/2083298072_zpid/,2811 Mississippi Shores Rd,56449,Fort Ripley,MN,46.194391,-94.377466,249900.0,3.0,3.0,1824.0,1991,93654.0,SINGLE_FAMILY,FOR_SALE,40
+2082424665,https://www.zillow.com/homedetails/5229-Crow-Wing-Lake-Rd-Fort-Ripley-MN-56449/2082424665_zpid/,5229 Crow Wing Lake Rd,56449,Fort Ripley,MN,46.231303,-94.334285,239000.0,1.0,2.0,1180.0,1963,20037.0,MANUFACTURED,FOR_SALE,12

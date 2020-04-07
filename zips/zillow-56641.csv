@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2090990403,https://www.zillow.com/homedetails/10599-Sugar-Point-Dr-NW-Federal-Dam-MN-56641/2090990403_zpid/,10599 Sugar Point Dr NW,56641,Federal Dam,MN,47.190805,-94.315303,269900.0,1.0,2.0,972.0,1995,48351.0,SINGLE_FAMILY,FOR_SALE,14
+96985881,https://www.zillow.com/homedetails/134-3rd-Ave-E-Federal-Dam-MN-56641/96985881_zpid/,134 3rd Ave E,56641,Federal Dam,MN,47.245153,-94.215457,45000.0,2.0,3.0,1032.0,1995,8712.0,SINGLE_FAMILY,FOR_SALE,11

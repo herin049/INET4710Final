@@ -1,0 +1,11 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+98949733,https://www.zillow.com/homedetails/70561-207th-Ave-Reads-Landing-MN-55968/98949733_zpid/,70561 207th Ave,55968,Reads Landing,MN,44.400994,-92.081051,124700.0,1.0,3.0,2100.0,1942,60984.0,SINGLE_FAMILY,SOLD,44
+98949772,https://www.zillow.com/homedetails/70633-Highway-61-Reads-Landing-MN-55968/98949772_zpid/,70633 Highway 61,55968,Reads Landing,MN,44.404199,-92.083144,110000.0,1.0,3.0,1204.0,1880,261360.0,SINGLE_FAMILY,SOLD,32
+98949730,https://www.zillow.com/homedetails/20015-County-Road-77-Reads-Landing-MN-55968/98949730_zpid/,20015 County Road 77,55968,Reads Landing,MN,44.397418,-92.069666,85000.0,1.0,2.0,1064.0,1975,-1.0,SINGLE_FAMILY,SOLD,0
+98949726,https://www.zillow.com/homedetails/70311-202nd-Ave-Lake-City-MN-55041/98949726_zpid/,70311 202nd Ave,55041,Lake City,MN,44.398556,-92.073506,60000.0,1.0,2.0,1002.0,1872,-1.0,SINGLE_FAMILY,SOLD,0
+98949768,https://www.zillow.com/homedetails/70629-203rd-Ave-Reads-Landing-MN-55968/98949768_zpid/,70629 203rd Ave,55968,Reads Landing,MN,44.402763,-92.081587,225000.0,1.5,3.0,2282.0,1973,-1.0,SINGLE_FAMILY,SOLD,0
+98949711,https://www.zillow.com/homedetails/70629-203rd-Ave-Reads-Landing-MN-55968/98949711_zpid/,70629 203rd Ave,55968,Reads Landing,MN,44.402763,-92.081587,225000.0,2.0,4.0,1863.0,1973,304920.0,SINGLE_FAMILY,SOLD,1
+98949703,https://www.zillow.com/homedetails/70589-206th-Ave-Reads-Landing-MN-55968/98949703_zpid/,70589 206th Ave,55968,Reads Landing,MN,44.40191,-92.081183,35000.0,1.0,2.0,750.0,1950,32670.0,SINGLE_FAMILY,SOLD,16
+98949757,https://www.zillow.com/homedetails/20189-County-Road-77-Reads-Landing-MN-55968/98949757_zpid/,20189 County Road 77,55968,Reads Landing,MN,44.402358,-92.078173,130000.0,2.0,1.0,1110.0,1920,8276.0,SINGLE_FAMILY,SOLD,23
+98949712,https://www.zillow.com/homedetails/70565-Highway-61-Reads-Landing-MN-55968/98949712_zpid/,70565 Highway 61,55968,Reads Landing,MN,44.4023,-92.080043,105000.0,2.0,3.0,1420.0,1920,18295.0,SINGLE_FAMILY,SOLD,1
+98949754,https://www.zillow.com/homedetails/20173-County-Road-77-Reads-Landing-MN-55968/98949754_zpid/,20173 County Road 77,55968,Reads Landing,MN,44.40205,-92.077497,25000000.0,3.0,3.0,4500.0,2001,10018.0,SINGLE_FAMILY,SOLD,1

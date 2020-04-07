@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+115954166,https://www.zillow.com/homedetails/109-W-Sutton-St-Alvarado-MN-56713/115954166_zpid/,109 W Sutton St,56713,Alvarado,MN,48.330052,-96.821275,160000.0,2.0,4.0,3536.0,1978,12501.0,SINGLE_FAMILY,FOR_SALE,25
+106756363,https://www.zillow.com/homedetails/307-W-6th-St-Argyle-MN-56713/106756363_zpid/,307 W 6th St,56713,Argyle,MN,48.335916,-96.825722,180000.0,2.0,3.0,2208.0,1983,-1.0,SINGLE_FAMILY,FOR_SALE,20
+106756487,https://www.zillow.com/homedetails/1010-Riopelle-Ct-Argyle-MN-56713/106756487_zpid/,1010 Riopelle Ct,56713,Argyle,MN,48.336605,-96.822081,105000.0,2.0,4.0,2752.0,1978,13939.0,SINGLE_FAMILY,FOR_SALE,27

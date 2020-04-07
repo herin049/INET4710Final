@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+2084698025,https://www.zillow.com/homedetails/56482-169th-Ave-Gonvick-MN-56644/2084698025_zpid/,56482 169th Ave,56644,Gonvick,MN,47.828538,-95.421923,387000.0,3.0,4.0,3400.0,2005,2700720.0,SINGLE_FAMILY,RECENTLY_SOLD,52
+106635726,https://www.zillow.com/homedetails/15189-560th-St-Gonvick-MN-56644/106635726_zpid/,15189 560th St,56644,Gonvick,MN,47.817882,-95.467307,70000.0,2.0,3.0,1636.0,1900,478724.0,SINGLE_FAMILY,SOLD,31

@@ -1,0 +1,33 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+88933920,https://www.zillow.com/homedetails/340-Prairie-Way-S-Bayport-MN-55003/88933920_zpid/,Prairie Way S,55003,Bayport,MN,45.011283,-92.789158,550000.0,3.0,4.0,3200.0,2005,10018.0,SINGLE_FAMILY,FOR_SALE,53
+2231598,https://www.zillow.com/homedetails/606-Oakwood-St-S-Bayport-MN-55003/2231598_zpid/,606 Oakwood St S,55003,Bayport,MN,45.00851,-92.780607,425000.0,3.0,3.0,2050.0,1978,10497.0,SINGLE_FAMILY,FOR_SALE,23
+2085615889,https://www.zillow.com/community/inspiration/2085615889_zpid/,"Jordan Plan, Inspiration",55003,Bayport,MN,45.01126,-92.794197,466990.0,4.0,4.0,3577.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,5
+2089635078,https://www.zillow.com/community/inspiration/2089635078_zpid/,"Alexander Plan, Inspiration",55003,Bayport,MN,45.01126,-92.794197,430990.0,3.0,4.0,2792.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,7
+2084808499,https://www.zillow.com/community/inspiration/2084808499_zpid/,"Newport Plan, Inspiration",55003,Bayport,MN,45.01126,-92.794197,427990.0,3.0,3.0,2336.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,8
+2229440,https://www.zillow.com/homedetails/528-6th-St-N-Bayport-MN-55003/2229440_zpid/,528 6th St N,55003,Bayport,MN,45.02081,-92.784193,300000.0,3.0,3.0,2300.0,1890,6969.0,SINGLE_FAMILY,FOR_SALE,28
+2085383814,https://www.zillow.com/community/inspiration/2085383814_zpid/,"Joslyn Plan, Inspiration",55003,Bayport,MN,45.01126,-92.794197,468990.0,3.0,4.0,3034.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,5
+2092138598,https://www.zillow.com/community/inspiration/2092138598_zpid/,"Andrew Plan, Inspiration",55003,Bayport,MN,45.01126,-92.794197,407990.0,3.0,4.0,2471.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,6
+2092138592,https://www.zillow.com/community/inspiration/2092138592_zpid/,"Graystone Plan, Inspiration",55003,Bayport,MN,45.01126,-92.794197,386990.0,2.0,2.0,1757.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,8
+2087262428,https://www.zillow.com/community/inspiration/2087262428_zpid/,"Nicholas Plan, Inspiration",55003,Bayport,MN,45.01126,-92.794197,470990.0,4.0,4.0,3645.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,6
+2092138601,https://www.zillow.com/community/inspiration/2092138601_zpid/,"Hillcrest Plan, Inspiration",55003,Bayport,MN,45.01126,-92.794197,386990.0,2.0,3.0,1768.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,9
+2087713802,https://www.zillow.com/community/inspiration/2087713802_zpid/,"Sycamore Plan, Inspiration",55003,Bayport,MN,45.01126,-92.794197,406990.0,2.0,3.0,1936.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,7
+2092138591,https://www.zillow.com/community/inspiration/2092138591_zpid/,"Payton Plan, Inspiration",55003,Bayport,MN,45.01126,-92.794197,390990.0,3.0,3.0,1953.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,6
+299623130,https://www.zillow.com/homedetails/212-Periwinkle-Pl-Bayport-MN-55003/299623130_zpid/,212 Periwinkle Pl,55003,Bayport,MN,45.012242,-92.791785,460295.0,3.0,3.0,2375.0,-1,-1.0,SINGLE_FAMILY,FOR_SALE,13
+2089969957,https://www.zillow.com/community/inspiration/2089969957_zpid/,"Zachary Plan, Inspiration",55003,Bayport,MN,45.01126,-92.794197,425990.0,3.0,4.0,2660.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,10
+2092138593,https://www.zillow.com/community/inspiration/2092138593_zpid/,"Langford Plan, Inspiration",55003,Bayport,MN,45.01126,-92.794197,435990.0,3.0,3.0,2855.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,6
+2085615890,https://www.zillow.com/community/inspiration/2085615890_zpid/,"Beckett Plan, Inspiration",55003,Bayport,MN,45.01126,-92.794197,460990.0,3.0,4.0,3296.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,5
+2092030486,https://www.zillow.com/community/inspiration/2092030486_zpid/,"Kaiden Plan, Inspiration",55003,Bayport,MN,45.01126,-92.794197,401990.0,2.0,3.0,2054.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,5
+299623630,https://www.zillow.com/homedetails/1119-Inspiration-Pkwy-N-Bayport-MN-55003/299623630_zpid/,1119 Inspiration Pkwy N,55003,Bayport,MN,45.014946,-92.791765,431363.0,3.0,3.0,2471.0,-1,-1.0,SINGLE_FAMILY,FOR_SALE,4
+2229433,https://www.zillow.com/homedetails/533-8th-St-N-Bayport-MN-55003/2229433_zpid/,533 8th St N,55003,Bayport,MN,45.020809,-92.786204,261408.0,2.0,4.0,1888.0,1957,6969.0,SINGLE_FAMILY,FORECLOSED,3
+299623392,https://www.zillow.com/homedetails/1107-Inspiration-Pkwy-N-Bayport-MN-55003/299623392_zpid/,1107 Inspiration Pkwy N,55003,Bayport,MN,45.01495,-92.791417,477380.0,3.0,4.0,2792.0,-1,-1.0,SINGLE_FAMILY,FOR_SALE,4
+2089860154,https://www.zillow.com/community/inspiration/2089860154_zpid/,"Taylor Plan, Inspiration",55003,Bayport,MN,45.01126,-92.794197,397990.0,3.0,4.0,2214.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,16
+88931542,https://www.zillow.com/homedetails/339-Prairie-Way-S-Bayport-MN-55003/88931542_zpid/,339 Prairie Way S,55003,Bayport,MN,45.011496,-92.78857,600000.0,4.0,5.0,4448.0,2006,11880.0,SINGLE_FAMILY,FOR_SALE,47
+299623220,https://www.zillow.com/homedetails/240-Prairie-Way-N-Bayport-MN-55003/299623220_zpid/,240 Prairie Way N,55003,Bayport,MN,45.01315,-92.788746,482155.0,4.0,4.0,2376.0,-1,-1.0,SINGLE_FAMILY,FOR_SALE,13
+299623088,https://www.zillow.com/homedetails/200-Prairie-Way-N-Bayport-MN-55003/299623088_zpid/,200 Prairie Way N,55003,Bayport,MN,45.014387,-92.787997,441133.0,3.0,4.0,2374.0,-1,-1.0,SINGLE_FAMILY,FOR_SALE,13
+2229569,https://www.zillow.com/homedetails/470-1st-Ave-S-Bayport-MN-55003/2229569_zpid/,470 1st Ave S,55003,Bayport,MN,45.015451,-92.782015,231664.0,2.0,2.0,1126.0,1948,7000.0,SINGLE_FAMILY,PRE_FORECLOSURE,1
+248843403,https://www.zillow.com/homedetails/284-Primrose-Path-N-Bayport-MN-55003/248843403_zpid/,284 Primrose Path N,55003,Bayport,MN,45.015907,-92.79288,469966.0,3.0,4.0,2374.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,13
+299623596,https://www.zillow.com/homedetails/1111-Inspiration-Pkwy-N-Bayport-MN-55003/299623596_zpid/,1111 Inspiration Pkwy N,55003,Bayport,MN,45.014949,-92.791533,493595.0,3.0,4.0,2624.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,4
+2231528,https://www.zillow.com/homedetails/429-3rd-St-S-Bayport-MN-55003/2231528_zpid/,429 3rd St S,55003,Bayport,MN,45.011906,-92.777676,240000.0,1.0,3.0,1536.0,1925,12893.0,SINGLE_FAMILY,FOR_SALE,30
+2231577,https://www.zillow.com/homedetails/580-Minnesota-St-S-Bayport-MN-55003/2231577_zpid/,580 Minnesota St S,55003,Bayport,MN,45.009094,-92.77999,253805.0,2.0,3.0,2275.0,1951,12632.0,SINGLE_FAMILY,PRE_FORECLOSURE,0
+2231555,https://www.zillow.com/homedetails/464-Minnesota-St-S-Bayport-MN-55003/2231555_zpid/,464 Minnesota St S,55003,Bayport,MN,45.011357,-92.779995,169900.0,1.0,1.0,648.0,1920,7000.0,SINGLE_FAMILY,FOR_SALE,22
+248843402,https://www.zillow.com/homedetails/280-Primrose-Path-N-Bayport-MN-55003/248843402_zpid/,280 Primrose Path N,55003,Bayport,MN,45.016037,-92.793247,429990.0,2.0,2.0,1752.0,2020,-1.0,SINGLE_FAMILY,FOR_SALE,36

@@ -1,0 +1,14 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+89226896,https://www.zillow.com/homedetails/112-Lincoln-St-Hitterdal-MN-56552/89226896_zpid/,112 Lincoln St,56552,Hitterdal,MN,46.97653,-96.260235,152900.0,1.0,2.0,1430.0,1947,6969.0,SINGLE_FAMILY,RECENTLY_SOLD,32
+89269673,https://www.zillow.com/homedetails/26537-90th-Ave-N-Hitterdal-MN-56552/89269673_zpid/,26537 90th Ave N,56552,Hitterdal,MN,46.976355,-96.247142,299000.0,2.0,3.0,1920.0,2006,418176.0,SINGLE_FAMILY,RECENTLY_SOLD,33
+89226895,https://www.zillow.com/homedetails/201-2nd-Ave-Hitterdal-MN-56552/89226895_zpid/,201 2nd Ave,56552,Hitterdal,MN,46.97864,-96.254032,103000.0,2.0,5.0,2488.0,1922,22651.0,SINGLE_FAMILY,RECENTLY_SOLD,31
+117699140,https://www.zillow.com/homedetails/218-2nd-Ave-Hitterdal-MN-56552/117699140_zpid/,218 2nd Ave,56552,Hitterdal,MN,46.979117,-96.261304,138000.0,2.0,3.0,1353.0,2009,8712.0,SINGLE_FAMILY,RECENTLY_SOLD,16
+89311733,https://www.zillow.com/homedetails/107-1st-Ave-N-Hitterdal-MN-56552/89311733_zpid/,107 1st Ave N,56552,Hitterdal,MN,46.978142,-96.25532,124252.0,2.0,4.0,1988.0,1903,112.0,SINGLE_FAMILY,RECENTLY_SOLD,51
+89306570,https://www.zillow.com/homedetails/101-Viking-Ave-N-Hitterdal-MN-56552/89306570_zpid/,101 Viking Ave N,56552,Hitterdal,MN,46.977494,-96.262348,64900.0,1.0,3.0,1600.0,1903,14810.0,SINGLE_FAMILY,SOLD,20
+89281725,https://www.zillow.com/homedetails/301-Highway-32-S-Hitterdal-MN-56552/89281725_zpid/,301 Highway 32 S,56552,Hitterdal,MN,46.975385,-96.25965,70000.0,2.0,2.0,1650.0,1960,-1.0,SINGLE_FAMILY,SOLD,0
+89278065,https://www.zillow.com/homedetails/7846-290th-St-N-Hitterdal-MN-56552/89278065_zpid/,7846 290th St N,56552,Hitterdal,MN,46.962311,-96.194391,314900.0,3.0,5.0,3000.0,2003,223462.0,SINGLE_FAMILY,SOLD,47
+89265802,https://www.zillow.com/homedetails/27827-75th-Ave-N-Hitterdal-MN-56552/89265802_zpid/,27827 75th Ave N,56552,Hitterdal,MN,46.958106,-96.220022,229900.0,2.0,3.0,2440.0,1916,412078.0,SINGLE_FAMILY,SOLD,42
+250280306,https://www.zillow.com/homedetails/28005-75th-Ave-N-Hitterdal-MN-56552/250280306_zpid/,28005 75th Ave N,56552,Hitterdal,MN,46.95289,-96.218879,175000.0,5.0,6.0,4200.0,2019,1481040.0,SINGLE_FAMILY,SOLD,26
+89283484,https://www.zillow.com/homedetails/307-Lincoln-St-Hitterdal-MN-56552/89283484_zpid/,307 Lincoln St,56552,Hitterdal,MN,46.976055,-96.261792,74900.0,1.0,2.0,792.0,1930,21780.0,SINGLE_FAMILY,SOLD,13
+89292792,https://www.zillow.com/homedetails/211-Front-St-W-Hitterdal-MN-56552/89292792_zpid/,211 Front St W,56552,Hitterdal,MN,46.977087,-96.260821,130000.0,2.0,3.0,1936.0,1920,5662.0,SINGLE_FAMILY,SOLD,28
+89304250,https://www.zillow.com/homedetails/28001-75th-Ave-N-Hitterdal-MN-56552/89304250_zpid/,28001 75th Ave N,56552,Hitterdal,MN,46.956135,-96.219253,230000.0,2.0,4.0,1782.0,2007,986198.0,MANUFACTURED,SOLD,4

@@ -1,0 +1,2 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+115961031,https://www.zillow.com/homedetails/2169-110th-Ave-Hardwick-MN-56134/115961031_zpid/,2169 110th Ave,56134,Hardwick,MN,43.800814,-96.253552,105000.0,2.0,3.0,1728.0,1915,269200.0,SINGLE_FAMILY,FOR_SALE,15

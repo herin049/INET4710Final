@@ -1,0 +1,9 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106680969,https://www.zillow.com/homedetails/232-1st-Ave-NW-Elbow-Lake-MN-56531/106680969_zpid/,232 1st Ave NW,56531,Elbow Lake,MN,45.995562,-95.97959,49900.0,1.0,3.0,1120.0,1915,6534.0,SINGLE_FAMILY,FOR_SALE,12
+106681072,https://www.zillow.com/homedetails/24-3rd-Ave-SW-Elbow-Lake-MN-56531/106681072_zpid/,24 3rd Ave SW,56531,Elbow Lake,MN,45.991508,-95.984371,43900.0,2.0,3.0,768.0,1945,10454.0,SINGLE_FAMILY,FOR_SALE,14
+127044027,https://www.zillow.com/homedetails/16-5th-Ave-SE-Elbow-Lake-MN-56531/127044027_zpid/,16 5th Ave SE,56531,Elbow Lake,MN,45.991601,-95.970583,128000.0,2.0,3.0,2340.0,1973,9147.0,SINGLE_FAMILY,FOR_SALE,34
+106680674,https://www.zillow.com/homedetails/17-6th-Ave-NE-Elbow-Lake-MN-56531/106680674_zpid/,17 6th Ave NE,56531,Elbow Lake,MN,45.992888,-95.96851,99000.0,1.0,3.0,1680.0,1946,9147.0,SINGLE_FAMILY,FOR_SALE,21
+106681911,https://www.zillow.com/homedetails/15169-Golf-Course-Rd-UNIT-3-Elbow-Lake-MN-56531/106681911_zpid/,15169 Golf Course Rd UNIT 3,56531,Elbow Lake,MN,46.006737,-95.87613,129900.0,3.0,2.0,1428.0,1985,43560.0,CONDO,FOR_SALE,26
+2082881178,https://www.zillow.com/homedetails/15169-Golf-Course-Rd-Elbow-Lake-MN-56531/2082881178_zpid/,15169 Golf Course Rd,56531,Elbow Lake,MN,46.006687,-95.87631,129900.0,3.0,2.0,1428.0,1985,43560.0,SINGLE_FAMILY,FOR_SALE,27
+106681009,https://www.zillow.com/homedetails/1010-2nd-St-NE-Elbow-Lake-MN-56531/106681009_zpid/,1010 2nd St NE,56531,Elbow Lake,MN,45.995714,-95.963172,198700.0,2.0,5.0,2768.0,2002,6969.0,SINGLE_FAMILY,FOR_SALE,23
+106680997,https://www.zillow.com/homedetails/118-8th-Ave-NE-Elbow-Lake-MN-56531/106680997_zpid/,118 8th Ave NE,56531,Elbow Lake,MN,45.994378,-95.966567,111900.0,2.0,3.0,1750.0,1954,7405.0,SINGLE_FAMILY,FOR_SALE,21

@@ -1,0 +1,4 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+68252051,https://www.zillow.com/homedetails/17680-53rd-St-New-Germany-MN-55367/68252051_zpid/,17680 53rd St,55367,New Germany,MN,44.906881,-93.973163,199900.0,1.0,4.0,1105.0,1950,15681.0,SINGLE_FAMILY,FOR_SALE,21
+1579731,https://www.zillow.com/homedetails/281-Lincoln-Ave-New-Germany-MN-55367/1579731_zpid/,281 Lincoln Ave,55367,New Germany,MN,44.886437,-93.96884,157779.0,1.5,4.0,1376.0,1969,10454.0,SINGLE_FAMILY,PRE_FORECLOSURE,5
+1565356,https://www.zillow.com/homedetails/401-Adams-St-New-Germany-MN-55367/1565356_zpid/,401 Adams St,55367,New Germany,MN,44.880548,-93.962927,139900.0,1.0,2.0,1575.0,1900,217800.0,LOT,FOR_SALE,10

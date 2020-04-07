@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+113923989,https://www.zillow.com/homedetails/469-2nd-Ave-N-Miltona-MN-56354/113923989_zpid/,469 2nd Ave N,56354,Miltona,MN,46.047604,-95.297809,169900.0,2.0,3.0,1680.0,1999,18295.0,SINGLE_FAMILY,FOR_SALE,16
+2084106876,https://www.zillow.com/homedetails/14281-Spring-Lake-Rd-NW-Miltona-MN-56354/2084106876_zpid/,14281 Spring Lake Rd NW,56354,Miltona,MN,46.041177,-95.428316,329900.0,1.0,3.0,1426.0,1997,29620.0,SINGLE_FAMILY,FOR_SALE,30
+113924025,https://www.zillow.com/homedetails/116-W-Street-Cir-UNIT-104-Miltona-MN-56354/113924025_zpid/,116 W Street Cir UNIT 104,56354,Miltona,MN,46.044939,-95.295563,159900.0,2.0,2.0,1484.0,2004,3049.0,TOWNHOUSE,FOR_SALE,19
+113922652,https://www.zillow.com/homedetails/362-W-Sandy-Beach-Dr-NW-Miltona-MN-56354/113922652_zpid/,362 W Sandy Beach Dr NW,56354,Miltona,MN,46.05384,-95.380965,575000.0,2.0,4.0,3564.0,1990,19253.0,SINGLE_FAMILY,FOR_SALE,49
+113922661,https://www.zillow.com/homedetails/980-E-Sandy-Beach-Dr-NE-Miltona-MN-56354/113922661_zpid/,980 E Sandy Beach Dr NE,56354,Miltona,MN,46.05999,-95.363271,840000.0,3.0,5.0,3836.0,2001,2147483647.0,SINGLE_FAMILY,FOR_SALE,52

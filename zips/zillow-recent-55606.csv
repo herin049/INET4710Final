@@ -1,0 +1,14 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+123957210,https://www.zillow.com/homedetails/275-Camp-20-Rd-Hovland-MN-55606/123957210_zpid/,275 Camp 20 Rd,55606,Hovland,MN,47.858113,-90.027282,320000.0,2.0,2.0,1562.0,2005,435600.0,SINGLE_FAMILY,RECENTLY_SOLD,1
+2082481556,https://www.zillow.com/homedetails/1329-Tom-Lake-Rd-Hovland-MN-55606/2082481556_zpid/,1329 Tom Lake Rd,55606,Hovland,MN,47.920197,-90.054005,150000.0,2.0,2.0,730.0,-1,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+238975897,https://www.zillow.com/homedetails/219-Arrowhead-Trl-Hovland-MN-55606/238975897_zpid/,219 Arrowhead Trl,55606,Hovland,MN,47.859957,-89.96547,120000.0,1.0,1.0,732.0,1964,22215.0,SINGLE_FAMILY,RECENTLY_SOLD,1
+2085773608,https://www.zillow.com/homedetails/4794-Chicago-Bay-Road-Hovland-MN-55606/2085773608_zpid/,4794 Chicago Bay Road,55606,Hovland,MN,47.840564,-89.963589,475000.0,2.0,3.0,2433.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
+238975919,https://www.zillow.com/homedetails/94-Stonegate-Rd-Hovland-MN-55606/238975919_zpid/,94 Stonegate Rd,55606,Hovland,MN,47.842321,-89.953,650000.0,2.5,4.0,1652.0,1994,496584.0,SINGLE_FAMILY,SOLD,0
+238975976,https://www.zillow.com/homedetails/184-Stonegate-Rd-Hovland-MN-55606/238975976_zpid/,184 Stonegate Rd,55606,Hovland,MN,47.844113,-89.945156,760000.0,2.0,2.0,1280.0,-1,232610.0,SINGLE_FAMILY,SOLD,0
+2089386985,https://www.zillow.com/homedetails/184-Stone-Gate-Road-Hovland-MN-55606/2089386985_zpid/,184 Stone Gate Road,55606,Hovland,MN,47.844081,-89.945338,760000.0,2.0,2.0,2340.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
+2092276306,https://www.zillow.com/homedetails/551-Moose-Valley-Rd-Hovland-MN-55606/2092276306_zpid/,551 Moose Valley Rd,55606,Hovland,MN,47.890418,-89.924028,132000.0,1.0,1.0,700.0,1995,435600.0,SINGLE_FAMILY,SOLD,1
+238976001,https://www.zillow.com/homedetails/815-Otter-Lake-Rd-Hovland-MN-55606/238976001_zpid/,815 Otter Lake Rd,55606,Hovland,MN,47.989168,-89.927143,160000.0,2.0,2.0,768.0,-1,1742400.0,SINGLE_FAMILY,SOLD,0
+2089386664,https://www.zillow.com/homedetails/13-Boulder-Blvd-Hovland-MN-55606/2089386664_zpid/,13 Boulder Blvd,55606,Hovland,MN,47.914402,-90.039838,170000.0,1.0,2.0,1080.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
+125073478,https://www.zillow.com/homedetails/5412-Ida-Ln-Hovland-MN-55606/125073478_zpid/,5412 Ida Ln,55606,Hovland,MN,47.865297,-89.909691,225000.0,1.0,2.0,630.0,1948,26136.0,SINGLE_FAMILY,SOLD,1
+2093623100,https://www.zillow.com/homedetails/156-Stonegate-Rd-Hovland-MN-55606/2093623100_zpid/,156 Stonegate Rd,55606,Hovland,MN,47.843802,-89.947802,500000.0,2.0,2.0,1978.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
+2093894142,https://www.zillow.com/homedetails/10-Hammer-Hovland-MN-55606/2093894142_zpid/,10 Hammer,55606,Hovland,MN,47.839407,-89.973973,74000.0,1.0,1.0,420.0,-1,-1.0,SINGLE_FAMILY,SOLD,0

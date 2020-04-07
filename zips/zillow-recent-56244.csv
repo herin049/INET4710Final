@@ -1,0 +1,15 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106837349,https://www.zillow.com/homedetails/655-5th-St-Hancock-MN-56244/106837349_zpid/,655 5th St,56244,Hancock,MN,45.498101,-95.793704,78725.0,1.0,2.0,1016.0,1928,13982.0,SINGLE_FAMILY,RECENTLY_SOLD,1
+106836417,https://www.zillow.com/homedetails/548-4th-St-Hancock-MN-56244/106836417_zpid/,548 4th St,56244,Hancock,MN,45.496477,-95.79276,33000.0,1.0,2.0,1008.0,1911,100140.0,SINGLE_FAMILY,RECENTLY_SOLD,4
+106837317,https://www.zillow.com/homedetails/654-5th-St-Hancock-MN-56244/106837317_zpid/,654 5th St,56244,Hancock,MN,45.49773,-95.793077,109500.0,2.0,3.0,1064.0,1953,11325.0,SINGLE_FAMILY,RECENTLY_SOLD,6
+113937061,https://www.zillow.com/homedetails/29158-Lake-Ave-Hancock-MN-56244/113937061_zpid/,29158 Lake Ave,56244,Hancock,MN,45.479693,-95.78078,167500.0,3.0,3.0,1476.0,1949,784080.0,SINGLE_FAMILY,SOLD,0
+106836517,https://www.zillow.com/homedetails/382-8th-St-Hancock-MN-56244/106836517_zpid/,382 8th St,56244,Hancock,MN,45.497065,-95.799853,132200.0,2.0,3.0,2300.0,1974,11250.0,SINGLE_FAMILY,SOLD,0
+106838670,https://www.zillow.com/homedetails/49138-330th-St-Hancock-MN-56244/106838670_zpid/,49138 330th St,56244,Hancock,MN,45.42815,-95.935525,400000.0,2.0,3.0,2848.0,2015,397267.0,SINGLE_FAMILY,SOLD,18
+106836794,https://www.zillow.com/homedetails/26592-State-Highway-9-Hancock-MN-56244/106836794_zpid/,26592 State Highway 9,56244,Hancock,MN,45.517591,-95.827245,317000.0,2.0,4.0,2732.0,1974,191664.0,SINGLE_FAMILY,SOLD,0
+106836405,https://www.zillow.com/homedetails/546-4th-St-Hancock-MN-56244/106836405_zpid/,546 4th St,56244,Hancock,MN,45.496301,-95.792992,57900.0,1.0,3.0,1282.0,1918,10454.0,SINGLE_FAMILY,SOLD,0
+106836997,https://www.zillow.com/homedetails/385-8th-St-Hancock-MN-56244/106836997_zpid/,385 8th St,56244,Hancock,MN,45.497732,-95.800252,136900.0,3.0,4.0,1763.0,1915,20037.0,SINGLE_FAMILY,SOLD,9
+106836743,https://www.zillow.com/homedetails/37-Sunset-Ln-Hancock-MN-56244/106836743_zpid/,37 Sunset Ln,56244,Hancock,MN,45.496524,-95.788393,154400.0,1.0,3.0,2062.0,1959,12632.0,SINGLE_FAMILY,SOLD,49
+106836321,https://www.zillow.com/homedetails/759-Atlantic-Ave-Hancock-MN-56244/106836321_zpid/,759 Atlantic Ave,56244,Hancock,MN,45.498669,-95.797846,198000.0,3.0,3.0,4388.0,1920,13939.0,SINGLE_FAMILY,SOLD,10
+106836712,https://www.zillow.com/homedetails/957-5th-St-Hancock-MN-56244/106836712_zpid/,957 5th St,56244,Hancock,MN,45.501087,-95.792648,39000.0,1.0,2.0,1052.0,1920,6969.0,SINGLE_FAMILY,SOLD,0
+106836188,https://www.zillow.com/homedetails/33956-Lake-Ave-Hancock-MN-56244/106836188_zpid/,33956 Lake Ave,56244,Hancock,MN,45.428945,-95.788474,54000.0,2.0,4.0,2152.0,1910,43560.0,SINGLE_FAMILY,SOLD,0
+106836337,https://www.zillow.com/homedetails/669-6th-St-Hancock-MN-56244/106836337_zpid/,669 6th St,56244,Hancock,MN,45.498835,-95.794655,159500.0,3.0,3.0,2655.0,1920,27007.0,SINGLE_FAMILY,SOLD,19

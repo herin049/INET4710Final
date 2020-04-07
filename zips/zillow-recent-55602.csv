@@ -1,0 +1,16 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+61571106,https://www.zillow.com/homedetails/2123-Town-Line-Rd-Brimson-MN-55602/61571106_zpid/,2123 Town Line Rd,55602,Brimson,MN,47.376742,-91.909719,270000.0,1.0,1.0,1101.0,2002,350222.0,SINGLE_FAMILY,RECENTLY_SOLD,33
+61582034,https://www.zillow.com/homedetails/2651-Highway-44-Brimson-MN-55602/61582034_zpid/,2651 Highway 44,55602,Brimson,MN,47.307398,-91.847091,285000.0,0.75,2.0,1064.0,1997,1742400.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+61571062,https://www.zillow.com/homedetails/3779-Old-Highway-16-Brimson-MN-55602/61571062_zpid/,3779 Old Highway 16,55602,Brimson,MN,47.39458,-91.797815,195000.0,2.0,2.0,1288.0,2007,871200.0,SINGLE_FAMILY,RECENTLY_SOLD,1
+2082962566,https://www.zillow.com/homedetails/1587-Little-Stone-Lake-Brimson-MN-55602/2082962566_zpid/,1587 Little Stone Lake,55602,Brimson,MN,47.232436,-91.819819,118000.0,1.0,2.0,900.0,-1,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+61570452,https://www.zillow.com/homedetails/1455-Stone-Lake-Bridge-Rd-Brimson-MN-55602/61570452_zpid/,1455 Stone Lake Bridge Rd,55602,Brimson,MN,47.226166,-91.835059,178000.0,1.0,3.0,1600.0,1960,81021.0,SINGLE_FAMILY,SOLD,19
+2137340436,https://www.zillow.com/homedetails/6505-Grondahl-Rd-Brimson-MN-55602/2137340436_zpid/,6505 Grondahl Rd,55602,Brimson,MN,47.400529,-91.746163,120000.0,1.0,2.0,1152.0,1979,261360.0,SINGLE_FAMILY,SOLD,24
+61570367,https://www.zillow.com/homedetails/1596-Stone-Lake-Bridge-Rd-Brimson-MN-55602/61570367_zpid/,1596 Stone Lake Bridge Rd,55602,Brimson,MN,47.224785,-91.843729,137000.0,2.0,3.0,2694.0,1963,9583.0,SINGLE_FAMILY,SOLD,1
+61582128,https://www.zillow.com/homedetails/3400-Lalonde-Beach-Rd-Brimson-MN-55602/61582128_zpid/,3400 Lalonde Beach Rd,55602,Brimson,MN,47.363496,-91.916432,35000.0,0.75,3.0,1328.0,1965,87120.0,SINGLE_FAMILY,SOLD,0
+61582015,https://www.zillow.com/homedetails/2713-Highway-44-Brimson-MN-55602/61582015_zpid/,2713 Highway 44,55602,Brimson,MN,47.315062,-91.84561,20950.0,2.0,0.0,1664.0,1967,89733.0,LOT,SOLD,0
+61582107,https://www.zillow.com/homedetails/3466-Lalonde-Beach-Rd-Brimson-MN-55602/61582107_zpid/,3466 Lalonde Beach Rd,55602,Brimson,MN,47.369727,-91.910909,277000.0,1.5,3.0,2400.0,2004,87120.0,SINGLE_FAMILY,SOLD,0
+61570371,https://www.zillow.com/homedetails/1494-Hopper-Rd-Brimson-MN-55602/61570371_zpid/,1494 Hopper Rd,55602,Brimson,MN,47.226668,-91.84314,99900.0,2.0,2.0,3055.0,1971,176418.0,APARTMENT,SOLD,0
+61570504,https://www.zillow.com/homedetails/1559-Stone-Lake-Bridge-Rd-Brimson-MN-55602/61570504_zpid/,1559 Stone Lake Bridge Rd,55602,Brimson,MN,47.224905,-91.839566,136000.0,1.0,4.0,680.0,1983,-1.0,SINGLE_FAMILY,SOLD,0
+61570280,https://www.zillow.com/homedetails/2118-Highway-44-Brimson-MN-55602/61570280_zpid/,2118 Highway 44,55602,Brimson,MN,47.272705,-91.842259,229000.0,2.0,3.0,2352.0,1990,1703152.0,SINGLE_FAMILY,SOLD,0
+61582138,https://www.zillow.com/homedetails/3348-Lalonde-Beach-Rd-Brimson-MN-55602/61582138_zpid/,3348 Lalonde Beach Rd,55602,Brimson,MN,47.360978,-91.917235,270424.0,3.0,4.0,3855.0,1985,432986.0,SINGLE_FAMILY,SOLD,7
+2094329122,https://www.zillow.com/homedetails/3561-Apple-Creek-Brimson-MN-55602/2094329122_zpid/,3561 Apple Creek,55602,Brimson,MN,47.378565,-91.892949,125000.0,1.0,2.0,777.0,-1,-1.0,SINGLE_FAMILY,SOLD,0

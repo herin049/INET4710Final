@@ -1,0 +1,6 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+113934382,https://www.zillow.com/homedetails/803-S-Lafayette-Ave-Fulda-MN-56131/113934382_zpid/,803 S Lafayette Ave,56131,Fulda,MN,43.854392,-95.603076,239000.0,3.0,4.0,2741.0,2002,26571.0,SINGLE_FAMILY,FOR_SALE,31
+113934384,https://www.zillow.com/homedetails/807-S-Lafayette-Ave-Fulda-MN-56131/113934384_zpid/,807 S Lafayette Ave,56131,Fulda,MN,43.854388,-95.603076,269000.0,3.0,3.0,3127.0,1995,50000.0,SINGLE_FAMILY,FOR_SALE,25
+305254152,https://www.zillow.com/homedetails/10959-Palm-Ave-Fulda-MN-56131/305254152_zpid/,10959 Palm Ave,56131,Fulda,MN,43.835181,-95.634115,298500.0,2.0,3.0,3248.0,1920,348480.0,SINGLE_FAMILY,FOR_SALE,37
+106786474,https://www.zillow.com/homedetails/12161-Paul-Ave-Fulda-MN-56131/106786474_zpid/,12161 Paul Ave,56131,Fulda,MN,43.817231,-95.613551,239500.0,2.0,3.0,2040.0,1905,218671.0,SINGLE_FAMILY,FOR_SALE,26
+106776151,https://www.zillow.com/homedetails/2907-71st-St-Dundee-MN-56131/106776151_zpid/,2907 71st St,56131,Dundee,MN,43.948933,-95.482032,135000.0,2.0,3.0,960.0,1948,87120.0,SINGLE_FAMILY,FOR_SALE,10

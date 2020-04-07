@@ -1,0 +1,3 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+84504491,https://www.zillow.com/homedetails/23254-Fertile-Ave-Warsaw-MN-55087/84504491_zpid/,23254 Fertile Ave,55087,Warsaw,MN,44.25039,-93.395893,195000.0,2.0,4.0,2394.0,1970,19079.0,SINGLE_FAMILY,FOR_SALE,33
+81628092,https://www.zillow.com/homedetails/6556-232nd-St-W-Warsaw-MN-55087/81628092_zpid/,6556 232nd St W,55087,Warsaw,MN,44.251461,-93.395009,120000.0,1.0,1.0,620.0,1920,21648.0,SINGLE_FAMILY,FOR_SALE,13

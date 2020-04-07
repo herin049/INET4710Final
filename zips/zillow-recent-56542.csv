@@ -1,0 +1,9 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106802297,https://www.zillow.com/homedetails/38146-350th-Ave-SE-Fosston-MN-56542/106802297_zpid/,38146 350th Ave SE,56542,Fosston,MN,47.613621,-95.72592,187500.0,2.0,3.0,2020.0,1905,174240.0,SINGLE_FAMILY,RECENTLY_SOLD,32
+106799319,https://www.zillow.com/homedetails/41329-400th-Ave-SE-Fosston-MN-56542/106799319_zpid/,41329 400th Ave SE,56542,Fosston,MN,47.566495,-95.623771,234900.0,2.0,3.0,864.0,1965,3484800.0,SINGLE_FAMILY,RECENTLY_SOLD,34
+106809365,https://www.zillow.com/homedetails/515-2nd-St-NE-Fosston-MN-56542/106809365_zpid/,515 2nd St NE,56542,Fosston,MN,47.575718,-95.744888,169000.0,3.0,5.0,1344.0,1983,19257.0,SINGLE_FAMILY,RECENTLY_SOLD,49
+106802304,https://www.zillow.com/homedetails/38720-335th-Ave-SE-Fosston-MN-56542/106802304_zpid/,38720 335th Ave SE,56542,Fosston,MN,47.606299,-95.757231,127000.0,1.0,4.0,2000.0,1900,277041.0,SINGLE_FAMILY,RECENTLY_SOLD,29
+106809670,https://www.zillow.com/homedetails/819-Mary-Ave-N-Fosston-MN-56542/106809670_zpid/,819 Mary Ave N,56542,Fosston,MN,47.582329,-95.749969,219500.0,2.0,4.0,3100.0,1971,15725.0,SINGLE_FAMILY,RECENTLY_SOLD,30
+2088921191,https://www.zillow.com/homedetails/120-Cleveland-Mcintosh-MN-56542/2088921191_zpid/,120 Cleveland,56542,Mcintosh,MN,47.63669,-95.888008,37000.0,1.0,0.0,1482.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
+106809285,https://www.zillow.com/homedetails/213-2nd-St-SW-Fosston-MN-56542/106809285_zpid/,213 2nd St SW,56542,Fosston,MN,47.576243,-95.755546,15100.0,1.0,2.0,1381.0,1940,10890.0,SINGLE_FAMILY,SOLD,0
+106802516,https://www.zillow.com/homedetails/35627-350th-Ave-SE-Fosston-MN-56542/106802516_zpid/,35627 350th Ave SE,56542,Fosston,MN,47.650208,-95.730219,45900.0,2.0,1.0,2000.0,2006,346737.0,SINGLE_FAMILY,SOLD,50

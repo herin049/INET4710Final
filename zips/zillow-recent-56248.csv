@@ -1,0 +1,12 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+106681700,https://www.zillow.com/homedetails/205-3rd-St-E-Herman-MN-56248/106681700_zpid/,205 3rd St E,56248,Herman,MN,45.808184,-96.139534,105000.0,2.0,4.0,2450.0,1910,15246.0,SINGLE_FAMILY,RECENTLY_SOLD,44
+106680695,https://www.zillow.com/homedetails/25688-120th-St-Herman-MN-56248/106680695_zpid/,25688 120th St,56248,Herman,MN,45.791887,-96.08047,234900.0,3.0,5.0,2744.0,2007,461736.0,SINGLE_FAMILY,RECENTLY_SOLD,46
+2088799786,https://www.zillow.com/homedetails/106-Hamburg-Ave-S-Herman-MN-56248/2088799786_zpid/,106 Hamburg Ave S,56248,Herman,MN,45.807094,-96.136191,57500.0,2.0,2.0,1360.0,1890,26136.0,SINGLE_FAMILY,RECENTLY_SOLD,0
+106681685,https://www.zillow.com/homedetails/605-Hanover-Ave-N-Herman-MN-56248/106681685_zpid/,605 Hanover Ave N,56248,Herman,MN,45.811032,-96.142169,45000.0,1.0,2.0,872.0,1940,8712.0,SINGLE_FAMILY,RECENTLY_SOLD,40
+106680252,https://www.zillow.com/homedetails/23407-State-Highway-27-Herman-MN-56248/106680252_zpid/,23407 State Highway 27,56248,Herman,MN,45.816889,-96.036399,47000.0,1.0,3.0,1152.0,1976,196020.0,MANUFACTURED,RECENTLY_SOLD,12
+106681666,https://www.zillow.com/homedetails/102-Jones-St-E-Herman-MN-56248/106681666_zpid/,102 Jones St E,56248,Herman,MN,45.802958,-96.138403,47000.0,1.0,3.0,1348.0,1935,130341313.0,SINGLE_FAMILY,SOLD,23
+106681651,https://www.zillow.com/homedetails/404-3rd-St-E-Herman-MN-56248/106681651_zpid/,404 3rd St E,56248,Herman,MN,45.808799,-96.136776,119000.0,2.0,4.0,2632.0,1979,11325.0,SINGLE_FAMILY,SOLD,30
+106681682,https://www.zillow.com/homedetails/201-6th-St-E-Herman-MN-56248/106681682_zpid/,201 6th St E,56248,Herman,MN,45.81047,-96.142536,37500.0,1.0,3.0,2190.0,1925,20908.0,SINGLE_FAMILY,SOLD,50
+194207668,https://www.zillow.com/homedetails/302-1st-St-E-Herman-MN-56248/194207668_zpid/,302 1st St E,56248,Herman,MN,45.806212,-96.137006,190000.0,2.0,3.0,2026.0,1988,57499.0,SINGLE_FAMILY,SOLD,42
+121497917,https://www.zillow.com/homedetails/15511-230th-Ave-Herman-MN-56248/121497917_zpid/,15511 230th Ave,56248,Herman,MN,45.840361,-96.028502,148000.0,1.0,3.0,1112.0,1948,522720.0,SINGLE_FAMILY,SOLD,30
+106681662,https://www.zillow.com/homedetails/107-Jones-St-E-Herman-MN-56248/106681662_zpid/,107 Jones St E,56248,Herman,MN,45.803504,-96.137657,51500.0,1.0,2.0,1792.0,1957,-1.0,SINGLE_FAMILY,SOLD,14

@@ -1,0 +1,5 @@
+id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
+249447238,https://www.zillow.com/homedetails/919-Christine-Cir-Beaver-Bay-MN-55601/249447238_zpid/,919 Christine Cir,55601,Beaver Bay,MN,47.258857,-91.304988,119900.0,1.0,3.0,924.0,1935,8712.0,SINGLE_FAMILY,FOR_SALE,27
+2080936848,https://www.zillow.com/homedetails/919-Christine-Cr-Beaver-Bay-MN-55601/2080936848_zpid/,919 Christine Cr,55601,Beaver Bay,MN,47.258857,-91.304988,119900.0,1.0,3.0,924.0,1935,8712.0,SINGLE_FAMILY,FOR_SALE,27
+106719413,https://www.zillow.com/homedetails/615-Windsong-Dr-Beaver-Bay-MN-55601/106719413_zpid/,615 Windsong Dr,55601,Beaver Bay,MN,47.250767,-91.309373,339900.0,2.0,2.0,1426.0,2003,1742.0,TOWNHOUSE,FOR_SALE,40
+2088171138,https://www.zillow.com/homedetails/4576-Cove-SIDE-COTTAGE-Beaver-Bay-MN-55601/2088171138_zpid/,4576 Cove SIDE COTTAGE,55601,Beaver Bay,MN,47.2566,-91.305133,389000.0,2.0,2.0,1448.0,1999,-1.0,TOWNHOUSE,FOR_SALE,49
