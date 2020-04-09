@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106825661,https://www.zillow.com/homedetails/144-6th-Ave-SE-Blooming-Prairie-MN-55917/106825661_zpid/,144 6th Ave SE,55917,Blooming Prairie,MN,43.865799,-93.0457,69900.0,1.0,2.0,898.0,1920,10628.0,SINGLE_FAMILY,FOR_SALE,2
-106825699,https://www.zillow.com/homedetails/119-2nd-St-NE-Blooming-Prairie-MN-55917/106825699_zpid/,119 2nd St NE,55917,Blooming Prairie,MN,43.868753,-93.05472,105800.0,1.0,2.0,947.0,1880,10200.0,SINGLE_FAMILY,FOR_SALE,8

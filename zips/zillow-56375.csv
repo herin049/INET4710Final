@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-74901147,https://www.zillow.com/homedetails/303-11th-St-SW-Saint-Stephen-MN-56375/74901147_zpid/,303 11th St SW,56375,Saint Stephen,MN,45.690166,-94.28013,375000.0,2.0,3.0,2050.0,1977,400316.0,SINGLE_FAMILY,FOR_SALE,53
-74873386,https://www.zillow.com/homedetails/714-12th-Ave-NE-Saint-Stephen-MN-56375/74873386_zpid/,714 12th Ave NE,56375,Saint Stephen,MN,45.713794,-94.252261,795000.0,3.0,4.0,3264.0,1984,921294.0,SINGLE_FAMILY,FOR_SALE,53

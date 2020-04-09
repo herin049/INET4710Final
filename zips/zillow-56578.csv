@@ -1,5 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106611202,https://www.zillow.com/homedetails/24557-Walden-Rd-Rochert-MN-56578/106611202_zpid/,24557 Walden Rd,56578,Rochert,MN,46.927713,-95.540189,980000.0,3.0,3.0,2429.0,2006,45737.0,SINGLE_FAMILY,FOR_SALE,45
-106606789,https://www.zillow.com/homedetails/27807-Eagen-Acres-Rd-Rochert-MN-56578/106606789_zpid/,27807 Eagen Acres Rd,56578,Rochert,MN,46.975058,-95.777985,373000.0,2.0,4.0,2504.0,2006,484822.0,SINGLE_FAMILY,FOR_SALE,43
-106605296,https://www.zillow.com/homedetails/32827-NE-Pickerel-Lake-Dr-Rochert-MN-56578/106605296_zpid/,32827 NE Pickerel Lake Dr,56578,Rochert,MN,46.87425,-95.713047,419000.0,4.0,3.0,3824.0,2003,174240.0,SINGLE_FAMILY,FOR_SALE,37
-106605408,https://www.zillow.com/homedetails/20830-County-Highway-29-Rochert-MN-56578/106605408_zpid/,20830 County Highway 29,56578,Rochert,MN,46.872241,-95.675903,155000.0,1.0,2.0,960.0,1973,43560.0,SINGLE_FAMILY,FOR_SALE,20

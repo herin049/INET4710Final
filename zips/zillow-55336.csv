@@ -1,8 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2089230421,https://www.zillow.com/homedetails/317-Edgewood-Dr-S-Glencoe-MN-55336/2089230421_zpid/,317 Edgewood Dr S,55336,Glencoe,MN,44.76264,-94.146503,299999.0,2.0,2.0,1608.0,2019,14984.0,SINGLE_FAMILY,FOR_SALE,29
-106749513,https://www.zillow.com/homedetails/927-16th-St-E-Glencoe-MN-55336/106749513_zpid/,927 16th St E,55336,Glencoe,MN,44.775392,-94.149504,83200.0,1.0,2.0,1008.0,1950,8712.0,SINGLE_FAMILY,FOR_SALE,5
-113932120,https://www.zillow.com/homedetails/14493-140th-St-Glencoe-MN-55336/113932120_zpid/,14493 140th St,55336,Glencoe,MN,44.81498,-94.28479,385000.0,3.0,4.0,3413.0,1925,326700.0,SINGLE_FAMILY,FOR_SALE,27
-106749699,https://www.zillow.com/homedetails/1708-Louden-Ave-N-Glencoe-MN-55336/106749699_zpid/,1708 Louden Ave N,55336,Glencoe,MN,44.776869,-94.146086,249900.0,3.0,4.0,1712.0,1994,-1.0,SINGLE_FAMILY,FOR_SALE,19
-2083655206,https://www.zillow.com/homedetails/9626-Lace-Ave-Glencoe-MN-55336/2083655206_zpid/,9626 Lace Ave,55336,Glencoe,MN,44.756038,-94.2488,339900.0,2.0,3.0,1832.0,1967,309276.0,SINGLE_FAMILY,FOR_SALE,15
-106748384,https://www.zillow.com/homedetails/525-Edgewood-Dr-Glencoe-MN-55336/106748384_zpid/,525 Edgewood Dr,55336,Glencoe,MN,44.765052,-94.149232,345000.0,4.0,6.0,4312.0,1978,11761.0,SINGLE_FAMILY,FOR_SALE,31
-2086591096,https://www.zillow.com/homedetails/317-Edgewood-Drive-S-Dr-S-Glencoe-MN-55336/2086591096_zpid/,317 Edgewood Drive S Dr S,55336,Glencoe,MN,44.7605,-94.1462,299999.0,2.0,2.0,1608.0,2019,14984.0,SINGLE_FAMILY,FOR_SALE,29

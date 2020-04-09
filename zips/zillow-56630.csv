@@ -1,9 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-117527793,https://www.zillow.com/homedetails/16748-Montgomery-Ln-NE-Blackduck-MN-56630/117527793_zpid/,16748 Montgomery Ln NE,56630,Blackduck,MN,47.628199,-94.526469,249900.0,3.0,3.0,3712.0,1999,245242.0,SINGLE_FAMILY,FOR_SALE,48
-117528107,https://www.zillow.com/homedetails/397-Mill-Ave-Blackduck-MN-56630/117528107_zpid/,397 Mill Ave,56630,Blackduck,MN,47.727116,-94.541735,59900.0,1.0,2.0,1608.0,1946,12632.0,SINGLE_FAMILY,FOR_SALE,4
-115001180,https://www.zillow.com/homedetails/25855-Fisher-Rd-NE-Blackduck-MN-56630/115001180_zpid/,25855 Fisher Rd NE,56630,Blackduck,MN,47.542846,-94.50821,152900.0,1.0,1.0,468.0,2004,78408.0,SINGLE_FAMILY,FOR_SALE,15
-2080700829,https://www.zillow.com/homedetails/416-4th-St-Blackduck-MN-56630/2080700829_zpid/,416 4th St,56630,Blackduck,MN,47.729952,-94.542121,159900.0,2.0,3.0,1440.0,2019,34848.0,SINGLE_FAMILY,FOR_SALE,33
-117526151,https://www.zillow.com/homedetails/24467-Alvwood-Rd-NE-Blackduck-MN-56630/117526151_zpid/,24467 Alvwood Rd NE,56630,Blackduck,MN,47.731664,-94.532093,349900.0,3.0,3.0,3494.0,1981,3397680.0,SINGLE_FAMILY,FOR_SALE,64
-117527906,https://www.zillow.com/homedetails/56-3rd-St-NE-Blackduck-MN-56630/117527906_zpid/,56 3rd St NE,56630,Blackduck,MN,47.73032,-94.5434,64900.0,2.0,3.0,2508.0,1952,6969.0,SINGLE_FAMILY,FOR_SALE,12
-117528041,https://www.zillow.com/homedetails/533-Main-St-N-Blackduck-MN-56630/117528041_zpid/,533 Main St N,56630,Blackduck,MN,47.73562,-94.549068,47900.0,1.0,2.0,728.0,1934,20037.0,SINGLE_FAMILY,FOR_SALE,18
-2087691024,https://www.zillow.com/homedetails/23665-One-Mile-Rd-NE-Blackduck-MN-56630/2087691024_zpid/,23665 One Mile Rd NE,56630,Blackduck,MN,47.744299,-94.54553,134900.0,2.0,3.0,1552.0,2004,217800.0,SINGLE_FAMILY,FOR_SALE,25

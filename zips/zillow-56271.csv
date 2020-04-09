@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106838983,https://www.zillow.com/homedetails/830-Highway-12-SE-De-Graff-MN-56271/106838983_zpid/,830 Highway 12 SE,56271,De Graff,MN,45.221728,-95.389027,155000.0,1.0,3.0,1144.0,1976,113691.0,SINGLE_FAMILY,FOR_SALE,14
-249718106,https://www.zillow.com/homedetails/6050-40th-Ave-NE-De-Graff-MN-56271/249718106_zpid/,6050 40th Ave NE,56271,De Graff,MN,45.119246,-95.510392,239900.0,2.0,3.0,2054.0,1938,360676.0,SINGLE_FAMILY,FOR_SALE,38
-245844007,https://www.zillow.com/homedetails/700-Main-Ave-Murdock-MN-56271/245844007_zpid/,700 Main Ave,56271,Murdock,MN,45.222953,-95.391208,63000.0,2.0,2.0,2500.0,1900,21000.0,SINGLE_FAMILY,FOR_SALE,39

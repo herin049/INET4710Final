@@ -1,5 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-118143283,https://www.zillow.com/homedetails/246-Westwood-South-St-Red-Wing-MN-55089/118143283_zpid/,246 Westwood South St,55089,Red Wing,MN,44.584483,-92.666712,825000.0,5.0,3.0,5142.0,2004,118918.0,SINGLE_FAMILY,FOR_SALE,31
-2084271890,https://www.zillow.com/homedetails/124-Westwood-St-N-Welch-MN-55089/2084271890_zpid/,124 Westwood St N,55089,Welch,MN,44.591256,-92.711659,544900.0,4.0,5.0,4454.0,2004,228254.0,SINGLE_FAMILY,FOR_SALE,23
-74839676,https://www.zillow.com/homedetails/15720-Norelius-Rd-Welch-MN-55089/74839676_zpid/,15720 Norelius Rd,55089,Welch,MN,44.503112,-92.717164,149900.0,2.0,3.0,1132.0,1890,9360.0,SINGLE_FAMILY,FOR_SALE,16
-1675320,https://www.zillow.com/homedetails/20685-Roe-Ave-Welch-MN-55089/1675320_zpid/,20685 Roe Ave,55089,Welch,MN,44.647841,-92.738557,420415.0,3.0,2.0,2070.0,2005,215012.0,SINGLE_FAMILY,FORECLOSED,0

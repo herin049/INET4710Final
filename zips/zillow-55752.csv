@@ -1,5 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-113912192,https://www.zillow.com/homedetails/18402-664th-Ln-Jacobson-MN-55752/113912192_zpid/,18402 664th Ln,55752,Jacobson,MN,46.973135,-93.249056,274900.0,2.0,4.0,2489.0,1978,479160.0,SINGLE_FAMILY,FOR_SALE,38
-106601233,https://www.zillow.com/homedetails/66415-Great-River-Rd-Jacobson-MN-55752/106601233_zpid/,66415 Great River Rd,55752,Jacobson,MN,46.976136,-93.29534,99900.0,1.0,2.0,1512.0,1954,174240.0,SINGLE_FAMILY,FOR_SALE,15
-106601253,https://www.zillow.com/homedetails/20232-660th-Ln-Jacobson-MN-55752/106601253_zpid/,20232 660th Ln,55752,Jacobson,MN,46.970915,-93.28116,249900.0,2.0,3.0,1344.0,2007,3484800.0,SINGLE_FAMILY,FOR_SALE,28
-106602730,https://www.zillow.com/homedetails/21233-579th-St-Jacobson-MN-55752/106602730_zpid/,21233 579th St,55752,Jacobson,MN,46.848551,-93.296887,449000.0,3.0,3.0,3516.0,1998,1742400.0,SINGLE_FAMILY,FOR_SALE,41

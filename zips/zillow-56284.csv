@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106820003,https://www.zillow.com/homedetails/79118-240th-St-Renville-MN-56284/106820003_zpid/,79118 240th St,56284,Renville,MN,44.73303,-95.197797,179000.0,2.0,3.0,1752.0,1890,265280.0,SINGLE_FAMILY,FOR_SALE,41
-235804061,https://www.zillow.com/homedetails/400-Dupont-Ave-NW-Renville-MN-56284/235804061_zpid/,400 Dupont Ave NW,56284,Renville,MN,44.792774,-95.216882,285000.0,2.0,3.0,1976.0,1955,11250.0,SINGLE_FAMILY,FOR_SALE,43

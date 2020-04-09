@@ -1,5 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-115959995,https://www.zillow.com/homedetails/117-S-Church-Ave-Hills-MN-56138/115959995_zpid/,117 S Church Ave,56138,Hills,MN,43.529152,-96.359989,49900.0,1.0,1.0,694.0,1895,6721.0,SINGLE_FAMILY,FOR_SALE,7
-115960009,https://www.zillow.com/homedetails/200-S-Summit-Ave-Hills-MN-56138/115960009_zpid/,200 S Summit Ave,56138,Hills,MN,43.527891,-96.363727,135000.0,1.0,4.0,1505.0,1915,21501.0,SINGLE_FAMILY,FOR_SALE,24
-115003885,https://www.zillow.com/homedetails/194-40th-Ave-Hills-MN-56138/115003885_zpid/,194 40th Ave,56138,Hills,MN,43.514324,-96.391732,170000.0,2.0,4.0,1582.0,1932,65775.0,SINGLE_FAMILY,FOR_SALE,16
-114978474,https://www.zillow.com/homedetails/400-S-Church-Ave-Hills-MN-56138/114978474_zpid/,400 S Church Ave,56138,Hills,MN,43.525663,-96.360794,154900.0,2.0,2.0,1040.0,1974,13438.0,SINGLE_FAMILY,FOR_SALE,15

@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106841137,https://www.zillow.com/homedetails/701-Marysland-Ave-Danvers-MN-56231/106841137_zpid/,701 Marysland Ave,56231,Danvers,MN,45.281963,-95.755786,102000.0,3.0,3.0,2058.0,1982,36154.0,SINGLE_FAMILY,SOLD,0
-106841152,https://www.zillow.com/homedetails/706-Marysland-Ave-Danvers-MN-56231/106841152_zpid/,706 Marysland Ave,56231,Danvers,MN,45.282237,-95.756642,37500.0,2.0,4.0,1064.0,1903,41817.0,SINGLE_FAMILY,SOLD,0

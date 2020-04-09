@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2080433943,https://www.zillow.com/homedetails/412-9th-St-W-Mantorville-MN-55955/2080433943_zpid/,412 9th St W,55955,Mantorville,MN,44.071275,-92.756325,289900.0,2.0,2.0,1026.0,2020,10846.0,SINGLE_FAMILY,FOR_SALE,1
-106641412,https://www.zillow.com/homedetails/60732-262nd-Ave-Mantorville-MN-55955/106641412_zpid/,60732 262nd Ave,55955,Mantorville,MN,44.071691,-92.714076,429900.0,3.0,5.0,3159.0,1993,146361.0,SINGLE_FAMILY,FOR_SALE,49
-106641358,https://www.zillow.com/homedetails/61170-265th-Ave-Mantorville-MN-55955/106641358_zpid/,61170 265th Ave,55955,Mantorville,MN,44.064686,-92.709381,499900.0,3.0,4.0,2029.0,1988,135907.0,SINGLE_FAMILY,FOR_SALE,39
-232998581,https://www.zillow.com/homedetails/811-East-St-Mantorville-MN-55955/232998581_zpid/,811 East St,55955,Mantorville,MN,44.070588,-92.752886,359900.0,4.0,3.0,2474.0,2017,17424.0,SINGLE_FAMILY,FOR_SALE,37
-106641806,https://www.zillow.com/homedetails/23017-585th-St-Mantorville-MN-55955/106641806_zpid/,23017 585th St,55955,Mantorville,MN,44.104377,-92.775393,495000.0,3.0,5.0,2816.0,1979,740520.0,SINGLE_FAMILY,FOR_SALE,44
-106641452,https://www.zillow.com/homedetails/26498-607th-St-Mantorville-MN-55955/106641452_zpid/,26498 607th St,55955,Mantorville,MN,44.069926,-92.709842,539900.0,3.0,5.0,3827.0,1992,157251.0,SINGLE_FAMILY,FOR_SALE,44

@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106821167,https://www.zillow.com/homedetails/447-W-Borden-Ave-Buffalo-Lake-MN-55314/106821167_zpid/,447 W Borden Ave,55314,Buffalo Lake,MN,44.735324,-94.622621,139900.0,2.0,3.0,1568.0,2003,14679.0,SINGLE_FAMILY,FOR_SALE,36
-2137943840,https://www.zillow.com/homedetails/523-W-Church-Ave-Buffalo-Lake-MN-55314/2137943840_zpid/,523 W Church Ave,55314,Buffalo Lake,MN,44.738671,-94.622022,95000.0,1.0,2.0,972.0,1963,10541.0,SINGLE_FAMILY,FOR_SALE,19

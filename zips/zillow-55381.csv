@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106754407,https://www.zillow.com/homedetails/20908-Flower-Rd-Silver-Lake-MN-55381/106754407_zpid/,20908 Flower Rd,55381,Silver Lake,MN,44.91385,-94.15294,599900.0,4.0,5.0,4045.0,2002,142441.0,SINGLE_FAMILY,FOR_SALE,42
-229480345,https://www.zillow.com/homedetails/609-Center-St-Silver-Lake-MN-55381/229480345_zpid/,609 Center St,55381,Silver Lake,MN,44.903783,-94.20126,148000.0,1.0,4.0,2296.0,1895,13198.0,SINGLE_FAMILY,FOR_SALE,16

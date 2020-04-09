@@ -1,6 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-1641737,https://www.zillow.com/homedetails/5405-Lincoln-St-Hampton-MN-55031/1641737_zpid/,5405 Lincoln St,55031,Hampton,MN,44.610855,-92.996725,150000.0,1.0,3.0,1402.0,1956,9278.0,SINGLE_FAMILY,FOR_SALE,18
-2080839440,https://www.zillow.com/homedetails/7515-240th-St-E-Hampton-MN-55031/2080839440_zpid/,7515 240th St E,55031,Hampton,MN,44.601604,-92.954128,350000.0,4.0,8.0,3300.0,1971,44997.0,APARTMENT,FOR_SALE,41
-2087072094,https://www.zillow.com/homedetails/7545-240th-St-E-Hampton-MN-55031/2087072094_zpid/,7545 240th St E,55031,Hampton,MN,44.601605,-92.953551,350000.0,4.0,8.0,3300.0,1971,44997.0,APARTMENT,FOR_SALE,41
-1641828,https://www.zillow.com/homedetails/23165-Northfield-Blvd-Hampton-MN-55031/1641828_zpid/,23165 Northfield Blvd,55031,Hampton,MN,44.613571,-92.998504,225000.0,1.0,3.0,1608.0,1948,12196.0,SINGLE_FAMILY,FOR_SALE,26
-71823207,https://www.zillow.com/homedetails/3818-240th-St-E-Hampton-MN-55031/71823207_zpid/,3818 240th St E,55031,Hampton,MN,44.594735,-93.029634,1500000.0,6.0,7.0,6708.0,2007,206910.0,SINGLE_FAMILY,FOR_SALE,69

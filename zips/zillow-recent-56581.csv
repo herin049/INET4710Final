@@ -1,9 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-249778674,https://www.zillow.com/homedetails/117-1st-St-Shelly-MN-56581/249778674_zpid/,117 1st St,56581,Shelly,MN,47.456993,-96.820074,89500.0,2.0,4.0,2888.0,1904,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,43
-122615799,https://www.zillow.com/homedetails/105-3rd-St-Shelly-MN-56581/122615799_zpid/,105 3rd St,56581,Shelly,MN,47.455928,-96.817325,90000.0,2.0,2.0,2400.0,1958,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,36
-106793296,https://www.zillow.com/homedetails/406-3rd-St-Shelly-MN-56581/106793296_zpid/,406 3rd St,56581,Shelly,MN,47.459854,-96.816617,170000.0,3.0,5.0,2692.0,1964,24393.0,SINGLE_FAMILY,SOLD,100
-106793267,https://www.zillow.com/homedetails/114-Johnson-St-Shelly-MN-56581/106793267_zpid/,114 Johnson St,56581,Shelly,MN,47.457157,-96.823287,15000.0,1.0,2.0,2328.0,1919,-1.0,SINGLE_FAMILY,SOLD,13
-122615798,https://www.zillow.com/homedetails/111-3rd-St-Shelly-MN-56581/122615798_zpid/,111 3rd St,56581,Shelly,MN,47.456722,-96.816995,85518.0,2.0,5.0,4000.0,1910,-1.0,SINGLE_FAMILY,SOLD,47
-2089115158,https://www.zillow.com/homedetails/208-Mckinley-West-Shelly-MN-56581/2089115158_zpid/,208 Mckinley West,56581,Shelly,MN,47.458279,-96.823862,59000.0,2.0,3.0,2064.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
-125027379,https://www.zillow.com/homedetails/205-2nd-St-Shelly-MN-56581/125027379_zpid/,205 2nd St,56581,Shelly,MN,47.457776,-96.818152,61860.0,2.0,2.0,2080.0,1965,-1.0,SINGLE_FAMILY,SOLD,27
-125027376,https://www.zillow.com/homedetails/301-Park-Dr-Shelly-MN-56581/125027376_zpid/,301 Park Dr,56581,Shelly,MN,47.459756,-96.822461,75500.0,2.0,3.0,2496.0,1968,-1.0,SINGLE_FAMILY,SOLD,16

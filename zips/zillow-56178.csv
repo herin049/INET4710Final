@@ -1,6 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106736590,https://www.zillow.com/homedetails/2416-160th-St-Tyler-MN-56178/106736590_zpid/,2416 160th St,56178,Tyler,MN,44.285275,-96.17803,50000.0,2.0,4.0,1608.0,1896,161172.0,SINGLE_FAMILY,FOR_SALE,34
-194399623,https://www.zillow.com/homedetails/126-Maple-St-Tyler-MN-56178/194399623_zpid/,126 Maple St,56178,Tyler,MN,44.273852,-96.136784,43900.0,1.0,3.0,1220.0,1898,19035.0,SINGLE_FAMILY,FOR_SALE,24
-194399758,https://www.zillow.com/homedetails/602-S-Tyler-St-Tyler-MN-56178/194399758_zpid/,602 S Tyler St,56178,Tyler,MN,44.266848,-96.134069,43900.0,1.0,4.0,1272.0,1920,30056.0,SINGLE_FAMILY,FOR_SALE,19
-2081433197,https://www.zillow.com/homedetails/210-N-Lawton-St-Tyler-MN-56178/2081433197_zpid/,210 N Lawton St,56178,Tyler,MN,44.279175,-96.13748,34900.0,2.0,1.0,688.0,1940,8973.0,SINGLE_FAMILY,FOR_SALE,27
-106737865,https://www.zillow.com/homedetails/412-S-Tyler-St-Tyler-MN-56178/106737865_zpid/,412 S Tyler St,56178,Tyler,MN,44.269131,-96.134466,79500.0,1.0,3.0,1500.0,1900,19645.0,SINGLE_FAMILY,FOR_SALE,37

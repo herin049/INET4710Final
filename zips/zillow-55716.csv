@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-120636403,https://www.zillow.com/homedetails/321-3rd-Ave-Calumet-MN-55716/120636403_zpid/,321 3rd Ave,55716,Calumet,MN,47.323484,-93.276248,99900.0,2.0,6.0,2564.0,1926,7405.0,SINGLE_FAMILY,FOR_SALE,13
-120634702,https://www.zillow.com/homedetails/664-6th-Ave-Calumet-MN-55716/120634702_zpid/,664 6th Ave,55716,Calumet,MN,47.321303,-93.273823,68000.0,1.0,3.0,2430.0,1910,10018.0,SINGLE_FAMILY,FOR_SALE,12

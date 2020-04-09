@@ -1,5 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106638474,https://www.zillow.com/homedetails/4024-United-States-Ave-Storden-MN-56174/106638474_zpid/,4024 United States Ave,56174,Storden,MN,44.042861,-95.320557,29000.0,2.0,3.0,1080.0,1904,15000.0,SINGLE_FAMILY,RECENTLY_SOLD,16
-106638497,https://www.zillow.com/homedetails/409-Paska-St-Storden-MN-56174/106638497_zpid/,409 Paska St,56174,Storden,MN,44.038598,-95.318862,32900.0,2.0,4.0,1328.0,1905,7384.0,SINGLE_FAMILY,SOLD,1
-106638556,https://www.zillow.com/homedetails/132-State-Highway-30-Storden-MN-56174/106638556_zpid/,132 State Highway 30,56174,Storden,MN,44.036222,-95.322068,32000.0,1.0,2.0,1528.0,1946,10454.0,SINGLE_FAMILY,SOLD,0
-106638445,https://www.zillow.com/homedetails/2010-Sweden-Ave-Storden-MN-56174/106638445_zpid/,2010 Sweden Ave,56174,Storden,MN,44.041039,-95.317784,110000.0,2.0,3.0,2728.0,1962,9583.0,SINGLE_FAMILY,SOLD,0

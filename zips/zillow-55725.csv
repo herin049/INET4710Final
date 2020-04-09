@@ -1,6 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2126007677,https://www.zillow.com/homedetails/407-Big-Bear-Is-Crane-Lake-MN-55725/2126007677_zpid/,407 Big Bear Is,55725,Crane Lake,MN,48.2785,-92.4702,319000.0,1.0,3.0,1001.0,1970,61419.0,SINGLE_FAMILY,FOR_SALE,34
-149997073,https://www.zillow.com/homedetails/7490-Bayside-Dr-Crane-Lake-MN-55725/149997073_zpid/,7490 Bayside Dr,55725,Crane Lake,MN,48.264116,-92.482898,359000.0,1.0,2.0,796.0,1982,26136.0,SINGLE_FAMILY,FOR_SALE,29
-2080552009,https://www.zillow.com/homedetails/681-E-Bay-S-Crane-Lake-MN-55725/2080552009_zpid/,681 E Bay S,55725,Crane Lake,MN,48.279695,-92.488982,128900.0,1.0,1.0,872.0,1960,43560.0,SINGLE_FAMILY,FOR_SALE,23
-2084318015,https://www.zillow.com/homedetails/125-S-Snake-Crk-Crane-Lake-MN-55725/2084318015_zpid/,125 S Snake Crk,55725,Crane Lake,MN,48.24601,-92.48473,177000.0,1.0,3.0,1068.0,1996,216493.0,SINGLE_FAMILY,FOR_SALE,24
-61604257,https://www.zillow.com/homedetails/7073-Crane-Lake-Rd-Crane-Lake-MN-55725/61604257_zpid/,7073 Crane Lake Rd,55725,Crane Lake,MN,48.233753,-92.476702,325000.0,4.0,3.0,3100.0,2009,300564.0,SINGLE_FAMILY,FOR_SALE,34

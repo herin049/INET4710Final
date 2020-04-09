@@ -1,6 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-249938351,https://www.zillow.com/homedetails/1802-110th-St-Wolverton-MN-56594/249938351_zpid/,1802 110th St,56594,Wolverton,MN,46.616439,-96.701646,283500.0,3.0,5.0,4200.0,1968,493970.0,SINGLE_FAMILY,FOR_SALE,58
-123023937,https://www.zillow.com/homedetails/2174-210th-Ave-Wolverton-MN-56594/123023937_zpid/,2174 210th Ave,56594,Wolverton,MN,46.460164,-96.549507,230000.0,2.0,4.0,2083.0,1926,564973.0,SINGLE_FAMILY,RECENTLY_SOLD,42
-123026322,https://www.zillow.com/homedetails/502-1st-St-Wolverton-MN-56594/123026322_zpid/,502 1st St,56594,Wolverton,MN,46.560596,-96.734678,60000.0,2.0,3.0,1680.0,1996,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,23
-123023447,https://www.zillow.com/homedetails/1746-160th-St-Wolverton-MN-56594/123023447_zpid/,1746 160th St,56594,Wolverton,MN,46.544269,-96.625984,250000.0,2.0,4.0,1600.0,1964,217800.0,SINGLE_FAMILY,SOLD,38
-2093789741,https://www.zillow.com/homedetails/414-1st-Wolverton-MN-56594/2093789741_zpid/,414 1st,56594,Wolverton,MN,46.561151,-96.73467,89000.0,1.0,3.0,1413.0,-1,-1.0,SINGLE_FAMILY,SOLD,0

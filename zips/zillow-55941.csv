@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106684173,https://www.zillow.com/homedetails/410-6th-St-Hokah-MN-55941/106684173_zpid/,410 6th St,55941,Hokah,MN,43.761244,-91.356701,159900.0,3.0,5.0,1792.0,1950,21780.0,SINGLE_FAMILY,FOR_SALE,21
-106682225,https://www.zillow.com/homedetails/8634-Union-Ridge-Dr-Hokah-MN-55941/106682225_zpid/,8634 Union Ridge Dr,55941,Hokah,MN,43.739865,-91.428648,245000.0,3.0,4.0,2550.0,1978,435600.0,SINGLE_FAMILY,FOR_SALE,24

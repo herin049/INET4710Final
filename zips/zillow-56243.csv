@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-303971788,https://www.zillow.com/homedetails/54895-Csah-28-Grove-City-MN-56243/303971788_zpid/,54895 Csah 28,56243,Grove City,MN,45.036158,-94.668282,275000.0,1.0,3.0,1755.0,2003,252212.0,MANUFACTURED,FOR_SALE,31
-106768970,https://www.zillow.com/homedetails/307-Asta-Ave-W-Grove-City-MN-56243/106768970_zpid/,307 Asta Ave W,56243,Grove City,MN,45.14611,-94.679303,159000.0,2.0,4.0,2267.0,1942,14026.0,SINGLE_FAMILY,FOR_SALE,22

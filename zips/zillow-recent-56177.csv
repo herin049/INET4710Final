@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2082108425,https://www.zillow.com/homedetails/230-Ridge-St-S-Trosky-MN-56144/2082108425_zpid/,230 Ridge St S,56144,Trosky,MN,43.888584,-96.256267,118000.0,1.0,2.0,936.0,2004,13982.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-2090749313,https://www.zillow.com/homedetails/1036-31st-St-Pipestone-MN-56164/2090749313_zpid/,1036 31st St,56164,Pipestone,MN,43.892716,-96.258511,260000.0,2.0,3.0,1650.0,1987,98445.0,SINGLE_FAMILY,RECENTLY_SOLD,26

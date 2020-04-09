@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-102946057,https://www.zillow.com/homedetails/132-W-Highway-14-Utica-MN-55979/102946057_zpid/,132 W Highway 14,55979,Utica,MN,43.977448,-91.958079,209900.0,2.0,3.0,2215.0,1948,29403.0,SINGLE_FAMILY,FOR_SALE,24
-102941736,https://www.zillow.com/homedetails/14615-Gathje-Ln-Utica-MN-55979/102941736_zpid/,14615 Gathje Ln,55979,Utica,MN,43.85224,-91.987982,629500.0,4.0,4.0,4170.0,2003,1017561.0,SINGLE_FAMILY,FOR_SALE,35
-102946119,https://www.zillow.com/homedetails/209-Center-St-S-Utica-MN-55979/102946119_zpid/,209 Center St S,55979,Utica,MN,43.972992,-91.954677,119000.0,1.0,2.0,996.0,1920,8250.0,SINGLE_FAMILY,FOR_SALE,16

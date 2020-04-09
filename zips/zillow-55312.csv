@@ -1,5 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106745737,https://www.zillow.com/homedetails/16031-20th-St-Brownton-MN-55312/106745737_zpid/,16031 20th St,55312,Brownton,MN,44.64532,-94.316601,297900.0,3.0,4.0,2288.0,1988,239580.0,SINGLE_FAMILY,FOR_SALE,34
-106746294,https://www.zillow.com/homedetails/458-4th-St-N-Brownton-MN-55312/106746294_zpid/,458 4th St N,55312,Brownton,MN,44.735478,-94.351437,109900.0,1.0,3.0,1120.0,1918,24000.0,SINGLE_FAMILY,FOR_SALE,20
-106745666,https://www.zillow.com/homedetails/15716-30th-St-Brownton-MN-55312/106745666_zpid/,15716 30th St,55312,Brownton,MN,44.660898,-94.309808,197700.0,2.0,5.0,2336.0,1903,324957.0,SINGLE_FAMILY,FOR_SALE,28
-106746359,https://www.zillow.com/homedetails/528-3rd-St-N-Brownton-MN-55312/106746359_zpid/,528 3rd St N,55312,Brownton,MN,44.734281,-94.35007,12500.0,1.0,3.0,705.0,1905,14840.0,SINGLE_FAMILY,FOR_SALE,29

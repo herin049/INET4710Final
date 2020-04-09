@@ -1,9 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-102945515,https://www.zillow.com/homedetails/384-Saint-Martin-Ave-Saint-Charles-MN-55972/102945515_zpid/,384 Saint Martin Ave,55972,Saint Charles,MN,43.973565,-92.074286,199900.0,2.0,2.0,1292.0,2001,4051.0,TOWNHOUSE,FOR_SALE,25
-102945473,https://www.zillow.com/homedetails/154-E-5th-St-Saint-Charles-MN-55972/102945473_zpid/,154 E 5th St,55972,Saint Charles,MN,43.972728,-92.063974,279900.0,3.0,3.0,2488.0,2013,13198.0,MANUFACTURED,FOR_SALE,29
-102945747,https://www.zillow.com/homedetails/460-Saint-Charles-Ave-Saint-Charles-MN-55972/102945747_zpid/,460 Saint Charles Ave,55972,Saint Charles,MN,43.973262,-92.06688,330000.0,5.0,5.0,4750.0,1920,20460.0,SINGLE_FAMILY,FOR_SALE,72
-102945436,https://www.zillow.com/homedetails/161-W-5th-St-Saint-Charles-MN-55972/102945436_zpid/,161 W 5th St,55972,Saint Charles,MN,43.973265,-92.06604,284900.0,2.0,5.0,2872.0,1905,20473.0,SINGLE_FAMILY,FOR_SALE,42
-225241701,https://www.zillow.com/homedetails/823-Geib-Blvd-Saint-Charles-MN-55972/225241701_zpid/,823 Geib Blvd,55972,Saint Charles,MN,43.983314,-92.064167,284900.0,2.0,2.0,1628.0,2017,7666.0,SINGLE_FAMILY,FOR_SALE,42
-102945422,https://www.zillow.com/homedetails/442-Church-Ave-Saint-Charles-MN-55972/102945422_zpid/,442 Church Ave,55972,Saint Charles,MN,43.973681,-92.063868,199900.0,2.0,2.0,2761.0,1952,35806.0,MULTI_FAMILY,FOR_SALE,23
-225233814,https://www.zillow.com/homedetails/21577-Geib-Rd-Saint-Charles-MN-55972/225233814_zpid/,21577 Geib Rd,55972,Saint Charles,MN,44.026258,-92.037001,699000.0,4.0,5.0,4982.0,1985,653400.0,SINGLE_FAMILY,FOR_SALE,93
-225241715,https://www.zillow.com/homedetails/307-Sweetwater-Ct-Saint-Charles-MN-55972/225241715_zpid/,307 Sweetwater Ct,55972,Saint Charles,MN,43.974779,-92.040512,479900.0,4.0,4.0,3374.0,2020,5793.0,SINGLE_FAMILY,FOR_SALE,1

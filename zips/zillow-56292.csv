@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2080505738,https://www.zillow.com/homedetails/390-Centre-St-W-Vesta-MN-56292/2080505738_zpid/,390 Centre St W,56292,Vesta,MN,44.507872,-95.420391,115000.0,2.0,5.0,3914.0,1924,15507.0,SINGLE_FAMILY,FOR_SALE,1
-2082120136,https://www.zillow.com/homedetails/12697-325th-St-Vesta-MN-56292/2082120136_zpid/,12697 325th St,56292,Vesta,MN,44.524852,-95.538437,850000.0,1.0,3.0,1400.0,1920,3484800.0,SINGLE_FAMILY,FOR_SALE,11
-2088956928,https://www.zillow.com/homedetails/214-E-Schley-St-Vesta-MN-56292/2088956928_zpid/,214 E Schley St,56292,Vesta,MN,44.509703,-95.414262,63500.0,4.0,3.0,1258.0,1952,8276.0,SINGLE_FAMILY,FOR_SALE,29

@@ -1,5 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2043030,https://www.zillow.com/homedetails/1120-County-Road-C2-W-Roseville-MN-55113/2043030_zpid/,1120 County Road C2 W,55113,Roseville,MN,45.027619,-93.14808,469000.0,4.0,5.0,3145.0,1993,16901.0,SINGLE_FAMILY,FOR_SALE,27
-2043135,https://www.zillow.com/homedetails/2800-Hamline-Ave-N-APT-118-Roseville-MN-55113/2043135_zpid/,2800 Hamline Ave N APT 118,55113,Roseville,MN,45.026114,-93.156094,149500.0,2.0,2.0,1040.0,1969,871.0,CONDO,FOR_SALE,25
-2038008,https://www.zillow.com/homedetails/2851-Lakeview-Ave-Roseville-MN-55113/2038008_zpid/,2851 Lakeview Ave,55113,Roseville,MN,45.027036,-93.142021,218288.0,1.0,2.0,768.0,1955,10454.0,SINGLE_FAMILY,PRE_FORECLOSURE,5
-2038294,https://www.zillow.com/homedetails/2680-Oxford-St-N-APT-116-Roseville-MN-55113/2038294_zpid/,2680 Oxford St N APT 116,55113,Roseville,MN,45.021078,-93.142531,156279.0,1.5,2.0,1022.0,1978,1059.0,CONDO,PRE_FORECLOSURE,0

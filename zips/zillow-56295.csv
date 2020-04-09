@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106634989,https://www.zillow.com/homedetails/330-Park-Ave-Watson-MN-56295/106634989_zpid/,330 Park Ave,56295,Watson,MN,45.008257,-95.801567,22900.0,1.0,3.0,800.0,1920,7013.0,SINGLE_FAMILY,FOR_SALE,24
-106634970,https://www.zillow.com/homedetails/342-Central-Ave-S-Watson-MN-56295/106634970_zpid/,342 Central Ave S,56295,Watson,MN,45.009345,-95.801807,129000.0,2.0,2.0,3360.0,1992,17598.0,SINGLE_FAMILY,FOR_SALE,18

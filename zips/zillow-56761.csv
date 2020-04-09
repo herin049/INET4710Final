@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-194685702,https://www.zillow.com/homedetails/40216-182nd-St-Wannaska-MN-56761/194685702_zpid/,40216 182nd St,56761,Wannaska,MN,48.657549,-95.732603,129999.0,2.0,3.0,1600.0,1905,50529.0,SINGLE_FAMILY,FOR_SALE,12
-194683972,https://www.zillow.com/homedetails/43518-County-Road-18-Wannaska-MN-56761/194683972_zpid/,43518 County Road 18,56761,Wannaska,MN,48.5483,-95.639201,90000.0,1.0,3.0,1008.0,1977,435600.0,SINGLE_FAMILY,FOR_SALE,23
-194684015,https://www.zillow.com/homedetails/37919-180th-St-Wannaska-MN-56761/194684015_zpid/,37919 180th St,56761,Wannaska,MN,48.657109,-95.779623,149900.0,2.0,3.0,1568.0,1975,369388.0,SINGLE_FAMILY,FOR_SALE,15

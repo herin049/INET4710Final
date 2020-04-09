@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-115959852,https://www.zillow.com/homedetails/105-E-4th-Ave-Beaver-Creek-MN-56116/115959852_zpid/,105 E 4th Ave,56116,Beaver Creek,MN,43.6114,-96.365943,180500.0,3.0,4.0,2298.0,2000,23086.0,MANUFACTURED,SOLD,0
-122616103,https://www.zillow.com/homedetails/205-S-3rd-St-Beaver-Creek-MN-56116/122616103_zpid/,205 S 3rd St,56116,Beaver Creek,MN,43.612714,-96.364575,132000.0,2.0,4.0,1928.0,1954,9748.0,SINGLE_FAMILY,SOLD,24
-115959822,https://www.zillow.com/homedetails/406-S-3rd-St-Beaver-Creek-MN-56116/115959822_zpid/,406 S 3rd St,56116,Beaver Creek,MN,43.61058,-96.363767,167500.0,3.0,4.0,2487.0,2001,11399.0,SINGLE_FAMILY,SOLD,23
-2091390407,https://www.zillow.com/homedetails/417-111th-Beaver-Creek-MN-56116/2091390407_zpid/,417 111th,56116,Beaver Creek,MN,43.646189,-96.389397,265000.0,3.0,4.0,3180.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
-115960561,https://www.zillow.com/homedetails/224-111th-St-Beaver-Creek-MN-56116/115960561_zpid/,224 111th St,56116,Beaver Creek,MN,43.645124,-96.427647,236252.0,3.0,3.0,3110.0,1900,136342.0,SINGLE_FAMILY,SOLD,36
-115959810,https://www.zillow.com/homedetails/303-E-6th-Ave-Beaver-Creek-MN-56116/115959810_zpid/,303 E 6th Ave,56116,Beaver Creek,MN,43.609098,-96.363694,112000.0,2.0,3.0,1456.0,1997,13651.0,SINGLE_FAMILY,SOLD,23

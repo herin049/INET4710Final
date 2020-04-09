@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106717649,https://www.zillow.com/homedetails/206-Gebhard-Ave-Bellingham-MN-56212/106717649_zpid/,206 Gebhard Ave,56212,Bellingham,MN,45.13585,-96.289055,285000.0,3.0,5.0,2888.0,2005,21344.0,SINGLE_FAMILY,FOR_SALE,34
-250898820,https://www.zillow.com/homedetails/1240-350th-St-Bellingham-MN-56212/250898820_zpid/,1240 350th St,56212,Bellingham,MN,45.168052,-96.409073,1342350.0,1.0,3.0,912.0,1939,10236600.0,SINGLE_FAMILY,FOR_SALE,30

@@ -1,8 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-110478319,https://www.zillow.com/homedetails/23127-440th-St-Freeport-MN-56331/110478319_zpid/,23127 440th St,56331,Freeport,MN,45.759472,-94.58697,280000.0,2.0,1.0,1421.0,2018,26136.0,SINGLE_FAMILY,FOR_SALE,32
-74868865,https://www.zillow.com/homedetails/38564-Kings-Lake-Rd-Freeport-MN-56331/74868865_zpid/,38564 Kings Lake Rd,56331,Freeport,MN,45.680228,-94.709135,549500.0,4.0,4.0,3936.0,1998,135471.0,SINGLE_FAMILY,FOR_SALE,36
-110479148,https://www.zillow.com/homedetails/29581-292nd-St-Freeport-MN-56331/110479148_zpid/,29581 292nd St,56331,Freeport,MN,45.546657,-94.726361,439900.0,3.0,4.0,3322.0,2010,436906.0,SINGLE_FAMILY,FOR_SALE,26
-74896146,https://www.zillow.com/homedetails/28916-County-Road-17-Freeport-MN-56331/74896146_zpid/,28916 County Road 17,56331,Freeport,MN,45.731091,-94.715899,259000.0,2.0,3.0,3602.0,1957,54450.0,SINGLE_FAMILY,FOR_SALE,38
-91506644,https://www.zillow.com/homedetails/318-8th-St-SE-Freeport-MN-56331/91506644_zpid/,318 8th St SE,56331,Freeport,MN,45.658051,-94.688554,199900.0,3.0,3.0,2070.0,1983,11325.0,SINGLE_FAMILY,FOR_SALE,19
-91506692,https://www.zillow.com/homedetails/1008-3rd-Ave-SE-Freeport-MN-56331/91506692_zpid/,1008 3rd Ave SE,56331,Freeport,MN,45.655814,-94.688806,187900.0,2.0,3.0,1822.0,2007,9583.0,SINGLE_FAMILY,FOR_SALE,14
-206989639,https://www.zillow.com/homedetails/43629-220th-Ave-Freeport-MN-56331/206989639_zpid/,43629 220th Ave,56331,Freeport,MN,45.753467,-94.567738,189900.0,1.0,3.0,1600.0,1912,1742400.0,SINGLE_FAMILY,FOR_SALE,17

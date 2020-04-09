@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106855081,https://www.zillow.com/homedetails/321-S-Oric-St-Lewisville-MN-56060/106855081_zpid/,321 S Oric St,56060,Lewisville,MN,43.920973,-94.437796,79900.0,2.0,4.0,2100.0,1941,17424.0,SINGLE_FAMILY,FOR_SALE,26
-106855091,https://www.zillow.com/homedetails/237-Martin-St-W-Lewisville-MN-56060/106855091_zpid/,237 Martin St W,56060,Lewisville,MN,43.922809,-94.437084,59000.0,2.0,4.0,2304.0,1915,10650.0,SINGLE_FAMILY,FOR_SALE,20
-106855043,https://www.zillow.com/homedetails/130-Martin-St-W-Lewisville-MN-56060/106855043_zpid/,130 Martin St W,56060,Lewisville,MN,43.922204,-94.435392,68000.0,1.0,2.0,1444.0,1954,9365.0,SINGLE_FAMILY,FOR_SALE,18

@@ -1,9 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106643648,https://www.zillow.com/homedetails/908-E-Main-St-Dodge-Center-MN-55927/106643648_zpid/,908 E Main St,55927,Dodge Center,MN,44.028352,-92.839997,160000.0,1.0,3.0,1268.0,1911,29185.0,SINGLE_FAMILY,FOR_SALE,15
-106643920,https://www.zillow.com/homedetails/408-9th-St-NW-Dodge-Center-MN-55927/106643920_zpid/,408 9th St NW,55927,Dodge Center,MN,44.037007,-92.861671,399900.0,4.0,5.0,4936.0,1998,14374.0,SINGLE_FAMILY,FOR_SALE,46
-106642814,https://www.zillow.com/homedetails/21190-599th-St-Dodge-Center-MN-55927/106642814_zpid/,21190 599th St,55927,Dodge Center,MN,44.083291,-92.815543,329900.0,2.0,3.0,1812.0,2013,205167.0,SINGLE_FAMILY,FOR_SALE,37
-2080783390,https://www.zillow.com/homedetails/206-W-Main-St-Dodge-Center-MN-55927/2080783390_zpid/,206 W Main St,55927,Dodge Center,MN,44.028128,-92.857881,289995.0,4.0,5.0,2208.0,2020,5532.0,SINGLE_FAMILY,FOR_SALE,1
-2080843078,https://www.zillow.com/homedetails/204-W-Main-St-Dodge-Center-MN-55927/2080843078_zpid/,204 W Main St,55927,Dodge Center,MN,44.028125,-92.857853,289995.0,4.0,5.0,2208.0,2020,5532.0,SINGLE_FAMILY,FOR_SALE,20
-106641852,https://www.zillow.com/homedetails/60860-221st-Ave-Dodge-Center-MN-55927/106641852_zpid/,60860 221st Ave,55927,Dodge Center,MN,44.070532,-92.79295,574900.0,4.0,5.0,3372.0,2008,261360.0,SINGLE_FAMILY,FOR_SALE,62
-106643368,https://www.zillow.com/homedetails/101-4th-Ave-NE-Dodge-Center-MN-55927/106643368_zpid/,101 4th Ave NE,55927,Dodge Center,MN,44.029149,-92.849937,127900.0,1.0,3.0,903.0,1900,10018.0,SINGLE_FAMILY,FOR_SALE,3
-2087202414,https://www.zillow.com/homedetails/1028-15th-St-NE-Dodge-Center-MN-55927/2087202414_zpid/,1028 15th St NE,55927,Dodge Center,MN,44.043446,-92.83919,328700.0,2.0,2.0,1565.0,2018,33541.0,SINGLE_FAMILY,FOR_SALE,19

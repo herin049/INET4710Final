@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2080503887,https://www.zillow.com/homedetails/114-3rd-St-Marietta-MN-56257/2080503887_zpid/,114 3rd St,56257,Marietta,MN,45.01176,-96.419784,76000.0,1.0,2.0,2144.0,-1,17424.0,SINGLE_FAMILY,FOR_SALE,0
-2090931375,https://www.zillow.com/homedetails/1374-210th-St-Marietta-MN-56257/2090931375_zpid/,1374 210th St,56257,Marietta,MN,44.964884,-96.381509,199500.0,2.0,3.0,2688.0,1968,304920.0,SINGLE_FAMILY,FOR_SALE,76

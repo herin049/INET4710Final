@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106803322,https://www.zillow.com/homedetails/30081-State-Highway-220-SW-Climax-MN-56523/106803322_zpid/,30081 State Highway 220 SW,56523,Climax,MN,47.731153,-96.914465,110000.0,1.0,3.0,1100.0,1900,213444.0,SINGLE_FAMILY,RECENTLY_SOLD,7
-106801168,https://www.zillow.com/homedetails/36726-420th-St-SW-Climax-MN-56523/106801168_zpid/,36726 420th St SW,56523,Climax,MN,47.557526,-96.83051,118500.0,1.0,3.0,1363.0,1915,194713.0,SINGLE_FAMILY,RECENTLY_SOLD,14
-106803362,https://www.zillow.com/homedetails/110-E-Broadway-Climax-MN-56523/106803362_zpid/,110 E Broadway,56523,Climax,MN,47.607486,-96.813655,77500.0,2.0,3.0,1080.0,1900,10498.0,SINGLE_FAMILY,SOLD,52
-106803331,https://www.zillow.com/homedetails/32066-390th-Ave-SW-Climax-MN-56523/106803331_zpid/,32066 390th Ave SW,56523,Climax,MN,47.69908,-96.88378,325000.0,3.0,3.0,5056.0,1959,6926040.0,SINGLE_FAMILY,SOLD,58
-121497419,https://www.zillow.com/homedetails/103-1st-Ave-SE-Climax-MN-56523/121497419_zpid/,103 1st Ave SE,56523,Climax,MN,47.607089,-96.813665,53700.0,3.0,3.0,2003.0,1900,10454.0,SINGLE_FAMILY,SOLD,19
-106801164,https://www.zillow.com/homedetails/36829-400th-St-SW-Climax-MN-56523/106801164_zpid/,36829 400th St SW,56523,Climax,MN,47.585558,-96.83198,150000.0,3.0,3.0,1944.0,1930,86248.0,SINGLE_FAMILY,SOLD,24

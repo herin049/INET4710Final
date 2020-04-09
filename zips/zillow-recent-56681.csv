@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2084791167,https://www.zillow.com/homedetails/50708-Virgin-Lake-Trl-Squaw-Lake-MN-56681/2084791167_zpid/,50708 Virgin Lake Trl,56681,Squaw Lake,MN,47.609074,-94.187039,180000.0,2.0,2.0,1404.0,2000,74052.0,SINGLE_FAMILY,RECENTLY_SOLD,18
-120638141,https://www.zillow.com/homedetails/60864-Round-Lake-Rd-Squaw-Lake-MN-56681/120638141_zpid/,60864 Round Lake Rd,56681,Squaw Lake,MN,47.61557,-94.135782,330000.0,3.0,5.0,2951.0,1935,413820.0,SINGLE_FAMILY,RECENTLY_SOLD,18
-103953337,https://www.zillow.com/homedetails/60595-Natures-Lake-Path-Squaw-Lake-MN-56681/103953337_zpid/,60595 Natures Lake Path,56681,Squaw Lake,MN,47.62902,-94.134142,160000.0,2.0,2.0,1364.0,1952,287931.0,SINGLE_FAMILY,SOLD,18
-2086870554,https://www.zillow.com/homedetails/60595-Natures-Lake-Pa-Squaw-Lake-MN-56681/2086870554_zpid/,60595 Natures Lake Pa,56681,Squaw Lake,MN,47.628948,-94.134073,160000.0,2.0,2.0,1364.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
-103944119,https://www.zillow.com/homedetails/51575-Townhall-Rd-Squaw-Lake-MN-56681/103944119_zpid/,51575 Townhall Rd,56681,Squaw Lake,MN,47.623436,-94.102296,150000.0,1.0,3.0,1127.0,1940,1282842.0,SINGLE_FAMILY,SOLD,18
-120634522,https://www.zillow.com/homedetails/50857-E-Dixon-Lake-Rd-Squaw-Lake-MN-56681/120634522_zpid/,50857 E Dixon Lake Rd,56681,Squaw Lake,MN,47.612797,-94.287351,198500.0,2.0,3.0,2128.0,2006,501811.0,SINGLE_FAMILY,SOLD,18

@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106810084,https://www.zillow.com/homedetails/302-E-3rd-St-Nielsville-MN-56568/106810084_zpid/,302 E 3rd St,56568,Nielsville,MN,47.527372,-96.813739,44900.0,1.0,2.0,908.0,1900,14505.0,SINGLE_FAMILY,FOR_SALE,24
-106810111,https://www.zillow.com/homedetails/202-W-2nd-St-Nielsville-MN-56568/106810111_zpid/,202 W 2nd St,56568,Nielsville,MN,47.52844,-96.817787,53500.0,1.0,3.0,1238.0,1900,10454.0,SINGLE_FAMILY,FOR_SALE,17

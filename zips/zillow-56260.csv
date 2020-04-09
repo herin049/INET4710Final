@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106632614,https://www.zillow.com/homedetails/250-Agnes-Ave-Maynard-MN-56260/106632614_zpid/,250 Agnes Ave,56260,Maynard,MN,44.909255,-95.469703,25000.0,2.0,4.0,204.0,1908,7013.0,SINGLE_FAMILY,FOR_SALE,35
-2081962103,https://www.zillow.com/homedetails/330-Jessie-Ave-Maynard-MN-56260/2081962103_zpid/,330 Jessie Ave,56260,Maynard,MN,44.90939,-95.472246,69900.0,2.0,3.0,943.0,1976,14810.0,SINGLE_FAMILY,FOR_SALE,24

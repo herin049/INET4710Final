@@ -1,6 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-114995101,https://www.zillow.com/homedetails/35-Main-St-S-Minnesota-Lake-MN-56068/114995101_zpid/,35 Main St S,56068,Minnesota Lake,MN,43.839512,-93.833459,120000.0,2.0,3.0,2400.0,1956,11325.0,SINGLE_FAMILY,FOR_SALE,19
-114977131,https://www.zillow.com/homedetails/524-Date-St-Minnesota-Lake-MN-56068/114977131_zpid/,524 Date St,56068,Minnesota Lake,MN,43.839521,-93.823474,50000.0,2.0,3.0,2400.0,1971,15681.0,SINGLE_FAMILY,FOR_SALE,15
-114991504,https://www.zillow.com/homedetails/12-Minnesota-Ave-W-Minnesota-Lake-MN-56068/114991504_zpid/,12 Minnesota Ave W,56068,Minnesota Lake,MN,43.839021,-93.834038,118500.0,2.0,3.0,2142.0,1954,12196.0,SINGLE_FAMILY,FOR_SALE,22
-114987885,https://www.zillow.com/homedetails/31-Lake-Ave-E-Minnesota-Lake-MN-56068/114987885_zpid/,31 Lake Ave E,56068,Minnesota Lake,MN,43.840256,-93.832121,159900.0,3.0,3.0,3905.0,1948,19602.0,SINGLE_FAMILY,FOR_SALE,34
-115009634,https://www.zillow.com/homedetails/230-Park-St-N-Minnesota-Lake-MN-56068/115009634_zpid/,230 Park St N,56068,Minnesota Lake,MN,43.842843,-93.830816,54900.0,1.0,1.0,1504.0,1897,3484.0,SINGLE_FAMILY,FOR_SALE,16

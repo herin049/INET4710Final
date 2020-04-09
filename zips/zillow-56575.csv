@@ -1,8 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106605417,https://www.zillow.com/homedetails/37388-Sunset-Dr-Ponsford-MN-56575/106605417_zpid/,37388 Sunset Dr,56575,Ponsford,MN,47.113884,-95.407224,579900.0,3.0,4.0,4173.0,2009,100188.0,SINGLE_FAMILY,FOR_SALE,46
-106610581,https://www.zillow.com/homedetails/31930-E-Round-Lake-Rd-Ponsford-MN-56575/106610581_zpid/,31930 E Round Lake Rd,56575,Ponsford,MN,47.034907,-95.525381,350000.0,2.0,3.0,1416.0,1986,148975.0,SINGLE_FAMILY,FOR_SALE,41
-106605431,https://www.zillow.com/homedetails/37347-Red-Top-Rd-Ponsford-MN-56575/106605431_zpid/,37347 Red Top Rd,56575,Ponsford,MN,47.112157,-95.414258,521675.0,3.0,3.0,2480.0,2003,47044.0,SINGLE_FAMILY,FORECLOSED,5
-106605397,https://www.zillow.com/homedetails/46685-Black-Bear-Beach-Rd-Ponsford-MN-56575/106605397_zpid/,46685 Black Bear Beach Rd,56575,Ponsford,MN,47.125353,-95.407991,549000.0,3.0,3.0,1646.0,2001,27791.0,SINGLE_FAMILY,FOR_SALE,35
-2083271599,https://www.zillow.com/homedetails/37357-Red-Top-Rd-Ponsford-MN-56575/2083271599_zpid/,37357 Red Top Rd,56575,Ponsford,MN,47.111737,-95.415477,565000.0,3.0,3.0,2700.0,2005,-1.0,SINGLE_FAMILY,FOR_SALE,47
-225541478,https://www.zillow.com/homedetails/37670-Sunset-Dr-Ponsford-MN-56575/225541478_zpid/,37670 Sunset Dr,56575,Ponsford,MN,47.118345,-95.403944,549000.0,2.0,4.0,2200.0,1985,126324.0,SINGLE_FAMILY,FOR_SALE,33
-106611840,https://www.zillow.com/homedetails/32445-Many-Point-Scout-Camp-Rd-Ponsford-MN-56575/106611840_zpid/,32445 Many Point Scout Camp Rd,56575,Ponsford,MN,47.042422,-95.556584,324900.0,3.0,3.0,2057.0,1986,28749.0,SINGLE_FAMILY,FOR_SALE,50

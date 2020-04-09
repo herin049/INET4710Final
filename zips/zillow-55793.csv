@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-112243801,https://www.zillow.com/homedetails/15176-County-Road-72-Warba-MN-55793/112243801_zpid/,15176 County Road 72,55793,Warba,MN,47.107093,-93.249976,289000.0,1.0,4.0,1260.0,1900,8379201.0,SINGLE_FAMILY,FOR_SALE,6
-103941364,https://www.zillow.com/homedetails/17057-Douglas-Ave-Warba-MN-55793/103941364_zpid/,17057 Douglas Ave,55793,Warba,MN,47.124784,-93.314622,129900.0,2.0,3.0,1358.0,1940,53143.0,SINGLE_FAMILY,FOR_SALE,12

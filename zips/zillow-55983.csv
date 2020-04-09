@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2128159601,https://www.zillow.com/homedetails/920-7th-Ave-Wanamingo-MN-55983/2128159601_zpid/,920 7th Ave,55983,Wanamingo,MN,44.292027,-92.78254,219900.0,1.0,2.0,989.0,2020,10672.0,SINGLE_FAMILY,FOR_SALE,1
-74850660,https://www.zillow.com/homedetails/333-3rd-Ave-Wanamingo-MN-55983/74850660_zpid/,333 3rd Ave,55983,Wanamingo,MN,44.302446,-92.78752,159900.0,1.0,3.0,1328.0,1912,13982.0,SINGLE_FAMILY,FOR_SALE,19

@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2082306842,https://www.zillow.com/homedetails/1875-Kettle-Lake-Rd-Cromwell-MN-55726/2082306842_zpid/,1875 Kettle Lake Rd,55726,Cromwell,MN,46.641004,-92.794606,259000.0,2.0,3.0,960.0,2005,6135861.0,SINGLE_FAMILY,FOR_SALE,58
-2095731751,https://www.zillow.com/homedetails/6065-Johnson-Rd-Cromwell-MN-55726/2095731751_zpid/,6065 Johnson Rd,55726,Cromwell,MN,46.644327,-92.925485,246000.0,2.0,2.0,1088.0,1987,16117.0,SINGLE_FAMILY,FOR_SALE,25
-2093006937,https://www.zillow.com/homedetails/5407-Hill-Rd-Eagle-Twp-MN-55726/2093006937_zpid/,5407 Hill Rd,55726,Eagle Twp,MN,46.609127,-92.864443,309900.0,1.0,0.0,1225.0,2000,6969600.0,SINGLE_FAMILY,FOR_SALE,10

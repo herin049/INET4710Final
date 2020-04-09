@@ -1,6 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-117533455,https://www.zillow.com/homedetails/809-N-Broadway-Ave-Le-Roy-MN-55951/117533455_zpid/,809 N Broadway Ave,55951,Le Roy,MN,43.513765,-92.503963,84300.0,1.0,2.0,1246.0,1941,11064.0,SINGLE_FAMILY,FOR_SALE,25
-117533320,https://www.zillow.com/homedetails/218-W-Main-St-Le-Roy-MN-55951/117533320_zpid/,218 W Main St,55951,Le Roy,MN,43.511216,-92.506362,45000.0,1.0,3.0,1386.0,1879,7405.0,SINGLE_FAMILY,FOR_SALE,4
-117530944,https://www.zillow.com/homedetails/13892-730th-Ave-Le-Roy-MN-55951/117530944_zpid/,13892 730th Ave,55951,Le Roy,MN,43.556616,-92.588274,224900.0,2.0,3.0,1476.0,1997,87120.0,SINGLE_FAMILY,FOR_SALE,50
-117533285,https://www.zillow.com/homedetails/224-E-Read-Ave-Le-Roy-MN-55951/117533285_zpid/,224 E Read Ave,55951,Le Roy,MN,43.506365,-92.502297,42500.0,2.0,2.0,881.0,1890,6751.0,SINGLE_FAMILY,FOR_SALE,20
-117533226,https://www.zillow.com/homedetails/212-E-Henry-St-Le-Roy-MN-55951/117533226_zpid/,212 E Henry St,55951,Le Roy,MN,43.508894,-92.500254,49900.0,2.0,3.0,2287.0,1970,6664.0,SINGLE_FAMILY,FOR_SALE,18

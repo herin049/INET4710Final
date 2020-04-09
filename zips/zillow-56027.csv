@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-115009552,https://www.zillow.com/homedetails/704-E-Iowa-St-Elmore-MN-56027/115009552_zpid/,704 E Iowa St,56027,Elmore,MN,43.503311,-94.078904,34900.0,1.0,3.0,2184.0,1950,9147.0,SINGLE_FAMILY,FOR_SALE,10
-128508323,https://www.zillow.com/homedetails/209-E-Iowa-St-Elmore-MN-56027/128508323_zpid/,209 E Iowa St,56027,Elmore,MN,43.503929,-94.085391,49900.0,1.0,3.0,2416.0,1941,10890.0,SINGLE_FAMILY,FOR_SALE,20

@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-61577565,https://www.zillow.com/homedetails/9201-Melrude-Rd-Cotton-MN-55724/61577565_zpid/,9201 Melrude Rd,55724,Cotton,MN,47.17832,-92.422324,279900.0,2.0,3.0,1680.0,1998,1742400.0,SINGLE_FAMILY,FOR_SALE,22
-61578097,https://www.zillow.com/homedetails/8362-W-Rose-Lake-Rd-Cotton-MN-55724/61578097_zpid/,8362 W Rose Lake Rd,55724,Cotton,MN,47.113115,-92.41615,435000.0,1.0,3.0,3113.0,1990,78408.0,SINGLE_FAMILY,FOR_SALE,34
-2080516439,https://www.zillow.com/homedetails/8362-W-Rose-Lake-Dr-Cotton-MN-55724/2080516439_zpid/,8362 W Rose Lake Dr,55724,Cotton,MN,47.113145,-92.416078,435000.0,3.0,3.0,3113.0,1990,78408.0,SINGLE_FAMILY,FOR_SALE,34

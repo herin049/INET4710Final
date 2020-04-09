@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-113933255,https://www.zillow.com/homedetails/68229-233rd-St-Dassel-MN-55325/113933255_zpid/,68229 233rd St,55325,Dassel,MN,45.08113,-94.395867,129000.0,1.0,2.0,1248.0,1979,32670.0,SINGLE_FAMILY,FOR_SALE,8
-106772875,https://www.zillow.com/homedetails/24336-726th-Ave-Dassel-MN-55325/106772875_zpid/,24336 726th Ave,55325,Dassel,MN,45.100033,-94.303848,549000.0,3.0,4.0,3088.0,2004,52968.0,SINGLE_FAMILY,FOR_SALE,47
-113933166,https://www.zillow.com/homedetails/70250-219th-St-Dassel-MN-55325/113933166_zpid/,70250 219th St,55325,Dassel,MN,45.064332,-94.353321,245000.0,2.0,2.0,840.0,1967,13503.0,SINGLE_FAMILY,FOR_SALE,22
-106772023,https://www.zillow.com/homedetails/21775-746th-Ave-Dassel-MN-55325/106772023_zpid/,21775 746th Ave,55325,Dassel,MN,45.063942,-94.262419,484900.0,4.0,3.0,3372.0,2005,163938.0,SINGLE_FAMILY,FOR_SALE,31
-247823008,https://www.zillow.com/homedetails/1010-Sunrise-Cir-Dassel-MN-55325/247823008_zpid/,1010 Sunrise Cir,55325,Dassel,MN,45.090807,-94.313326,240000.0,2.0,2.0,1482.0,2020,2308.0,TOWNHOUSE,FOR_SALE,16
-106771836,https://www.zillow.com/homedetails/72470-178th-St-Dassel-MN-55325/106771836_zpid/,72470 178th St,55325,Dassel,MN,45.005349,-94.307327,130000.0,1.0,2.0,1280.0,1986,80150.0,SINGLE_FAMILY,FOR_SALE,15

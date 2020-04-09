@@ -1,5 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-120637340,https://www.zillow.com/homedetails/22-Stephens-St-S-Taconite-MN-55786/120637340_zpid/,22 Stephens St S,55786,Taconite,MN,47.311967,-93.383639,53000.0,2.0,3.0,1320.0,1915,4356.0,SINGLE_FAMILY,SOLD,13
-120639047,https://www.zillow.com/homedetails/4-Nelson-St-Taconite-MN-55786/120639047_zpid/,4 Nelson St,55786,Taconite,MN,47.314302,-93.382064,116000.0,2.0,4.0,1985.0,1925,14810.0,SINGLE_FAMILY,SOLD,14
-103953364,https://www.zillow.com/homedetails/14-Nelson-St-Taconite-MN-55786/103953364_zpid/,14 Nelson St,55786,Taconite,MN,47.313576,-93.382056,53500.0,2.0,3.0,1370.0,1908,8712.0,SINGLE_FAMILY,SOLD,0
-120641076,https://www.zillow.com/homedetails/14-Stephens-St-N-Taconite-MN-55786/120641076_zpid/,14 Stephens St N,55786,Taconite,MN,47.313568,-93.383581,71400.0,2.0,2.0,948.0,1915,6098.0,SINGLE_FAMILY,SOLD,10

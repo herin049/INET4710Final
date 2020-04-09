@@ -1,5 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-225612889,https://www.zillow.com/homedetails/1-Pokegama-Ave-W-Henriette-MN-55036/225612889_zpid/,1 Pokegama Ave W,55036,Henriette,MN,45.872128,-93.117373,25000.0,0.75,2.0,1176.0,1920,6098.0,SINGLE_FAMILY,SOLD,0
-91498291,https://www.zillow.com/homedetails/1-Pokegama-Ave-W-Henriette-MN-55036/91498291_zpid/,1 Pokegama Ave W,55036,Henriette,MN,45.872128,-93.117373,25000.0,1.0,2.0,1152.0,1920,31363.0,SINGLE_FAMILY,SOLD,11
-91498299,https://www.zillow.com/homedetails/22-1st-St-SE-Henriette-MN-55036/91498299_zpid/,22 1st St SE,55036,Henriette,MN,45.871333,-93.115097,110000.0,1.0,3.0,1512.0,1927,142005.0,SINGLE_FAMILY,SOLD,22
-225612911,https://www.zillow.com/homedetails/152-1st-St-SW-Henriette-MN-55036/225612911_zpid/,152 1st St SW,55036,Henriette,MN,45.871139,-93.118595,84500.0,1.25,1.0,1627.0,1961,-1.0,SINGLE_FAMILY,SOLD,23

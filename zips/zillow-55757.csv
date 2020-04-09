@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2119171259,https://www.zillow.com/homedetails/6479-County-Road-12-Kettle-River-MN-55757/2119171259_zpid/,6479 County Road 12,55757,Kettle River,MN,46.477476,-92.966132,360000.0,2.0,2.0,1.0,2017,6969600.0,SINGLE_FAMILY,FOR_SALE,17
-110928751,https://www.zillow.com/homedetails/3305-Highway-73-Kettle-River-MN-55757/110928751_zpid/,3305 Highway 73,55757,Kettle River,MN,46.534593,-92.909097,119900.0,2.0,2.0,1354.0,1900,217800.0,SINGLE_FAMILY,FOR_SALE,26

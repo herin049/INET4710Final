@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-115959719,https://www.zillow.com/homedetails/304-1st-St-Danube-MN-56230/115959719_zpid/,304 1st St,56230,Danube,MN,44.791527,-95.09699,54000.0,2.0,3.0,1552.0,1915,11979.0,SINGLE_FAMILY,FOR_SALE,0
-106823717,https://www.zillow.com/homedetails/305-4th-St-Danube-MN-56230/106823717_zpid/,305 4th St,56230,Danube,MN,44.791421,-95.102415,95000.0,1.0,3.0,1399.0,1930,15400.0,SINGLE_FAMILY,FOR_SALE,18

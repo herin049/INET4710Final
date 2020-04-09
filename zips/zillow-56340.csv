@@ -1,6 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-74877841,https://www.zillow.com/homedetails/301-River-St-W-Holdingford-MN-56340/74877841_zpid/,301 River St W,56340,Holdingford,MN,45.73183,-94.478917,115000.0,2.0,4.0,1512.0,1920,11761.0,SINGLE_FAMILY,FOR_SALE,1
-74873761,https://www.zillow.com/homedetails/42861-110th-Ave-Holdingford-MN-56340/74873761_zpid/,42861 110th Ave,56340,Holdingford,MN,45.744814,-94.33957,449000.0,4.0,3.0,3376.0,2000,214315.0,SINGLE_FAMILY,FOR_SALE,53
-207002494,https://www.zillow.com/homedetails/350-Ridge-Way-Holdingford-MN-56340/207002494_zpid/,350 Ridge Way,56340,Holdingford,MN,45.722671,-94.471651,329900.0,3.0,3.0,2850.0,2016,23598.0,SINGLE_FAMILY,FOR_SALE,44
-2082080558,https://www.zillow.com/homedetails/100-2nd-St-S-Holdingford-MN-56340/2082080558_zpid/,100 2nd St S,56340,Holdingford,MN,45.72441,-94.473611,205900.0,2.0,3.0,1916.0,1980,30492.0,SINGLE_FAMILY,FOR_SALE,20
-2090743938,https://www.zillow.com/homedetails/42716-County-Road-3-Holdingford-MN-56340/2090743938_zpid/,42716 County Road 3,56340,Holdingford,MN,45.741927,-94.38769,1300000.0,2.0,5.0,2852.0,1971,4698817.0,SINGLE_FAMILY,FOR_SALE,16

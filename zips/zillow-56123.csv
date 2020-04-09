@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-306439612,https://www.zillow.com/homedetails/30-N-Forman-Rd-Currie-MN-56123/306439612_zpid/,30 N Forman Rd,56123,Currie,MN,44.098184,-95.696138,189000.0,1.0,2.0,672.0,1959,10890.0,SINGLE_FAMILY,FOR_SALE,8
-106774286,https://www.zillow.com/homedetails/750-1st-St-Currie-MN-56123/106774286_zpid/,750 1st St,56123,Currie,MN,44.071547,-95.6653,75000.0,2.0,3.0,1344.0,1954,9583.0,SINGLE_FAMILY,FOR_SALE,13
-106774287,https://www.zillow.com/homedetails/720-3rd-St-Currie-MN-56123/106774287_zpid/,720 3rd St,56123,Currie,MN,44.069192,-95.66456,9900.0,1.0,2.0,1000.0,1910,12806.0,SINGLE_FAMILY,FOR_SALE,9

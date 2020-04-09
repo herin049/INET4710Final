@@ -1,9 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106653327,https://www.zillow.com/homedetails/6080-Willow-Rd-NE-Carlos-MN-56319/106653327_zpid/,6080 Willow Rd NE,56319,Carlos,MN,46.032833,-95.289112,149900.0,1.0,1.0,1004.0,1910,1742400.0,SINGLE_FAMILY,FOR_SALE,19
-113923800,https://www.zillow.com/homedetails/106-8th-St-W-Carlos-MN-56319/113923800_zpid/,106 8th St W,56319,Carlos,MN,45.965648,-95.293188,234900.0,2.0,5.0,2240.0,2005,14810.0,SINGLE_FAMILY,FOR_SALE,38
-113920394,https://www.zillow.com/homedetails/8922-S-Park-Dr-NE-Carlos-MN-56319/113920394_zpid/,8922 S Park Dr NE,56319,Carlos,MN,45.984421,-95.33282,399900.0,2.0,2.0,1008.0,1972,-1.0,SINGLE_FAMILY,FOR_SALE,30
-106657519,https://www.zillow.com/homedetails/13-Muyres-Ave-Carlos-MN-56319/106657519_zpid/,13 Muyres Ave,56319,Carlos,MN,45.974173,-95.290894,199000.0,2.0,3.0,1896.0,1972,11761.0,SINGLE_FAMILY,FOR_SALE,22
-106653994,https://www.zillow.com/homedetails/7019-Johnson-Rd-NE-Carlos-MN-56319/106653994_zpid/,7019 Johnson Rd NE,56319,Carlos,MN,45.965139,-95.269551,325000.0,2.0,4.0,1895.0,1890,2147483647.0,SINGLE_FAMILY,FOR_SALE,32
-106647986,https://www.zillow.com/homedetails/8337-Short-Ln-NE-Carlos-MN-56319/106647986_zpid/,8337 Short Ln NE,56319,Carlos,MN,45.978769,-95.306611,129900.0,2.0,3.0,1152.0,1986,27878.0,MANUFACTURED,FOR_SALE,27
-113920332,https://www.zillow.com/homedetails/4733-N-Riverview-Dr-NE-Carlos-MN-56319/113920332_zpid/,4733 N Riverview Dr NE,56319,Carlos,MN,45.983336,-95.309794,269000.0,3.0,4.0,3016.0,1979,2147483647.0,SINGLE_FAMILY,FOR_SALE,20
-106648211,https://www.zillow.com/homedetails/4497-Prairie-Rd-NE-Carlos-MN-56319/106648211_zpid/,4497 Prairie Rd NE,56319,Carlos,MN,45.963344,-95.311568,549000.0,3.0,4.0,4389.0,1958,390733.0,SINGLE_FAMILY,FOR_SALE,64

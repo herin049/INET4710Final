@@ -1,6 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-89310876,https://www.zillow.com/homedetails/10-3rd-St-N-Sabin-MN-56580/89310876_zpid/,10 3rd St N,56580,Sabin,MN,46.781296,-96.653379,129900.0,1.0,2.0,1932.0,1926,8250.0,SINGLE_FAMILY,FOR_SALE,17
-89317554,https://www.zillow.com/homedetails/12274-118th-St-S-Sabin-MN-56580/89317554_zpid/,12274 118th St S,56580,Sabin,MN,46.713204,-96.551514,192500.0,2.0,3.0,1900.0,1978,16117.0,SINGLE_FAMILY,FOR_SALE,33
-2092734812,https://www.zillow.com/homedetails/12-Kings-Trl-S-Sabin-MN-56580/2092734812_zpid/,12 Kings Trl S,56580,Sabin,MN,46.777415,-96.652228,225000.0,2.0,3.0,2416.0,1954,-1.0,SINGLE_FAMILY,FOR_SALE,27
-110572765,https://www.zillow.com/homedetails/11566-70th-Ave-S-Sabin-MN-56580/110572765_zpid/,11566 70th Ave S,56580,Sabin,MN,46.790402,-96.556005,247000.0,2.0,3.0,1728.0,1916,1491058.0,SINGLE_FAMILY,FOR_SALE,24
-2082469807,https://www.zillow.com/homedetails/10668-70th-St-S-Sabin-MN-56580/2082469807_zpid/,10668 70th St S,56580,Sabin,MN,46.79035,-96.579388,380000.0,2.0,2.0,2296.0,2008,-1.0,SINGLE_FAMILY,FOR_SALE,44

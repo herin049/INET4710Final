@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-229464376,https://www.zillow.com/homedetails/21-Grand-Ave-N-Kensington-MN-56343/229464376_zpid/,21 Grand Ave N,56343,Kensington,MN,45.780437,-95.693835,124900.0,2.0,3.0,1212.0,1963,9147.0,SINGLE_FAMILY,FOR_SALE,26
-113923421,https://www.zillow.com/homedetails/3358-Woodhaven-Ln-SW-Kensington-MN-56343/113923421_zpid/,3358 Woodhaven Ln SW,56343,Kensington,MN,45.861888,-95.705878,285500.0,2.0,3.0,1692.0,2012,21780.0,SINGLE_FAMILY,FOR_SALE,44

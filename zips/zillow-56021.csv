@@ -1,5 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2112875234,https://www.zillow.com/homedetails/521-Mary-Ln-Courtland-MN-56021/2112875234_zpid/,521 Mary Ln,56021,Courtland,MN,44.261192,-94.351369,319000.0,2.0,4.0,3126.0,1963,43560.0,SINGLE_FAMILY,FOR_SALE,18
-236530541,https://www.zillow.com/homedetails/70-Shady-Oak-Dr-Courtland-MN-56021/236530541_zpid/,70 Shady Oak Dr,56021,Courtland,MN,44.261574,-94.337204,344900.0,3.0,5.0,3252.0,2003,26571.0,SINGLE_FAMILY,FOR_SALE,27
-236530673,https://www.zillow.com/homedetails/545-Mary-Ln-Courtland-MN-56021/236530673_zpid/,545 Mary Ln,56021,Courtland,MN,44.261979,-94.354101,395000.0,4.0,4.0,4268.0,1997,79279.0,SINGLE_FAMILY,FOR_SALE,30
-236529312,https://www.zillow.com/homedetails/46451-531st-Ave-Courtland-MN-56021/236529312_zpid/,46451 531st Ave,56021,Courtland,MN,44.276769,-94.329725,247705.0,1.0,5.0,2376.0,1910,1045440.0,SINGLE_FAMILY,PRE_FORECLOSURE,0

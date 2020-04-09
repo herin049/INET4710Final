@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106670320,https://www.zillow.com/homedetails/209-2nd-St-NE-Clarks-Grove-MN-56016/106670320_zpid/,209 2nd St NE,56016,Clarks Grove,MN,43.766035,-93.325105,187500.0,2.0,3.0,2258.0,1979,11325.0,SINGLE_FAMILY,FOR_SALE,19
-106670169,https://www.zillow.com/homedetails/102-1st-St-SW-Clarks-Grove-MN-56016/106670169_zpid/,102 1st St SW,56016,Clarks Grove,MN,43.763203,-93.329922,169900.0,2.0,3.0,1640.0,1916,8712.0,SINGLE_FAMILY,FOR_SALE,14
-106670258,https://www.zillow.com/homedetails/214-1st-St-NE-Clarks-Grove-MN-56016/106670258_zpid/,214 1st St NE,56016,Clarks Grove,MN,43.764518,-93.324473,159900.0,2.0,4.0,1804.0,1969,13503.0,SINGLE_FAMILY,FOR_SALE,29

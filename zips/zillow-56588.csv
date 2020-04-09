@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-97021280,https://www.zillow.com/homedetails/45748-Trappers-Rd-Vining-MN-56588/97021280_zpid/,45748 Trappers Rd,56588,Vining,MN,46.249221,-95.543467,395000.0,1.0,3.0,1800.0,1915,5227200.0,SINGLE_FAMILY,FOR_SALE,20
-97015834,https://www.zillow.com/homedetails/18517-Norwegian-Rd-Vining-MN-56588/97015834_zpid/,18517 Norwegian Rd,56588,Vining,MN,46.229783,-95.486549,239900.0,2.0,4.0,1764.0,1904,1481040.0,SINGLE_FAMILY,FOR_SALE,24
-125586362,https://www.zillow.com/homedetails/45327-Bush-Hill-Rd-Vining-MN-56588/125586362_zpid/,45327 Bush Hill Rd,56588,Vining,MN,46.277462,-95.545436,210000.0,1.0,3.0,1212.0,1970,32670.0,SINGLE_FAMILY,FOR_SALE,29

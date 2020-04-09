@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106765936,https://www.zillow.com/homedetails/525-100th-St-Sherburn-MN-56171/106765936_zpid/,525 100th St,56171,Sherburn,MN,43.631153,-94.768744,100000.0,2.0,3.0,1132.0,1960,45302.0,SINGLE_FAMILY,FOR_SALE,34
-106764214,https://www.zillow.com/homedetails/301-E-2nd-St-Sherburn-MN-56171/106764214_zpid/,301 E 2nd St,56171,Sherburn,MN,43.655276,-94.722556,37900.0,1.0,2.0,954.0,1918,7013.0,SINGLE_FAMILY,FOR_SALE,23

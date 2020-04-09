@@ -1,8 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106859140,https://www.zillow.com/homedetails/412-Lac-Qui-Parle-Ave-N-Canby-MN-56220/106859140_zpid/,412 Lac Qui Parle Ave N,56220,Canby,MN,44.709779,-96.270509,29000.0,1.0,4.0,724.0,1920,8232.0,SINGLE_FAMILY,FOR_SALE,13
-106859223,https://www.zillow.com/homedetails/301-Reno-Ave-N-Canby-MN-56220/106859223_zpid/,301 Reno Ave N,56220,Canby,MN,44.706969,-96.269315,159500.0,3.0,3.0,1690.0,1970,10890.0,SINGLE_FAMILY,FOR_SALE,22
-106858808,https://www.zillow.com/homedetails/607-Saint-Olaf-Ave-N-Canby-MN-56220/106858808_zpid/,607 Saint Olaf Ave N,56220,Canby,MN,44.718038,-96.271767,59000.0,2.0,3.0,1404.0,1914,16800.0,SINGLE_FAMILY,FOR_SALE,20
-106859323,https://www.zillow.com/homedetails/307-Poplar-Ave-N-Canby-MN-56220/106859323_zpid/,307 Poplar Ave N,56220,Canby,MN,44.713734,-96.278609,45000.0,2.0,2.0,848.0,1890,8232.0,SINGLE_FAMILY,FOR_SALE,28
-106859147,https://www.zillow.com/homedetails/211-Custer-Ave-N-Canby-MN-56220/106859147_zpid/,211 Custer Ave N,56220,Canby,MN,44.707355,-96.271596,253500.0,3.0,4.0,3752.0,2005,16509.0,SINGLE_FAMILY,FOR_SALE,30
-106859312,https://www.zillow.com/homedetails/207-Ring-Ave-S-Canby-MN-56220/106859312_zpid/,207 Ring Ave S,56220,Canby,MN,44.708922,-96.280592,39900.0,1.0,3.0,1016.0,1930,16509.0,SINGLE_FAMILY,FOR_SALE,0
-106859396,https://www.zillow.com/homedetails/113-Lyon-Ave-S-Canby-MN-56220/106859396_zpid/,113 Lyon Ave S,56220,Canby,MN,44.709971,-96.280637,39000.0,1.0,2.0,1190.0,1943,17424.0,SINGLE_FAMILY,FOR_SALE,10

@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106729133,https://www.zillow.com/homedetails/352-N-Laurel-Ave-Kilkenny-MN-56052/106729133_zpid/,352 N Laurel Ave,56052,Kilkenny,MN,44.314947,-93.577121,169999.0,3.0,3.0,2200.0,1900,43560.0,SINGLE_FAMILY,FOR_SALE,44
-229445353,https://www.zillow.com/homedetails/460-Knish-Ct-Kilkenny-MN-56052/229445353_zpid/,460 Knish Ct,56052,Kilkenny,MN,44.317081,-93.575148,200000.0,2.0,2.0,1.0,2018,22651.0,SINGLE_FAMILY,FOR_SALE,11

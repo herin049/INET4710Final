@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106611907,https://www.zillow.com/homedetails/32938-Kivi-Dr-Ogema-MN-56569/106611907_zpid/,32938 Kivi Dr,56569,Ogema,MN,47.056716,-95.699901,345000.0,3.0,3.0,2988.0,2003,108900.0,SINGLE_FAMILY,FOR_SALE,65
-106611881,https://www.zillow.com/homedetails/31879-Sugar-Creek-Rd-Ogema-MN-56569/106611881_zpid/,31879 Sugar Creek Rd,56569,Ogema,MN,47.034855,-95.778052,345000.0,3.0,2.0,2158.0,1969,43560.0,SINGLE_FAMILY,FOR_SALE,27

@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-113934216,https://www.zillow.com/homedetails/376-Us-Highway-59-NW-Avoca-MN-56114/113934216_zpid/,376 Us Highway 59 NW,56114,Avoca,MN,43.958779,-95.659215,92000.0,1.0,3.0,1726.0,1924,194713.0,SINGLE_FAMILY,SOLD,0
-106774048,https://www.zillow.com/homedetails/325-SW-2nd-St-Avoca-MN-56114/106774048_zpid/,325 SW 2nd St,56114,Avoca,MN,43.947699,-95.647136,55000.0,1.0,2.0,1344.0,1940,12196.0,SINGLE_FAMILY,SOLD,18

@@ -1,8 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106793475,https://www.zillow.com/homedetails/1995-430th-St-Gary-MN-56545/106793475_zpid/,1995 430th St,56545,Gary,MN,47.295742,-96.153294,135500.0,1.0,3.0,1802.0,1910,267894.0,SINGLE_FAMILY,RECENTLY_SOLD,34
-106793528,https://www.zillow.com/homedetails/2354-340th-St-Gary-MN-56545/106793528_zpid/,2354 340th St,56545,Gary,MN,47.348106,-96.342888,184900.0,2.0,3.0,2024.0,1977,435600.0,SINGLE_FAMILY,RECENTLY_SOLD,54
-2082502091,https://www.zillow.com/homedetails/215-1st-Ave-E-Gary-MN-56545/2082502091_zpid/,215 1st Ave E,56545,Gary,MN,47.372711,-96.264987,10000.0,1.0,3.0,1350.0,-1,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-2088289201,https://www.zillow.com/homedetails/2769-340th-St-Gary-MN-56545/2088289201_zpid/,2769 340th St,56545,Gary,MN,47.409262,-96.349702,144000.0,2.0,5.0,2150.0,1925,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,35
-106792974,https://www.zillow.com/homedetails/303-Strand-St-Gary-MN-56545/106792974_zpid/,303 Strand St,56545,Gary,MN,47.36958,-96.264776,125000.0,2.0,4.0,2802.0,1916,15002.0,SINGLE_FAMILY,SOLD,28
-106793021,https://www.zillow.com/homedetails/2339-365th-St-Gary-MN-56545/106793021_zpid/,2339 365th St,56545,Gary,MN,47.336687,-96.290696,116000.0,1.0,3.0,1330.0,1950,135036.0,SINGLE_FAMILY,SOLD,20
-106792961,https://www.zillow.com/homedetails/201-Broadway-Gary-MN-56545/106792961_zpid/,201 Broadway,56545,Gary,MN,47.373823,-96.26723,18000.0,1.0,5.0,2400.0,1903,29999.0,SINGLE_FAMILY,SOLD,32

@@ -1,9 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-96994007,https://www.zillow.com/homedetails/194-Maple-Ln-S-Wahkon-MN-56386/96994007_zpid/,194 Maple Ln S,56386,Wahkon,MN,46.134563,-93.520717,171900.0,1.0,1.0,384.0,1990,20342.0,MANUFACTURED,FOR_SALE,4
-2080822470,https://www.zillow.com/homedetails/39572-E-Moose-Ln-Wahkon-MN-56386/2080822470_zpid/,39572 E Moose Ln,56386,Wahkon,MN,46.118827,-93.540785,124900.0,1.0,2.0,784.0,1984,12632.0,MANUFACTURED,FOR_SALE,17
-2080877226,https://www.zillow.com/homedetails/1755-Lake-Shore-Blvd-Wahkon-MN-56386/2080877226_zpid/,1755 Lake Shore Blvd,56386,Wahkon,MN,46.131391,-93.524851,425000.0,2.0,3.0,2286.0,1951,20473.0,SINGLE_FAMILY,FOR_SALE,39
-2082861532,https://www.zillow.com/homedetails/1885-Lake-Shore-Blvd-Wahkon-MN-56386/2082861532_zpid/,1885 Lake Shore Blvd,56386,Wahkon,MN,46.132355,-93.52373,575000.0,3.0,4.0,1546.0,1940,36500.0,SINGLE_FAMILY,FOR_SALE,39
-96994011,https://www.zillow.com/homedetails/280-Bennett-St-Wahkon-MN-56386/96994011_zpid/,280 Bennett St,56386,Wahkon,MN,46.131126,-93.526628,279900.0,2.0,3.0,2063.0,1960,-1.0,SINGLE_FAMILY,FOR_SALE,34
-2086520586,https://www.zillow.com/homedetails/415-Bennett-St-12-Wahkon-MN-56386/2086520586_zpid/,415 Bennett St #12,56386,Wahkon,MN,46.130924,-93.528694,315000.0,2.0,3.0,1768.0,2018,2700.0,TOWNHOUSE,FOR_SALE,14
-2086523256,https://www.zillow.com/homedetails/415-Bennett-St-11-Wahkon-MN-56386/2086523256_zpid/,415 Bennett St #11,56386,Wahkon,MN,46.130966,-93.528755,260000.0,2.0,1.0,1360.0,2018,2520.0,TOWNHOUSE,FOR_SALE,13
-2086539165,https://www.zillow.com/homedetails/415-Bennett-St-10-Wahkon-MN-56386/2086539165_zpid/,415 Bennett St #10,56386,Wahkon,MN,46.13098,-93.528824,295000.0,2.0,3.0,1768.0,2018,2700.0,TOWNHOUSE,FOR_SALE,29

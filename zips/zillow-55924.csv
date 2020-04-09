@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106643051,https://www.zillow.com/homedetails/216-2nd-St-W-Claremont-MN-55924/106643051_zpid/,216 2nd St W,55924,Claremont,MN,44.045659,-92.998766,209900.0,2.0,4.0,1950.0,1910,17424.0,SINGLE_FAMILY,FOR_SALE,26
-106835167,https://www.zillow.com/homedetails/7403-SE-89th-Ave-Claremont-MN-55924/106835167_zpid/,7403 SE 89th Ave,55924,Claremont,MN,43.985112,-93.054954,99900.0,1.0,4.0,1728.0,1895,154638.0,SINGLE_FAMILY,FOR_SALE,13
-106643193,https://www.zillow.com/homedetails/216-3rd-Pl-Claremont-MN-55924/106643193_zpid/,216 3rd Pl,55924,Claremont,MN,44.0458,-92.991704,319900.0,4.0,6.0,3424.0,2001,28125.0,SINGLE_FAMILY,FOR_SALE,43

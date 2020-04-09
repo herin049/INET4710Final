@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106603168,https://www.zillow.com/homedetails/15319-State-Highway-65-Mc-Grath-MN-56350/106603168_zpid/,15319 State Highway 65,56350,Mc Grath,MN,46.23707,-93.276411,20000.0,3.0,2.0,2000.0,1900,301435.0,SINGLE_FAMILY,SOLD,0
-113912664,https://www.zillow.com/homedetails/18913-170th-St-Mc-Grath-MN-56350/113912664_zpid/,18913 170th St,56350,Mc Grath,MN,46.258183,-93.238378,171000.0,2.0,2.0,1450.0,2003,3484800.0,SINGLE_FAMILY,SOLD,0
-106603154,https://www.zillow.com/homedetails/19401-134th-Ln-Mc-Grath-MN-56350/106603154_zpid/,19401 134th Ln,56350,Mc Grath,MN,46.20719,-93.249832,37380.0,2.0,2.0,1323.0,2002,217800.0,MANUFACTURED,SOLD,15

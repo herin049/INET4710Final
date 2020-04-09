@@ -1,9 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-113928007,https://www.zillow.com/homedetails/803-Main-St-S-Karlstad-MN-56732/113928007_zpid/,803 Main St S,56732,Karlstad,MN,48.571818,-96.516304,22500.0,1.0,2.0,660.0,1937,7405.0,SINGLE_FAMILY,RECENTLY_SOLD,17
-126685507,https://www.zillow.com/homedetails/201-Lincoln-Ave-W-Karlstad-MN-56732/126685507_zpid/,201 Lincoln Ave W,56732,Karlstad,MN,48.575143,-96.521054,75000.0,2.0,3.0,1896.0,1940,13939.0,SINGLE_FAMILY,RECENTLY_SOLD,24
-2085553487,https://www.zillow.com/homedetails/122-Main-Karlstad-MN-56732/2085553487_zpid/,122 Main,56732,Karlstad,MN,48.577629,-96.52089,25000.0,2.0,0.0,6368.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
-106755685,https://www.zillow.com/homedetails/45115-Pembina-Trl-NW-Karlstad-MN-56732/106755685_zpid/,45115 Pembina Trl NW,56732,Karlstad,MN,48.530132,-96.550707,200000.0,3.0,3.0,3008.0,1977,193406.0,SINGLE_FAMILY,SOLD,8
-106711699,https://www.zillow.com/homedetails/1110-Grant-St-S-Karlstad-MN-56732/106711699_zpid/,1110 Grant St S,56732,Karlstad,MN,48.567422,-96.516682,127000.0,2.0,3.0,1763.0,1994,553647.0,SINGLE_FAMILY,SOLD,41
-106711654,https://www.zillow.com/homedetails/501-Main-St-S-Karlstad-MN-56732/106711654_zpid/,501 Main St S,56732,Karlstad,MN,48.574365,-96.518573,124500.0,2.0,4.0,3198.0,1920,13068.0,SINGLE_FAMILY,SOLD,1
-127062941,https://www.zillow.com/homedetails/402-1st-St-S-Strandquist-MN-56732/127062941_zpid/,402 1st St S,56732,Strandquist,MN,48.574976,-96.520095,67000.0,1.0,2.0,1162.0,1987,6098.0,TOWNHOUSE,SOLD,13
-2094621564,https://www.zillow.com/homedetails/100-Cart-Way-Karlstad-MN-56732/2094621564_zpid/,100 Cart Way,56732,Karlstad,MN,48.581262,-96.515255,150000.0,2.0,4.0,2100.0,-1,-1.0,SINGLE_FAMILY,SOLD,0

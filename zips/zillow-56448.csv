@@ -1,6 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-92525147,https://www.zillow.com/homedetails/17535-N-Mitchell-Lake-Rd-Fifty-Lakes-MN-56448/92525147_zpid/,17535 N Mitchell Lake Rd,56448,Fifty Lakes,MN,46.781845,-94.034942,279900.0,2.0,3.0,1734.0,1995,50094.0,SINGLE_FAMILY,FOR_SALE,28
-2082445185,https://www.zillow.com/homedetails/12275-Northgate-Ln-Fifty-Lakes-MN-56448/2082445185_zpid/,12275 Northgate Ln,56448,Fifty Lakes,MN,46.728004,-94.144071,1475000.0,3.0,4.0,2508.0,1997,1219680.0,SINGLE_FAMILY,FOR_SALE,36
-92549407,https://www.zillow.com/homedetails/41163-W-Fox-Lake-Rd-Fifty-Lakes-MN-56448/92549407_zpid/,41163 W Fox Lake Rd,56448,Fifty Lakes,MN,46.749821,-94.098453,654900.0,4.0,4.0,5526.0,2006,470012.0,SINGLE_FAMILY,FOR_SALE,57
-2125357731,https://www.zillow.com/homedetails/40535-Westman-Bay-Rd-Fifty-Lakes-MN-56448/2125357731_zpid/,40535 Westman Bay Rd,56448,Fifty Lakes,MN,46.73999,-94.09487,379000.0,1.0,3.0,1072.0,1960,145054.0,SINGLE_FAMILY,FOR_SALE,42
-92542902,https://www.zillow.com/homedetails/14506-County-Road-1-Fifty-Lakes-MN-56448/92542902_zpid/,14506 County Road 1,56448,Fifty Lakes,MN,46.735391,-94.097292,76900.0,1.0,2.0,924.0,1973,130680.0,MANUFACTURED,FOR_SALE,20

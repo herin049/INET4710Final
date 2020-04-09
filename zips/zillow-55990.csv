@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106663685,https://www.zillow.com/homedetails/20385-County-117-Wykoff-MN-55990/106663685_zpid/,20385 County 117,55990,Wykoff,MN,43.69903,-92.23873,324900.0,1.0,4.0,2200.0,1900,241322.0,SINGLE_FAMILY,FOR_SALE,48
-106664099,https://www.zillow.com/homedetails/216-Silver-St-S-Wykoff-MN-55990/106664099_zpid/,216 Silver St S,55990,Wykoff,MN,43.705021,-92.265042,135000.0,2.0,4.0,2190.0,1915,15942.0,SINGLE_FAMILY,FOR_SALE,16
-106666070,https://www.zillow.com/homedetails/111-Front-St-E-Wykoff-MN-55990/106666070_zpid/,111 Front St E,55990,Wykoff,MN,43.707807,-92.267249,259000.0,2.0,2.0,1656.0,2019,10018.0,SINGLE_FAMILY,FOR_SALE,31

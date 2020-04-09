@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106636237,https://www.zillow.com/homedetails/27894-Clearwater-Lake-Rd-Leonard-MN-56652/106636237_zpid/,27894 Clearwater Lake Rd,56652,Leonard,MN,47.762708,-95.196646,272800.0,2.0,3.0,2253.0,2000,1219680.0,SINGLE_FAMILY,RECENTLY_SOLD,47
-2114107529,https://www.zillow.com/homedetails/42069-County-23-Leonard-MN-56652/2114107529_zpid/,42069 County 23,56652,Leonard,MN,47.617447,-95.230397,215000.0,2.0,3.0,1288.0,1993,1742400.0,SINGLE_FAMILY,RECENTLY_SOLD,28
-106635752,https://www.zillow.com/homedetails/23262-470th-St-Leonard-MN-56652/106635752_zpid/,23262 470th St,56652,Leonard,MN,47.68821,-95.295356,79500.0,1.0,3.0,1232.0,1980,653400.0,SINGLE_FAMILY,RECENTLY_SOLD,17
-250408101,https://www.zillow.com/homedetails/27921-Mason-Dr-Leonard-MN-56652/250408101_zpid/,27921 Mason Dr,56652,Leonard,MN,47.72813,-95.194116,358000.0,2.25,3.0,1264.0,2008,52272.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-2094360794,https://www.zillow.com/homedetails/44747-263rd-Ave-Leonard-MN-56652/2094360794_zpid/,44747 263rd Ave,56652,Leonard,MN,47.655597,-95.230638,321400.0,3.0,3.0,2890.0,2002,3484800.0,SINGLE_FAMILY,SOLD,52
-106636511,https://www.zillow.com/homedetails/24473-Leonard-Rd-Leonard-MN-56652/106636511_zpid/,24473 Leonard Rd,56652,Leonard,MN,47.651712,-95.272461,70000.0,2.0,2.0,1081.0,1912,21780.0,SINGLE_FAMILY,SOLD,24

@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106681597,https://www.zillow.com/homedetails/547-Grant-St-Wendell-MN-56590/106681597_zpid/,547 Grant St,56590,Wendell,MN,46.035224,-96.098758,35000.0,1.0,2.0,914.0,1913,14810.0,SINGLE_FAMILY,SOLD,1
-2087313216,https://www.zillow.com/homedetails/31396-257th-Wendell-MN-56590/2087313216_zpid/,31396 257th,56590,Wendell,MN,46.066056,-96.093138,227000.0,1.0,2.0,1984.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
-106679967,https://www.zillow.com/homedetails/26363-320th-Ave-Wendell-MN-56590/106679967_zpid/,26363 320th Ave,56590,Wendell,MN,45.998142,-96.22722,140000.0,2.0,5.0,2751.0,1948,865537.0,SINGLE_FAMILY,SOLD,42
-106681633,https://www.zillow.com/homedetails/467-Minnesota-Ave-Wendell-MN-56590/106681633_zpid/,467 Minnesota Ave,56590,Wendell,MN,46.033093,-96.097705,131000.0,1.25,2.0,2014.0,1977,-1.0,SINGLE_FAMILY,SOLD,29
-106681592,https://www.zillow.com/homedetails/441-State-Highway-55-Wendell-MN-56590/106681592_zpid/,441 State Highway 55,56590,Wendell,MN,46.035615,-96.097646,32000.0,1.0,3.0,1456.0,1910,11325.0,SINGLE_FAMILY,SOLD,14
-121496636,https://www.zillow.com/homedetails/616-State-Highway-55-Wendell-MN-56590/121496636_zpid/,616 State Highway 55,56590,Wendell,MN,46.034273,-96.101192,67000.0,3.0,3.0,3480.0,1966,17859.0,SINGLE_FAMILY,SOLD,20

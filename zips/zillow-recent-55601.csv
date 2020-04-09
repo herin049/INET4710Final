@@ -1,8 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-303994490,https://www.zillow.com/homedetails/610-Windsong-Dr-Beaver-Bay-MN-55601/303994490_zpid/,610 Windsong Dr,55601,Beaver Bay,MN,47.250295,-91.309479,260000.0,1.5,3.0,1464.0,2004,871.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-249447233,https://www.zillow.com/homedetails/906-Christine-Cir-Beaver-Bay-MN-55601/249447233_zpid/,906 Christine Cir,55601,Beaver Bay,MN,47.258294,-91.305794,171906.0,1.0,2.0,864.0,1997,8712.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-249447219,https://www.zillow.com/homedetails/10-Rose-Ln-Beaver-Bay-MN-55601/249447219_zpid/,10 Rose Ln,55601,Beaver Bay,MN,47.257959,-91.307329,290000.0,1.5,3.0,2060.0,2001,173804.0,SINGLE_FAMILY,SOLD,0
-106719356,https://www.zillow.com/homedetails/1045-Main-St-Beaver-Bay-MN-55601/106719356_zpid/,1045 Main St,55601,Beaver Bay,MN,47.25572,-91.307172,112000.0,3.0,4.0,3202.0,1980,256568.0,SINGLE_FAMILY,SOLD,0
-106719399,https://www.zillow.com/homedetails/742-Macdonald-Ave-Beaver-Bay-MN-55601/106719399_zpid/,742 Macdonald Ave,55601,Beaver Bay,MN,47.260501,-91.302797,26000.0,2.0,2.0,2128.0,1953,9583.0,SINGLE_FAMILY,SOLD,1
-106719373,https://www.zillow.com/homedetails/915-Christine-Cir-Beaver-Bay-MN-55601/106719373_zpid/,915 Christine Cir,55601,Beaver Bay,MN,47.256058,-91.303655,102000.0,1.5,3.0,1212.0,1945,8712.0,SINGLE_FAMILY,SOLD,0
-106719416,https://www.zillow.com/homedetails/616-Windsong-Dr-Beaver-Bay-MN-55601/106719416_zpid/,616 Windsong Dr,55601,Beaver Bay,MN,47.250833,-91.309362,215000.0,3.0,2.0,1460.0,2003,871.0,SINGLE_FAMILY,SOLD,32

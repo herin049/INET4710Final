@@ -1,8 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-91461219,https://www.zillow.com/homedetails/1329-80th-Ave-NE-Eyota-MN-55934/91461219_zpid/,1329 80th Ave NE,55934,Eyota,MN,44.034715,-92.319824,254900.0,2.0,3.0,1236.0,1940,219978.0,SINGLE_FAMILY,FOR_SALE,33
-91442532,https://www.zillow.com/homedetails/218-Jefferson-Ave-SW-Eyota-MN-55934/91442532_zpid/,218 Jefferson Ave SW,55934,Eyota,MN,43.988322,-92.236825,336900.0,2.0,3.0,1900.0,1977,13721.0,SINGLE_FAMILY,FOR_SALE,59
-91442464,https://www.zillow.com/homedetails/46-Park-Dr-NW-Eyota-MN-55934/91442464_zpid/,46 Park Dr NW,55934,Eyota,MN,43.991213,-92.230406,63000.0,2.0,2.0,980.0,2000,7492.0,MANUFACTURED,FOR_SALE,0
-91442296,https://www.zillow.com/homedetails/123-Rena-Belle-St-NW-Eyota-MN-55934/91442296_zpid/,123 Rena Belle St NW,55934,Eyota,MN,43.992529,-92.233443,147900.0,2.0,4.0,1710.0,1973,9147.0,SINGLE_FAMILY,FOR_SALE,8
-91442452,https://www.zillow.com/homedetails/55-Park-Dr-NW-Eyota-MN-55934/91442452_zpid/,55 Park Dr NW,55934,Eyota,MN,43.991704,-92.231896,43900.0,2.0,2.0,1038.0,1986,10018.0,MANUFACTURED,FOR_SALE,5
-91442854,https://www.zillow.com/homedetails/425-Glen-St-SW-Eyota-MN-55934/91442854_zpid/,425 Glen St SW,55934,Eyota,MN,43.979519,-92.237215,250000.0,2.0,6.0,2972.0,2001,10105.0,SINGLE_FAMILY,FOR_SALE,36
-91442361,https://www.zillow.com/homedetails/307-Summerfield-Dr-NE-Eyota-MN-55934/91442361_zpid/,307 Summerfield Dr NE,55934,Eyota,MN,43.990408,-92.224101,253100.0,2.0,4.0,1927.0,2006,9583.0,SINGLE_FAMILY,FOR_SALE,22

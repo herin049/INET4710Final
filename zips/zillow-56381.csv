@@ -1,8 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106810574,https://www.zillow.com/homedetails/25011-260th-Ave-Starbuck-MN-56381/106810574_zpid/,25011 260th Ave,56381,Starbuck,MN,45.541767,-95.462017,180000.0,3.0,5.0,3472.0,1912,493534.0,SINGLE_FAMILY,FOR_SALE,20
-106812844,https://www.zillow.com/homedetails/746-Moore-St-Starbuck-MN-56381/106812844_zpid/,746 Moore St,56381,Starbuck,MN,45.616389,-95.525132,165500.0,1.0,3.0,1700.0,1971,11282.0,SINGLE_FAMILY,FOR_SALE,25
-106812418,https://www.zillow.com/homedetails/105-E-Broadway-St-Starbuck-MN-56381/106812418_zpid/,105 E Broadway St,56381,Starbuck,MN,45.615276,-95.530409,149900.0,2.0,3.0,1854.0,1920,16814.0,SINGLE_FAMILY,FOR_SALE,30
-127063955,https://www.zillow.com/homedetails/304-W-Depot-Ln-Starbuck-MN-56381/127063955_zpid/,304 W Depot Ln,56381,Starbuck,MN,45.611215,-95.534825,189900.0,1.0,2.0,968.0,2001,6969.0,SINGLE_FAMILY,FOR_SALE,17
-106812793,https://www.zillow.com/homedetails/507-Bingham-St-Starbuck-MN-56381/106812793_zpid/,507 Bingham St,56381,Starbuck,MN,45.612908,-95.529369,199900.0,3.0,2.0,1968.0,2006,5488.0,TOWNHOUSE,FOR_SALE,23
-232990662,https://www.zillow.com/homedetails/611-E-8th-St-Starbuck-MN-56381/232990662_zpid/,611 E 8th St,56381,Starbuck,MN,45.616381,-95.522964,184900.0,3.0,5.0,3860.0,1977,25264.0,SINGLE_FAMILY,FOR_SALE,26
-120297145,https://www.zillow.com/homedetails/311-E-7th-St-Starbuck-MN-56381/120297145_zpid/,311 E 7th St,56381,Starbuck,MN,45.61419,-95.527173,279000.0,8.0,6.0,4511.0,1897,14810.0,SINGLE_FAMILY,FOR_SALE,13

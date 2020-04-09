@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-110465209,https://www.zillow.com/homedetails/301-1st-St-E-Vernon-Center-MN-56090/110465209_zpid/,301 1st St E,56090,Vernon Center,MN,43.964205,-94.165714,85900.0,1.0,3.0,1616.0,1910,23086.0,SINGLE_FAMILY,FOR_SALE,32
-110465422,https://www.zillow.com/homedetails/200-S-Centre-St-Vernon-Center-MN-56090/110465422_zpid/,200 S Centre St,56090,Vernon Center,MN,43.960012,-94.167913,59900.0,2.0,3.0,1188.0,1995,14374.0,SINGLE_FAMILY,FOR_SALE,15

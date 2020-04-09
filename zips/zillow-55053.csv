@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-81645045,https://www.zillow.com/homedetails/10471-Jenkins-Trl-Nerstrand-MN-55053/81645045_zpid/,10471 Jenkins Trl,55053,Nerstrand,MN,44.371182,-93.091462,224900.0,1.0,4.0,1760.0,1900,230868.0,LOT,FOR_SALE,17
-81627410,https://www.zillow.com/homedetails/15488-Johnson-Trl-Nerstrand-MN-55053/81627410_zpid/,15488 Johnson Trl,55053,Nerstrand,MN,44.363671,-93.093896,711000.0,5.0,4.0,4458.0,2006,313632.0,SINGLE_FAMILY,FOR_SALE,42

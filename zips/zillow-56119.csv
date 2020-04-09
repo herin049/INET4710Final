@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2080313169,https://www.zillow.com/homedetails/826-2nd-Ave-Brewster-MN-56119/2080313169_zpid/,826 2nd Ave,56119,Brewster,MN,43.69986,-95.46747,112000.0,1.0,5.0,2032.0,1905,13950.0,SINGLE_FAMILY,FOR_SALE,16
-2080365502,https://www.zillow.com/homedetails/103-14th-St-N-Brewster-MN-56119/2080365502_zpid/,103 14th St N,56119,Brewster,MN,43.698477,-95.472648,147000.0,2.0,4.0,1448.0,1914,197762.0,SINGLE_FAMILY,FOR_SALE,40
-106787405,https://www.zillow.com/homedetails/502-Frontier-Rd-Brewster-MN-56119/106787405_zpid/,502 Frontier Rd,56119,Brewster,MN,43.694896,-95.467536,154900.0,1.0,4.0,1723.0,1964,10454.0,SINGLE_FAMILY,FOR_SALE,28
-106787417,https://www.zillow.com/homedetails/103-14th-St-Brewster-MN-56119/106787417_zpid/,103 14th St,56119,Brewster,MN,43.698694,-95.473559,147000.0,2.0,4.0,1448.0,1914,197762.0,SINGLE_FAMILY,FOR_SALE,40
-106787432,https://www.zillow.com/homedetails/404-9th-St-Brewster-MN-56119/106787432_zpid/,404 9th St,56119,Brewster,MN,43.697874,-95.465266,79900.0,2.0,3.0,1420.0,1930,13833.0,SINGLE_FAMILY,FOR_SALE,10
-106791816,https://www.zillow.com/homedetails/13883-Wass-Ave-Brewster-MN-56119/106791816_zpid/,13883 Wass Ave,56119,Brewster,MN,43.791676,-95.472854,249500.0,2.0,5.0,2134.0,1900,216057.0,SINGLE_FAMILY,FOR_SALE,47

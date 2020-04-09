@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106836534,https://www.zillow.com/homedetails/286-8th-St-Hancock-MN-56244/106836534_zpid/,286 8th St,56244,Hancock,MN,45.4965,-95.800598,147000.0,2.0,3.0,1568.0,1961,10018.0,SINGLE_FAMILY,FOR_SALE,28
-106836772,https://www.zillow.com/homedetails/29-Fairview-Ln-Hancock-MN-56244/106836772_zpid/,29 Fairview Ln,56244,Hancock,MN,45.496718,-95.78671,275000.0,3.0,4.0,3200.0,1980,10001.0,SINGLE_FAMILY,FOR_SALE,47
-106836229,https://www.zillow.com/homedetails/40385-285th-St-Hancock-MN-56244/106836229_zpid/,40385 285th St,56244,Hancock,MN,45.49156,-95.755944,244000.0,4.0,2.0,3240.0,1983,80586.0,SINGLE_FAMILY,FOR_SALE,19

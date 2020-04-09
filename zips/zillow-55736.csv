@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-61608339,https://www.zillow.com/homedetails/6217-Mcgonagle-Rd-Floodwood-MN-55736/61608339_zpid/,6217 Mcgonagle Rd,55736,Floodwood,MN,46.962165,-92.810909,275000.0,3.0,2.0,2016.0,2006,1742400.0,SINGLE_FAMILY,FOR_SALE,45
-61556628,https://www.zillow.com/homedetails/210-2nd-Ave-E-Floodwood-MN-55736/61556628_zpid/,210 2nd Ave E,55736,Floodwood,MN,46.931258,-92.91233,93000.0,2.0,3.0,1122.0,1959,5662.0,SINGLE_FAMILY,FOR_SALE,17
-61556608,https://www.zillow.com/homedetails/102-Pine-St-Floodwood-MN-55736/61556608_zpid/,102 Pine St,55736,Floodwood,MN,46.932069,-92.916281,63565.0,1.0,2.0,952.0,1954,14374.0,SINGLE_FAMILY,PRE_FORECLOSURE,5
-61556703,https://www.zillow.com/homedetails/424-W-6th-Ave-Floodwood-MN-55736/61556703_zpid/,424 W 6th Ave,55736,Floodwood,MN,46.927594,-92.921708,63744.0,1.0,3.0,816.0,-1,-1.0,SINGLE_FAMILY,PRE_FORECLOSURE,0
-61556876,https://www.zillow.com/homedetails/101-E-Railroad-St-Floodwood-MN-55736/61556876_zpid/,101 E Railroad St,55736,Floodwood,MN,46.924909,-92.914061,25000.0,1.0,0.0,1344.0,1950,6098.0,SINGLE_FAMILY,FOR_SALE,4
-61584215,https://www.zillow.com/homedetails/11474-Highway-8-Floodwood-MN-55736/61584215_zpid/,11474 Highway 8,55736,Floodwood,MN,46.923212,-92.887759,359000.0,2.0,2.0,984.0,2016,3963960.0,SINGLE_FAMILY,FOR_SALE,27

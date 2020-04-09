@@ -1,6 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-113940269,https://www.zillow.com/homedetails/26952-238th-St-Verndale-MN-56481/113940269_zpid/,26952 238th St,56481,Verndale,MN,46.569047,-94.803259,189900.0,1.0,2.0,704.0,2002,527511.0,SINGLE_FAMILY,FOR_SALE,18
-2080840221,https://www.zillow.com/homedetails/17-Eastside-Dr-Verndale-MN-56481/2080840221_zpid/,17 Eastside Dr,56481,Verndale,MN,46.395358,-94.999679,20000.0,1.0,2.0,980.0,-1,21780.0,MANUFACTURED,FOR_SALE,1
-106851980,https://www.zillow.com/homedetails/15-Eastside-Dr-Verndale-MN-56481/106851980_zpid/,15 Eastside Dr,56481,Verndale,MN,46.395301,-95.000874,20000.0,1.0,2.0,980.0,1975,21780.0,MANUFACTURED,FOR_SALE,1
-2093792068,https://www.zillow.com/homedetails/15547-201st-Ave-Verndale-MN-56481/2093792068_zpid/,15547 201st Ave,56481,Verndale,MN,46.447355,-94.949459,294500.0,2.0,2.0,1772.0,2006,1742400.0,SINGLE_FAMILY,FOR_SALE,18
-2083103397,https://www.zillow.com/homedetails/305-N-Bown-St-Verndale-MN-56481/2083103397_zpid/,305 N Bown St,56481,Verndale,MN,46.395282,-95.01704,109900.0,1.0,2.0,1800.0,1920,-1.0,SINGLE_FAMILY,FOR_SALE,13

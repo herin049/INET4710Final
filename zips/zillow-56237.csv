@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-235806550,https://www.zillow.com/homedetails/75-3rd-Ave-W-Echo-MN-56237/235806550_zpid/,75 3rd Ave W,56237,Echo,MN,44.617907,-95.41321,125000.0,2.0,3.0,2170.0,1977,11238.0,SINGLE_FAMILY,FOR_SALE,31
-235806532,https://www.zillow.com/homedetails/70-3rd-Ave-W-Echo-MN-56237/235806532_zpid/,70 3rd Ave W,56237,Echo,MN,44.617634,-95.412106,74900.0,3.0,3.0,1568.0,1951,10500.0,SINGLE_FAMILY,FOR_SALE,17

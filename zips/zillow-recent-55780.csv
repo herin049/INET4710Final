@@ -1,5 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-110936729,https://www.zillow.com/homedetails/3325-Highway-210-Sawyer-MN-55780/110936729_zpid/,3325 Highway 210,55780,Sawyer,MN,46.673323,-92.642446,723.0,3.0,3.0,1665.0,2007,1206612.0,SINGLE_FAMILY,SOLD,1
-110936815,https://www.zillow.com/homedetails/3298-Highway-210-Sawyer-MN-55780/110936815_zpid/,3298 Highway 210,55780,Sawyer,MN,46.670551,-92.638819,215000.0,1.0,3.0,1540.0,1998,217800.0,SINGLE_FAMILY,SOLD,1
-110936051,https://www.zillow.com/homedetails/1493-Long-Lake-Rd-Sawyer-MN-55780/110936051_zpid/,1493 Long Lake Rd,55780,Sawyer,MN,46.667515,-92.713368,161000.0,2.0,4.0,2204.0,1976,192535.0,SINGLE_FAMILY,SOLD,13
-110936739,https://www.zillow.com/homedetails/3484-Highway-210-Kettle-River-MN-55780/110936739_zpid/,3484 Highway 210,55780,Kettle River,MN,46.671971,-92.658123,147500.0,2.0,3.0,1520.0,1980,514443.0,SINGLE_FAMILY,SOLD,0

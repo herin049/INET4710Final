@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2082040566,https://www.zillow.com/homedetails/3468-County-Highway-23-Gary-MN-56545/2082040566_zpid/,3468 County Highway 23,56545,Gary,MN,47.341875,-96.327986,340000.0,1.0,5.0,1752.0,1924,3484800.0,SINGLE_FAMILY,FOR_SALE,7
-106793004,https://www.zillow.com/homedetails/111-Thorpe-St-N-Gary-MN-56545/106793004_zpid/,111 Thorpe St N,56545,Gary,MN,47.375909,-96.268229,199900.0,3.0,6.0,3500.0,2006,50529.0,SINGLE_FAMILY,FOR_SALE,18

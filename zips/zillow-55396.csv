@@ -1,5 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-103957393,https://www.zillow.com/homedetails/910-Oak-Ln-Winthrop-MN-55396/103957393_zpid/,910 Oak Ln,55396,Winthrop,MN,44.549209,-94.359074,459900.0,4.0,5.0,4778.0,1997,20908.0,SINGLE_FAMILY,FOR_SALE,26
-251396875,https://www.zillow.com/homedetails/308-W-3rd-St-Winthrop-MN-55396/251396875_zpid/,308 W 3rd St,55396,Winthrop,MN,44.54235,-94.368117,84900.0,2.0,3.0,1210.0,1900,10628.0,SINGLE_FAMILY,FOR_SALE,20
-103957267,https://www.zillow.com/homedetails/813-N-Main-St-Winthrop-MN-55396/103957267_zpid/,813 N Main St,55396,Winthrop,MN,44.54826,-94.363991,59900.0,2.0,3.0,1248.0,1995,7100.0,MANUFACTURED,FOR_SALE,14
-299771896,https://www.zillow.com/homedetails/810-N-Main-St-Winthrop-MN-55396/299771896_zpid/,810 N Main St,55396,Winthrop,MN,44.548121,-94.364842,99900.0,1.0,3.0,1120.0,1981,6969.0,SINGLE_FAMILY,FOR_SALE,10

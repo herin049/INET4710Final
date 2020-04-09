@@ -1,5 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2083598943,https://www.zillow.com/homedetails/38698-State-109-Hwy-Winnebago-MN-56098/2083598943_zpid/,38698 State 109 Hwy,56098,Winnebago,MN,43.759929,-94.09305,265900.0,2.0,5.0,3374.0,1890,132422.0,SINGLE_FAMILY,FOR_SALE,31
-234332372,https://www.zillow.com/homedetails/19-5th-Ave-SE-Winnebago-MN-56098/234332372_zpid/,19 5th Ave SE,56098,Winnebago,MN,43.762431,-94.164979,70000.0,1.0,4.0,1238.0,1887,10454.0,SINGLE_FAMILY,FOR_SALE,9
-114987944,https://www.zillow.com/homedetails/137-1st-Ave-NW-Winnebago-MN-56098/114987944_zpid/,137 1st Ave NW,56098,Winnebago,MN,43.769163,-94.168901,79000.0,2.0,3.0,3060.0,1900,18730.0,SINGLE_FAMILY,FOR_SALE,9
-114991542,https://www.zillow.com/homedetails/624-Cleveland-Ave-W-Winnebago-MN-56098/114991542_zpid/,624 Cleveland Ave W,56098,Winnebago,MN,43.767423,-94.179513,85900.0,2.0,5.0,2556.0,1900,13068.0,SINGLE_FAMILY,FOR_SALE,24

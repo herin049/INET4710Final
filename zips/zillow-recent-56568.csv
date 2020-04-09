@@ -1,5 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-119759157,https://www.zillow.com/homedetails/3379-110th-St-Nielsville-MN-56568/119759157_zpid/,3379 110th St,56568,Nielsville,MN,47.496116,-96.836943,159650.0,2.0,3.0,3060.0,1940,214750.0,SINGLE_FAMILY,RECENTLY_SOLD,31
-121499155,https://www.zillow.com/homedetails/40786-Us-Highway-75-SW-Nielsville-MN-56568/121499155_zpid/,40786 Us Highway 75 SW,56568,Nielsville,MN,47.574403,-96.814033,675000.0,2.0,3.0,2688.0,1983,243064.0,SINGLE_FAMILY,SOLD,5
-106810111,https://www.zillow.com/homedetails/202-W-2nd-St-Nielsville-MN-56568/106810111_zpid/,202 W 2nd St,56568,Nielsville,MN,47.52844,-96.817787,53500.0,1.0,3.0,1238.0,1900,10454.0,SINGLE_FAMILY,FOR_SALE,17
-106810091,https://www.zillow.com/homedetails/304-N-Spokely-Ave-Nielsville-MN-56568/106810091_zpid/,304 N Spokely Ave,56568,Nielsville,MN,47.529232,-96.817222,25000.0,2.0,3.0,1216.0,1990,6969.0,SINGLE_FAMILY,SOLD,5

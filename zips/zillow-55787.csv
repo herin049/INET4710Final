@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-113915809,https://www.zillow.com/homedetails/11667-422nd-St-Tamarack-MN-55787/113915809_zpid/,11667 422nd St,55787,Tamarack,MN,46.624467,-93.098422,139900.0,1.0,2.0,1482.0,1940,76230.0,SINGLE_FAMILY,FOR_SALE,17
-2083086467,https://www.zillow.com/homedetails/49XXX-153rd-Pl-Tamarack-MN-55787/2083086467_zpid/,49XXX 153rd Pl,55787,Tamarack,MN,46.632738,-93.002731,318000.0,1.0,3.0,1520.0,2000,187743.0,SINGLE_FAMILY,FOR_SALE,42
-243676049,https://www.zillow.com/homedetails/150-W-Nelson-Ave-Tamarack-MN-55787/243676049_zpid/,150 W Nelson Ave,55787,Tamarack,MN,46.645932,-93.128167,89900.0,1.0,3.0,1170.0,1917,14810.0,SINGLE_FAMILY,FOR_SALE,16

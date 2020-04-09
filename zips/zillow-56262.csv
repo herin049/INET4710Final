@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106632775,https://www.zillow.com/homedetails/108-N-1st-St-Milan-MN-56262/106632775_zpid/,108 N 1st St,56262,Milan,MN,45.109502,-95.910328,44900.0,1.0,2.0,1004.0,1911,6098.0,SINGLE_FAMILY,FOR_SALE,23
-106632734,https://www.zillow.com/homedetails/316-N-3rd-St-Milan-MN-56262/106632734_zpid/,316 N 3rd St,56262,Milan,MN,45.110681,-95.913426,49000.0,1.0,3.0,1536.0,1898,7405.0,SINGLE_FAMILY,FOR_SALE,33
-106632763,https://www.zillow.com/homedetails/14035-Highway-40-NW-Milan-MN-56262/106632763_zpid/,14035 Highway 40 NW,56262,Milan,MN,45.109122,-95.885309,265000.0,3.0,4.0,3725.0,1978,108464.0,SINGLE_FAMILY,FOR_SALE,46

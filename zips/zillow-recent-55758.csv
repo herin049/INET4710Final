@@ -1,9 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-89266246,https://www.zillow.com/homedetails/511-Spruce-Ave-Kinney-MN-55758/89266246_zpid/,511 Spruce Ave,55758,Kinney,MN,47.514781,-92.728483,10000.0,1.0,3.0,704.0,1905,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-61565489,https://www.zillow.com/homedetails/207-Birch-Ave-Kinney-MN-55758/61565489_zpid/,207 Birch Ave,55758,Kinney,MN,47.51367,-92.732524,24000.0,1.0,2.0,686.0,1926,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-61565458,https://www.zillow.com/homedetails/201-Main-St-Kinney-MN-55758/61565458_zpid/,201 Main St,55758,Kinney,MN,47.514409,-92.731931,43000.0,2.0,2.0,680.0,1914,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,1
-61565510,https://www.zillow.com/homedetails/505-Spruce-Ave-Buhl-MN-55758/61565510_zpid/,505 Spruce Ave,55758,Buhl,MN,47.513571,-92.728496,46000.0,2.0,3.0,1958.0,1912,6098.0,SINGLE_FAMILY,SOLD,0
-61565525,https://www.zillow.com/homedetails/505-Spruce-Ave-Kinney-MN-55758/61565525_zpid/,505 Spruce Ave,55758,Kinney,MN,47.513571,-92.728496,46000.0,1.5,3.0,680.0,1914,-1.0,SINGLE_FAMILY,SOLD,0
-61565475,https://www.zillow.com/homedetails/107-Main-St-Kinney-MN-55758/61565475_zpid/,107 Main St,55758,Kinney,MN,47.514478,-92.732599,75000.0,2.0,4.0,2252.0,1911,6272.0,SINGLE_FAMILY,SOLD,48
-61565457,https://www.zillow.com/homedetails/310-Maple-Ave-Kinney-MN-55758/61565457_zpid/,310 Maple Ave,55758,Kinney,MN,47.514754,-92.730397,49900.0,2.0,4.0,640.0,1916,-1.0,SINGLE_FAMILY,SOLD,15
-61565470,https://www.zillow.com/homedetails/210-Birch-Ave-Kinney-MN-55758/61565470_zpid/,210 Birch Ave,55758,Kinney,MN,47.514759,-92.731741,30500.0,1.0,3.0,600.0,1918,-1.0,SINGLE_FAMILY,SOLD,0

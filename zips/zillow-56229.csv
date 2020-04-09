@@ -1,6 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106739394,https://www.zillow.com/homedetails/59-W-5th-St-N-Cottonwood-MN-56229/106739394_zpid/,59 W 5th St N,56229,Cottonwood,MN,44.609393,-95.680064,118000.0,2.0,2.0,980.0,1954,12825.0,SINGLE_FAMILY,FOR_SALE,22
-106739330,https://www.zillow.com/homedetails/286-E-Main-St-Cottonwood-MN-56229/106739330_zpid/,286 E Main St,56229,Cottonwood,MN,44.608534,-95.66714,109000.0,2.0,4.0,1790.0,1906,10497.0,SINGLE_FAMILY,FOR_SALE,37
-106739417,https://www.zillow.com/homedetails/221-Barstad-Rd-N-Cottonwood-MN-56229/106739417_zpid/,221 Barstad Rd N,56229,Cottonwood,MN,44.61139,-95.671081,235000.0,2.0,3.0,1718.0,1910,39639.0,SINGLE_FAMILY,FOR_SALE,33
-106739136,https://www.zillow.com/homedetails/74-E-Park-St-Cottonwood-MN-56229/106739136_zpid/,74 E Park St,56229,Cottonwood,MN,44.6054,-95.671237,140000.0,3.0,3.0,1938.0,1950,10410.0,SINGLE_FAMILY,FOR_SALE,28
-106739314,https://www.zillow.com/homedetails/265-E-Main-St-Cottonwood-MN-56229/106739314_zpid/,265 E Main St,56229,Cottonwood,MN,44.609191,-95.667236,139900.0,2.0,4.0,2624.0,1909,17424.0,SINGLE_FAMILY,FOR_SALE,17

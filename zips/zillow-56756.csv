@@ -1,6 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-241635656,https://www.zillow.com/homedetails/47953-326th-St-Salol-MN-56756/241635656_zpid/,47953 326th St,56756,Salol,MN,48.84237,-95.54955,129900.0,2.0,3.0,1378.0,1995,75358.0,SINGLE_FAMILY,FOR_SALE,23
-2110949604,https://www.zillow.com/homedetails/52219-350th-St-Salol-MN-56756/2110949604_zpid/,52219 350th St,56756,Salol,MN,48.900577,-95.478631,230000.0,2.0,5.0,2150.0,1977,130680.0,SINGLE_FAMILY,FOR_SALE,81
-194689291,https://www.zillow.com/homedetails/51120-Nooks-Ln-Salol-MN-56756/194689291_zpid/,51120 Nooks Ln,56756,Salol,MN,48.84237,-95.54955,189000.0,3.0,4.0,2592.0,1991,232610.0,SINGLE_FAMILY,FOR_SALE,21
-2082286527,https://www.zillow.com/homedetails/51898-State-11-Hwy-Salol-MN-56756/2082286527_zpid/,51898 State 11 Hwy,56756,Salol,MN,48.860183,-95.518893,184000.0,1.0,2.0,1348.0,1948,1306800.0,SINGLE_FAMILY,FOR_SALE,17
-2107050545,https://www.zillow.com/homedetails/49481-320th-St-Salol-MN-56756/2107050545_zpid/,49481 320th St,56756,Salol,MN,48.857327,-95.538743,190000.0,1.0,2.0,1300.0,1940,4356000.0,SINGLE_FAMILY,FOR_SALE,7

@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106798954,https://www.zillow.com/homedetails/321-Center-St-Trosky-MN-56144/106798954_zpid/,321 Center St,56144,Trosky,MN,43.888964,-96.258661,184900.0,2.0,4.0,2249.0,1900,7501.0,SINGLE_FAMILY,FOR_SALE,36
-2081823230,https://www.zillow.com/homedetails/300-Ridge-St-S-Trosky-MN-56144/2081823230_zpid/,300 Ridge St S,56144,Trosky,MN,43.887905,-96.256275,84900.0,2.0,3.0,1456.0,1915,10497.0,SINGLE_FAMILY,FOR_SALE,26

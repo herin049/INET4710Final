@@ -1,9 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106808734,https://www.zillow.com/homedetails/100-3rd-St-SW-Fertile-MN-56540/106808734_zpid/,100 3rd St SW,56540,Fertile,MN,47.533753,-96.285088,159000.0,2.0,3.0,1486.0,1936,12196.0,SINGLE_FAMILY,RECENTLY_SOLD,53
-115959125,https://www.zillow.com/homedetails/304-E-Main-Ave-Fertile-MN-56540/115959125_zpid/,304 E Main Ave,56540,Fertile,MN,47.534425,-96.285522,89000.0,2.0,3.0,1239.0,1938,14000.0,SINGLE_FAMILY,RECENTLY_SOLD,33
-106809046,https://www.zillow.com/homedetails/108-3rd-St-NW-Fertile-MN-56540/106809046_zpid/,108 3rd St NW,56540,Fertile,MN,47.534735,-96.284289,115000.0,2.0,4.0,1920.0,1979,8712.0,SINGLE_FAMILY,SOLD,17
-106809030,https://www.zillow.com/homedetails/206-3rd-St-NW-Fertile-MN-56540/106809030_zpid/,206 3rd St NW,56540,Fertile,MN,47.535865,-96.284368,116000.0,1.0,4.0,1113.0,1900,10641.0,SINGLE_FAMILY,SOLD,36
-106802743,https://www.zillow.com/homedetails/37667-142nd-Ave-SE-Fertile-MN-56540/106802743_zpid/,37667 142nd Ave SE,56540,Fertile,MN,47.61894,-96.16894,141000.0,2.0,3.0,2340.0,1930,217800.0,SINGLE_FAMILY,SOLD,25
-106800400,https://www.zillow.com/homedetails/11896-380th-St-SW-Fertile-MN-56540/106800400_zpid/,11896 380th St SW,56540,Fertile,MN,47.616811,-96.300239,260000.0,2.0,5.0,3838.0,1910,519235.0,SINGLE_FAMILY,SOLD,54
-106808905,https://www.zillow.com/homedetails/401-Lincoln-Ave-NE-Fertile-MN-56540/106808905_zpid/,401 Lincoln Ave NE,56540,Fertile,MN,47.535303,-96.275578,130000.0,1.0,2.0,2151.0,1950,13939.0,SINGLE_FAMILY,SOLD,22
-106808819,https://www.zillow.com/homedetails/410-N-Mill-St-Fertile-MN-56540/106808819_zpid/,410 N Mill St,56540,Fertile,MN,47.537991,-96.280011,90000.0,2.0,2.0,1408.0,1920,12632.0,SINGLE_FAMILY,SOLD,30

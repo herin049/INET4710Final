@@ -1,8 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-97023710,https://www.zillow.com/homedetails/38214-610th-Ave-Bluffton-MN-56518/97023710_zpid/,38214 610th Ave,56518,Bluffton,MN,46.515661,-95.210015,195000.0,3.0,3.0,2258.0,1918,435600.0,SINGLE_FAMILY,RECENTLY_SOLD,21
-115957389,https://www.zillow.com/homedetails/38970-County-Highway-19-Bluffton-MN-56518/115957389_zpid/,38970 County Highway 19,56518,Bluffton,MN,46.529112,-95.237724,119500.0,2.0,2.0,1296.0,1995,143748.0,MANUFACTURED,RECENTLY_SOLD,23
-97027718,https://www.zillow.com/homedetails/126-3rd-St-Bluffton-MN-56518/97027718_zpid/,126 3rd St,56518,Bluffton,MN,46.469118,-95.233621,138750.0,3.0,4.0,4693.0,1937,6969.0,SINGLE_FAMILY,RECENTLY_SOLD,36
-97027661,https://www.zillow.com/homedetails/330-5th-St-Bluffton-MN-56518/97027661_zpid/,330 5th St,56518,Bluffton,MN,46.480359,-95.222702,254410.0,3.0,3.0,2240.0,1994,6969600.0,SINGLE_FAMILY,SOLD,99
-2089308603,https://www.zillow.com/homedetails/414-Center-St-Bluffton-MN-56518/2089308603_zpid/,414 Center St.,56518,Bluffton,MN,46.470481,-95.232872,151875.0,8.0,9.0,3120.0,-1,-1.0,MULTI_FAMILY,SOLD,0
-115957349,https://www.zillow.com/homedetails/61688-360th-St-Bluffton-MN-56518/115957349_zpid/,61688 360th St,56518,Bluffton,MN,46.483354,-95.200556,107000.0,2.0,3.0,1288.0,2000,2047320.0,MANUFACTURED,SOLD,0
-97027669,https://www.zillow.com/homedetails/238-5th-St-Bluffton-MN-56518/97027669_zpid/,238 5th St,56518,Bluffton,MN,46.471032,-95.232075,74900.0,3.0,3.0,1532.0,1974,13939.0,SINGLE_FAMILY,SOLD,0

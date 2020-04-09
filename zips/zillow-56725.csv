@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-240247900,https://www.zillow.com/homedetails/31104-120th-St-NE-Goodridge-MN-56725/240247900_zpid/,31104 120th St NE,56725,Goodridge,MN,48.049421,-95.808321,239900.0,1.0,3.0,1200.0,1960,492228.0,SINGLE_FAMILY,FOR_SALE,8
-236116948,https://www.zillow.com/homedetails/36304-180th-St-NE-Goodridge-MN-56725/236116948_zpid/,36304 180th St NE,56725,Goodridge,MN,48.136786,-95.694771,367500.0,3.0,5.0,3400.0,2008,871200.0,SINGLE_FAMILY,FOR_SALE,59

@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106739856,https://www.zillow.com/homedetails/105-4th-St-Lynd-MN-56157/106739856_zpid/,105 4th St,56157,Lynd,MN,44.386659,-95.890811,74000.0,1.0,4.0,1250.0,1900,15681.0,SINGLE_FAMILY,FOR_SALE,22
-106739904,https://www.zillow.com/homedetails/106-Lynd-St-Lynd-MN-56157/106739904_zpid/,106 Lynd St,56157,Lynd,MN,44.384998,-95.894207,49000.0,2.0,3.0,1645.0,1955,10400.0,SINGLE_FAMILY,FOR_SALE,6
-106739808,https://www.zillow.com/homedetails/504-W-Railroad-St-Lynd-MN-56157/106739808_zpid/,504 W Railroad St,56157,Lynd,MN,44.383465,-95.897565,314300.0,3.0,5.0,3118.0,2007,103672.0,SINGLE_FAMILY,FOR_SALE,18

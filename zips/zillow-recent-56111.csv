@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106688427,https://www.zillow.com/homedetails/140-White-Ave-W-Alpha-MN-56111/106688427_zpid/,140 White Ave W,56111,Alpha,MN,43.639141,-94.871953,15000.0,2.0,4.0,946.0,1920,9365.0,SINGLE_FAMILY,RECENTLY_SOLD,15
-106688255,https://www.zillow.com/homedetails/58993-730th-St-Alpha-MN-56111/106688255_zpid/,58993 730th St,56111,Alpha,MN,43.543642,-94.895365,55000.0,1.0,3.0,2084.0,1910,333669.0,SINGLE_FAMILY,SOLD,0
-236344083,https://www.zillow.com/homedetails/60745-850th-St-Alpha-MN-56111/236344083_zpid/,60745 850th St,56111,Alpha,MN,43.715334,-94.860351,260000.0,2.0,3.0,1208.0,1995,577170.0,SINGLE_FAMILY,SOLD,0

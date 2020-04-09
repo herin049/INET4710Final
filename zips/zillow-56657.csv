@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-120633217,https://www.zillow.com/homedetails/50592-Jessie-Ave-Marcell-MN-56657/120633217_zpid/,50592 Jessie Ave,56657,Marcell,MN,47.59338,-93.689714,149900.0,2.0,3.0,964.0,1960,23086.0,SINGLE_FAMILY,FOR_SALE,20
-120643850,https://www.zillow.com/homedetails/37868-N-Star-Lake-Ln-Marcell-MN-56657/120643850_zpid/,37868 N Star Lake Ln,56657,Marcell,MN,47.539489,-93.658455,429000.0,3.0,3.0,2439.0,2004,209088.0,SINGLE_FAMILY,FOR_SALE,23
-120642585,https://www.zillow.com/homedetails/37589-E-Little-Deadhorse-Rd-Marcell-MN-56657/120642585_zpid/,37589 E Little Deadhorse Rd,56657,Marcell,MN,47.528029,-93.649666,229000.0,1.0,3.0,1300.0,1949,37897.0,SINGLE_FAMILY,FOR_SALE,29
-103944025,https://www.zillow.com/homedetails/48170-Homestead-Rd-Marcell-MN-56657/103944025_zpid/,48170 Homestead Rd,56657,Marcell,MN,47.574667,-93.676599,394000.0,2.0,4.0,2124.0,1994,93218.0,SINGLE_FAMILY,FOR_SALE,35
-103947349,https://www.zillow.com/homedetails/32659-Fox-Lake-Rd-Marcell-MN-56657/103947349_zpid/,32659 Fox Lake Rd,56657,Marcell,MN,47.610294,-93.548415,495000.0,4.0,3.0,3162.0,1969,1045440.0,SINGLE_FAMILY,FOR_SALE,21
-120638762,https://www.zillow.com/homedetails/33840-County-Road-45-Marcell-MN-56657/120638762_zpid/,33840 County Road 45,56657,Marcell,MN,47.59623,-93.567135,655000.0,1.0,2.0,1536.0,1996,6051355.0,SINGLE_FAMILY,FOR_SALE,21

@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-194683867,https://www.zillow.com/homedetails/25570-County-Road-8-Strathcona-MN-56759/194683867_zpid/,25570 County Road 8,56759,Strathcona,MN,48.62424,-96.11531,230000.0,3.0,4.0,2700.0,2009,287496.0,SINGLE_FAMILY,RECENTLY_SOLD,32
-194687459,https://www.zillow.com/homedetails/19026-County-Road-6-Strathcona-MN-56759/194687459_zpid/,19026 County Road 6,56759,Strathcona,MN,48.571681,-96.189873,102000.0,2.0,4.0,1296.0,1918,1742400.0,SINGLE_FAMILY,SOLD,36

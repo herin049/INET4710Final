@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-194687820,https://www.zillow.com/homedetails/208-Norway-Pine-Ct-Greenbush-MN-56726/194687820_zpid/,208 Norway Pine Ct,56726,Greenbush,MN,48.700948,-96.188712,114900.0,2.0,3.0,1620.0,1997,23958.0,SINGLE_FAMILY,FOR_SALE,9
-194687750,https://www.zillow.com/homedetails/921-Old-Ridge-Rd-Greenbush-MN-56726/194687750_zpid/,921 Old Ridge Rd,56726,Greenbush,MN,48.693791,-96.190834,69900.0,1.0,3.0,1877.0,1905,19166.0,SINGLE_FAMILY,FOR_SALE,13

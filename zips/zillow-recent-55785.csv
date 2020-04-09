@@ -1,8 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-115001735,https://www.zillow.com/homedetails/4448-88th-Ave-NE-Swatara-MN-55785/115001735_zpid/,4448 88th Ave NE,55785,Swatara,MN,46.963856,-93.81886,359000.0,3.0,3.0,2974.0,2004,1796850.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-106603444,https://www.zillow.com/homedetails/61520-Winding-Rd-Swatara-MN-55785/106603444_zpid/,61520 Winding Rd,55785,Swatara,MN,46.915926,-93.744351,230000.0,3.0,3.0,2350.0,1964,1742400.0,SINGLE_FAMILY,SOLD,18
-113915888,https://www.zillow.com/homedetails/43246-650th-St-Swatara-MN-55785/113915888_zpid/,43246 650th St,55785,Swatara,MN,46.959829,-93.771,350000.0,3.0,3.0,2093.0,2005,6340593.0,SINGLE_FAMILY,SOLD,0
-106600130,https://www.zillow.com/homedetails/38764-State-Highway-200-Swatara-MN-55785/106600130_zpid/,38764 State Highway 200,55785,Swatara,MN,46.987657,-93.671842,110000.0,2.0,3.0,1458.0,1983,138956.0,SINGLE_FAMILY,SOLD,0
-106601794,https://www.zillow.com/homedetails/63386-Osprey-Ave-Swatara-MN-55785/106601794_zpid/,63386 Osprey Ave,55785,Swatara,MN,46.934697,-93.664321,170000.0,2.0,3.0,1588.0,1975,1742400.0,SINGLE_FAMILY,SOLD,18
-106601064,https://www.zillow.com/homedetails/38983-610th-St-Swatara-MN-55785/106601064_zpid/,38983 610th St,55785,Swatara,MN,46.895354,-93.677603,32000.0,1.0,3.0,1232.0,1946,12196.0,SINGLE_FAMILY,SOLD,18
-113915835,https://www.zillow.com/homedetails/59194-412th-Pl-Swatara-MN-55785/113915835_zpid/,59194 412th Pl,55785,Swatara,MN,46.874297,-93.73005,130900.0,2.0,2.0,1074.0,1978,208521.0,SINGLE_FAMILY,SOLD,0

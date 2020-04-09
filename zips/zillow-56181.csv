@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106765643,https://www.zillow.com/homedetails/420-5th-St-Welcome-MN-56181/106765643_zpid/,420 5th St,56181,Welcome,MN,43.676489,-94.619248,370000.0,2.0,3.0,1086.0,1900,653400.0,SINGLE_FAMILY,FOR_SALE,44
-106765704,https://www.zillow.com/homedetails/1668-150th-Ave-Welcome-MN-56181/106765704_zpid/,1668 150th Ave,56181,Welcome,MN,43.727617,-94.571126,69900.0,1.0,5.0,1588.0,1916,189921.0,SINGLE_FAMILY,FOR_SALE,35

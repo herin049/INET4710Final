@@ -1,9 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-61568935,https://www.zillow.com/homedetails/310-W-St-N-Ely-MN-55796/61568935_zpid/,310 W St N,55796,Ely,MN,47.927807,-91.802848,41000.0,1.0,3.0,1324.0,1951,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-61568964,https://www.zillow.com/homedetails/25-Main-St-N-Ely-MN-55796/61568964_zpid/,25 Main St N,55796,Ely,MN,47.9247,-91.800815,135000.0,1.0,2.0,688.0,-1,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-61568939,https://www.zillow.com/homedetails/327-River-St-Ely-MN-55796/61568939_zpid/,327 River St,55796,Ely,MN,47.927802,-91.802266,67000.0,1.7,3.0,759.0,1924,-1.0,SINGLE_FAMILY,SOLD,0
-2089284998,https://www.zillow.com/homedetails/500-N-Main-St-Winton-MN-55796/2089284998_zpid/,500 N Main St,55796,Winton,MN,47.929997,-91.799006,199000.0,4.0,9.0,3700.0,-1,-1.0,MULTI_FAMILY,SOLD,0
-2089363879,https://www.zillow.com/homedetails/538-N-Front-St-Winton-MN-55796/2089363879_zpid/,538 N Front St,55796,Winton,MN,47.930942,-91.799926,79000.0,2.0,3.0,1391.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
-61569045,https://www.zillow.com/homedetails/526-Front-St-N-Ely-MN-55796/61569045_zpid/,526 Front St N,55796,Ely,MN,47.93077,-91.800024,276666.0,1.0,3.0,948.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
-2090670080,https://www.zillow.com/homedetails/446-Front-St-Winton-MN-55796/2090670080_zpid/,446 Front St.,55796,Winton,MN,47.930112,-91.801036,55000.0,1.0,2.0,990.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
-61569051,https://www.zillow.com/homedetails/21-5th-Ave-W-Ely-MN-55796/61569051_zpid/,21 5th Ave W,55796,Ely,MN,47.929988,-91.800251,82000.0,1.0,3.0,1008.0,1910,-1.0,SINGLE_FAMILY,SOLD,0

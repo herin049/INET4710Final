@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-88937175,https://www.zillow.com/homedetails/37320-Oriole-Ave-Lindstrom-MN-55045/88937175_zpid/,37320 Oriole Ave,55045,Lindstrom,MN,45.487761,-92.817474,249900.0,1.0,2.0,1368.0,1920,342991.0,SINGLE_FAMILY,FOR_SALE,22
-92551239,https://www.zillow.com/homedetails/15481-400th-St-North-Branch-MN-55056/92551239_zpid/,15481 400th St,55056,North Branch,MN,45.52579,-92.791705,377142.0,1.75,2.0,1365.0,2004,859874.0,SINGLE_FAMILY,PRE_FORECLOSURE,0
-2082733879,https://www.zillow.com/homedetails/37930-Reed-Ave-NW-Taylors-Falls-MN-55084/2082733879_zpid/,37930 Reed Ave NW,55084,Taylors Falls,MN,45.499138,-92.755167,289999.0,2.0,2.0,1116.0,2019,239580.0,SINGLE_FAMILY,FOR_SALE,14

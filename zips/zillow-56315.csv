@@ -1,9 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2083478829,https://www.zillow.com/homedetails/9765-Big-Chip-Rd-NW-Brandon-MN-56315/2083478829_zpid/,9765 Big Chip Rd NW,56315,Brandon,MN,45.999762,-95.523722,249000.0,1.0,2.0,600.0,2004,81892.0,SINGLE_FAMILY,FOR_SALE,29
-229457657,https://www.zillow.com/homedetails/14261-County-Road-7-NW-Brandon-MN-56315/229457657_zpid/,14261 County Road 7 NW,56315,Brandon,MN,46.040538,-95.560151,439900.0,4.0,4.0,4946.0,2003,962676.0,SINGLE_FAMILY,FOR_SALE,60
-115950226,https://www.zillow.com/homedetails/209-2nd-St-W-Brandon-MN-56315/115950226_zpid/,209 2nd St W,56315,Brandon,MN,45.965797,-95.601039,279900.0,2.0,5.0,2496.0,1977,29185.0,SINGLE_FAMILY,FOR_SALE,25
-127163207,https://www.zillow.com/homedetails/13544-Wilken-Rd-NW-Brandon-MN-56315/127163207_zpid/,13544 Wilken Rd NW,56315,Brandon,MN,46.052334,-95.57884,249900.0,2.0,5.0,2500.0,1971,388555.0,SINGLE_FAMILY,FOR_SALE,55
-2083478829,https://www.zillow.com/homedetails/9765-Big-Chip-Rd-NW-Brandon-MN-56315/2083478829_zpid/,9765 Big Chip Rd NW,56315,Brandon,MN,45.999762,-95.523722,249000.0,1.0,2.0,600.0,2004,81892.0,SINGLE_FAMILY,FOR_SALE,29
-229457657,https://www.zillow.com/homedetails/14261-County-Road-7-NW-Brandon-MN-56315/229457657_zpid/,14261 County Road 7 NW,56315,Brandon,MN,46.040538,-95.560151,439900.0,4.0,4.0,4946.0,2003,962676.0,SINGLE_FAMILY,FOR_SALE,60
-115950226,https://www.zillow.com/homedetails/209-2nd-St-W-Brandon-MN-56315/115950226_zpid/,209 2nd St W,56315,Brandon,MN,45.965797,-95.601039,279900.0,2.0,5.0,2496.0,1977,29185.0,SINGLE_FAMILY,FOR_SALE,25
-127163207,https://www.zillow.com/homedetails/13544-Wilken-Rd-NW-Brandon-MN-56315/127163207_zpid/,13544 Wilken Rd NW,56315,Brandon,MN,46.052334,-95.57884,249900.0,2.0,5.0,2500.0,1971,388555.0,SINGLE_FAMILY,FOR_SALE,55

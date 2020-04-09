@@ -1,5 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106619719,https://www.zillow.com/homedetails/317-Garfield-St-Beardsley-MN-56211/106619719_zpid/,317 Garfield St,56211,Beardsley,MN,45.555684,-96.713256,55000.0,2.0,5.0,2448.0,1977,8929.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-113918683,https://www.zillow.com/homedetails/30519-Bonanza-Rd-Beardsley-MN-56211/113918683_zpid/,30519 Bonanza Rd,56211,Beardsley,MN,45.464927,-96.729368,85900.0,1.0,1.0,640.0,1958,7013.0,SINGLE_FAMILY,RECENTLY_SOLD,7
-113918707,https://www.zillow.com/homedetails/87890-295th-St-Beardsley-MN-56211/113918707_zpid/,87890 295th St,56211,Beardsley,MN,45.479635,-96.736345,165000.0,2.0,2.0,1815.0,1963,30056.0,SINGLE_FAMILY,SOLD,0
-106619833,https://www.zillow.com/homedetails/117-Washington-St-S-Beardsley-MN-56211/106619833_zpid/,117 Washington St S,56211,Beardsley,MN,45.557542,-96.714908,66950.0,1.0,4.0,1478.0,1910,26136.0,SINGLE_FAMILY,SOLD,10

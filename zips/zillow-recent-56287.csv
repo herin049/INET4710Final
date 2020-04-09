@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106819056,https://www.zillow.com/homedetails/305-Oak-St-Seaforth-MN-56287/106819056_zpid/,305 Oak St,56287,Seaforth,MN,44.477462,-95.329834,135000.0,3.0,5.0,3300.0,1936,217800.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-106819064,https://www.zillow.com/homedetails/304-Dewey-St-Seaforth-MN-56287/106819064_zpid/,304 Dewey St,56287,Seaforth,MN,44.476316,-95.3283,82000.0,2.0,2.0,2288.0,1954,39204.0,SINGLE_FAMILY,SOLD,41
-106819026,https://www.zillow.com/homedetails/202-Oak-St-Seaforth-MN-56287/106819026_zpid/,202 Oak St,56287,Seaforth,MN,44.477172,-95.327492,55000.0,2.0,4.0,2500.0,1948,15246.0,SINGLE_FAMILY,SOLD,0

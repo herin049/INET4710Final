@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-305812604,https://www.zillow.com/homedetails/412-Nicholas-Ave-Zumbro-Falls-MN-55991/305812604_zpid/,412 Nicholas Ave,55991,Zumbro Falls,MN,44.286501,-92.423663,254900.0,2.0,4.0,1636.0,2019,10454.0,SINGLE_FAMILY,FOR_SALE,19
-98950543,https://www.zillow.com/homedetails/40258-Ryans-Bay-Rd-Zumbro-Falls-MN-55991/98950543_zpid/,40258 Ryans Bay Rd,55991,Zumbro Falls,MN,44.197104,-92.47585,350000.0,2.0,3.0,1937.0,1981,4791.0,SINGLE_FAMILY,FOR_SALE,33
-98957613,https://www.zillow.com/homedetails/59137-County-Road-7-Zumbro-Falls-MN-55991/98957613_zpid/,59137 County Road 7,55991,Zumbro Falls,MN,44.239959,-92.486951,238900.0,2.0,3.0,1700.0,1992,248291.0,MANUFACTURED,FOR_SALE,31
-98956046,https://www.zillow.com/homedetails/332-Center-St-E-Hammond-MN-55991/98956046_zpid/,332 Center St E,55991,Hammond,MN,44.222376,-92.368931,89234.0,1.5,3.0,1624.0,1880,-1.0,SINGLE_FAMILY,PRE_FORECLOSURE,12
-98950613,https://www.zillow.com/homedetails/40618-Ryans-Bay-Rd-Zumbro-Falls-MN-55991/98950613_zpid/,40618 Ryans Bay Rd,55991,Zumbro Falls,MN,44.201294,-92.483327,449900.0,3.0,3.0,1691.0,1990,6250.0,MANUFACTURED,FOR_SALE,25
-98956007,https://www.zillow.com/homedetails/795-Midland-St-Zumbro-Falls-MN-55991/98956007_zpid/,795 Midland St,55991,Zumbro Falls,MN,44.285063,-92.432353,425000.0,3.0,4.0,2832.0,1898,405979.0,SINGLE_FAMILY,FOR_SALE,43

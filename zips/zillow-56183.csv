@@ -1,5 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106638756,https://www.zillow.com/homedetails/738-1st-Ave-Westbrook-MN-56183/106638756_zpid/,738 1st Ave,56183,Westbrook,MN,44.043721,-95.436459,32000.0,2.0,3.0,1152.0,1930,9147.0,SINGLE_FAMILY,FOR_SALE,12
-106638692,https://www.zillow.com/homedetails/416-Birch-Ave-Westbrook-MN-56183/106638692_zpid/,416 Birch Ave,56183,Westbrook,MN,44.040241,-95.432863,29000.0,2.0,3.0,1332.0,1970,6098.0,SINGLE_FAMILY,FOR_SALE,16
-106638877,https://www.zillow.com/homedetails/624-Columbus-Ave-Westbrook-MN-56183/106638877_zpid/,624 Columbus Ave,56183,Westbrook,MN,44.042536,-95.440565,41000.0,1.0,2.0,612.0,1940,-1.0,SINGLE_FAMILY,FOR_SALE,11
-106638793,https://www.zillow.com/homedetails/826-Cedar-Ave-Westbrook-MN-56183/106638793_zpid/,826 Cedar Ave,56183,Westbrook,MN,44.04457,-95.432194,79000.0,1.0,2.0,1194.0,1948,11000.0,SINGLE_FAMILY,FOR_SALE,21

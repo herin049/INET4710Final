@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2113547026,https://www.zillow.com/homedetails/58-Shady-Rest-Rd-Garvin-MN-56132/2113547026_zpid/,58 Shady Rest Rd,56132,Garvin,MN,44.144484,-95.761442,204900.0,1.0,3.0,1128.0,1964,9757.0,MANUFACTURED,FOR_SALE,13
-106773402,https://www.zillow.com/homedetails/67-N-Shore-Dr-Garvin-MN-56132/106773402_zpid/,67 N Shore Dr,56132,Garvin,MN,44.15733,-95.758151,529000.0,3.0,5.0,3493.0,2010,19994.0,SINGLE_FAMILY,FOR_SALE,32
-106745003,https://www.zillow.com/homedetails/1373-260th-Ave-Garvin-MN-56132/106745003_zpid/,1373 260th Ave,56132,Garvin,MN,44.25112,-95.776731,100000.0,1.0,3.0,2016.0,1920,257875.0,SINGLE_FAMILY,FOR_SALE,12

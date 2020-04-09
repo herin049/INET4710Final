@@ -1,5 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106620305,https://www.zillow.com/homedetails/308-Cedar-Ave-S-Odessa-MN-56276/106620305_zpid/,308 Cedar Ave S,56276,Odessa,MN,45.258497,-96.328354,75705.0,2.0,4.0,2280.0,1915,21039.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-2085018057,https://www.zillow.com/homedetails/65459-440th-St-Odessa-MN-56276/2085018057_zpid/,65459 440th St,56276,Odessa,MN,45.265412,-96.272405,194500.0,2.0,3.0,1920.0,1992,435600.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-106620332,https://www.zillow.com/homedetails/215-S-Main-Ave-Odessa-MN-56276/106620332_zpid/,215 S Main Ave,56276,Odessa,MN,45.259128,-96.328976,67500.0,2.0,3.0,1344.0,1995,18730.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-106620300,https://www.zillow.com/homedetails/304-Bloomington-Ave-S-Odessa-MN-56276/106620300_zpid/,304 Bloomington Ave S,56276,Odessa,MN,45.258538,-96.331313,30000.0,1.0,2.0,723.0,1973,17424.0,MANUFACTURED,SOLD,0

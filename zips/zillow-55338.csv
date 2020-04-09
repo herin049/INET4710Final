@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-299771383,https://www.zillow.com/homedetails/421-Cleveland-Ave-Green-Isle-MN-55338/299771383_zpid/,421 Cleveland Ave,55338,Green Isle,MN,44.676392,-94.008488,89900.0,3.0,3.0,1320.0,1971,11325.0,SINGLE_FAMILY,FOR_SALE,25
-103957479,https://www.zillow.com/homedetails/22280-371st-Ave-Green-Isle-MN-55338/103957479_zpid/,22280 371st Ave,55338,Green Isle,MN,44.625925,-94.015679,129900.0,3.0,8.0,5314.0,1900,204731.0,SINGLE_FAMILY,FOR_SALE,18
-103955941,https://www.zillow.com/homedetails/33826-206th-St-Green-Isle-MN-55338/103955941_zpid/,33826 206th St,55338,Green Isle,MN,44.652438,-93.944305,225000.0,1.0,3.0,1200.0,1890,152460.0,SINGLE_FAMILY,FOR_SALE,12
-299771383,https://www.zillow.com/homedetails/421-Cleveland-Ave-Green-Isle-MN-55338/299771383_zpid/,421 Cleveland Ave,55338,Green Isle,MN,44.676392,-94.008488,89900.0,3.0,3.0,1320.0,1971,11325.0,SINGLE_FAMILY,FOR_SALE,25
-103957479,https://www.zillow.com/homedetails/22280-371st-Ave-Green-Isle-MN-55338/103957479_zpid/,22280 371st Ave,55338,Green Isle,MN,44.625925,-94.015679,129900.0,3.0,8.0,5314.0,1900,204731.0,SINGLE_FAMILY,FOR_SALE,18
-103955941,https://www.zillow.com/homedetails/33826-206th-St-Green-Isle-MN-55338/103955941_zpid/,33826 206th St,55338,Green Isle,MN,44.652438,-93.944305,225000.0,1.0,3.0,1200.0,1890,152460.0,SINGLE_FAMILY,FOR_SALE,12

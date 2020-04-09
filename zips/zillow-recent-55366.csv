@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2094256154,https://www.zillow.com/homedetails/6396-4th-St-New-Auburn-MN-55366/2094256154_zpid/,6396 4th St,55366,New Auburn,MN,44.671774,-94.229523,64225.0,2.0,3.0,1400.0,1995,16204.0,SINGLE_FAMILY,RECENTLY_SOLD,10
-103957072,https://www.zillow.com/homedetails/9412-9th-Ave-New-Auburn-MN-55366/103957072_zpid/,9412 9th Ave,55366,New Auburn,MN,44.672138,-94.232647,85000.0,2.0,3.0,1512.0,1996,16117.0,SINGLE_FAMILY,RECENTLY_SOLD,21
-103957080,https://www.zillow.com/homedetails/8474-8th-Ave-New-Auburn-MN-55366/103957080_zpid/,8474 8th Ave,55366,New Auburn,MN,44.673125,-94.231371,18500.0,1.0,3.0,1072.0,1939,16117.0,SINGLE_FAMILY,SOLD,11

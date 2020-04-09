@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2094629300,https://www.zillow.com/homedetails/2647-Snider-Lake-Rd-Waubun-MN-56589/2094629300_zpid/,2647 Snider Lake Rd,56589,Waubun,MN,47.17935,-95.710031,60000.0,1.0,2.0,864.0,1900,65340.0,SINGLE_FAMILY,FOR_SALE,30
-194805112,https://www.zillow.com/homedetails/2722-State-Highway-113-Waubun-MN-56589/194805112_zpid/,2722 State Highway 113,56589,Waubun,MN,47.17456,-95.69189,187800.0,4.0,4.0,2670.0,1930,871200.0,SINGLE_FAMILY,FOR_SALE,8
-194805916,https://www.zillow.com/homedetails/1519-Main-St-Waubun-MN-56589/194805916_zpid/,1519 Main St,56589,Waubun,MN,47.18645,-95.94263,143500.0,2.0,3.0,2570.0,2006,18730.0,SINGLE_FAMILY,FOR_SALE,18
-2081459487,https://www.zillow.com/homedetails/29594-293rd-St-Waubun-MN-56589/2081459487_zpid/,29594 293rd St,56589,Waubun,MN,47.219407,-95.648588,250000.0,3.0,3.0,1904.0,2008,16988.0,SINGLE_FAMILY,FOR_SALE,18
-2081493914,https://www.zillow.com/homedetails/2590-State-Highway-113-Waubun-MN-56589/2081493914_zpid/,2590 State Highway 113,56589,Waubun,MN,47.179712,-95.717798,222000.0,1.0,2.0,1224.0,2012,1698840.0,SINGLE_FAMILY,FOR_SALE,39
-106619531,https://www.zillow.com/homedetails/37966-Tulaby-Lake-Dr-Waubun-MN-56589/106619531_zpid/,37966 Tulaby Lake Dr,56589,Waubun,MN,47.139046,-95.593914,499000.0,2.0,3.0,2080.0,1904,39710.0,SINGLE_FAMILY,FOR_SALE,48

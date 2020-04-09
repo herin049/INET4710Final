@@ -1,6 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106816212,https://www.zillow.com/homedetails/702-S-Cherry-St-Lamberton-MN-56152/106816212_zpid/,702 S Cherry St,56152,Lamberton,MN,44.226192,-95.262968,125000.0,2.0,4.0,2335.0,1916,12763.0,SINGLE_FAMILY,FOR_SALE,21
-106816239,https://www.zillow.com/homedetails/713-S-Elm-St-Lamberton-MN-56152/106816239_zpid/,713 S Elm St,56152,Lamberton,MN,44.224949,-95.264989,57000.0,1.0,3.0,1434.0,1967,7013.0,SINGLE_FAMILY,FOR_SALE,17
-106816309,https://www.zillow.com/homedetails/410-5th-Ave-W-Lamberton-MN-56152/106816309_zpid/,410 5th Ave W,56152,Lamberton,MN,44.227725,-95.267659,24500.0,2.0,3.0,1709.0,1916,10454.0,SINGLE_FAMILY,FOR_SALE,18
-106816396,https://www.zillow.com/homedetails/903-S-Cherry-St-Lamberton-MN-56152/106816396_zpid/,903 S Cherry St,56152,Lamberton,MN,44.22438,-95.262108,69900.0,2.0,3.0,1312.0,1968,10410.0,SINGLE_FAMILY,FOR_SALE,17
-106816305,https://www.zillow.com/homedetails/402-4th-Ave-W-Lamberton-MN-56152/106816305_zpid/,402 4th Ave W,56152,Lamberton,MN,44.22873,-95.26786,115000.0,1.0,3.0,2500.0,1900,14026.0,SINGLE_FAMILY,FOR_SALE,38

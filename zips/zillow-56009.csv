@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106668990,https://www.zillow.com/homedetails/66382-267th-St-Alden-MN-56009/106668990_zpid/,66382 267th St,56009,Alden,MN,43.742518,-93.544264,399000.0,4.0,4.0,3314.0,1993,261360.0,SINGLE_FAMILY,FOR_SALE,25
-106669097,https://www.zillow.com/homedetails/64687-270th-St-Alden-MN-56009/106669097_zpid/,64687 270th St,56009,Alden,MN,43.746814,-93.575473,312375.0,2.0,3.0,1774.0,2001,141570.0,SINGLE_FAMILY,FOR_SALE,17

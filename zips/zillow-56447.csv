@@ -1,6 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2080338243,https://www.zillow.com/homedetails/40668-S-Bay-Dr-Emily-MN-56447/2080338243_zpid/,40668 S Bay Dr,56447,Emily,MN,46.740675,-93.963089,235000.0,1.0,2.0,942.0,1965,10890.0,SINGLE_FAMILY,FOR_SALE,17
-92523645,https://www.zillow.com/homedetails/23504-S-Shore-Dr-Emily-MN-56447/92523645_zpid/,23504 S Shore Dr,56447,Emily,MN,46.734866,-93.909051,599900.0,2.0,3.0,1784.0,2003,99752.0,SINGLE_FAMILY,FOR_SALE,26
-92533163,https://www.zillow.com/homedetails/35399-Little-Bass-Lake-Rd-Emily-MN-56447/92533163_zpid/,35399 Little Bass Lake Rd,56447,Emily,MN,46.663903,-93.92813,374900.0,3.0,5.0,3397.0,2007,1524600.0,SINGLE_FAMILY,FOR_SALE,41
-2083088182,https://www.zillow.com/homedetails/19572-Blue-Ln-E-Emily-MN-56447/2083088182_zpid/,19572 Blue Ln E,56447,Emily,MN,46.768149,-93.994037,455000.0,2.0,3.0,2262.0,2016,48438.0,SINGLE_FAMILY,FOR_SALE,56
-2098061951,https://www.zillow.com/homedetails/21435-Dam-Rd-Emily-MN-56447/2098061951_zpid/,21435 Dam Rd,56447,Emily,MN,46.713587,-93.951799,112900.0,1.0,2.0,784.0,1963,92782.0,SINGLE_FAMILY,FOR_SALE,25

@@ -1,6 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-53216654,https://www.zillow.com/homedetails/417-N-Main-St-Center-City-MN-55012/53216654_zpid/,417 N Main St,55012,Center City,MN,45.401527,-92.821956,569000.0,3.0,4.0,2514.0,1978,-1.0,SINGLE_FAMILY,FOR_SALE,47
-53216708,https://www.zillow.com/homedetails/104-Summit-Ave-Center-City-MN-55012/53216708_zpid/,104 Summit Ave,55012,Center City,MN,45.395542,-92.817763,420000.0,3.0,3.0,2570.0,1900,22651.0,SINGLE_FAMILY,FOR_SALE,32
-219495688,https://www.zillow.com/homedetails/213-318th-St-Center-City-MN-55012/219495688_zpid/,213 318th St,55012,Center City,MN,45.407907,-92.820963,359900.0,3.0,4.0,2050.0,2019,22651.0,SINGLE_FAMILY,FOR_SALE,1
-2133747718,https://www.zillow.com/homedetails/600-Nelson-Ln-Center-City-MN-55012/2133747718_zpid/,600 Nelson Ln,55012,Center City,MN,45.405464,-92.821993,349900.0,3.0,4.0,2050.0,2019,20908.0,SINGLE_FAMILY,FOR_SALE,1
-2112956758,https://www.zillow.com/homedetails/213-318th-St-Center-City-MN-55012/2112956758_zpid/,213 318th St,55012,Center City,MN,45.407948,-92.820602,359900.0,3.0,4.0,2050.0,2019,22651.0,SINGLE_FAMILY,FOR_SALE,1

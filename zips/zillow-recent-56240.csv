@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106620085,https://www.zillow.com/homedetails/616-W-5th-St-Graceville-MN-56240/106620085_zpid/,616 W 5th St,56240,Graceville,MN,45.568756,-96.436915,54000.0,2.0,2.0,1638.0,1900,5662.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-119759163,https://www.zillow.com/homedetails/24464-Us-Highway-75-Graceville-MN-56240/119759163_zpid/,24464 Us Highway 75,56240,Graceville,MN,45.551492,-96.430491,161120.0,2.0,2.0,1200.0,2004,435600.0,MANUFACTURED,SOLD,0
-106620055,https://www.zillow.com/homedetails/620-W-4th-St-Graceville-MN-56240/106620055_zpid/,620 W 4th St,56240,Graceville,MN,45.568829,-96.435666,5000.0,2.0,4.0,1200.0,1930,8799.0,SINGLE_FAMILY,SOLD,0

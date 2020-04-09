@@ -1,8 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106793124,https://www.zillow.com/homedetails/117-3rd-St-E-Halstad-MN-56548/106793124_zpid/,117 3rd St E,56548,Halstad,MN,47.351515,-96.824407,26900.0,1.0,2.0,1600.0,1911,7501.0,SINGLE_FAMILY,FOR_SALE,1
-106793162,https://www.zillow.com/homedetails/520-5th-Ave-E-Halstad-MN-56548/106793162_zpid/,520 5th Ave E,56548,Halstad,MN,47.349226,-96.818722,60000.0,2.0,3.0,2126.0,1979,13068.0,SINGLE_FAMILY,FOR_SALE,31
-106792025,https://www.zillow.com/homedetails/1704-County-Highway-19-Halstad-MN-56548/106792025_zpid/,1704 County Highway 19,56548,Halstad,MN,47.36472,-96.70597,295000.0,2.0,3.0,1394.0,1936,2003760.0,SINGLE_FAMILY,FOR_SALE,52
-106793035,https://www.zillow.com/homedetails/101-3rd-Ave-W-Halstad-MN-56548/106793035_zpid/,101 3rd Ave W,56548,Halstad,MN,47.353592,-96.83081,109000.0,1.0,3.0,2400.0,1890,10890.0,SINGLE_FAMILY,FOR_SALE,39
-106793099,https://www.zillow.com/homedetails/305-3rd-St-E-Halstad-MN-56548/106793099_zpid/,305 3rd St E,56548,Halstad,MN,47.351076,-96.821873,120000.0,2.0,4.0,1800.0,1952,12000.0,SINGLE_FAMILY,FOR_SALE,47
-119759804,https://www.zillow.com/homedetails/348-3rd-Ave-E-Halstad-MN-56548/119759804_zpid/,348 3rd Ave E,56548,Halstad,MN,47.350345,-96.822556,136000.0,2.0,5.0,2250.0,1957,10250.0,SINGLE_FAMILY,FOR_SALE,31
-122615756,https://www.zillow.com/homedetails/1396-280th-Ave-Halstad-MN-56548/122615756_zpid/,1396 280th Ave,56548,Halstad,MN,47.413015,-96.773144,239900.0,4.0,4.0,3488.0,1975,359370.0,SINGLE_FAMILY,FOR_SALE,28

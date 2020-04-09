@@ -1,9 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-120643704,https://www.zillow.com/homedetails/1012-Gary-St-Calumet-MN-55716/120643704_zpid/,1012 Gary St,55716,Calumet,MN,47.32027,-93.27661,107900.0,2.0,3.0,1414.0,1950,7405.0,SINGLE_FAMILY,RECENTLY_SOLD,15
-2084973316,https://www.zillow.com/homedetails/609-6th-Ave-Calumet-MN-55716/2084973316_zpid/,609 6th Ave,55716,Calumet,MN,47.320319,-93.280901,99900.0,2.0,3.0,1172.0,1939,37461.0,SINGLE_FAMILY,RECENTLY_SOLD,18
-120633656,https://www.zillow.com/homedetails/216-2nd-Ave-Calumet-MN-55716/120633656_zpid/,216 2nd Ave,55716,Calumet,MN,47.324897,-93.278198,21500.0,1.0,3.0,1500.0,1920,6098.0,SINGLE_FAMILY,SOLD,0
-120641807,https://www.zillow.com/homedetails/703-7th-Ave-Calumet-MN-55716/120641807_zpid/,703 7th Ave,55716,Calumet,MN,47.319229,-93.282174,72000.0,2.0,2.0,1191.0,1930,35719.0,SINGLE_FAMILY,SOLD,13
-120636718,https://www.zillow.com/homedetails/528-5th-Ave-Calumet-MN-55716/120636718_zpid/,528 5th Ave,55716,Calumet,MN,47.32219,-93.275948,7250.0,1.0,3.0,1210.0,1906,9583.0,SINGLE_FAMILY,SOLD,11
-2093436214,https://www.zillow.com/homedetails/930-Gary-Calumet-MN-55716/2093436214_zpid/,930 Gary,55716,Calumet,MN,47.323877,-93.276693,55000.0,1.0,3.0,3960.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
-120642438,https://www.zillow.com/homedetails/669-6th-Ave-Calumet-MN-55716/120642438_zpid/,669 6th Ave,55716,Calumet,MN,47.32077,-93.274591,45000.0,2.0,3.0,1558.0,1930,6098.0,SINGLE_FAMILY,SOLD,15
-120644308,https://www.zillow.com/homedetails/760-7th-Ave-Calumet-MN-55716/120644308_zpid/,760 7th Ave,55716,Calumet,MN,47.32039,-93.274028,62000.0,2.0,2.0,1288.0,1954,9583.0,SINGLE_FAMILY,SOLD,12

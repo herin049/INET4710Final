@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-245357226,https://www.zillow.com/homedetails/27442-Center-St-W-Euclid-MN-56722/245357226_zpid/,27442 Center St W,56722,Euclid,MN,48.0253,-96.638115,185000.0,1.5,3.0,1434.0,1964,537530.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-2085299532,https://www.zillow.com/homedetails/2041-12-Euclid-CA-56722/2085299532_zpid/,2041 #12,56722,Euclid,CA,47.9785,-96.6664,424000.0,1.0,1.0,42905.0,-1,-1.0,CONDO,SOLD,0

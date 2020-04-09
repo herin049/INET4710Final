@@ -1,6 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2091879995,https://www.zillow.com/homedetails/Xxx-Deuce-Rd-Elko-New-Market-MN-55054/2091879995_zpid/,Xxx Deuce Rd,55054,Elko New Market,MN,44.571368,-93.350182,325000.0,2.0,3.0,1332.0,2020,33541.0,SINGLE_FAMILY,FOR_SALE,0
-51606259,https://www.zillow.com/homedetails/3336-Holly-Ct-Elko-New-Market-MN-55054/51606259_zpid/,3336 Holly Ct,55054,Elko New Market,MN,44.568648,-93.339209,302335.0,2.0,3.0,2140.0,2000,15246.0,SINGLE_FAMILY,PRE_FORECLOSURE,10
-59708968,https://www.zillow.com/homedetails/1127-Seurer-St-Elko-New-Market-MN-55054/59708968_zpid/,1127 Seurer St,55054,Elko New Market,MN,44.569198,-93.350472,399000.0,2.0,3.0,2420.0,2019,6795.0,TOWNHOUSE,FOR_SALE,68
-68283229,https://www.zillow.com/homedetails/616-Cedric-Ln-New-Market-MN-55054/68283229_zpid/,616 Cedric Ln,55054,New Market,MN,44.565997,-93.360733,370761.0,3.0,4.0,2576.0,2006,24829.0,SINGLE_FAMILY,PRE_FORECLOSURE,5
-2172897,https://www.zillow.com/homedetails/141-Dakota-Ave-New-Market-MN-55054/2172897_zpid/,141 Dakota Ave,55054,New Market,MN,44.57079,-93.357467,318968.0,1.75,4.0,1308.0,1998,25700.0,SINGLE_FAMILY,PRE_FORECLOSURE,0

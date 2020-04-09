@@ -1,8 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-97026480,https://www.zillow.com/homedetails/31183-180th-St-Underwood-MN-56586/97026480_zpid/,31183 180th St,56586,Underwood,MN,46.225368,-95.8395,300000.0,3.0,2.0,2138.0,2004,108028.0,SINGLE_FAMILY,FOR_SALE,49
-97020439,https://www.zillow.com/homedetails/28584-County-Highway-35-Underwood-MN-56586/97020439_zpid/,28584 County Highway 35,56586,Underwood,MN,46.37766,-95.863977,299900.0,3.0,3.0,2136.0,2004,209088.0,SINGLE_FAMILY,FOR_SALE,35
-125586940,https://www.zillow.com/homedetails/33038-Jensen-Ln-Underwood-MN-56586/125586940_zpid/,33038 Jensen Ln,56586,Underwood,MN,46.364797,-95.79975,549000.0,3.0,4.0,3528.0,2015,238273.0,SINGLE_FAMILY,FOR_SALE,64
-97026656,https://www.zillow.com/homedetails/30725-210th-St-Underwood-MN-56586/97026656_zpid/,30725 210th St,56586,Underwood,MN,46.266387,-95.848858,209000.0,2.0,3.0,1850.0,1935,87120.0,SINGLE_FAMILY,FOR_SALE,49
-97026252,https://www.zillow.com/homedetails/30522-County-Highway-1-Underwood-MN-56586/97026252_zpid/,30522 County Highway 1,56586,Underwood,MN,46.368742,-95.852465,150000.0,1.0,3.0,724.0,1900,408592.0,SINGLE_FAMILY,FOR_SALE,14
-97026217,https://www.zillow.com/homedetails/27730-315th-Ave-Underwood-MN-56586/97026217_zpid/,27730 315th Ave,56586,Underwood,MN,46.363693,-95.829862,289900.0,1.0,2.0,950.0,1923,2178000.0,SINGLE_FAMILY,FOR_SALE,95
-97036076,https://www.zillow.com/homedetails/215-Woodland-Ave-W-Underwood-MN-56586/97036076_zpid/,215 Woodland Ave W,56586,Underwood,MN,46.285619,-95.874338,169900.0,3.0,4.0,3180.0,1995,13503.0,SINGLE_FAMILY,FOR_SALE,25

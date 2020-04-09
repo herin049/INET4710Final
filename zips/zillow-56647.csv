@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-117522114,https://www.zillow.com/homedetails/22164-Wood-Ln-NE-Hines-MN-56647/117522114_zpid/,22164 Wood Ln NE,56647,Hines,MN,47.688306,-94.628437,259900.0,4.0,3.0,3756.0,2004,87120.0,SINGLE_FAMILY,FOR_SALE,1
-117522189,https://www.zillow.com/homedetails/19407-Farington-Ln-NE-Hines-MN-56647/117522189_zpid/,19407 Farington Ln NE,56647,Hines,MN,47.725663,-94.605279,349000.0,3.0,5.0,4000.0,2002,62726.0,SINGLE_FAMILY,FOR_SALE,16
-117522175,https://www.zillow.com/homedetails/26056-Driftwood-Ln-NE-Hines-MN-56647/117522175_zpid/,26056 Driftwood Ln NE,56647,Hines,MN,47.744342,-94.640491,179900.0,1.0,2.0,1092.0,1984,23086.0,SINGLE_FAMILY,FOR_SALE,21

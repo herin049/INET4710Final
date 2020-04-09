@@ -1,8 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2088795825,https://www.zillow.com/homedetails/39855-195th-St-Clitherall-MN-56524/2088795825_zpid/,39855 195th St,56524,Clitherall,MN,46.245811,-95.654633,175900.0,1.0,2.0,780.0,1964,435.0,SINGLE_FAMILY,FOR_SALE,23
-97013371,https://www.zillow.com/homedetails/18015-Minni-Acres-Rd-Clitherall-MN-56524/97013371_zpid/,18015 Minni Acres Rd,56524,Clitherall,MN,46.224442,-95.661803,349000.0,2.0,2.0,768.0,1985,67518.0,SINGLE_FAMILY,FOR_SALE,32
-97019488,https://www.zillow.com/homedetails/40815-Shadow-Dr-Clitherall-MN-56524/97019488_zpid/,40815 Shadow Dr,56524,Clitherall,MN,46.146714,-95.638018,149900.0,1.0,2.0,768.0,1999,88862.0,SINGLE_FAMILY,FOR_SALE,26
-97027769,https://www.zillow.com/homedetails/103-Pine-St-N-Clitherall-MN-56524/97027769_zpid/,103 Pine St N,56524,Clitherall,MN,46.27535,-95.634399,79900.0,2.0,3.0,1247.0,1915,27007.0,SINGLE_FAMILY,FOR_SALE,31
-2089473727,https://www.zillow.com/homedetails/40034-Old-Town-Way-36-Clitherall-MN-56524/2089473727_zpid/,40034 Old Town Way #36,56524,Clitherall,MN,46.264413,-95.658763,900000.0,11.0,11.0,12038.0,2000,392040.0,SINGLE_FAMILY,FOR_SALE,104
-97027774,https://www.zillow.com/homedetails/105-N-Walnut-St-Clitherall-MN-56524/97027774_zpid/,105 N Walnut St,56524,Clitherall,MN,46.274967,-95.629651,139900.0,1.0,2.0,1100.0,1945,11200.0,SINGLE_FAMILY,FOR_SALE,10
-2082910763,https://www.zillow.com/homedetails/18132-S-Clitherall-Lake-Trl-Clitherall-MN-56524/2082910763_zpid/,18132 S Clitherall Lake Trl,56524,Clitherall,MN,46.224546,-95.66911,160000.0,1.0,2.0,304.0,2017,103672.0,MANUFACTURED,FOR_SALE,21

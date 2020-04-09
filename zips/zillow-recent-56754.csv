@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106794625,https://www.zillow.com/homedetails/24-Baker-St-Saint-Hilaire-MN-56754/106794625_zpid/,24 Baker St,56754,Saint Hilaire,MN,48.018747,-96.205052,156000.0,2.0,3.0,2208.0,1976,43560.0,SINGLE_FAMILY,RECENTLY_SOLD,37
-236117061,https://www.zillow.com/homedetails/11812-140th-Ave-SE-Saint-Hilaire-MN-56754/236117061_zpid/,11812 140th Ave SE,56754,Saint Hilaire,MN,47.983388,-96.18097,190000.0,1.0,3.0,1448.0,1978,529254.0,SINGLE_FAMILY,SOLD,37
-106794006,https://www.zillow.com/homedetails/13557-110th-St-SE-Saint-Hilaire-MN-56754/106794006_zpid/,13557 110th St SE,56754,Saint Hilaire,MN,48.003262,-96.189956,316000.0,3.0,4.0,2928.0,1976,1306800.0,SINGLE_FAMILY,SOLD,67

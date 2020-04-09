@@ -1,9 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-97036205,https://www.zillow.com/homedetails/32327-Loon-Dr-Vergas-MN-56587/97036205_zpid/,32327 Loon Dr,56587,Vergas,MN,46.633973,-95.816218,749000.0,3.0,4.0,3294.0,2011,117612.0,SINGLE_FAMILY,FOR_SALE,56
-97036133,https://www.zillow.com/homedetails/49751-Trowbridge-Cir-Vergas-MN-56587/97036133_zpid/,49751 Trowbridge Cir,56587,Vergas,MN,46.684228,-95.864506,199900.0,1.0,3.0,608.0,1981,13068.0,SINGLE_FAMILY,FOR_SALE,10
-97019573,https://www.zillow.com/homedetails/41737-Maplehurst-Ln-Vergas-MN-56587/97019573_zpid/,41737 Maplehurst Ln,56587,Vergas,MN,46.568305,-95.940499,475000.0,2.0,2.0,1824.0,1995,33541.0,SINGLE_FAMILY,FOR_SALE,58
-97036257,https://www.zillow.com/homedetails/49169-Candor-Hall-Way-Vergas-MN-56587/97036257_zpid/,49169 Candor Hall Way,56587,Vergas,MN,46.676376,-95.867317,125000.0,1.0,2.0,440.0,1931,56627.0,SINGLE_FAMILY,FOR_SALE,26
-97035732,https://www.zillow.com/homedetails/906-Old-Detroit-Rd-Vergas-MN-56587/97035732_zpid/,906 Old Detroit Rd,56587,Vergas,MN,46.66507,-95.799829,199900.0,2.0,2.0,1482.0,1997,16988.0,SINGLE_FAMILY,FOR_SALE,1
-97011478,https://www.zillow.com/homedetails/33032-Priebs-Park-Dr-Vergas-MN-56587/97011478_zpid/,33032 Priebs Park Dr,56587,Vergas,MN,46.620446,-95.802549,270000.0,2.0,3.0,1192.0,1983,54885.0,SINGLE_FAMILY,FOR_SALE,16
-97019572,https://www.zillow.com/homedetails/26391-Maplehurst-Dr-Vergas-MN-56587/97019572_zpid/,26391 Maplehurst Dr,56587,Vergas,MN,46.56796,-95.941139,142000.0,1.0,2.0,624.0,1960,13939.0,SINGLE_FAMILY,FOR_SALE,21
-125587967,https://www.zillow.com/homedetails/1040-E-Scharf-Ave-Vergas-MN-56587/125587967_zpid/,1040 E Scharf Ave,56587,Vergas,MN,46.654316,-95.787666,654900.0,4.0,4.0,3203.0,2019,21780.0,SINGLE_FAMILY,FOR_SALE,65

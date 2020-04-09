@@ -1,6 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106756730,https://www.zillow.com/homedetails/289-Stephen-Ave-Stephen-MN-56757/106756730_zpid/,289 Stephen Ave,56757,Stephen,MN,48.447017,-96.876511,49180.0,2.0,2.0,2152.0,1953,10201.0,SINGLE_FAMILY,RECENTLY_SOLD,24
-106756713,https://www.zillow.com/homedetails/117-Riverside-Dr-Stephen-MN-56757/106756713_zpid/,117 Riverside Dr,56757,Stephen,MN,48.447586,-96.878713,40000.0,1.0,2.0,808.0,1945,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,27
-2088461315,https://www.zillow.com/homedetails/41121-430th-Ave-NW-Stephen-MN-56757/2088461315_zpid/,41121 430th Ave NW,56757,Stephen,MN,48.472185,-96.978297,179900.0,4.0,4.0,4000.0,1980,656884.0,SINGLE_FAMILY,RECENTLY_SOLD,46
-106756827,https://www.zillow.com/homedetails/725-Potato-Patch-Rd-Stephen-MN-56757/106756827_zpid/,725 Potato Patch Rd,56757,Stephen,MN,48.446222,-96.8823,180000.0,3.0,4.0,3864.0,1984,43560.0,SINGLE_FAMILY,SOLD,21
-106756665,https://www.zillow.com/homedetails/710-Pacific-Ave-Stephen-MN-56757/106756665_zpid/,710 Pacific Ave,56757,Stephen,MN,48.453306,-96.87546,2000.0,2.0,3.0,1684.0,1920,8712.0,SINGLE_FAMILY,SOLD,5

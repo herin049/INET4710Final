@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106688547,https://www.zillow.com/homedetails/121-9th-St-NW-Heron-Lake-MN-56137/106688547_zpid/,121 9th St NW,56137,Heron Lake,MN,43.797386,-95.320579,20000.0,1.0,2.0,800.0,1900,10890.0,SINGLE_FAMILY,FOR_SALE,18
-106688786,https://www.zillow.com/homedetails/741-3rd-Ave-Heron-Lake-MN-56137/106688786_zpid/,741 3rd Ave,56137,Heron Lake,MN,43.796064,-95.316911,68900.0,3.0,3.0,1428.0,1900,8232.0,SINGLE_FAMILY,FOR_SALE,42

@@ -1,5 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2080267863,https://www.zillow.com/homedetails/401-3rd-Ave-E-Raymond-MN-56282/2080267863_zpid/,401 3rd Ave E,56282,Raymond,MN,45.01437,-95.232696,129000.0,2.0,2.0,1297.0,1962,16117.0,SINGLE_FAMILY,FOR_SALE,10
-305358005,https://www.zillow.com/homedetails/412-1st-St-S-Raymond-MN-56282/305358005_zpid/,412 1st St S,56282,Raymond,MN,45.013086,-95.23699,159000.0,2.0,3.0,1788.0,2020,14984.0,TOWNHOUSE,FOR_SALE,10
-106631593,https://www.zillow.com/homedetails/4060-140th-Ave-NE-Raymond-MN-56282/106631593_zpid/,4060 140th Ave NE,56282,Raymond,MN,45.090137,-95.307702,208900.0,2.0,3.0,2329.0,1918,217800.0,SINGLE_FAMILY,FOR_SALE,33
-106699270,https://www.zillow.com/homedetails/8801-105th-St-SW-Raymond-MN-56282/106699270_zpid/,8801 105th St SW,56282,Raymond,MN,45.038781,-95.185642,169888.0,1.0,3.0,1607.0,1920,171190.0,SINGLE_FAMILY,FOR_SALE,20

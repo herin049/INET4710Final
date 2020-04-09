@@ -1,5 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-226087157,https://www.zillow.com/homedetails/213-5th-St-NW-Pennock-MN-56279/226087157_zpid/,213 5th St NW,56279,Pennock,MN,45.147619,-95.170669,90000.0,1.0,3.0,1104.0,1978,16117.0,SINGLE_FAMILY,FOR_SALE,24
-106698098,https://www.zillow.com/homedetails/9510-County-Road-40-NW-Pennock-MN-56279/106698098_zpid/,9510 County Road 40 NW,56279,Pennock,MN,45.300841,-95.171903,225000.0,3.0,5.0,3472.0,2003,435600.0,MANUFACTURED,FOR_SALE,27
-303807682,https://www.zillow.com/homedetails/20781-72nd-St-NW-Pennock-MN-56279/303807682_zpid/,20781 72nd St NW,56279,Pennock,MN,45.322429,-95.141841,199900.0,1.0,2.0,936.0,1978,23827.0,MANUFACTURED,FOR_SALE,19
-106702966,https://www.zillow.com/homedetails/1058-75th-St-NW-Pennock-MN-56279/106702966_zpid/,1058 75th St NW,56279,Pennock,MN,45.14504,-95.146303,670000.0,4.0,5.0,5576.0,2004,435600.0,SINGLE_FAMILY,FOR_SALE,43

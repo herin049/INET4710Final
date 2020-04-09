@@ -1,6 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-81639961,https://www.zillow.com/homedetails/106-Division-St-S-Morristown-MN-55052/81639961_zpid/,106 Division St S,55052,Morristown,MN,44.225584,-93.444029,104000.0,1.0,2.0,1908.0,1910,19166.0,SINGLE_FAMILY,FOR_SALE,10
-81639927,https://www.zillow.com/homedetails/23-Franklin-St-E-Morristown-MN-55052/81639927_zpid/,23 Franklin St E,55052,Morristown,MN,44.227713,-93.443696,163726.0,1.0,3.0,1736.0,1880,10890.0,SINGLE_FAMILY,PRE_FORECLOSURE,0
-81642828,https://www.zillow.com/homedetails/311-W-Thruen-St-Morristown-MN-55052/81642828_zpid/,311 W Thruen St,55052,Morristown,MN,44.223195,-93.447355,164154.0,2.0,2.0,1373.0,2006,6534.0,TOWNHOUSE,PRE_FORECLOSURE,5
-91505164,https://www.zillow.com/homedetails/8275-Hennepin-Way-Morristown-MN-55052/91505164_zpid/,8275 Hennepin Way,55052,Morristown,MN,44.285084,-93.426027,286500.0,1.0,2.0,1260.0,1977,10018.0,SINGLE_FAMILY,FOR_SALE,23
-81627689,https://www.zillow.com/homedetails/24515-Kent-Ave-Morristown-MN-55052/81627689_zpid/,24515 Kent Ave,55052,Morristown,MN,44.230734,-93.493495,599950.0,4.0,3.0,4152.0,2002,845064.0,LOT,FOR_SALE,37

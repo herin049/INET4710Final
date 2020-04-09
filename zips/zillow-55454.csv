@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-1927795,https://www.zillow.com/homedetails/1920-S-1st-St-APT-1009-Minneapolis-MN-55454/1927795_zpid/,1920 S 1st St APT 1009,55454,Minneapolis,MN,44.975697,-93.24527,204900.0,2.0,2.0,1116.0,1973,44866.0,CONDO,FOR_SALE,20
-1928054,https://www.zillow.com/homedetails/1820-S-5th-St-C-Minneapolis-MN-55454/1928054_zpid/,1820 S 5th St #C,55454,Minneapolis,MN,44.969079,-93.246074,149900.0,1.0,2.0,859.0,1891,17420.0,CONDO,FOR_SALE,16

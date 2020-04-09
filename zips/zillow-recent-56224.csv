@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106815981,https://www.zillow.com/homedetails/361-3rd-St-Clements-MN-56224/106815981_zpid/,361 3rd St,56224,Clements,MN,44.382564,-95.053847,55000.0,2.0,2.0,916.0,1945,10541.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-106815932,https://www.zillow.com/homedetails/211-1st-St-Clements-MN-56224/106815932_zpid/,211 1st St,56224,Clements,MN,44.380547,-95.051596,59900.0,2.0,2.0,1176.0,1953,5009.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-113936595,https://www.zillow.com/homedetails/39068-County-Highway-4-Clements-MN-56224/113936595_zpid/,39068 County Highway 4,56224,Clements,MN,44.339465,-95.004798,162000.0,1.0,3.0,1741.0,1920,217800.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-106815980,https://www.zillow.com/homedetails/331-Oak-St-Clements-MN-56224/106815980_zpid/,331 Oak St,56224,Clements,MN,44.38281,-95.05422,28000.0,2.0,3.0,1588.0,1949,10454.0,SINGLE_FAMILY,SOLD,24
-106815973,https://www.zillow.com/homedetails/350-Oak-St-Clements-MN-56224/106815973_zpid/,350 Oak St,56224,Clements,MN,44.383058,-95.054612,94500.0,2.0,4.0,4376.0,1959,26571.0,SINGLE_FAMILY,SOLD,0
-106815993,https://www.zillow.com/homedetails/360-Pine-St-Clements-MN-56224/106815993_zpid/,360 Pine St,56224,Clements,MN,44.383184,-95.05319,64500.0,2.0,4.0,1720.0,1955,20908.0,SINGLE_FAMILY,SOLD,0

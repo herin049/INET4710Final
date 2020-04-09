@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-233006076,https://www.zillow.com/homedetails/7852-Town-Road-105-Loman-MN-56654/233006076_zpid/,7852 Town Road 105,56654,Loman,MN,48.539456,-93.826513,160000.0,1.0,3.0,1152.0,1978,3329290.0,SINGLE_FAMILY,FOR_SALE,33
-106713704,https://www.zillow.com/homedetails/2434-Highway-11-SE-Loman-MN-56654/106713704_zpid/,2434 Highway 11 SE,56654,Loman,MN,48.582498,-93.814169,128000.0,3.0,4.0,1976.0,1998,718740.0,SINGLE_FAMILY,SOLD,34

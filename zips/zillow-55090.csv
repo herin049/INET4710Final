@@ -1,5 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2267460,https://www.zillow.com/homedetails/109-Clyde-Pl-Willernie-MN-55090/2267460_zpid/,109 Clyde Pl,55090,Willernie,MN,45.05422,-92.959363,58000.0,1.0,2.0,731.0,1940,6534.0,LOT,FOR_SALE,0
-2267463,https://www.zillow.com/homedetails/111-Clyde-Pl-Willernie-MN-55090/2267463_zpid/,111 Clyde Pl,55090,Willernie,MN,45.054062,-92.95901,58000.0,1.0,2.0,652.0,1901,3267.0,LOT,FOR_SALE,1
-2267547,https://www.zillow.com/homedetails/323-Warner-Ave-S-Willernie-MN-55090/2267547_zpid/,323 Warner Ave S,55090,Willernie,MN,45.054576,-92.955077,424900.0,4.0,5.0,3209.0,1999,9626.0,SINGLE_FAMILY,FOR_SALE,35
-249234345,https://www.zillow.com/homedetails/404-Faversham-Rd-Willernie-MN-55090/249234345_zpid/,404 Faversham Rd,55090,Willernie,MN,45.054039,-92.955595,479500.0,3.0,3.0,2166.0,2019,6403.0,SINGLE_FAMILY,FOR_SALE,24

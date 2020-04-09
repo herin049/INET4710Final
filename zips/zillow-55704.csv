@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-91497912,https://www.zillow.com/homedetails/3554-State-Highway-23-Askov-MN-55704/91497912_zpid/,3554 State Highway 23,55704,Askov,MN,46.192867,-92.776062,169900.0,2.0,3.0,1280.0,1944,272250.0,SINGLE_FAMILY,FOR_SALE,38
-91498070,https://www.zillow.com/homedetails/56671-Beaver-Tail-Rd-Askov-MN-55704/91498070_zpid/,56671 Beaver Tail Rd,55704,Askov,MN,46.14122,-92.785542,178900.0,2.0,3.0,1132.0,2006,1742400.0,SINGLE_FAMILY,FOR_SALE,27
-91497846,https://www.zillow.com/homedetails/3547-Guvernorsvej-Askov-MN-55704/91497846_zpid/,3547 Guvernorsvej,55704,Askov,MN,46.18696,-92.777806,189000.0,2.0,3.0,1914.0,1912,19166.0,SINGLE_FAMILY,FOR_SALE,39
-2081805489,https://www.zillow.com/homedetails/3535-State-Highway-23-Askov-MN-55704/2081805489_zpid/,3535 State Highway 23,55704,Askov,MN,46.192364,-92.780541,130000.0,1.0,2.0,746.0,2010,130680.0,SINGLE_FAMILY,FOR_SALE,8
-91497728,https://www.zillow.com/homedetails/6254-Jernbanegade-Askov-MN-55704/91497728_zpid/,6254 Jernbanegade,55704,Askov,MN,46.183937,-92.781752,119098.0,0.75,4.0,1411.0,1908,194277.0,SINGLE_FAMILY,PRE_FORECLOSURE,0
-225607790,https://www.zillow.com/homedetails/35001-Walta-Rd-Askov-MN-55704/225607790_zpid/,35001 Walta Rd,55704,Askov,MN,46.289883,-92.775048,344900.0,2.0,3.0,1144.0,2000,20908800.0,MANUFACTURED,FOR_SALE,19

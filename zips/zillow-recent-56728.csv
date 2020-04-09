@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-113927960,https://www.zillow.com/homedetails/520-4th-St-SE-Hallock-MN-56728/113927960_zpid/,520 4th St SE,56728,Hallock,MN,48.773166,-96.938136,28000.0,2.0,2.0,1646.0,1951,6969.0,SINGLE_FAMILY,RECENTLY_SOLD,8
-106711546,https://www.zillow.com/homedetails/410-Elm-Ave-S-Hallock-MN-56728/106711546_zpid/,410 Elm Ave S,56728,Hallock,MN,48.772996,-96.93909,122000.0,3.0,5.0,3004.0,1909,14000.0,SINGLE_FAMILY,RECENTLY_SOLD,80
-126685485,https://www.zillow.com/homedetails/504-6th-St-SE-Hallock-MN-56728/126685485_zpid/,504 6th St SE,56728,Hallock,MN,48.771262,-96.938955,35000.0,1.0,2.0,1311.0,1961,-1.0,SINGLE_FAMILY,SOLD,12
-106711473,https://www.zillow.com/homedetails/421-E-Broadway-Hallock-MN-56728/106711473_zpid/,421 E Broadway,56728,Hallock,MN,48.775647,-96.939889,100000.0,3.0,2.0,2588.0,1935,21557.0,SINGLE_FAMILY,SOLD,26
-106711388,https://www.zillow.com/homedetails/309-2nd-St-NE-Hallock-MN-56728/106711388_zpid/,309 2nd St NE,56728,Hallock,MN,48.778576,-96.943995,148000.0,3.0,3.0,2576.0,1967,25665.0,SINGLE_FAMILY,SOLD,0
-106712036,https://www.zillow.com/homedetails/2680-Us-Highway-75-Hallock-MN-56728/106712036_zpid/,2680 Us Highway 75,56728,Hallock,MN,48.786824,-96.953418,133000.0,2.0,4.0,2440.0,1974,404236.0,SINGLE_FAMILY,SOLD,0

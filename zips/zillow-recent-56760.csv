@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106755774,https://www.zillow.com/homedetails/14960-260th-St-NW-Viking-MN-56760/106755774_zpid/,14960 260th St NW,56760,Viking,MN,48.255002,-96.369149,180000.0,2.0,3.0,1893.0,1953,216057.0,SINGLE_FAMILY,SOLD,31
-125688725,https://www.zillow.com/homedetails/303-4th-Ave-W-Viking-MN-56760/125688725_zpid/,303 4th Ave W,56760,Viking,MN,48.221475,-96.407517,95000.0,2.0,3.0,1456.0,2005,65340.0,SINGLE_FAMILY,SOLD,18
-106755977,https://www.zillow.com/homedetails/21421-County-Road-38-NW-Viking-MN-56760/106755977_zpid/,21421 County Road 38 NW,56760,Viking,MN,48.186756,-96.446109,89000.0,1.0,4.0,1422.0,1900,108900.0,SINGLE_FAMILY,SOLD,4

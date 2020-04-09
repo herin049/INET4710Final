@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-74875246,https://www.zillow.com/homedetails/521-Oswald-Ave-Belgrade-MN-56312/74875246_zpid/,521 Oswald Ave,56312,Belgrade,MN,45.451748,-95.00168,117500.0,2.0,2.0,1200.0,1958,10890.0,SINGLE_FAMILY,FOR_SALE,19
-206990078,https://www.zillow.com/homedetails/40284-County-Road-175-Belgrade-MN-56312/206990078_zpid/,40284 County Road 175,56312,Belgrade,MN,45.499039,-94.952349,995000.0,2.0,4.0,2700.0,1978,4791600.0,SINGLE_FAMILY,FOR_SALE,30

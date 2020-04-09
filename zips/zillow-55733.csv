@@ -1,5 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-225534757,https://www.zillow.com/homedetails/40-Serenity-Way-Esko-MN-55733/225534757_zpid/,40 Serenity Way,55733,Esko,MN,46.701274,-92.350091,369900.0,3.0,4.0,2530.0,2014,48351.0,SINGLE_FAMILY,FOR_SALE,12
-110934403,https://www.zillow.com/homedetails/279-Old-Highway-61-Esko-MN-55733/110934403_zpid/,279 Old Highway 61,55733,Esko,MN,46.707959,-92.305638,339900.0,3.0,3.0,3416.0,1954,217800.0,SINGLE_FAMILY,FOR_SALE,48
-110934140,https://www.zillow.com/homedetails/10-Himango-Rd-Esko-MN-55733/110934140_zpid/,10 Himango Rd,55733,Esko,MN,46.708683,-92.387785,234900.0,2.0,3.0,1232.0,1955,43560.0,SINGLE_FAMILY,FOR_SALE,61
-2084053964,https://www.zillow.com/homedetails/75-Parkview-Ln-Esko-MN-55733/2084053964_zpid/,75 Parkview Ln,55733,Esko,MN,46.665877,-92.37752,699900.0,3.0,3.0,4704.0,1997,435600.0,SINGLE_FAMILY,FOR_SALE,37

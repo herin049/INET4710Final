@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-126972302,https://www.zillow.com/homedetails/201-5th-St-NW-Mahnomen-MN-56557/126972302_zpid/,201 5th St NW,56557,Mahnomen,MN,47.316551,-95.976728,139000.0,4.0,3.0,1672.0,1983,21780.0,SINGLE_FAMILY,FOR_SALE,18
-126035304,https://www.zillow.com/homedetails/424-2nd-St-NW-Mahnomen-MN-56557/126035304_zpid/,424 2nd St NW,56557,Mahnomen,MN,47.319097,-95.971278,65000.0,1.0,5.0,2000.0,1925,2.0,SINGLE_FAMILY,FOR_SALE,20
-2081780529,https://www.zillow.com/homedetails/617-S-Main-St-Mahnomen-MN-56557/2081780529_zpid/,617 S Main St,56557,Mahnomen,MN,47.309465,-95.969043,69900.0,2.0,2.0,1904.0,1971,-1.0,SINGLE_FAMILY,FOR_SALE,23
-126035890,https://www.zillow.com/homedetails/1390-224th-St-Mahnomen-MN-56557/126035890_zpid/,1390 224th St,56557,Mahnomen,MN,47.320729,-95.9782,209000.0,2.0,3.0,1984.0,1976,147668.0,SINGLE_FAMILY,FOR_SALE,7
-126035576,https://www.zillow.com/homedetails/2374-230th-Ave-Mahnomen-MN-56557/126035576_zpid/,2374 230th Ave,56557,Mahnomen,MN,47.298995,-95.782157,39000.0,1.0,3.0,1000.0,-1,212573.0,SINGLE_FAMILY,FOR_SALE,11
-126035912,https://www.zillow.com/homedetails/2605-130th-Ave-Mahnomen-MN-56557/126035912_zpid/,2605 130th Ave,56557,Mahnomen,MN,47.267013,-95.997835,97500.0,1.0,3.0,1432.0,1919,112384.0,SINGLE_FAMILY,FOR_SALE,15

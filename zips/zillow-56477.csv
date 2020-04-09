@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2080612842,https://www.zillow.com/homedetails/31519-Us-Highway-71-Sebeka-MN-56477/2080612842_zpid/,31519 Us Highway 71,56477,Sebeka,MN,46.682219,-95.103564,279900.0,3.0,3.0,4244.0,1978,392040.0,SINGLE_FAMILY,FOR_SALE,29
-106851527,https://www.zillow.com/homedetails/410-Jefferson-Ave-S-Sebeka-MN-56477/106851527_zpid/,410 Jefferson Ave S,56477,Sebeka,MN,46.623633,-95.088685,67000.0,2.0,3.0,1344.0,1999,20037.0,MANUFACTURED,FOR_SALE,5

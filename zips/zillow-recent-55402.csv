@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-64482486,https://www.zillow.com/homedetails/601-Marquette-Ave-APT-405-Minneapolis-MN-55402/64482486_zpid/,601 Marquette Ave APT 405,55402,Minneapolis,MN,44.976865,-93.269984,230000.0,1.0,1.0,700.0,1949,17598.0,SINGLE_FAMILY,RECENTLY_SOLD,17
-64562139,https://www.zillow.com/homedetails/601-Marquette-Ave-APT-401-Minneapolis-MN-55402/64562139_zpid/,601 Marquette Ave APT 401,55402,Minneapolis,MN,44.976865,-93.269984,480000.0,2.0,1.0,1450.0,1949,17594.0,CONDO,RECENTLY_SOLD,35
-64510774,https://www.zillow.com/homedetails/601-Marquette-Ave-APT-306-Minneapolis-MN-55402/64510774_zpid/,601 Marquette Ave APT 306,55402,Minneapolis,MN,44.976865,-93.269984,209000.0,1.0,1.0,955.0,1949,17424.0,CONDO,RECENTLY_SOLD,8
-64431401,https://www.zillow.com/homedetails/601-Marquette-Ave-APT-404-Minneapolis-MN-55402/64431401_zpid/,601 Marquette Ave APT 404,55402,Minneapolis,MN,44.976865,-93.269984,192000.0,1.0,1.0,750.0,2004,17594.0,CONDO,SOLD,15
-2095827170,https://www.zillow.com/homedetails/101-S-5th-St-APT-1014-Minneapolis-MN-55402/2095827170_zpid/,101 S 5th St APT 1014,55402,Minneapolis,MN,44.977847,-93.269012,1665.0,1.0,0.0,543.0,2013,-1.0,APARTMENT,SOLD,40
-64890196,https://www.zillow.com/homedetails/601-Marquette-Ave-APT-302-Minneapolis-MN-55402/64890196_zpid/,601 Marquette Ave APT 302,55402,Minneapolis,MN,44.976865,-93.269984,417000.0,2.0,1.0,1200.0,1949,17594.0,CONDO,SOLD,22

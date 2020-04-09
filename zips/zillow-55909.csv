@@ -1,5 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-117531973,https://www.zillow.com/homedetails/105-NW-Water-St-Adams-MN-55909/117531973_zpid/,105 NW Water St,55909,Adams,MN,43.567458,-92.715004,49800.0,2.0,3.0,1170.0,1898,10193.0,SINGLE_FAMILY,FOR_SALE,7
-117532131,https://www.zillow.com/homedetails/407-NW-6th-St-Adams-MN-55909/117532131_zpid/,407 NW 6th St,55909,Adams,MN,43.571536,-92.723924,120000.0,7.0,8.0,5014.0,1980,37680.0,SINGLE_FAMILY,FOR_SALE,40
-117531803,https://www.zillow.com/homedetails/506-NW-Bergen-St-Adams-MN-55909/117531803_zpid/,506 NW Bergen St,55909,Adams,MN,43.566926,-92.722213,249900.0,4.0,4.0,3143.0,1984,20473.0,SINGLE_FAMILY,FOR_SALE,30
-117531812,https://www.zillow.com/homedetails/503-NW-Bergen-St-Adams-MN-55909/117531812_zpid/,503 NW Bergen St,55909,Adams,MN,43.566242,-92.721417,110000.0,2.0,4.0,1572.0,1915,10193.0,SINGLE_FAMILY,FOR_SALE,21

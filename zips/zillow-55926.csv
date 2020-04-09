@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-117542825,https://www.zillow.com/homedetails/65150-220th-St-Dexter-MN-55926/117542825_zpid/,65150 220th St,55926,Dexter,MN,43.674352,-92.745572,425000.0,8.0,4.0,4898.0,1994,480031.0,SINGLE_FAMILY,FOR_SALE,60
-2083014489,https://www.zillow.com/homedetails/267-S-Pine-St-Dexter-MN-55926/2083014489_zpid/,267 S Pine St,55926,Dexter,MN,43.721114,-92.703294,205000.0,2.0,3.0,1716.0,2019,14592.0,SINGLE_FAMILY,FOR_SALE,3
-226549236,https://www.zillow.com/homedetails/28311-660th-Ave-Dexter-MN-55926/226549236_zpid/,28311 660th Ave,55926,Dexter,MN,43.766953,-92.73444,547900.0,4.0,5.0,4180.0,1999,2763882.0,SINGLE_FAMILY,FOR_SALE,43

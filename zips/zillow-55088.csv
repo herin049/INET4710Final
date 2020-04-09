@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2164999,https://www.zillow.com/homedetails/3743-E-250th-St-Webster-MN-55088/2164999_zpid/,3743 E 250th St,55088,Webster,MN,44.582778,-93.448736,874900.0,3.0,5.0,4236.0,1996,679536.0,SINGLE_FAMILY,FOR_SALE,45
-81638373,https://www.zillow.com/homedetails/4321-Chester-Ct-Webster-MN-55088/81638373_zpid/,4321 Chester Ct,55088,Webster,MN,44.524815,-93.33035,589900.0,5.0,4.0,4581.0,1981,94960.0,SINGLE_FAMILY,FOR_SALE,27

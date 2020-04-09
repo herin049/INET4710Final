@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-103945615,https://www.zillow.com/homedetails/52325-County-Road-31-Wirt-MN-56688/103945615_zpid/,52325 County Road 31,56688,Wirt,MN,47.741686,-93.964542,165000.0,1.0,2.0,818.0,2007,292723.0,SINGLE_FAMILY,FOR_SALE,15
-103944654,https://www.zillow.com/homedetails/52896-County-Road-31-Wirt-MN-56688/103944654_zpid/,52896 County Road 31,56688,Wirt,MN,47.761259,-93.968328,279900.0,2.0,2.0,2513.0,2003,179902.0,SINGLE_FAMILY,FOR_SALE,14

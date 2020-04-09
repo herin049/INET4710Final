@@ -1,9 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106844690,https://www.zillow.com/homedetails/204-1st-Ave-NE-Bertha-MN-56437/106844690_zpid/,204 1st Ave NE,56437,Bertha,MN,46.266702,-95.061221,89900.0,2.0,2.0,1678.0,1958,-1.0,SINGLE_FAMILY,FOR_SALE,20
-106844649,https://www.zillow.com/homedetails/211-Central-Ave-S-Bertha-MN-56437/106844649_zpid/,211 Central Ave S,56437,Bertha,MN,46.264725,-95.063307,68900.0,1.0,2.0,954.0,1932,10890.0,SINGLE_FAMILY,FOR_SALE,21
-304784169,https://www.zillow.com/homedetails/43372-County-11-Bertha-MN-56437/304784169_zpid/,43372 County 11,56437,Bertha,MN,46.256042,-94.970949,235000.0,1.0,3.0,1684.0,1965,3484800.0,SINGLE_FAMILY,FOR_SALE,35
-106844701,https://www.zillow.com/homedetails/102-Cherry-St-NW-Bertha-MN-56437/106844701_zpid/,102 Cherry St NW,56437,Bertha,MN,46.271794,-95.06321,28000.0,1.0,3.0,1112.0,1900,9408.0,SINGLE_FAMILY,FOR_SALE,14
-106844657,https://www.zillow.com/homedetails/211-2nd-Ave-SE-Bertha-MN-56437/106844657_zpid/,211 2nd Ave SE,56437,Bertha,MN,46.264892,-95.060179,46500.0,2.0,3.0,992.0,1920,-1.0,SINGLE_FAMILY,FOR_SALE,0
-106844540,https://www.zillow.com/homedetails/43916-Quail-Trl-Bertha-MN-56437/106844540_zpid/,43916 Quail Trl,56437,Bertha,MN,46.26569,-95.076714,120000.0,2.0,3.0,2568.0,1974,217800.0,SINGLE_FAMILY,FOR_SALE,42
-232490020,https://www.zillow.com/homedetails/40256-County-1-Bertha-MN-56437/232490020_zpid/,40256 County 1,56437,Bertha,MN,46.213983,-95.102896,140900.0,2.0,2.0,1048.0,1965,1133866.0,SINGLE_FAMILY,FOR_SALE,23
-106844651,https://www.zillow.com/homedetails/303-Central-Ave-S-Bertha-MN-56437/106844651_zpid/,303 Central Ave S,56437,Bertha,MN,46.26441,-95.063304,79900.0,1.0,2.0,986.0,1935,7840.0,SINGLE_FAMILY,FOR_SALE,19

@@ -1,8 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-61608851,https://www.zillow.com/homedetails/7954-Pulkinen-Rd-Embarrass-MN-55732/61608851_zpid/,7954 Pulkinen Rd,55732,Embarrass,MN,47.691258,-92.107899,129000.0,2.0,3.0,2552.0,1960,62726.0,SINGLE_FAMILY,FOR_SALE,18
-61581850,https://www.zillow.com/homedetails/5127-Soini-Rd-Embarrass-MN-55732/61581850_zpid/,5127 Soini Rd,55732,Embarrass,MN,47.638036,-92.225921,180000.0,3.0,2.0,1960.0,1976,421225.0,SINGLE_FAMILY,FOR_SALE,23
-61581733,https://www.zillow.com/homedetails/5102-Highway-21-Embarrass-MN-55732/61581733_zpid/,5102 Highway 21,55732,Embarrass,MN,47.658221,-92.224742,109000.0,1.0,3.0,1232.0,1964,33976.0,SINGLE_FAMILY,FOR_SALE,17
-61581717,https://www.zillow.com/homedetails/4910-Highway-21-Embarrass-MN-55732/61581717_zpid/,4910 Highway 21,55732,Embarrass,MN,47.657172,-92.203896,199000.0,2.0,3.0,2004.0,1924,443005.0,SINGLE_FAMILY,FOR_SALE,24
-61609849,https://www.zillow.com/homedetails/5254-Road-70-Embarrass-MN-55732/61609849_zpid/,5254 Road 70,55732,Embarrass,MN,47.619917,-92.234899,75000.0,1.0,3.0,1507.0,1960,87120.0,SINGLE_FAMILY,FOR_SALE,16
-61608858,https://www.zillow.com/homedetails/8008-Norby-Rd-Embarrass-MN-55732/61608858_zpid/,8008 Norby Rd,55732,Embarrass,MN,47.696342,-92.083734,249000.0,3.0,4.0,2656.0,1974,1742400.0,SINGLE_FAMILY,FOR_SALE,24
-92361046,https://www.zillow.com/homedetails/3766-Highway-21-Embarrass-MN-55732/92361046_zpid/,3766 Highway 21,55732,Embarrass,MN,47.685755,-92.083496,154900.0,2.0,3.0,1092.0,1975,1742400.0,SINGLE_FAMILY,FOR_SALE,36

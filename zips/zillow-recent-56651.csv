@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-194804924,https://www.zillow.com/homedetails/13119-Island-Lake-Rd-E-Lengby-MN-56651/194804924_zpid/,13119 Island Lake Rd E,56651,Lengby,MN,47.451964,-95.648792,111.0,1.0,1.0,480.0,-1,50.0,MANUFACTURED,RECENTLY_SOLD,6
-2083318402,https://www.zillow.com/homedetails/13537-Island-Lake-Rd-E-Lengby-MN-56651/2083318402_zpid/,13537 Island Lake Rd E,56651,Lengby,MN,47.447586,-95.644097,105000.0,1.0,2.0,1325.0,1958,21780.0,SINGLE_FAMILY,RECENTLY_SOLD,36
-106799287,https://www.zillow.com/homedetails/39388-Spruce-Grove-Rd-SE-Lengby-MN-56651/106799287_zpid/,39388 Spruce Grove Rd SE,56651,Lengby,MN,47.507835,-95.633714,219000.0,3.0,3.0,2456.0,1956,36154.0,SINGLE_FAMILY,RECENTLY_SOLD,27

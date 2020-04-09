@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-74874225,https://www.zillow.com/homedetails/104-Barracuda-Ave-SE-Avon-MN-56310/74874225_zpid/,104 Barracuda Ave SE,56310,Avon,MN,45.608289,-94.449484,189900.0,2.0,4.0,1840.0,1974,13939.0,SINGLE_FAMILY,FOR_SALE,25
-2080426407,https://www.zillow.com/homedetails/101-Estate-Dr-Avon-MN-56310/2080426407_zpid/,101 Estate Dr,56310,Avon,MN,45.61331,-94.48183,350000.0,4.0,4.0,2595.0,2013,-1.0,SINGLE_FAMILY,FOR_SALE,44
-74876927,https://www.zillow.com/homedetails/31408-Larkspur-Ln-Avon-MN-56310/74876927_zpid/,31408 Larkspur Ln,56310,Avon,MN,45.578185,-94.449688,259900.0,2.0,2.0,1834.0,1981,217800.0,SINGLE_FAMILY,FOR_SALE,30
-206986631,https://www.zillow.com/homedetails/29285-Lindbergh-Ln-Avon-MN-56310/206986631_zpid/,29285 Lindbergh Ln,56310,Avon,MN,45.548647,-94.495622,522500.0,4.0,4.0,3350.0,2014,646430.0,SINGLE_FAMILY,FOR_SALE,47
-91506114,https://www.zillow.com/homedetails/971-Waters-Edge-Cir-Avon-MN-56310/91506114_zpid/,971 Waters Edge Cir,56310,Avon,MN,45.624544,-94.452121,314900.0,3.0,4.0,2544.0,2006,10890.0,SINGLE_FAMILY,FOR_SALE,69
-74873920,https://www.zillow.com/homedetails/1037-Hamlet-Dr-S-Avon-MN-56310/74873920_zpid/,1037 Hamlet Dr S,56310,Avon,MN,45.602001,-94.467668,175644.0,2.0,4.0,1856.0,1980,13939.0,SINGLE_FAMILY,PRE_FORECLOSURE,14

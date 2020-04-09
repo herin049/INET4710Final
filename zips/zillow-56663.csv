@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-117522809,https://www.zillow.com/homedetails/8943-N-Moose-Lake-Rd-NE-Pennington-MN-56663/117522809_zpid/,8943 N Moose Lake Rd NE,56663,Pennington,MN,47.555297,-94.455658,270000.0,2.0,2.0,1444.0,2001,259617.0,SINGLE_FAMILY,FOR_SALE,35
-114993926,https://www.zillow.com/homedetails/28172-Power-Dam-Rd-NE-Pennington-MN-56663/114993926_zpid/,28172 Power Dam Rd NE,56663,Pennington,MN,47.483547,-94.47282,69900.0,1.0,1.0,560.0,1977,348480.0,SINGLE_FAMILY,FOR_SALE,10

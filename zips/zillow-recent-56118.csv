@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-113919741,https://www.zillow.com/homedetails/37475-520th-Ave-Bingham-Lake-MN-56118/113919741_zpid/,37475 520th Ave,56118,Bingham Lake,MN,43.942264,-95.04184,240000.0,1.0,3.0,1644.0,1925,642945.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-106637447,https://www.zillow.com/homedetails/340-9th-St-Bingham-Lake-MN-56118/106637447_zpid/,340 9th St,56118,Bingham Lake,MN,43.904427,-95.043532,41000.0,1.0,3.0,1296.0,1900,29185.0,SINGLE_FAMILY,SOLD,13
-124348871,https://www.zillow.com/homedetails/51098-350th-St-Bingham-Lake-MN-56118/124348871_zpid/,51098 350th St,56118,Bingham Lake,MN,43.97879,-95.058008,195000.0,3.0,5.0,5500.0,1974,176418.0,SINGLE_FAMILY,SOLD,38
-106637437,https://www.zillow.com/homedetails/655-2nd-Ave-Bingham-Lake-MN-56118/106637437_zpid/,655 2nd Ave,56118,Bingham Lake,MN,43.906289,-95.049806,128750.0,2.0,3.0,960.0,1950,43560.0,SINGLE_FAMILY,SOLD,17
-106637431,https://www.zillow.com/homedetails/1011-2nd-Ave-Bingham-Lake-MN-56118/106637431_zpid/,1011 2nd Ave,56118,Bingham Lake,MN,43.907693,-95.043594,26500.0,1.0,1.0,3200.0,1940,20037.0,SINGLE_FAMILY,SOLD,0
-124349436,https://www.zillow.com/homedetails/53469-County-Road-13-Bingham-Lake-MN-56118/124349436_zpid/,53469 County Road 13,56118,Bingham Lake,MN,43.875911,-95.009465,150000.0,3.5,5.0,2612.0,1993,119790.0,SINGLE_FAMILY,SOLD,0

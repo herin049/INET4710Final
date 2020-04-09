@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106822710,https://www.zillow.com/homedetails/302-9th-St-S-Olivia-MN-56277/106822710_zpid/,302 9th St S,56277,Olivia,MN,44.774222,-94.989793,87000.0,2.0,4.0,1898.0,1900,4350.0,SINGLE_FAMILY,FOR_SALE,18
-113936712,https://www.zillow.com/homedetails/81405-320th-St-Olivia-MN-56277/113936712_zpid/,81405 320th St,56277,Olivia,MN,44.765447,-95.036455,210000.0,2.0,3.0,2140.0,1979,217800.0,SINGLE_FAMILY,FOR_SALE,31
-2080784238,https://www.zillow.com/homedetails/416-S-3rd-St-Olivia-MN-56277/2080784238_zpid/,416 S 3rd St,56277,Olivia,MN,44.771925,-94.979254,10000.0,2.0,3.0,1400.0,1900,7013.0,SINGLE_FAMILY,FOR_SALE,14
-235802957,https://www.zillow.com/homedetails/303-S-8th-St-Olivia-MN-56277/235802957_zpid/,303 S 8th St,56277,Olivia,MN,44.774003,-94.987486,55000.0,1.0,3.0,1200.0,1929,11151.0,SINGLE_FAMILY,FOR_SALE,17
-106823103,https://www.zillow.com/homedetails/612-E-Walnut-Ave-Olivia-MN-56277/106823103_zpid/,612 E Walnut Ave,56277,Olivia,MN,44.780036,-94.985815,83900.0,1.0,3.0,1636.0,1920,7500.0,SINGLE_FAMILY,FOR_SALE,20
-106823276,https://www.zillow.com/homedetails/606-Evergreen-Ave-E-Olivia-MN-56277/106823276_zpid/,606 Evergreen Ave E,56277,Olivia,MN,44.781841,-94.985518,13951.0,1.0,2.0,938.0,1971,7927.0,TOWNHOUSE,FOR_SALE,4

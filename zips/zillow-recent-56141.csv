@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106775011,https://www.zillow.com/homedetails/311-Parnell-St-Iona-MN-56141/106775011_zpid/,311 Parnell St,56141,Iona,MN,43.917079,-95.78426,8500.0,2.0,4.0,3024.0,1911,17859.0,SINGLE_FAMILY,SOLD,14
-106775077,https://www.zillow.com/homedetails/230-Parnell-St-Iona-MN-56141/106775077_zpid/,230 Parnell St,56141,Iona,MN,43.918585,-95.78388,49000.0,1.0,3.0,2472.0,1938,77536.0,SINGLE_FAMILY,SOLD,0
-106775037,https://www.zillow.com/homedetails/300-Grace-Ave-Iona-MN-56141/106775037_zpid/,300 Grace Ave,56141,Iona,MN,43.915696,-95.786212,24000.0,2.0,4.0,1616.0,1885,16552.0,SINGLE_FAMILY,SOLD,0

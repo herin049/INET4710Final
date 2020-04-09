@@ -1,6 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-194687545,https://www.zillow.com/homedetails/204-James-St-Badger-MN-56714/194687545_zpid/,204 James St,56714,Badger,MN,48.783623,-96.014485,179000.0,2.0,2.0,2472.0,1989,16552.0,SINGLE_FAMILY,FOR_SALE,24
-194685772,https://www.zillow.com/homedetails/32925-230th-Ave-Badger-MN-56714/194685772_zpid/,32925 230th Ave,56714,Badger,MN,48.87648,-96.11702,60000.0,1.0,2.0,1328.0,1900,43560.0,SINGLE_FAMILY,FOR_SALE,1
-194687510,https://www.zillow.com/homedetails/109-Rocket-Dr-Badger-MN-56714/194687510_zpid/,109 Rocket Dr,56714,Badger,MN,48.781998,-96.015363,73500.0,2.0,4.0,1064.0,1975,6534.0,SINGLE_FAMILY,FOR_SALE,1
-2084825284,https://www.zillow.com/homedetails/204-W-Poplar-Ave-UNIT-B-Badger-MN-56714/2084825284_zpid/,204 W Poplar Ave UNIT B,56714,Badger,MN,48.778923,-96.019644,115000.0,1.0,2.0,925.0,2017,8712.0,SINGLE_FAMILY,FOR_SALE,11
-2084825286,https://www.zillow.com/homedetails/204-W-Poplar-Ave-UNIT-A-Badger-MN-56714/2084825286_zpid/,204 W Poplar Ave UNIT A,56714,Badger,MN,48.778923,-96.019644,115000.0,1.0,2.0,925.0,2017,8712.0,SINGLE_FAMILY,FOR_SALE,10

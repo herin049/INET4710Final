@@ -1,8 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-97020723,https://www.zillow.com/homedetails/33299-Pickerel-View-Dr-Richville-MN-56576/97020723_zpid/,33299 Pickerel View Dr,56576,Richville,MN,46.427136,-95.795059,690000.0,3.0,3.0,3106.0,1997,43124.0,SINGLE_FAMILY,FOR_SALE,41
-97013780,https://www.zillow.com/homedetails/38497-Walker-Lake-Dr-Richville-MN-56576/97013780_zpid/,38497 Walker Lake Dr,56576,Richville,MN,46.447434,-95.690586,325000.0,3.0,5.0,3100.0,1977,2398849.0,SINGLE_FAMILY,FOR_SALE,74
-97010563,https://www.zillow.com/homedetails/35302-County-Highway-14-Richville-MN-56576/97010563_zpid/,35302 County Highway 14,56576,Richville,MN,46.473853,-95.661931,219000.0,1.0,3.0,1194.0,1959,118918.0,SINGLE_FAMILY,FOR_SALE,26
-97010474,https://www.zillow.com/homedetails/38491-400th-Ave-Richville-MN-56576/97010474_zpid/,38491 400th Ave,56576,Richville,MN,46.521552,-95.663267,849900.0,2.0,2.0,1980.0,1976,5794351.0,SINGLE_FAMILY,FOR_SALE,19
-97010496,https://www.zillow.com/homedetails/36612-Lillis-Dr-Richville-MN-56576/97010496_zpid/,36612 Lillis Dr,56576,Richville,MN,46.512425,-95.726894,274900.0,2.0,3.0,1920.0,2002,13503.0,SINGLE_FAMILY,FOR_SALE,5
-97017156,https://www.zillow.com/homedetails/30636-W-Point-Trl-Richville-MN-56576/97017156_zpid/,30636 W Point Trl,56576,Richville,MN,46.40755,-95.679739,774900.0,3.0,3.0,3703.0,1999,83635.0,SINGLE_FAMILY,FOR_SALE,41
-97013965,https://www.zillow.com/homedetails/31042-Oak-Ridge-Beach-Rd-Richville-MN-56576/97013965_zpid/,31042 Oak Ridge Beach Rd,56576,Richville,MN,46.412059,-95.680754,367500.0,2.0,2.0,1449.0,1974,74923.0,SINGLE_FAMILY,FOR_SALE,38

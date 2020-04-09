@@ -1,6 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-91501696,https://www.zillow.com/homedetails/49069-Starch-Rd-Bruno-MN-55712/91501696_zpid/,49069 Starch Rd,55712,Bruno,MN,46.246366,-92.635485,159900.0,2.0,3.0,1936.0,2000,871200.0,SINGLE_FAMILY,FOR_SALE,34
-299196236,https://www.zillow.com/homedetails/4624-E-Main-St-Bruno-MN-55712/299196236_zpid/,4624 E Main St,55712,Bruno,MN,46.278636,-92.65987,119900.0,2.0,3.0,1296.0,1900,14374.0,SINGLE_FAMILY,FOR_SALE,21
-91501702,https://www.zillow.com/homedetails/55260-Kerrick-Rd-Bruno-MN-55712/91501702_zpid/,55260 Kerrick Rd,55712,Bruno,MN,46.33039,-92.571285,94900.0,1.0,1.0,720.0,1947,910839.0,SINGLE_FAMILY,FOR_SALE,44
-2082503909,https://www.zillow.com/homedetails/44975-County-Rd-43-Bruno-MN-55712/2082503909_zpid/,44975 County Rd #43,55712,Bruno,MN,46.292802,-92.675985,72000.0,1.0,1.0,600.0,-1,821541.0,SINGLE_FAMILY,FOR_SALE,10
-91491168,https://www.zillow.com/homedetails/58983-Wolf-Creek-Rd-Bruno-MN-55712/91491168_zpid/,58983 Wolf Creek Rd,55712,Bruno,MN,46.157893,-92.647652,299900.0,3.0,4.0,3750.0,1990,3484800.0,SINGLE_FAMILY,FOR_SALE,68

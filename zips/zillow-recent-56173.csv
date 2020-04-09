@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-115961013,https://www.zillow.com/homedetails/1270-21st-St-Steen-MN-56173/115961013_zpid/,1270 21st St,56173,Steen,MN,43.514321,-96.218858,108000.0,2.0,3.0,2172.0,1957,217800.0,SINGLE_FAMILY,RECENTLY_SOLD,32
-114992865,https://www.zillow.com/homedetails/318-S-Steen-St-Steen-MN-56173/114992865_zpid/,318 S Steen St,56173,Steen,MN,43.512475,-96.262908,50000.0,1.0,2.0,350.0,1930,10454.0,SINGLE_FAMILY,SOLD,12
-2090713424,https://www.zillow.com/homedetails/364-80th-Ave-Steen-MN-56173/2090713424_zpid/,364 80th Ave,56173,Steen,MN,43.539311,-96.310932,266000.0,3.0,4.0,1930.0,1900,130680.0,SINGLE_FAMILY,SOLD,19
-115960125,https://www.zillow.com/homedetails/241-E-Minnesota-Ave-Steen-MN-56173/115960125_zpid/,241 E Minnesota Ave,56173,Steen,MN,43.512611,-96.262168,87036.0,2.0,3.0,1822.0,1940,11425.0,SINGLE_FAMILY,SOLD,11
-114996472,https://www.zillow.com/homedetails/310-E-Minnesota-Ave-Steen-MN-56173/114996472_zpid/,310 E Minnesota Ave,56173,Steen,MN,43.513104,-96.261589,25000.0,1.0,3.0,1298.0,1940,11325.0,SINGLE_FAMILY,SOLD,0
-115960096,https://www.zillow.com/homedetails/214-W-Church-Ave-Steen-MN-56173/115960096_zpid/,214 W Church Ave,56173,Steen,MN,43.515286,-96.26606,109500.0,2.0,5.0,2095.0,1990,42689.0,SINGLE_FAMILY,SOLD,14

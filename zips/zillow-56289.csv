@@ -1,6 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106701116,https://www.zillow.com/homedetails/21110-62nd-St-NW-Sunburg-MN-56289/106701116_zpid/,21110 62nd St NW,56289,Sunburg,MN,45.318224,-95.111674,339000.0,3.0,4.0,2807.0,1995,58631.0,SINGLE_FAMILY,FOR_SALE,8
-303808086,https://www.zillow.com/homedetails/21022-62nd-St-NW-Sunburg-MN-56289/303808086_zpid/,21022 62nd St NW,56289,Sunburg,MN,45.319288,-95.107458,325000.0,2.0,3.0,1691.0,2014,44039.0,MANUFACTURED,FOR_SALE,21
-226088229,https://www.zillow.com/homedetails/406-Short-Line-Ave-Sunburg-MN-56289/226088229_zpid/,406 Short Line Ave,56289,Sunburg,MN,45.346643,-95.240069,55000.0,2.0,2.0,2267.0,1923,19427.0,SINGLE_FAMILY,FOR_SALE,17
-2083283876,https://www.zillow.com/homedetails/22716-62nd-St-NW-Sunburg-MN-56289/2083283876_zpid/,22716 62nd St NW,56289,Sunburg,MN,45.341422,-95.127342,229500.0,1.0,4.0,1324.0,1950,20473.0,SINGLE_FAMILY,FOR_SALE,23
-106698366,https://www.zillow.com/homedetails/21373-53rd-St-NW-Sunburg-MN-56289/106698366_zpid/,21373 53rd St NW,56289,Sunburg,MN,45.329526,-95.108749,514900.0,4.0,4.0,3187.0,1992,204731.0,SINGLE_FAMILY,FOR_SALE,55

@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106801762,https://www.zillow.com/homedetails/26958-295th-St-SE-Mcintosh-MN-56556/106801762_zpid/,26958 295th St SE,56556,Mcintosh,MN,47.739799,-95.90324,275000.0,3.0,3.0,2348.0,2007,377665.0,SINGLE_FAMILY,SOLD,41
-106810092,https://www.zillow.com/homedetails/235-2nd-St-NE-Mcintosh-MN-56556/106810092_zpid/,235 2nd St NE,56556,Mcintosh,MN,47.637562,-95.883752,37000.0,2.0,3.0,2155.0,1965,20473.0,SINGLE_FAMILY,SOLD,21

@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-236115632,https://www.zillow.com/homedetails/12623-330th-Ave-SE-Oklee-MN-56742/236115632_zpid/,12623 330th Ave SE,56742,Oklee,MN,47.985146,-95.776352,86000.0,3.0,3.0,1900.0,1963,54014.0,SINGLE_FAMILY,RECENTLY_SOLD,38
-106814957,https://www.zillow.com/homedetails/100-7th-Ave-Oklee-MN-56742/106814957_zpid/,100 7th Ave,56742,Oklee,MN,47.832987,-95.856291,119900.0,2.0,4.0,1824.0,1914,217800.0,SINGLE_FAMILY,SOLD,32
-106796958,https://www.zillow.com/homedetails/10285-310th-Ave-NE-Oklee-MN-56742/106796958_zpid/,10285 310th Ave NE,56742,Oklee,MN,48.024682,-95.816623,134900.0,2.0,3.0,1458.0,1977,432986.0,SINGLE_FAMILY,SOLD,20

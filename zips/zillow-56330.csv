@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-96990563,https://www.zillow.com/homedetails/117-140th-Ave-Foreston-MN-56330/96990563_zpid/,117 140th Ave,56330,Foreston,MN,45.726035,-93.700089,220000.0,2.0,3.0,1774.0,2003,108900.0,SINGLE_FAMILY,FOR_SALE,32
-96990546,https://www.zillow.com/homedetails/402-Partridge-Ln-Foreston-MN-56330/96990546_zpid/,402 Partridge Ln,56330,Foreston,MN,45.723477,-93.718047,249900.0,2.0,4.0,2240.0,2004,113255.0,SINGLE_FAMILY,FOR_SALE,26
-96990570,https://www.zillow.com/homedetails/182-S-1st-St-Foreston-MN-56330/96990570_zpid/,182 S 1st St,56330,Foreston,MN,45.732785,-93.710929,122500.0,2.0,3.0,1454.0,1915,9234.0,SINGLE_FAMILY,FOR_SALE,19

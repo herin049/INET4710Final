@@ -1,5 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106747975,https://www.zillow.com/homedetails/129-Linden-Ave-E-Winsted-MN-55395/106747975_zpid/,129 Linden Ave E,55395,Winsted,MN,44.971252,-94.047011,214900.0,2.0,3.0,2040.0,1971,12893.0,SINGLE_FAMILY,FOR_SALE,31
-106747525,https://www.zillow.com/homedetails/240-Westgate-Dr-Winsted-MN-55395/106747525_zpid/,240 Westgate Dr,55395,Winsted,MN,44.965677,-94.058021,214900.0,2.0,3.0,1933.0,1993,9016.0,SINGLE_FAMILY,FOR_SALE,16
-2129454297,https://www.zillow.com/homedetails/9000-Common-St-SW-Winsted-MN-55395/2129454297_zpid/,9000 Common St SW,55395,Winsted,MN,44.9577,-94.0751,699900.0,3.0,3.0,2660.0,2000,2134440.0,SINGLE_FAMILY,FOR_SALE,79
-106747593,https://www.zillow.com/homedetails/412-Lake-Dr-Winsted-MN-55395/106747593_zpid/,412 Lake Dr,55395,Winsted,MN,44.967413,-94.028917,255000.0,3.0,3.0,1648.0,2005,12480.0,SINGLE_FAMILY,FOR_SALE,25

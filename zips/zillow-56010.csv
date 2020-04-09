@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-110459118,https://www.zillow.com/homedetails/421-E-Maine-St-Amboy-MN-56010/110459118_zpid/,421 E Maine St,56010,Amboy,MN,43.887605,-94.153004,63500.0,1.0,2.0,696.0,1950,10018.0,SINGLE_FAMILY,FOR_SALE,12
-110459019,https://www.zillow.com/homedetails/120-Truwe-St-S-Amboy-MN-56010/110459019_zpid/,120 Truwe St S,56010,Amboy,MN,43.887338,-94.164105,82900.0,2.0,3.0,2546.0,1960,6534.0,SINGLE_FAMILY,FOR_SALE,28

@@ -1,6 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-74877539,https://www.zillow.com/homedetails/365-Stearns-Ave-E-Eden-Valley-MN-55329/74877539_zpid/,365 Stearns Ave E,55329,Eden Valley,MN,45.326432,-94.543044,259900.0,4.0,5.0,3002.0,2002,20473.0,SINGLE_FAMILY,FOR_SALE,23
-106768766,https://www.zillow.com/homedetails/438-Brooks-St-S-Eden-Valley-MN-55329/106768766_zpid/,438 Brooks St S,55329,Eden Valley,MN,45.320172,-94.545528,239900.0,5.0,5.0,3502.0,1974,41382.0,SINGLE_FAMILY,FOR_SALE,24
-74895873,https://www.zillow.com/homedetails/17937-Dove-Hill-Rd-Eden-Valley-MN-55329/74895873_zpid/,17937 Dove Hill Rd,55329,Eden Valley,MN,45.38284,-94.590354,400000.0,2.0,4.0,2494.0,1992,46609.0,SINGLE_FAMILY,FOR_SALE,42
-74896006,https://www.zillow.com/homedetails/16931-207th-Ave-Eden-Valley-MN-55329/74896006_zpid/,16931 207th Ave,55329,Eden Valley,MN,45.370279,-94.53536,329900.0,2.0,5.0,2632.0,2004,87120.0,SINGLE_FAMILY,FOR_SALE,33
-112576955,https://www.zillow.com/homedetails/20461-162nd-St-Eden-Valley-MN-55329/112576955_zpid/,20461 162nd St,55329,Eden Valley,MN,45.358416,-94.529276,149900.0,1.0,1.0,800.0,1958,3484.0,SINGLE_FAMILY,FOR_SALE,8

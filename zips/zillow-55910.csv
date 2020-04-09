@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-102942446,https://www.zillow.com/homedetails/14-N-Main-St-Altura-MN-55910/102942446_zpid/,14 N Main St,55910,Altura,MN,44.071945,-91.939164,119900.0,1.0,3.0,1408.0,1885,7492.0,SINGLE_FAMILY,FOR_SALE,30
-102942561,https://www.zillow.com/homedetails/119-W-Center-Ave-Altura-MN-55910/102942561_zpid/,119 W Center Ave,55910,Altura,MN,44.070589,-91.942566,143900.0,2.0,3.0,1377.0,1900,20473.0,SINGLE_FAMILY,FOR_SALE,17
-98953670,https://www.zillow.com/homedetails/418-Bennett-Ave-Minneiska-MN-55910/98953670_zpid/,418 Bennett Ave,55910,Minneiska,MN,44.195135,-91.872538,129600.0,2.0,3.0,1328.0,1960,5440.0,SINGLE_FAMILY,FOR_SALE,5

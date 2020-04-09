@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-248333239,https://www.zillow.com/homedetails/26650-541st-Ave-Lansing-MN-55950/248333239_zpid/,26650 541st Ave,55950,Lansing,MN,43.743361,-92.969105,84900.0,1.0,2.0,1388.0,1950,22520.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-117543182,https://www.zillow.com/homedetails/26667-540th-Ave-Lansing-MN-55950/117543182_zpid/,26667 540th Ave,55950,Lansing,MN,43.743138,-92.970291,35000.0,1.0,3.0,1252.0,1952,11630.0,SINGLE_FAMILY,SOLD,0

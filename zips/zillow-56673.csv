@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2080449461,https://www.zillow.com/homedetails/9559-County-Road-8-NW-Roosevelt-MN-56673/2080449461_zpid/,9559 County Road 8 NW,56673,Roosevelt,MN,48.839521,-95.076647,123500.0,1.0,2.0,948.0,1959,435600.0,SINGLE_FAMILY,FOR_SALE,33
-2082794504,https://www.zillow.com/homedetails/9334-Yellow-Birch-Dr-Roosevelt-MN-56673/2082794504_zpid/,9334 Yellow Birch Dr,56673,Roosevelt,MN,48.955871,-95.065645,146000.0,1.0,3.0,972.0,1994,16988.0,SINGLE_FAMILY,FOR_SALE,41

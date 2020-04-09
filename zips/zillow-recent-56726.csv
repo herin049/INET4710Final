@@ -1,8 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2083094567,https://www.zillow.com/homedetails/379-Old-Highway-11-E-Greenbush-MN-56726/2083094567_zpid/,379 Old Highway 11 E,56726,Greenbush,MN,48.69806,-96.20032,137000.0,2.0,3.0,1380.0,1964,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,15
-2083515019,https://www.zillow.com/homedetails/135-4th-Greenbush-MN-56726/2083515019_zpid/,135 4th,56726,Greenbush,MN,48.699179,-96.182882,30500.0,1.0,4.0,1560.0,-1,-1.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-194685731,https://www.zillow.com/homedetails/24967-170th-Ave-Greenbush-MN-56726/194685731_zpid/,24967 170th Ave,56726,Greenbush,MN,48.760756,-96.250871,109180.0,2.0,4.0,1344.0,1935,137214.0,SINGLE_FAMILY,RECENTLY_SOLD,15
-194687721,https://www.zillow.com/homedetails/555-Park-Ave-W-Greenbush-MN-56726/194687721_zpid/,555 Park Ave W,56726,Greenbush,MN,48.696472,-96.185148,128800.0,2.0,4.0,1648.0,1962,17424.0,SINGLE_FAMILY,RECENTLY_SOLD,28
-194687758,https://www.zillow.com/homedetails/833-Old-Ridge-Rd-Greenbush-MN-56726/194687758_zpid/,833 Old Ridge Rd,56726,Greenbush,MN,48.695572,-96.187626,86000.0,1.0,3.0,1100.0,1948,38768.0,SINGLE_FAMILY,SOLD,15
-2091946802,https://www.zillow.com/homedetails/218-Silver-Spruce-Greenbush-MN-56726/2091946802_zpid/,218 Silver Spruce,56726,Greenbush,MN,48.701083,-96.190241,157000.0,2.0,3.0,1487.0,-1,-1.0,SINGLE_FAMILY,SOLD,0
-2095363317,https://www.zillow.com/homedetails/550-Main-St-N-Greenbush-MN-56726/2095363317_zpid/,550 Main St N,56726,Greenbush,MN,48.705332,-96.181507,20000.0,1.0,3.0,1008.0,1953,1306.0,SINGLE_FAMILY,SOLD,11

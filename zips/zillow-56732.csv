@@ -1,6 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106711768,https://www.zillow.com/homedetails/308-Cleveland-Ave-E-Karlstad-MN-56732/106711768_zpid/,308 Cleveland Ave E,56732,Karlstad,MN,48.582251,-96.51497,124900.0,3.0,3.0,2290.0,1966,6969.0,SINGLE_FAMILY,FOR_SALE,42
-106711761,https://www.zillow.com/homedetails/101-Hilmer-St-S-Karlstad-MN-56732/106711761_zpid/,101 Hilmer St S,56732,Karlstad,MN,48.572167,-96.528993,270000.0,4.0,5.0,3846.0,2003,18250.0,SINGLE_FAMILY,FOR_SALE,12
-127061692,https://www.zillow.com/homedetails/705-Main-St-S-Karlstad-MN-56732/127061692_zpid/,705 Main St S,56732,Karlstad,MN,48.572489,-96.516788,59900.0,1.0,2.0,1554.0,1940,6534.0,SINGLE_FAMILY,FOR_SALE,23
-194204952,https://www.zillow.com/homedetails/406-3rd-St-S-Karlstad-MN-56732/194204952_zpid/,406 3rd St S,56732,Karlstad,MN,48.573454,-96.522234,79900.0,2.0,2.0,1456.0,1962,13939.0,SINGLE_FAMILY,FOR_SALE,18
-248992492,https://www.zillow.com/homedetails/110-Spangrud-St-S-Karlstad-MN-56732/248992492_zpid/,110 Spangrud St S,56732,Karlstad,MN,48.578145,-96.517307,185000.0,2.0,4.0,2100.0,2005,39204.0,SINGLE_FAMILY,FOR_SALE,16

@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106681299,https://www.zillow.com/homedetails/102-7th-St-S-Hoffman-MN-56339/106681299_zpid/,102 7th St S,56339,Hoffman,MN,45.83102,-95.782788,279500.0,4.0,4.0,3024.0,2000,20908.0,SINGLE_FAMILY,FOR_SALE,37
-295215490,https://www.zillow.com/homedetails/10867-167th-St-Hoffman-MN-56339/295215490_zpid/,10867 167th St,56339,Hoffman,MN,45.857426,-95.777074,153900.0,1.0,2.0,720.0,1970,88339.0,SINGLE_FAMILY,FOR_SALE,19

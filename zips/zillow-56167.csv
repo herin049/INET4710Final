@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106787821,https://www.zillow.com/homedetails/302-Margaret-St-Round-Lake-MN-56167/106787821_zpid/,302 Margaret St,56167,Round Lake,MN,43.539615,-95.470299,65000.0,2.0,2.0,1008.0,1965,6534.0,SINGLE_FAMILY,FOR_SALE,16
-106787899,https://www.zillow.com/homedetails/426-Harrison-St-Round-Lake-MN-56167/106787899_zpid/,426 Harrison St,56167,Round Lake,MN,43.538191,-95.465947,44000.0,1.0,4.0,1302.0,1900,2613.0,SINGLE_FAMILY,FOR_SALE,23

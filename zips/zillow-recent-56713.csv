@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2089320080,https://www.zillow.com/homedetails/35737-270th-Ave-NW-Argyle-MN-56713/2089320080_zpid/,35737 270th Ave NW,56713,Argyle,MN,48.395069,-96.63295,180000.0,2.0,4.0,2240.0,1900,331056.0,SINGLE_FAMILY,RECENTLY_SOLD,46
-106756379,https://www.zillow.com/homedetails/303-W-4th-St-Argyle-MN-56713/106756379_zpid/,303 W 4th St,56713,Argyle,MN,48.334271,-96.822727,177500.0,2.0,4.0,2098.0,1957,14280.0,SINGLE_FAMILY,RECENTLY_SOLD,15
-106756307,https://www.zillow.com/homedetails/111-E-2nd-St-Argyle-MN-56713/106756307_zpid/,111 E 2nd St,56713,Argyle,MN,48.333216,-96.815446,32100.0,2.0,3.0,1000.0,1910,13939.0,SINGLE_FAMILY,SOLD,24
-115954219,https://www.zillow.com/homedetails/208-W-1st-St-Argyle-MN-56713/115954219_zpid/,208 W 1st St,56713,Argyle,MN,48.331207,-96.820362,97000.0,2.0,4.0,2200.0,1895,-1.0,SINGLE_FAMILY,SOLD,12
-106756199,https://www.zillow.com/homedetails/208-W-3rd-St-Argyle-MN-56713/106756199_zpid/,208 W 3rd St,56713,Argyle,MN,48.334441,-96.814151,63500.0,2.0,3.0,1969.0,1900,10001.0,SINGLE_FAMILY,SOLD,23
-106756274,https://www.zillow.com/homedetails/114-E-2nd-St-Argyle-MN-56713/106756274_zpid/,114 E 2nd St,56713,Argyle,MN,48.333296,-96.81486,31500.0,2.0,3.0,1280.0,1992,20908.0,SINGLE_FAMILY,SOLD,15

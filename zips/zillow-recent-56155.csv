@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106787788,https://www.zillow.com/homedetails/160-E-2nd-St-Lismore-MN-56155/106787788_zpid/,160 E 2nd St,56155,Lismore,MN,43.748709,-95.949477,62500.0,2.0,2.0,1216.0,1996,7000.0,SINGLE_FAMILY,RECENTLY_SOLD,25
-106786603,https://www.zillow.com/homedetails/12405-State-Highway-91-Lismore-MN-56155/106786603_zpid/,12405 State Highway 91,56155,Lismore,MN,43.815902,-95.938035,89900.0,1.0,2.0,2680.0,1880,24959.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-106787781,https://www.zillow.com/homedetails/143-S-1st-Ave-Lismore-MN-56155/106787781_zpid/,143 S 1st Ave,56155,Lismore,MN,43.749582,-95.949935,144000.0,2.0,3.0,1590.0,1916,8428.0,SINGLE_FAMILY,RECENTLY_SOLD,25

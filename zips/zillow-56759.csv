@@ -1,3 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2101995170,https://www.zillow.com/homedetails/10101-State-Highway-32-Strathcona-MN-56759/2101995170_zpid/,10101 State Highway 32,56759,Strathcona,MN,48.549777,-96.168987,155000.0,2.0,3.0,2052.0,1997,66646.0,SINGLE_FAMILY,FOR_SALE,6
-2083384363,https://www.zillow.com/homedetails/10101-State-32-Hwy-Strathcona-MN-56759/2083384363_zpid/,10101 State 32 Hwy,56759,Strathcona,MN,48.579292,-96.072088,155000.0,2.0,3.0,2052.0,1997,142005.0,SINGLE_FAMILY,FOR_SALE,18

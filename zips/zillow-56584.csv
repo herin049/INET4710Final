@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-122615808,https://www.zillow.com/homedetails/211-Pleasant-Ave-SE-Twin-Valley-MN-56584/122615808_zpid/,211 Pleasant Ave SE,56584,Twin Valley,MN,47.259073,-96.262025,49900.0,1.0,2.0,890.0,1957,13068.0,SINGLE_FAMILY,FOR_SALE,12
-119761623,https://www.zillow.com/homedetails/200-Main-Ave-E-Twin-Valley-MN-56584/119761623_zpid/,200 Main Ave E,56584,Twin Valley,MN,47.260125,-96.256256,89900.0,2.0,4.0,3570.0,1908,16199.0,SINGLE_FAMILY,FOR_SALE,24
-106793428,https://www.zillow.com/homedetails/309-Pleasant-Ave-SE-Twin-Valley-MN-56584/106793428_zpid/,309 Pleasant Ave SE,56584,Twin Valley,MN,47.259657,-96.254188,59900.0,1.0,3.0,2122.0,1949,-1.0,SINGLE_FAMILY,FOR_SALE,47
-106793401,https://www.zillow.com/homedetails/207-4th-St-SW-Twin-Valley-MN-56584/106793401_zpid/,207 4th St SW,56584,Twin Valley,MN,47.258619,-96.263457,44900.0,2.0,3.0,900.0,1999,12632.0,MANUFACTURED,FOR_SALE,14
-241732426,https://www.zillow.com/homedetails/201-2nd-St-NW-Twin-Valley-MN-56584/241732426_zpid/,201 2nd St NW,56584,Twin Valley,MN,47.26175,-96.260833,39900.0,2.0,3.0,2250.0,1900,-1.0,SINGLE_FAMILY,FOR_SALE,12
-106793369,https://www.zillow.com/homedetails/212-Norman-Ave-NW-Twin-Valley-MN-56584/106793369_zpid/,212 Norman Ave NW,56584,Twin Valley,MN,47.261817,-96.26208,56900.0,1.0,2.0,1100.0,1900,-1.0,SINGLE_FAMILY,FOR_SALE,18

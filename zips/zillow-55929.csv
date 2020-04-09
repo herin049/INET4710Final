@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-91442097,https://www.zillow.com/homedetails/445-5th-Ave-SE-Dover-MN-55929/91442097_zpid/,445 5th Ave SE,55929,Dover,MN,43.969788,-92.133029,249900.0,2.0,4.0,1858.0,2005,10890.0,SINGLE_FAMILY,FOR_SALE,35
-91441861,https://www.zillow.com/homedetails/117-W-Center-St-Dover-MN-55929/91441861_zpid/,117 W Center St,55929,Dover,MN,43.974695,-92.140051,49900.0,1.0,3.0,1904.0,1875,13939.0,SINGLE_FAMILY,FOR_SALE,3
-91442106,https://www.zillow.com/homedetails/555-5th-Ave-SE-Dover-MN-55929/91442106_zpid/,555 5th Ave SE,55929,Dover,MN,43.968692,-92.133506,274900.0,2.0,4.0,1974.0,2005,9583.0,SINGLE_FAMILY,FOR_SALE,8

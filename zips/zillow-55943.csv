@@ -1,9 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106682171,https://www.zillow.com/homedetails/8880-Golfview-Dr-Houston-MN-55943/106682171_zpid/,8880 Golfview Dr,55943,Houston,MN,43.763578,-91.430701,229900.0,2.0,4.0,2431.0,1978,43560.0,SINGLE_FAMILY,FOR_SALE,4
-106682156,https://www.zillow.com/homedetails/8984-Golfview-Dr-Houston-MN-55943/106682156_zpid/,8984 Golfview Dr,55943,Houston,MN,43.762962,-91.432321,219000.0,2.0,4.0,2106.0,1985,43560.0,SINGLE_FAMILY,FOR_SALE,22
-106684461,https://www.zillow.com/homedetails/310-S-Jefferson-St-Houston-MN-55943/106684461_zpid/,310 S Jefferson St,55943,Houston,MN,43.760551,-91.572719,65000.0,1.0,4.0,1170.0,1900,5662.0,SINGLE_FAMILY,FOR_SALE,11
-106684405,https://www.zillow.com/homedetails/318-S-Ellsworth-St-Houston-MN-55943/106684405_zpid/,318 S Ellsworth St,55943,Houston,MN,43.760348,-91.564086,86500.0,1.0,2.0,1050.0,1900,8400.0,SINGLE_FAMILY,FOR_SALE,20
-106684458,https://www.zillow.com/homedetails/202-S-Ellsworth-St-Houston-MN-55943/106684458_zpid/,202 S Ellsworth St,55943,Houston,MN,43.762048,-91.56411,133900.0,2.0,4.0,1532.0,1910,8276.0,SINGLE_FAMILY,FOR_SALE,21
-106684459,https://www.zillow.com/homedetails/206-W-Spruce-St-Houston-MN-55943/106684459_zpid/,206 W Spruce St,55943,Houston,MN,43.760765,-91.570811,145196.0,2.0,4.0,1668.0,1907,-1.0,MULTI_FAMILY,PRE_FORECLOSURE,0
-106687480,https://www.zillow.com/homedetails/14897-Traff-Dr-Houston-MN-55943/106687480_zpid/,14897 Traff Dr,55943,Houston,MN,43.822703,-91.548685,317900.0,2.0,4.0,2416.0,1924,435164.0,SINGLE_FAMILY,FOR_SALE,19
-106687502,https://www.zillow.com/homedetails/15144-Addleman-Dr-Houston-MN-55943/106687502_zpid/,15144 Addleman Dr,55943,Houston,MN,43.809016,-91.556657,639900.0,2.0,3.0,1511.0,1877,6969600.0,SINGLE_FAMILY,FOR_SALE,15

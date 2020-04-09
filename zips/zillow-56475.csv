@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-97008981,https://www.zillow.com/homedetails/6981-Lake-Camile-Dr-Randall-MN-56475/97008981_zpid/,6981 Lake Camile Dr,56475,Randall,MN,46.160438,-94.516091,400000.0,2.0,5.0,1800.0,2003,31973.0,SINGLE_FAMILY,FOR_SALE,29
-115955683,https://www.zillow.com/homedetails/119-W-3rd-St-Randall-MN-56475/115955683_zpid/,119 W 3rd St,56475,Randall,MN,46.090044,-94.50545,169900.0,2.0,4.0,2082.0,1959,35762.0,SINGLE_FAMILY,FOR_SALE,14
-97008556,https://www.zillow.com/homedetails/27291-Lost-Lake-Pass-Randall-MN-56475/97008556_zpid/,27291 Lost Lake Pass,56475,Randall,MN,46.15437,-94.507338,89900.0,1.0,1.0,996.0,2005,130244.0,SINGLE_FAMILY,FOR_SALE,24

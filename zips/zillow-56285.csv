@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-235804343,https://www.zillow.com/homedetails/615-W-Walnut-St-Sacred-Heart-MN-56285/235804343_zpid/,615 W Walnut St,56285,Sacred Heart,MN,44.786023,-95.358651,87000.0,2.0,3.0,1494.0,1976,20298.0,SINGLE_FAMILY,FOR_SALE,30
-2081711998,https://www.zillow.com/homedetails/213-N-4th-Ave-Sacred-Heart-MN-56285/2081711998_zpid/,213 N 4th Ave,56285,Sacred Heart,MN,44.787318,-95.354213,24500.0,2.0,1.0,1240.0,1910,10018.0,SINGLE_FAMILY,FOR_SALE,16
-235800041,https://www.zillow.com/homedetails/88614-County-Road-10-Sacred-Heart-MN-56285/235800041_zpid/,88614 County Road 10,56285,Sacred Heart,MN,44.870824,-95.399991,390000.0,2.0,5.0,2003.0,1951,1768900.0,SINGLE_FAMILY,FOR_SALE,32

@@ -1,4 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2082009451,https://www.zillow.com/homedetails/17313-Lais-Ave-Reading-MN-56165/2082009451_zpid/,17313 Lais Ave,56165,Reading,MN,43.743209,-95.735568,138833.0,2.0,5.0,3072.0,1910,300128.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-106786516,https://www.zillow.com/homedetails/19835-Moser-Ave-Reading-MN-56165/106786516_zpid/,19835 Moser Ave,56165,Reading,MN,43.704913,-95.710616,119200.0,2.0,3.0,2400.0,1930,14374.0,SINGLE_FAMILY,SOLD,28
-244324842,https://www.zillow.com/homedetails/29940-210th-St-Reading-MN-56165/244324842_zpid/,29940 210th St,56165,Reading,MN,43.689127,-95.653806,129500.0,1.0,4.0,1650.0,1912,27878.0,SINGLE_FAMILY,SOLD,0

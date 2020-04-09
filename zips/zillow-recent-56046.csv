@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-106835455,https://www.zillow.com/homedetails/9228-SW-37th-Ave-Hope-MN-56046/106835455_zpid/,9228 SW 37th Ave,56046,Hope,MN,43.959493,-93.27688,170000.0,2.0,4.0,2644.0,1908,51836.0,SINGLE_FAMILY,RECENTLY_SOLD,80
-106835361,https://www.zillow.com/homedetails/8752-SW-37th-Ave-Hope-MN-56046/106835361_zpid/,8752 SW 37th Ave,56046,Hope,MN,43.964669,-93.277302,72000.0,1.0,2.0,2246.0,1916,104979.0,SINGLE_FAMILY,SOLD,0
-106835353,https://www.zillow.com/homedetails/8753-SW-37th-Ave-Hope-MN-56046/106835353_zpid/,8753 SW 37th Ave,56046,Hope,MN,43.964842,-93.275718,76000.0,2.0,3.0,1818.0,1950,7405.0,SINGLE_FAMILY,SOLD,1
-106835458,https://www.zillow.com/homedetails/9288-SW-37th-Ave-Hope-MN-56046/106835458_zpid/,9288 SW 37th Ave,56046,Hope,MN,43.958764,-93.276959,104600.0,1.0,3.0,1854.0,1968,30056.0,SINGLE_FAMILY,SOLD,0
-106835431,https://www.zillow.com/homedetails/8975-SW-37th-Ave-Hope-MN-56046/106835431_zpid/,8975 SW 37th Ave,56046,Hope,MN,43.962561,-93.275584,213000.0,2.0,4.0,1745.0,1916,108900.0,SINGLE_FAMILY,SOLD,0
-106835419,https://www.zillow.com/homedetails/9287-SW-37th-Ave-Hope-MN-56046/106835419_zpid/,9287 SW 37th Ave,56046,Hope,MN,43.958654,-93.275994,42252.0,2.0,3.0,1794.0,1966,16552.0,SINGLE_FAMILY,SOLD,3

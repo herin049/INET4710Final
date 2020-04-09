@@ -1,6 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2080422178,https://www.zillow.com/homedetails/704-S-Mill-St-Fertile-MN-56540/2080422178_zpid/,704 S Mill St,56540,Fertile,MN,47.526168,-96.280968,299000.0,1.0,0.0,4000.0,2013,10018.0,SINGLE_FAMILY,FOR_SALE,8
-226402457,https://www.zillow.com/homedetails/45100-State-Highway-32-SW-Fertile-MN-56540/226402457_zpid/,45100 State Highway 32 SW,56540,Fertile,MN,47.512205,-96.279727,45000.0,1.0,3.0,1196.0,1980,87120.0,SINGLE_FAMILY,FOR_SALE,6
-2084213680,https://www.zillow.com/homedetails/403-Blaine-St-NE-Fertile-MN-56540/2084213680_zpid/,403 Blaine St NE,56540,Fertile,MN,47.537863,-96.279225,145000.0,1.5,3.0,2227.0,1996,-1.0,SINGLE_FAMILY,FOR_SALE,9
-106808953,https://www.zillow.com/homedetails/402-W-Main-Ave-Fertile-MN-56540/106808953_zpid/,402 W Main Ave,56540,Fertile,MN,47.534425,-96.28609,58000.0,1.0,2.0,945.0,1900,6098.0,SINGLE_FAMILY,FOR_SALE,41
-106808839,https://www.zillow.com/homedetails/111-Jefferson-Ave-SE-Fertile-MN-56540/106808839_zpid/,111 Jefferson Ave SE,56540,Fertile,MN,47.533235,-96.279406,62500.0,2.0,2.0,1577.0,1910,12632.0,SINGLE_FAMILY,FOR_SALE,1

@@ -1,7 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-123025475,https://www.zillow.com/homedetails/701-Oak-St-Breckenridge-MN-56520/123025475_zpid/,701 Oak St,56520,Breckenridge,MN,46.275681,-96.594728,160000.0,2.0,3.0,1976.0,1958,-1.0,SINGLE_FAMILY,FOR_SALE,14
-234018447,https://www.zillow.com/homedetails/818-12th-St-N-Breckenridge-MN-56520/234018447_zpid/,818 12th St N,56520,Breckenridge,MN,46.272272,-96.577514,119900.0,1.0,3.0,1820.0,1957,-1.0,SINGLE_FAMILY,FOR_SALE,24
-234017941,https://www.zillow.com/homedetails/227-9th-St-N-Breckenridge-MN-56520/234017941_zpid/,227 9th St N,56520,Breckenridge,MN,46.265509,-96.582663,86900.0,1.0,3.0,2116.0,1941,-1.0,SINGLE_FAMILY,FOR_SALE,14
-123025459,https://www.zillow.com/homedetails/416-Np-Ct-Breckenridge-MN-56520/123025459_zpid/,416 Np Ct,56520,Breckenridge,MN,46.258915,-96.577971,219900.0,4.0,6.0,4680.0,2002,-1.0,SINGLE_FAMILY,FOR_SALE,38
-2083951684,https://www.zillow.com/homedetails/614-Nebraska-Ave-Breckenridge-MN-56520/2083951684_zpid/,614 Nebraska Ave,56520,Breckenridge,MN,46.264842,-96.585677,141000.0,2.0,4.0,6163.0,1916,5192.0,SINGLE_FAMILY,FOR_SALE,37
-234018520,https://www.zillow.com/homedetails/942-Main-St-Breckenridge-MN-56520/234018520_zpid/,942 Main St,56520,Breckenridge,MN,46.280236,-96.589947,269000.0,3.0,4.0,2716.0,1998,-1.0,SINGLE_FAMILY,FOR_SALE,41

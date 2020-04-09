@@ -1,8 +1,0 @@
-id,detailUrl,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,yearBuilt,lotSize,homeType,homeStatus,photoCount
-2087827510,https://www.zillow.com/homedetails/12084-Cemetery-Rd-Goodland-MN-55742/2087827510_zpid/,12084 Cemetery Rd,55742,Goodland,MN,47.154885,-93.132579,315000.0,3.0,5.0,3960.0,2008,1742400.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-103941522,https://www.zillow.com/homedetails/13601-E-County-Road-578-Goodland-MN-55742/103941522_zpid/,13601 E County Road 578,55742,Goodland,MN,47.144086,-93.1381,220000.0,1.0,2.0,1324.0,2003,1829520.0,SINGLE_FAMILY,RECENTLY_SOLD,0
-112243670,https://www.zillow.com/homedetails/17404-State-Highway-65-Goodland-MN-55742/112243670_zpid/,17404 State Highway 65,55742,Goodland,MN,47.129303,-93.148711,215500.0,2.0,3.0,1736.0,1965,2420193.0,SINGLE_FAMILY,SOLD,18
-120633401,https://www.zillow.com/homedetails/21698-County-Road-574-Goodland-MN-55742/120633401_zpid/,21698 County Road 574,55742,Goodland,MN,47.192109,-93.162461,280000.0,3.0,3.0,2600.0,1998,217800.0,SINGLE_FAMILY,SOLD,18
-114974862,https://www.zillow.com/homedetails/22375-County-Road-560-Goodland-MN-55742/114974862_zpid/,22375 County Road 560,55742,Goodland,MN,47.203002,-93.154505,157000.0,2.0,2.0,1426.0,1998,435600.0,SINGLE_FAMILY,SOLD,30
-120641005,https://www.zillow.com/homedetails/14414-Twin-Lake-Rd-Goodland-MN-55742/120641005_zpid/,14414 Twin Lake Rd,55742,Goodland,MN,47.239191,-93.156816,99000.0,1.0,3.0,1050.0,1970,23086.0,SINGLE_FAMILY,SOLD,15
-103941449,https://www.zillow.com/homedetails/25234-Twin-Lakes-Trl-Goodland-MN-55742/103941449_zpid/,25234 Twin Lakes Trl,55742,Goodland,MN,47.241872,-93.162083,225000.0,2.0,3.0,2528.0,2000,98881.0,SINGLE_FAMILY,SOLD,14
