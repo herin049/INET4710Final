@@ -43,7 +43,7 @@ def check_http_proxy(proxy):
     try:
         proxyUrl = "https://branchup.pro/whatsmyip.php"
         proxyDict = { "http" : "http://" + proxy }
-        response = requests.get(proxyUrl, headers=get_headers(), proxies = proxyDict, timeout = 1)
+        response = requests.get(proxyUrl, headers=get_headers(), proxies = proxyDict, timeout = 3)
         jsonData = json.loads(response.text)
         proxyIp = proxy.split(":")[0]
         if jsonData['ip'] == proxyIp:
@@ -58,7 +58,7 @@ def check_https_proxy(proxy):
     try:
         proxyUrl = "https://branchup.pro/whatsmyip.php"
         proxyDict = { "https" : "https://" + proxy }
-        response = requests.get(proxyUrl, headers=get_headers(), proxies = proxyDict, timeout = 1)
+        response = requests.get(proxyUrl, headers=get_headers(), proxies = proxyDict, timeout = 3)
         jsonData = json.loads(response.text)
         proxyIp = proxy.split(":")[0]
         if jsonData['ip'] == proxyIp:
@@ -452,6 +452,7 @@ def get_recent_data_from_zip(zipcode):
 
     if numpagesbegin == -1:
         print("Error parsing data...")
+        #print(response.text)
         raise Exception("Error parsing data...")
     else:
         numpagesbegin += 13
@@ -465,6 +466,7 @@ def get_recent_data_from_zip(zipcode):
 
     if begin == -1:
         print("Error parsing data...")
+        #print(response.text)
         raise Exception("Error parsing data...")
 
     end = response.text.find(",\"hasListResults\":")
@@ -529,6 +531,7 @@ def get_recent_data_from_zip(zipcode):
 
             if begin == -1:
                 print("Error parsing data...")
+                #print(response.text)
                 raise Exception("Error parsing data")
 
             end = response.text.find(",\"hasListResults\":")
@@ -598,6 +601,7 @@ def get_current_data_from_zip(zipcode):
 
     if numpagesbegin == -1:
         print("Error parsing data...")
+        #print(response.text)
         raise Exception("Could not parse")
     else:
         numpagesbegin += 13
@@ -611,6 +615,7 @@ def get_current_data_from_zip(zipcode):
 
     if begin == -1:
         print("Error parsing data...")
+        #print(response.text)
         raise Exception("Could not parse")
 
     end = response.text.find(",\"hasListResults\":")
@@ -671,6 +676,7 @@ def get_current_data_from_zip(zipcode):
 
             if begin == -1:
                 print("Error parsing data...")
+                #print(response.text)
                 raise Exception("Error parsing data...")
 
             end = response.text.find(",\"hasListResults\":")
@@ -758,6 +764,7 @@ def collect_data(zipcode):
         if num_fails > 15:
             print("Max fails reached, switching proxy.")
             counter = max(0, counter - 15)
+            num_fails = 0
             switch_proxy()
 
     counter = 0
@@ -780,6 +787,7 @@ def collect_data(zipcode):
         if num_fails > 15:
             print("Max fails reached, switching proxy.")
             counter = max(0, counter - 15)
+            num_fails = 0
             switch_proxy()
 
     if len(house_detail_list) > 0:
@@ -794,6 +802,6 @@ def collect_data(zipcode):
 if __name__ == "__main__":
     load_proxy_list()
     switch_proxy()
-    for zipcode in range(55000, 56763):
+    for zipcode in range(55400, 56763):
         collect_data(zipcode)
 

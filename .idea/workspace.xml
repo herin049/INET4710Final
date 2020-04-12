@@ -11,10 +11,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webscraper.py">
+        <entry file="file://$PROJECT_DIR$/zillowscraper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="159" column="30" selection-start-line="159" selection-start-column="30" selection-end-line="159" selection-end-column="30" />
+            <state relative-caret-position="215">
+              <caret line="799" selection-start-line="799" selection-end-line="799" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -23,31 +23,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zillowscraper.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-18309">
-              <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/asdf.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/proxies/proxies.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="2314" column="19" selection-start-line="2314" selection-start-column="19" selection-end-line="2314" selection-end-column="19" />
+            <state relative-caret-position="451">
+              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -63,14 +42,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>mobileSearchPageStore</find>
-      <find>4919</find>
-      <find>Asphalt</find>
-      <find>detailUrl</find>
-      <find>pages</find>
-      <find>&quot;totalPages&quot;:</find>
-      <find>We could not find this Area</find>
-      <find>Exterior Features</find>
       <find>https://photos.zillowstatic.com/cc_ft_384/ISfofkhg8olijo0000000000.webp</find>
       <find>json</find>
       <find>livingArea</find>
@@ -92,6 +63,15 @@
       <find>get_detail_images</find>
       <find>list(set(</find>
       <find>list(set</find>
+      <find>get_de</find>
+      <find>house_count</find>
+      <find>Error parsing data...</find>
+      <find>Error parsing data</find>
+      <find>Error pa</find>
+      <find>error parsing</find>
+      <find>error parsing data</find>
+      <find>get_recent_url_from_zip</find>
+      <find>print(response.text</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -102,17 +82,17 @@
       <list>
         <option value="$PROJECT_DIR$/webscraper.py" />
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/proxies/proxies.txt" />
         <option value="$PROJECT_DIR$/asdf.py" />
         <option value="$PROJECT_DIR$/zillowscraper.py" />
+        <option value="$PROJECT_DIR$/proxies/proxies.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="y" value="5" />
-    <option name="width" value="922" />
-    <option name="height" value="832" />
+    <option name="x" value="-663" />
+    <option name="y" value="187" />
+    <option name="width" value="1154" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -159,7 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.asdf">
+  <component name="RunManager" selected="Python.zillowscraper">
     <configuration name="asdf" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="INET4710Final" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -250,8 +230,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.asdf" />
         <item itemvalue="Python.zillowscraper" />
+        <item itemvalue="Python.asdf" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.webscraper" />
       </list>
@@ -276,23 +256,27 @@
       <workItem from="1586381657043" duration="3121000" />
       <workItem from="1586389924181" duration="1661000" />
       <workItem from="1586397938671" duration="10742000" />
-      <workItem from="1586447512103" duration="6053000" />
+      <workItem from="1586447512103" duration="6835000" />
+      <workItem from="1586462423528" duration="14000" />
+      <workItem from="1586462983086" duration="819000" />
+      <workItem from="1586529359550" duration="1268000" />
+      <workItem from="1586532197904" duration="931000" />
+      <workItem from="1586533169343" duration="1999000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46038000" />
+    <option name="totallyTimeSpent" value="51851000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1927" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10969793" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.06635389" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.845787" visible="true" weight="0.35897437" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.845787" weight="0.5770925" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49865952" weight="0.38907468" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -338,7 +322,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/INET4710Final$asdf.coverage" NAME="asdf Coverage Results" MODIFIED="1586460081238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/INET4710Final$zillowscraper.coverage" NAME="zillowscraper Coverage Results" MODIFIED="1586457793246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/INET4710Final$zillowscraper.coverage" NAME="zillowscraper Coverage Results" MODIFIED="1586535370234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/INET4710Final$test.coverage" NAME="test Coverage Results" MODIFIED="1586382998614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/INET4710Final$webscraper.coverage" NAME="webscraper Coverage Results" MODIFIED="1586240206192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -410,37 +394,22 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/data/55000.csv" />
-    <entry file="file://$PROJECT_DIR$/proxies/proxies.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="2314" column="19" selection-start-line="2314" selection-start-column="19" selection-end-line="2314" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/asdf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webscraper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="159" column="30" selection-start-line="159" selection-start-column="30" selection-end-line="159" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/asdf.py" />
+    <entry file="file://$PROJECT_DIR$/webscraper.py" />
     <entry file="file://$PROJECT_DIR$/zillowscraper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18309">
-          <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        <state relative-caret-position="215">
+          <caret line="799" selection-start-line="799" selection-end-line="799" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxies/proxies.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
         </state>
       </provider>
     </entry>
