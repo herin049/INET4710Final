@@ -104,6 +104,7 @@ def get_detail_images(urls, id):
         with open("images/" + str(id) + "_" + str(photo_num) + ".jpg", 'wb') as f:
             f.write(response.content)
         photo_num += 1
+    return photo_num
 
 
 def get_detail_data(detail_url, zipcode, streetAddress, city, state, latitude, longitude, price, livingArea, homeStatus, photoCount, identifier, isRecent):
@@ -258,6 +259,46 @@ def get_detail_data(detail_url, zipcode, streetAddress, city, state, latitude, l
     buildingAreaSource = json_data['buildingAreaSource']
     otherFacts = json_data['otherFacts']
 
+    image_details0 = "<img class=\"photo-tile-image\" data-src=\""
+    image_details1 = "<img class=\"photo-tile-image\" src=\""
+
+    image_text = response.text
+
+    image_urls = []
+
+    while True:
+        index = image_text.find(image_details1)
+        if index == -1:
+            break
+        else:
+            index += 35
+            image_text = image_text[index:]
+
+        endindex = image_text.find("\"/>")
+        image_url = image_text[:endindex]
+        image_text = image_text[endindex:]
+        image_urls.append(image_url)
+
+    while True:
+        index = image_text.find(image_details0)
+        if index == -1:
+            break
+        else:
+            index += 40
+            image_text = image_text[index:]
+
+        endindex = image_text.find("\"/>")
+        image_url = image_text[:endindex]
+        image_text = image_text[endindex:]
+        image_urls.append(image_url)
+
+    image_urls = list(set(image_urls))
+
+    if len(image_urls) > 8:
+        image_urls = image_urls[:8]
+
+    imageIdCount = get_detail_images(image_urls, identifier)
+
     data = {'bedrooms': bedrooms,
             'bathrooms' : bathrooms,
             'bathroomsFull' : bathroomsFull,
@@ -380,48 +421,9 @@ def get_detail_data(detail_url, zipcode, streetAddress, city, state, latitude, l
             'homeStatus' : homeStatus,
             'photoCount' : photoCount,
             'imageId' : identifier,
+            'imageIdCount' : imageIdCount,
             'description' : desctext
             }
-
-    image_details0 = "<img class=\"photo-tile-image\" data-src=\""
-    image_details1 = "<img class=\"photo-tile-image\" src=\""
-
-    image_text = response.text
-
-    image_urls = []
-
-    while True:
-        index = image_text.find(image_details1)
-        if index == -1:
-            break
-        else:
-            index += 35
-            image_text = image_text[index:]
-
-        endindex = image_text.find("\"/>")
-        image_url = image_text[:endindex]
-        image_text = image_text[endindex:]
-        image_urls.append(image_url)
-
-    while True:
-        index = image_text.find(image_details0)
-        if index == -1:
-            break
-        else:
-            index += 40
-            image_text = image_text[index:]
-
-        endindex = image_text.find("\"/>")
-        image_url = image_text[:endindex]
-        image_text = image_text[endindex:]
-        image_urls.append(image_url)
-
-    image_urls = list(set(image_urls))
-
-    if len(image_urls) > 8:
-        image_urls = image_urls[:8]
-
-    get_detail_images(image_urls, identifier)
 
     return data
 
