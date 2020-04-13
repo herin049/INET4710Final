@@ -10,11 +10,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/zillowscraper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="799" selection-start-line="799" selection-end-line="799" />
+            <state relative-caret-position="268">
+              <caret line="423" column="21" selection-start-line="423" selection-start-column="4" selection-end-line="423" selection-end-column="21" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -22,10 +22,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/proxies/proxies.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
+            <state relative-caret-position="648">
               <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
             </state>
           </provider>
@@ -60,7 +60,6 @@
       <find>get_detail_data</find>
       <find>get_headers</find>
       <find>print(</find>
-      <find>get_detail_images</find>
       <find>list(set(</find>
       <find>list(set</find>
       <find>get_de</find>
@@ -72,6 +71,7 @@
       <find>error parsing data</find>
       <find>get_recent_url_from_zip</find>
       <find>print(response.text</find>
+      <find>get_detail_images</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -88,11 +88,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-663" />
-    <option name="y" value="187" />
-    <option name="width" value="1154" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1211" />
+    <option name="y" value="128" />
+    <option name="width" value="924" />
+    <option name="height" value="832" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -100,6 +100,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,7 +117,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,16 +262,18 @@
       <workItem from="1586529359550" duration="1268000" />
       <workItem from="1586532197904" duration="931000" />
       <workItem from="1586533169343" duration="1999000" />
+      <workItem from="1586734476308" duration="684000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51851000" />
+    <option name="totallyTimeSpent" value="52535000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1927" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="2576" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.06635389" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.03974563" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -396,20 +398,20 @@
     <entry file="file://$PROJECT_DIR$/data/55000.csv" />
     <entry file="file://$PROJECT_DIR$/asdf.py" />
     <entry file="file://$PROJECT_DIR$/webscraper.py" />
-    <entry file="file://$PROJECT_DIR$/zillowscraper.py">
+    <entry file="file://$PROJECT_DIR$/proxies/proxies.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="799" selection-start-line="799" selection-end-line="799" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="648">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proxies/proxies.txt">
+    <entry file="file://$PROJECT_DIR$/zillowscraper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        <state relative-caret-position="268">
+          <caret line="423" column="21" selection-start-line="423" selection-start-column="4" selection-end-line="423" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
