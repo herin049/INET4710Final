@@ -43,7 +43,7 @@ def check_http_proxy(proxy):
     try:
         proxyUrl = "https://branchup.pro/whatsmyip.php"
         proxyDict = { "http" : "http://" + proxy }
-        response = requests.get(proxyUrl, headers=get_headers(), proxies = proxyDict, timeout = 3)
+        response = requests.get(proxyUrl, headers=get_headers(), proxies = proxyDict, timeout = 5)
         jsonData = json.loads(response.text)
         proxyIp = proxy.split(":")[0]
         if jsonData['ip'] == proxyIp:
@@ -58,7 +58,7 @@ def check_https_proxy(proxy):
     try:
         proxyUrl = "https://branchup.pro/whatsmyip.php"
         proxyDict = { "https" : "https://" + proxy }
-        response = requests.get(proxyUrl, headers=get_headers(), proxies = proxyDict, timeout = 3)
+        response = requests.get(proxyUrl, headers=get_headers(), proxies = proxyDict, timeout = 5)
         jsonData = json.loads(response.text)
         proxyIp = proxy.split(":")[0]
         if jsonData['ip'] == proxyIp:
@@ -453,9 +453,13 @@ def get_recent_data_from_zip(zipcode):
     numpagesbegin = response.text.find("\"totalPages\":")
 
     if numpagesbegin == -1:
-        print("Error parsing data...")
-        #print(response.text)
-        raise Exception("Error parsing data...")
+        if "function handleCaptcha" in response.text:
+            print("Captcha encountered, switching proxy...")
+            raise Exception("Error parsing data...")
+        else:
+            print("Error parsing data")
+            raise Exception("Error parsing data...")
+
     else:
         numpagesbegin += 13
 
@@ -467,9 +471,12 @@ def get_recent_data_from_zip(zipcode):
     begin = response.text.find("\"searchResults\":")
 
     if begin == -1:
-        print("Error parsing data...")
-        #print(response.text)
-        raise Exception("Error parsing data...")
+        if "function handleCaptcha" in response.text:
+            print("Captcha encountered, switching proxy...")
+            raise Exception("Error parsing data...")
+        else:
+            print("Error parsing data")
+            raise Exception("Error parsing data...")
 
     end = response.text.find(",\"hasListResults\":")
     searchresults = "{" + response.text[begin:end] + "}}"
@@ -532,9 +539,12 @@ def get_recent_data_from_zip(zipcode):
             begin = response.text.find("\"searchResults\":")
 
             if begin == -1:
-                print("Error parsing data...")
-                #print(response.text)
-                raise Exception("Error parsing data")
+                if "function handleCaptcha" in response.text:
+                    print("Captcha encountered, switching proxy...")
+                    raise Exception("Error parsing data...")
+                else:
+                    print("Error parsing data")
+                    raise Exception("Error parsing data...")
 
             end = response.text.find(",\"hasListResults\":")
             searchresults = "{" + response.text[begin:end] + "}}"
@@ -602,9 +612,12 @@ def get_current_data_from_zip(zipcode):
     numpagesbegin = response.text.find("\"totalPages\":")
 
     if numpagesbegin == -1:
-        print("Error parsing data...")
-        #print(response.text)
-        raise Exception("Could not parse")
+        if "function handleCaptcha" in response.text:
+            print("Captcha encountered, switching proxy...")
+            raise Exception("Error parsing data...")
+        else:
+            print("Error parsing data")
+            raise Exception("Error parsing data...")
     else:
         numpagesbegin += 13
 
@@ -616,8 +629,12 @@ def get_current_data_from_zip(zipcode):
     begin = response.text.find("\"searchResults\":")
 
     if begin == -1:
-        print("Error parsing data...")
-        #print(response.text)
+        if "function handleCaptcha" in response.text:
+            print("Captcha encountered, switching proxy...")
+            raise Exception("Error parsing data...")
+        else:
+            print("Error parsing data")
+            raise Exception("Error parsing data...")
         raise Exception("Could not parse")
 
     end = response.text.find(",\"hasListResults\":")
@@ -677,9 +694,12 @@ def get_current_data_from_zip(zipcode):
             begin = response.text.find("\"searchResults\":")
 
             if begin == -1:
-                print("Error parsing data...")
-                #print(response.text)
-                raise Exception("Error parsing data...")
+                if "function handleCaptcha" in response.text:
+                    print("Captcha encountered, switching proxy...")
+                    raise Exception("Error parsing data...")
+                else:
+                    print("Error parsing data")
+                    raise Exception("Error parsing data...")
 
             end = response.text.find(",\"hasListResults\":")
             searchresults = "{" + response.text[begin:end] + "}}"
@@ -804,6 +824,6 @@ def collect_data(zipcode):
 if __name__ == "__main__":
     load_proxy_list()
     switch_proxy()
-    for zipcode in range(55400, 56763):
+    for zipcode in range(55301, 55399):
         collect_data(zipcode)
 
